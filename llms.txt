@@ -1,0 +1,24 @@
+# radref
+
+> Source-checked summaries of radiology classification systems, reference measurements and
+> guideline recommendations, for AI reporting assistants. Summaries only; no full texts.
+
+## How to use
+
+- Read `index.json` first: one line per entry with id, title, scope, status and source ids.
+- Open `entries/<area>/<id>.md` for the theory: scope, definitions, criteria, management,
+  pitfalls and "What the source does not say".
+- To cite in a report, take the Vancouver string from `references/references.json`, by id,
+  **exactly as written**. Only cite references with `"vancouver_reviewed": true`.
+- Use only entries with `status: verified` to support a categorization or recommendation.
+  `draft` entries are background reading only.
+- If the case is outside an entry's scope, say so; do not apply the criteria.
+- If the needed fact is in "What the source does not say", do not attribute it to the source.
+- The physician's dictation always prevails over this base.
+
+## Files
+
+- [index.json](index.json): list of entries
+- [references/references.json](references/references.json): all sources with checked metadata
+- [docs/for-tools.md](docs/for-tools.md): full contract for consuming tools
+- [CONTRIBUTING.md](CONTRIBUTING.md): how entries are written and verified

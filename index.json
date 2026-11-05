@@ -1,0 +1,524 @@
+{
+ "entries": [
+  {
+   "id": "acr-incidental-adrenal-2017",
+   "title": "Incidental adrenal mass on CT or MRI — ACR Incidental Findings Committee white paper (2017)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2017",
+   "status": "draft",
+   "sources": [
+    "acr-adrenal-2017"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-adrenal-2017.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-gallbladder-2013",
+   "title": "Incidental gallbladder and biliary findings on abdominal/pelvic CT and MRI — ACR white paper (2013, part 4)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2013",
+   "status": "draft",
+   "sources": [
+    "acr-gallbladder-2013"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-gallbladder-2013.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-liver-2017",
+   "title": "Incidental liver lesion on CT — ACR Incidental Findings Committee white paper (2017)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "2017",
+   "status": "draft",
+   "sources": [
+    "acr-liver-2017"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-liver-2017.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-pancreas-2017",
+   "title": "Incidental pancreatic cyst on CT or MRI — ACR Incidental Findings Committee white paper (2017)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2017",
+   "status": "draft",
+   "sources": [
+    "acr-pancreas-2017"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-pancreas-2017.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-renal-2018",
+   "title": "Incidental renal mass on CT — ACR Incidental Findings Committee white paper (2018)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2018",
+   "status": "draft",
+   "sources": [
+    "acr-renal-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-renal-2018.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-spleen-nodes-2013",
+   "title": "Incidental splenic and nodal findings on abdominal/pelvic CT and MRI — ACR white paper (2013, part 3)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2013",
+   "status": "draft",
+   "sources": [
+    "acr-spleen-nodes-2013"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/acr-incidental-spleen-nodes-2013.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "bosniak-2019",
+   "title": "Bosniak classification of cystic renal masses, version 2019",
+   "type": "classification",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2019",
+   "status": "draft",
+   "sources": [
+    "bosniak-2019",
+    "acr-renal-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/bosniak-2019.md",
+   "last_reviewed": "2026-11-06"
+  },
+  {
+   "id": "lirads-ctmr-2018",
+   "title": "CT/MRI LI-RADS version 2018 — diagnostic algorithm for liver observations in patients at risk of HCC",
+   "type": "classification",
+   "area": "abdomen",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "v2018",
+   "status": "draft",
+   "sources": [
+    "lirads-ctmr-2018",
+    "acr-lirads-ctmr-core-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/lirads-ctmr-2018.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "liver-fat-ct-2018",
+   "title": "Liver fat fraction estimated from unenhanced CT attenuation — Pickhardt 2018",
+   "type": "reference-values",
+   "area": "abdomen",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "2018",
+   "status": "draft",
+   "sources": [
+    "pickhardt-liver-fat-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/liver-fat-ct-2018.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "birads-2025",
+   "title": "ACR BI-RADS v2025 — assessment categories and main changes from the 5th edition",
+   "type": "classification",
+   "area": "breast",
+   "modalities": [
+    "MG",
+    "US",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "v2025",
+   "status": "draft",
+   "sources": [
+    "acr-birads-2025",
+    "minichetti-birads-2026"
+   ],
+   "superseded_by": "",
+   "path": "entries/breast/birads-2025.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "fleischner-2017",
+   "title": "Fleischner Society 2017 guidelines for incidental pulmonary nodules on CT",
+   "type": "guideline",
+   "area": "chest",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "2017",
+   "status": "draft",
+   "sources": [
+    "fleischner-2017"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/fleischner-2017.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "ipf-ppf-ct-patterns-2022",
+   "title": "CT patterns of usual interstitial pneumonia and criteria for progressive pulmonary fibrosis — ATS/ERS/JRS/ALAT 2022",
+   "type": "guideline",
+   "area": "chest",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "2022",
+   "status": "draft",
+   "sources": [
+    "raghu-ipf-ppf-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/ipf-ppf-ct-patterns-2022.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "thoracic-terminology-pt-2021",
+   "title": "Thoracic imaging terminology in Brazilian and European Portuguese — consensus (2021)",
+   "type": "terminology",
+   "area": "chest",
+   "modalities": [
+    "XR",
+    "CT",
+    "MRI"
+   ],
+   "population": "all",
+   "source_version": "2021",
+   "status": "draft",
+   "sources": [
+    "hochhegger-terminology-2021"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/thoracic-terminology-pt-2021.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "erica-2018",
+   "title": "Entorhinal cortex atrophy (ERICA) score — Enkirch 2018",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2018",
+   "status": "draft",
+   "sources": [
+    "enkirch-erica-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/erica-2018.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "fazekas-1987",
+   "title": "White matter hyperintensities rating — Fazekas 1987",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "1987",
+   "status": "draft",
+   "sources": [
+    "fazekas-1987"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/fazekas-1987.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "gca-pasquier-1996",
+   "title": "Global cortical atrophy (GCA) rating — Pasquier 1996",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "1996",
+   "status": "draft",
+   "sources": [
+    "pasquier-gca-1996"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/gca-pasquier-1996.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "mta-scheltens-1992",
+   "title": "Medial temporal lobe atrophy (MTA) visual rating scale — Scheltens 1992",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "1992",
+   "status": "draft",
+   "sources": [
+    "scheltens-mta-1992"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/mta-scheltens-1992.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "posterior-atrophy-koedam-2011",
+   "title": "Posterior atrophy (parietal) visual rating scale — Koedam 2011",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2011",
+   "status": "draft",
+   "sources": [
+    "koedam-posterior-2011"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/posterior-atrophy-koedam-2011.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "uterine-ovarian-volume-kelsey",
+   "title": "Normative uterine (Kelsey 2016) and ovarian (Kelsey 2013) volume by age",
+   "type": "reference-values",
+   "area": "pediatrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "all",
+   "source_version": "2013 (ovary); 2016 (uterus)",
+   "status": "draft",
+   "sources": [
+    "kelsey-uterus-2016",
+    "kelsey-ovary-2013"
+   ],
+   "superseded_by": "",
+   "path": "entries/pediatrics/uterine-ovarian-volume-kelsey.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "early-pregnancy-failure-sru-2013",
+   "title": "Early first-trimester pregnancy — SRU criteria for pregnancy failure, normal milestones and pregnancy of unknown location",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "SRU 2012 consensus (published 2013); review 2015",
+   "status": "draft",
+   "sources": [
+    "doubilet-nonviable-2013",
+    "rodgers-early-pregnancy-2015"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/early-pregnancy-failure-sru-2013.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "pcom-2023",
+   "title": "Polycystic ovarian morphology (PCOM) on ultrasound — International PCOS guideline 2023, and the 2026 renaming to PMOS",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2023 guideline; 2026 nomenclature",
+   "status": "draft",
+   "sources": [
+    "teede-pcos-guideline-2023",
+    "teede-pmos-name-2026"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/pcom-2023.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-thyroid-2015",
+   "title": "Incidental thyroid nodules detected on imaging — ACR white paper (2015)",
+   "type": "guideline",
+   "area": "thyroid-neck",
+   "modalities": [
+    "CT",
+    "MRI",
+    "PET",
+    "NM",
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2015",
+   "status": "draft",
+   "sources": [
+    "acr-thyroid-incidental-2015"
+   ],
+   "superseded_by": "",
+   "path": "entries/thyroid-neck/acr-incidental-thyroid-2015.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-tirads-2017",
+   "title": "ACR Thyroid Imaging, Reporting and Data System (TI-RADS), 2017 white paper",
+   "type": "classification",
+   "area": "thyroid-neck",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2017",
+   "status": "draft",
+   "sources": [
+    "acr-tirads-2017"
+   ],
+   "superseded_by": "",
+   "path": "entries/thyroid-neck/acr-tirads-2017.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "acr-incidental-vascular-2013",
+   "title": "Incidental vascular findings on abdominal/pelvic CT and MRI — ACR white paper (2013, part 2)",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2013",
+   "status": "draft",
+   "sources": [
+    "acr-vascular-2013"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/acr-incidental-vascular-2013.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "carotid-imt-reference-values",
+   "title": "Common carotid intima-media thickness — measurement protocol and normative tables (ELSA-Brasil, CAPS, MESA) as adopted by DIC/SBC 2019",
+   "type": "reference-values",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2019 statement (tables from 2006–2014 cohorts)",
+   "status": "draft",
+   "sources": [
+    "doppler-br-2019",
+    "doppler-carotid-br-2023",
+    "santos-elsa-cimt-2014",
+    "lorenz-caps-cimt-2006",
+    "folsom-mesa-cimt-2008",
+    "eickemberg-elsa-cimt-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/carotid-imt-reference-values.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "carotid-vertebral-doppler-br-2023",
+   "title": "Carotid and vertebral artery disease on vascular ultrasound — DIC/CBR/SBACV 2023 update",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2023",
+   "status": "draft",
+   "sources": [
+    "doppler-carotid-br-2023",
+    "doppler-br-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/carotid-vertebral-doppler-br-2023.md",
+   "last_reviewed": "2026-11-05"
+  },
+  {
+   "id": "doppler-br-2019-territories",
+   "title": "Vascular ultrasound criteria outside the carotids — DIC/SBC 2019 statement (aorta, visceral, renal, lower-limb arteries, haemodialysis access, DVT, transcranial Doppler)",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "all",
+   "source_version": "2019",
+   "status": "draft",
+   "sources": [
+    "doppler-br-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/doppler-br-2019-territories.md",
+   "last_reviewed": "2026-11-05"
+  }
+ ],
+ "counts": {
+  "entries": 27,
+  "verified": 0,
+  "references": 50,
+  "references_reviewed": 15
+ }
+}
