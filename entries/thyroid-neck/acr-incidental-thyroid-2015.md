@@ -7,14 +7,14 @@ modalities: [CT, MRI, PET, NM, US]
 population: adults
 source_version: "2015"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2015;12(2):143–50), read by Claude on 2026-11-11: flowchart footnotes, CT/MRI, nuclear medicine and US sections, reporting advice — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-thyroid-incidental-2015]
 supersedes: []
 superseded_by: ""
 related: [acr-tirads-2017]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental thyroid nodules on imaging (ACR white paper, 2015)
@@ -101,3 +101,4 @@ After thyroid US, FNA and follow-up follow the US findings (e.g. ACR TI-RADS).
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §8 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: no changes needed | Claude |

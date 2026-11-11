@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2013"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2013;10(11):833–9), read by Claude on 2026-11-11: splenic flowchart and footnotes, nodal criteria, ~3-month follow-up, sclerosing mesenteritis — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-spleen-nodes-2013]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental splenic and nodal findings (ACR white paper, 2013)
@@ -109,3 +109,4 @@ See section 3.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §5 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: no changes needed | Claude |

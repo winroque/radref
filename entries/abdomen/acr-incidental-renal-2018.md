@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2018"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2018;15(2):264–73), read by Claude on 2026-11-11: text of flowcharts 1–5, figure footnotes, Table (enhancement thresholds), exclusions — flowchart boxes are images and were read through their footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-renal-2018]
 supersedes: []
 superseded_by: ""
 related: [bosniak-2019]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental renal mass on CT (ACR white paper, 2018)
@@ -84,14 +84,14 @@ lesions; US can characterize a homogeneous mass as haemorrhagic/proteinaceous cy
 | Bosniak | Recommendation | Source |
 |---|---|---|
 | I, II | Benign, no follow-up | [acr-renal-2018] |
-| IIF | CT or MRI at **6 and 12 months, then yearly to 5 years**; no morphologic change for ≥ 5 years → stop. Growth without morphologic change does **not** indicate malignancy; morphologic change → refer | [acr-renal-2018] |
+| IIF | Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
 | III, IV | Refer for treatment (malignancy ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
 
 ### Flowchart 4 — solid mass or TSTC at unenhanced + enhanced CT/MRI
 
 | Finding | Recommendation | Source |
 |---|---|---|
-| Solid **< 1.0 cm** | Surveillance: MRI (preferred) or CT starting at **6–12 months, then yearly for 5 years**; growth or morphologic change → refer, consider biopsy | [acr-renal-2018] |
+| Solid **< 1.0 cm** | Active surveillance with semiannual then annual MRI or CT until growth to > 1 cm, then refer (~60% malignant at pathology but likely indolent; some masses stay on surveillance to 2–3 cm) | [acr-renal-2018] |
 | Solid **1.0–4.0 cm** | Refer; consider biopsy (~80% malignant) | [acr-renal-2018] |
 | Solid **> 4.0 cm** | Refer (~90% malignant) | [acr-renal-2018] |
 
@@ -138,3 +138,4 @@ See the flowchart tables in section 3.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §2 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: IIF and small solid surveillance reworded to the paper's "semiannually then annually" (the 6/12-month wording was not in the text); cystic morphologic change defined | Claude |

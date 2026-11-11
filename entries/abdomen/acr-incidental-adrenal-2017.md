@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(8):1038–44), read by Claude on 2026-11-11: five principles, diagnostic features, size branches, adrenal CT protocol and washout formulas, biochemical evaluation — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-adrenal-2017]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental adrenal mass (ACR white paper, 2017)
@@ -62,7 +62,7 @@ last_reviewed: 2026-11-05
 
 | Cancer history | Recommendation | Source |
 |---|---|---|
-| No | Consider **resection** (no biopsy) — risk of adrenocortical carcinoma | [acr-adrenal-2017] |
+| No | **Surgical resection (without biopsy) is recommended** — possible adrenocortical carcinoma | [acr-adrenal-2017] |
 | Yes | Consider biopsy or PET-CT | [acr-adrenal-2017] |
 
 ### Indeterminate mass 1 to < 4 cm
@@ -104,8 +104,8 @@ last_reviewed: 2026-11-05
 
 ## 7. Disagreements and newer versions
 
-- Endocrine society guidelines (e.g. ESE/ENSAT) address the same topic with different
-  thresholds for follow-up; not summarized here. [verify before adding]
+- Endocrine society guidelines (e.g. ESE/ENSAT) address the same topic; not summarized here
+  (no entry yet).
 
 ## 8. How to cite
 
@@ -116,3 +116,4 @@ last_reviewed: 2026-11-05
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §1 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: content confirmed; >= 4 cm without cancer reworded to "resection recommended" as in the paper; [verify] mark resolved | Claude |

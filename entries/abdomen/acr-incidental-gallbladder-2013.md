@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2013"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2013;10(12):953–6), read by Claude on 2026-11-11: summary table and text — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-gallbladder-2013]
 supersedes: []
 superseded_by: ""
 related: [sru-gallbladder-polyps-2022]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental gallbladder and biliary findings (ACR white paper, 2013)
@@ -71,8 +71,8 @@ last_reviewed: 2026-11-05
 
 - **Gallbladder polyps:** the SRU 2022 consensus (`sru-gallbladder-polyps-2022`) replaced the
   single 10 mm cut-off with morphology-based risk categories; European guidelines
-  (ESGAR/EAES/EFISDS/ESGE 2022) keep cholecystectomy at ≥ 10 mm. The 2013 thresholds above are
-  historical for polyps. [verify both against their sources when those entries are written]
+  (ESGAR/EAES/EFISDS/ESGE 2022) are cited by the SRU paper as keeping cholecystectomy at ≥ 10 mm.
+  For polyps, the 2013 thresholds above are superseded in practice by the newer documents.
 
 ## 8. How to cite
 
@@ -83,3 +83,4 @@ last_reviewed: 2026-11-05
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §6 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: no changes to the 2013 content; [verify] mark resolved (see sru-gallbladder-polyps-2022) | Claude |

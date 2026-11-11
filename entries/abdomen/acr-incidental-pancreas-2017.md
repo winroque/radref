@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(7):911–23), read by Claude on 2026-11-11: text of Charts 1–4, worrisome features table, growth definitions, follow-up duration — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-pancreas-2017]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental pancreatic cyst (ACR white paper, 2017)
@@ -113,8 +113,9 @@ neoplasm. [acr-pancreas-2017]
 
 ## 7. Disagreements and newer versions
 
-- Revised Fukuoka (2017) and European (2018) guidelines use different worrisome-feature
-  thresholds and surveillance intervals. Not yet added. [verify before adding]
+- Other guidelines (e.g. revised Fukuoka 2017, European 2018) use different thresholds and
+  intervals; not summarized here (no entries yet). The paper itself notes that its size
+  thresholds (< 1.5, 1.5–2.5, > 2.5 cm) differ from the commonly used 3 cm. [acr-pancreas-2017]
 
 ## 8. How to cite
 
@@ -125,3 +126,4 @@ neoplasm. [acr-pancreas-2017]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §3 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: schedules for 1.5–1.9 and 2.0–2.5 cm, white-dot rule, growth definitions, 80-year rule confirmed; [verify] mark resolved | Claude |

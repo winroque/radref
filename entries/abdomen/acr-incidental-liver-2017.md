@@ -7,14 +7,14 @@ modalities: [CT]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(11):1429–37), read by Claude on 2026-11-11: flowchart footnotes, Table 1 (risk), benign/suspicious features, flash-filling, gadoxetate and biopsy notes — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-liver-2017]
 supersedes: []
 superseded_by: ""
 related: [lirads-ctmr-2018]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental liver lesion on CT (ACR white paper, 2017)
@@ -91,3 +91,4 @@ Growth is not formally in the algorithm; **no growth for 1 year** strongly favou
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §4 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: no changes needed | Claude |
