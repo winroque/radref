@@ -57,6 +57,49 @@ assessment-category PDF, O-RADS MRI 2020 validation (Thomassin-Naggara, JAMA Net
 `sru-liver-elastography-2020`, postmenopausal endometrium, `esur-microlithiasis-2015`,
 thyroid volume (WHO), hip dysplasia (Graf), urinary tract dilation (UTD 2014).
 
+### Download queue (2026-11-11) — DOIs checked on Crossref
+
+**Obstetric biometry, dating, growth, Doppler, fluid** (Digitado-IA's obstetric models report
+EFW percentile, uterine-artery mean PI vs P95, CPR percentile, AFI and deepest pocket):
+Robinson 1975 (10.1111/j.1471-0528.1975.tb00710.x); Papageorghiou 2014 CRL (10.1002/uog.13448);
+Papageorghiou 2014 growth (10.1016/S0140-6736(14)61490-2); Stirnemann 2017 EFW
+(10.1002/uog.17347); Hadlock 1984 (10.1148/radiology.152.2.6739822); Hadlock 1985
+(10.1016/0002-9378(85)90298-4); Hadlock 1991 (10.1148/radiology.181.1.1887021); Kiserud 2017
+WHO (10.1371/journal.pmed.1002220); Nicolaides 2018 FMF weight charts (10.1002/uog.19073);
+Snijders 1994 (10.1046/j.1469-0705.1994.04010034.x); Salomon 2019 ISUOG biometry
+(10.1002/uog.20272); ACOG CO 700 2017 (10.1097/AOG.0000000000002046); Gordijn 2016 FGR Delphi
+(10.1002/uog.15884); Lees 2020 ISUOG FGR (10.1002/uog.22134); Bhide 2021 ISUOG Doppler
+(10.1002/uog.23698); Ciobanu 2019 FMF UA/MCA/CPR (10.1002/uog.20157); Gómez 2008 UtA PI
+(10.1002/uog.5315); Mari 2000 MCA-PSV (10.1056/NEJM200001063420102); Moore 1990 AFI
+(10.1016/0002-9378(90)90009-V); Chamberlain 1984 deepest pocket (10.1016/s0002-9378(84)90359-4);
+ISUOG 11–14 weeks 2023 (10.1002/uog.26106); ISUOG mid-trimester 2022 (10.1002/uog.24888);
+ISUOG cervical length 2022 (10.1002/uog.26020).
+
+**Still missing from Phases 0–1:** Turkbey 2019 PI-RADS 2.1 (10.1016/j.eururo.2019.02.033);
+ACR Lung-RADS v2022 table (acr.org); Thomassin-Naggara 2020 (10.1001/jamanetworkopen.2019.19896);
+Scheltens 1992 (10.1136/jnnp.55.10.967); Khosa 2013 (10.1016/j.jacr.2013.05.021); Santos 2014
+(10.1016/j.atherosclerosis.2014.09.004); Lorenz 2006 (10.1161/01.STR.0000196964.24024.ea);
+Eickemberg 2019 (10.5935/abc.20180273).
+
+**Pediatric reference values** (pediatria.md "Fontes"; resolved): Rosenbaum 1984
+(10.2214/ajr.142.3.467); Zerin 1994 (10.1007/bf02020164); Kadioglu 2010 (10.2214/ajr.09.2986);
+Akhavan 2011 (10.1016/j.urology.2011.01.008); Nguyen 2014 UTD (10.1016/j.jpurol.2014.10.002);
+Fernbach 1993 (10.1007/bf02012459); Onen 2020 (10.3389/fped.2020.00458); Riccabona 2017 ESPR
+(10.1007/s00247-017-3837-6); Konuş 1998 (10.2214/ajr.171.6.9843315); Rosenberg 1991
+(10.2214/ajr.157.1.2048509); Dhingra 2010 (10.1007/s13312-010-0090-6); Calle-Toro 2020
+(10.1002/jum.15114); Pelizzo 2018 spleen — cited as "Spigno" (10.1371/journal.pone.0202741);
+Iqbal 2012 (10.1016/j.jpedsurg.2012.03.068); Piotto 2022 (10.1002/ajum.12305); Vinycomb 2022
+(10.1111/ans.17649); Lioubashevsky 2013 (10.1148/radiol.13122639); Jequier 1987
+(10.2214/ajr.149.3.563); Kaefer 1997 (10.1016/s0022-5347(01)65127-9); Wiersma 2005
+(10.1148/radiol.2353040086); Ozel 2011 (10.1002/jcu.20807); Swenson 2016 MRI appendix
+(10.1007/s00247-016-3559-1); Zimmermann 2004 (10.1093/ajcn/79.2.231); Zimmermann 2001
+(10.1530/eje.0.1440213); Hirtz 2025 (10.1210/clinem/dgae194); Perry 2002
+(10.1136/fn.87.3.f209); Souza 2021 (10.1590/0100-3984.2020.0016); Spijkers 2020 cervical nodes CT
+(10.1007/s00247-019-04595-y); Karmazyn 2005 mesenteric nodes (10.1007/s00247-005-1462-2);
+Francis 2015 ATA pediatric (10.1089/thy.2014.0460); Cattoni 2024 (10.3389/fendo.2024.1417281).
+Not traced yet: Obrycki 2021 (kidney), Han 2017, "Pediatr Radiol 2026 GAMLSS" (liver/spleen),
+Prendergast 2014, Alves Rosa 2021, Villalobos Gálvez 2021.
+
 ## Phase 3 — CT and MRI
 
 `scct-str-cac-nongated-2017`, `cac-drs-2018`, `aast-ois-2018`, `aspects-2000`,
