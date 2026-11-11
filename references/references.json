@@ -220,10 +220,10 @@
   "issue": "2",
   "pages": "475-488",
   "vancouver": "Silverman SG, Pedrosa I, Ellis JH, Hindman NM, Schieda N, Smith AD, et al. Bosniak classification of cystic renal masses, version 2019: an update proposal and needs assessment. Radiology. 2019;292(2):475-88. doi:10.1148/radiol.2019182646",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Metadata confirmed on PubMed (PMID 31210616, PMC6677285)."
+  "notes": "Metadata confirmed on PubMed (PMID 31210616, PMC6677285). Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "cac-drs-2018",
@@ -613,10 +613,10 @@
   "issue": "3",
   "pages": "W151-W157",
   "vancouver": "Pickhardt PJ, Graffy PM, Reeder SB, Hernando D, Li K. Quantification of liver fat content with unenhanced MDCT: phantom and clinical correlation with MRI proton density fat fraction. AJR Am J Roentgenol. 2018;211(3):W151-W157. doi:10.2214/AJR.17.19391",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Used by Digitado-IA (CLAUDE.md, liver fat fraction formula)."
+  "notes": "Used by Digitado-IA (CLAUDE.md, liver fat fraction formula). Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "pirads-2-1-2019",

@@ -131,7 +131,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/bosniak-2019.md",
-   "last_reviewed": "2026-11-06"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "lirads-ctmr-2018",
@@ -169,7 +169,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/liver-fat-ct-2018.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "birads-2025",
@@ -322,7 +322,7 @@
   },
   {
    "id": "posterior-atrophy-koedam-2011",
-   "title": "Posterior atrophy (parietal) visual rating scale — Koedam 2011",
+   "title": "Posterior atrophy (PA) visual rating scale — Koedam 2011",
    "type": "scale",
    "area": "neuro",
    "modalities": [
@@ -336,7 +336,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/posterior-atrophy-koedam-2011.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "uterine-ovarian-volume-kelsey",
@@ -519,6 +519,6 @@
   "entries": 27,
   "verified": 0,
   "references": 50,
-  "references_reviewed": 15
+  "references_reviewed": 17
  }
 }
