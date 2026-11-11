@@ -7,14 +7,14 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2013"
 status: draft
-verified_against: "pending — migrated from Digitado-IA incidentais.md (written from the full paper; reference checked against the PDF first page on 2026-11-01); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2013;10(10):789–94) read by Claude on 2026-11-11: all sections, Table 1, take-home points — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-vascular-2013]
 supersedes: []
 superseded_by: ""
 related: [doppler-br-2019]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Incidental vascular findings on abdominal/pelvic CT and MRI (ACR white paper, 2013)
@@ -34,8 +34,8 @@ last_reviewed: 2026-11-05
 
 | Term | Definition | Source |
 |---|---|---|
-| Normal infrarenal aorta | ~**2.0 cm** | [acr-vascular-2013] |
-| Abdominal aortic aneurysm | **≥ 3.0 cm** or **≥ 1.5×** normal diameter | [acr-vascular-2013] |
+| Normal abdominal aorta | Suprarenal up to **3.0 cm**; infrarenal **2.0 cm** | [acr-vascular-2013] |
+| Abdominal aortic aneurysm (infrarenal) | **≥ 3.0 cm** or **≥ 1.5×** normal diameter (9% of people > 65 years by these criteria) | [acr-vascular-2013] |
 | Iliac aneurysm | **≥ 1.5×** normal or **≥ 2.5 cm** | [acr-vascular-2013] |
 
 ## 3. Criteria / categories
@@ -51,6 +51,8 @@ last_reviewed: 2026-11-05
 | 4.0–4.4 cm | 1 year | [acr-vascular-2013] |
 | 4.5–4.9 cm | 6 months + consider surgical/endovascular referral | [acr-vascular-2013] |
 | 5.0–5.5 cm | 3–6 months + consider referral | [acr-vascular-2013] |
+
+(Table 1 is headed "Aortic diameter (mm)" but the values are in cm.) [acr-vascular-2013, Table 1]
 
 Adjust for comorbidity and growth. Asymptomatic penetrating aortic ulcer: **yearly** imaging
 (more often if symptoms), consider intervention. [acr-vascular-2013]
@@ -85,8 +87,13 @@ Adjust for comorbidity and growth. Asymptomatic penetrating aortic ulcer: **year
 - Nutcracker (left renal vein between aorta and SMA): without hypertension, proteinuria or
   haematuria, probably unimportant.
 - Chronic venous thrombosis: usually no imaging follow-up.
-- Dilated gonadal/pelvic veins in asymptomatic women: nothing. Ovarian vein thrombosis is
-  frequent after hysterectomy/lymphadenectomy. [acr-vascular-2013]
+- Chronic thrombosis criteria: small vein, wall thickening, extensive collaterals, no filling
+  defect other than webs. [acr-vascular-2013]
+- Dilated gonadal/pelvic veins in asymptomatic women: no further imaging or intervention.
+  Ovarian veins > 8 mm with incompetent valves are common in asymptomatic multiparous women
+  (dilated ovarian veins in 47% of asymptomatic potential renal donors). Gonadal vein
+  thrombosis is seen in up to 80% of asymptomatic women on routine CT after hysterectomy and
+  lymphadenectomy for neoplasm. [acr-vascular-2013]
 
 ## 4. Management
 
@@ -94,11 +101,13 @@ See section 3.
 
 ## 5. Pitfalls
 
+- Table 1 unit label says mm; values are cm.
 - Ambiguities in the text (not resolved): for splenic aneurysms the paper says that "among the
   smaller of those ≥ 2 cm" intervals > 1 year may be reasonable — probably meaning those
   < 2 cm. The take-home points attribute the ≥ 2 cm cut-off to the **renal** artery, while the
   body gives it for the **splenic** artery and > 1.5–2.0 cm for the renal. The body of the
-  text is the more consistent reading. [acr-vascular-2013]
+  text is the more consistent reading. The AAA take-home point also says "endoscopic" referral
+  where the body says endovascular. [acr-vascular-2013]
 
 ## 6. What the source does not say
 
@@ -119,3 +128,4 @@ See section 3.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §7 (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text (Khosa 2013): added suprarenal normal diameter, Table 1 unit error, chronic thrombosis criteria and pelvic-vein figures | Claude |

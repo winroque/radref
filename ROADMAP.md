@@ -50,7 +50,7 @@ DOI; `check_refs.py` skips them with a warning and needs a `url`).
 
 **Update (2026-11-11, second batch):** `pelvis-obstetrics/pirads-2-1-2019` written from the
 Turkbey 2019 full text; `orads-mri-2022` now carries the Thomassin-Naggara 2020 validation.
-Still wanted: the ACR Lung-RADS v2022 assessment-category PDF (full size thresholds).
+ACR Lung-RADS v2022 table, ACR summary and Petranović 2026 added to `lungrads-2022` (third batch).
 
 ## Phase 2 — routine ultrasound
 
@@ -68,8 +68,9 @@ methods; their papers do not print the tables the statement reproduces).
 
 Received from the queue below: everything in the obstetric list except **Hadlock 1985** (EFW
 formula, 10.1016/0002-9378(85)90298-4); Turkbey 2019; Thomassin-Naggara 2020; Scheltens 1992;
-Santos 2014; Lorenz 2006. Still missing: Hadlock 1985, Lung-RADS v2022 ACR table, Khosa 2013,
-Eickemberg 2019, all pediatric reference values.
+Santos 2014; Lorenz 2006. Third batch (same day): Hadlock 1985 (equations added to `estimated-fetal-weight-charts`),
+Khosa 2013 (`acr-incidental-vascular-2013` now checked against the full text), Eickemberg 2019
+(IMT paragraph checked), Lung-RADS ACR table. Still missing: all pediatric reference values.
 
 ### Download queue (2026-11-11) — DOIs checked on Crossref
 

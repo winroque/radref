@@ -266,7 +266,7 @@
   },
   {
    "id": "lungrads-2022",
-   "title": "ACR Lung-RADS v2022 — updates for lung cancer screening CT (atypical cysts, juxtapleural and airway nodules, infection, growth, stepped management)",
+   "title": "ACR Lung-RADS v2022 — assessment categories and management for lung cancer screening CT, with the v2022 changes (atypical cysts, juxtapleural and airway nodules, infection, growth, stepped management)",
    "type": "classification",
    "area": "chest",
    "modalities": [
@@ -276,7 +276,9 @@
    "source_version": "v2022 (released November 2022; article 2024)",
    "status": "draft",
    "sources": [
-    "lungrads-2022"
+    "lungrads-2022",
+    "acr-lungrads-2022-table",
+    "petranovic-lungrads-2026"
    ],
    "superseded_by": "",
    "path": "entries/chest/lungrads-2022.md",
@@ -480,6 +482,7 @@
    "source_version": "1991–2018",
    "status": "draft",
    "sources": [
+    "hadlock-efw-1985",
     "hadlock-weight-standard-1991",
     "ig21-efw-2017",
     "who-fetal-growth-2017",
@@ -745,7 +748,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/acr-incidental-vascular-2013.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "carotid-imt-reference-values",
@@ -811,7 +814,7 @@
  "counts": {
   "entries": 42,
   "verified": 0,
-  "references": 74,
-  "references_reviewed": 61
+  "references": 77,
+  "references_reviewed": 65
  }
 }

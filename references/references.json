@@ -114,6 +114,23 @@
   "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01)."
  },
  {
+  "id": "acr-lungrads-2022-table",
+  "doi": "",
+  "url": "https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/Lung-RADS",
+  "first_author": "American College of Radiology",
+  "title_crossref": "",
+  "journal": "",
+  "year": 2022,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "vancouver": "American College of Radiology Committee on Lung-RADS. Lung-RADS v2022 [Internet]. Reston (VA): American College of Radiology; 2022 Nov [cited 2026 Nov 11]. Available from: https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/Lung-RADS",
+  "vancouver_reviewed": true,
+  "crossref_checked": false,
+  "license_note": "ACR material, all rights reserved — summarize only; cut-offs and categories in own words",
+  "notes": "Assessment-category table (2 pages) and 'Summary of Changes and Updates' (4 pages), both dated November 2022, read by Claude on 2026-11-11."
+ },
+ {
   "id": "acr-pancreas-2017",
   "doi": "10.1016/j.jacr.2017.03.010",
   "first_author": "Megibow",
@@ -224,7 +241,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01)."
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "aspects-2000",
@@ -349,10 +366,10 @@
   "issue": "3",
   "pages": "220-227",
   "vancouver": "Eickemberg M, Amorim LDAF, Almeida MCC, Aquino EML, Fonseca MJM, Santos IS, et al. Indicators of abdominal adiposity and carotid intima-media thickness: results from the Longitudinal Study of Adult Health (ELSA-Brazil). Arq Bras Cardiol. 2019;112(3):220-7. doi:10.5935/abc.20180273",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Crossref has no print data (online 2018); volume/pages from Digitado-IA vascular.md. Check author initials.",
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11.",
   "crossref_exceptions": [
    "year"
   ]
@@ -499,6 +516,22 @@
   "issue": "3",
   "pages": "333-339",
   "vancouver": "Gordijn SJ, Beune IM, Thilaganathan B, Papageorghiou A, Baschat AA, Baker PN, et al. Consensus definition of fetal growth restriction: a Delphi procedure. Ultrasound Obstet Gynecol. 2016;48(3):333-9. doi:10.1002/uog.15884",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "hadlock-efw-1985",
+  "doi": "10.1016/0002-9378(85)90298-4",
+  "first_author": "Hadlock",
+  "title_crossref": "Estimation of fetal weight with the use of head, body, and femur measurements—A prospective study",
+  "journal": "Am J Obstet Gynecol",
+  "year": 1985,
+  "volume": "151",
+  "issue": "3",
+  "pages": "333-337",
+  "vancouver": "Hadlock FP, Harrist RB, Sharman RS, Deter RL, Park SK. Estimation of fetal weight with the use of head, body, and femur measurements—a prospective study. Am J Obstet Gynecol. 1985;151(3):333-7. doi:10.1016/0002-9378(85)90298-4",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
@@ -922,6 +955,22 @@
   "crossref_exceptions": [
    "year"
   ]
+ },
+ {
+  "id": "petranovic-lungrads-2026",
+  "doi": "10.1186/s40644-026-01140-7",
+  "first_author": "Petranović",
+  "title_crossref": "ACR Lung-RADS: updates and future directions",
+  "journal": "Cancer Imaging",
+  "year": 2026,
+  "volume": "26",
+  "issue": "1",
+  "pages": "",
+  "vancouver": "Petranović M, Prosper AE, Hunsaker AR, Lam S, Christensen JD. ACR Lung-RADS: updates and future directions. Cancer Imaging. 2026;26:147. doi:10.1186/s40644-026-01140-7",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "pickhardt-liver-fat-2018",

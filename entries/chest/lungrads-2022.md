@@ -1,31 +1,30 @@
 ---
 id: lungrads-2022
-title: ACR Lung-RADS v2022 — updates for lung cancer screening CT (atypical cysts, juxtapleural and airway nodules, infection, growth, stepped management)
+title: ACR Lung-RADS v2022 — assessment categories and management for lung cancer screening CT, with the v2022 changes (atypical cysts, juxtapleural and airway nodules, infection, growth, stepped management)
 type: classification
 area: chest
 modalities: [CT]
 population: adults
 source_version: "v2022 (released November 2022; article 2024)"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11: Tables 1–4 and text — the complete ACR v2022 assessment-category table was NOT available, so the size thresholds for categories 1–4X are not in this entry; awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11 (Tables 1–4 and text), plus the ACR Lung-RADS v2022 assessment-category table with notes and the ACR 'Summary of Changes and Updates' (both November 2022) and Petranović 2026 (Cancer Imaging review) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [lungrads-2022]
+sources: [lungrads-2022, acr-lungrads-2022-table, petranovic-lungrads-2026]
 supersedes: []
 superseded_by: ""
 related: [fleischner-2017]
 last_reviewed: 2026-11-11
 ---
 
-# ACR Lung-RADS v2022 — what changed
+# ACR Lung-RADS v2022
 
 > Lung-RADS standardizes reporting and management of lung cancer screening (LCS) low-dose CT.
 > v2022 (released November 2022) adds classification for atypical pulmonary cysts, extends
 > the benign perifissural rule to all juxtapleural nodules, adds guidance for potentially
 > infectious/inflammatory findings and airway nodules, redefines growth (with a 12-month
 > interval) and slow growth, clarifies the S modifier, and introduces **stepped management**.
-> This entry covers those changes; the full category table (nodule size thresholds) is in the
-> ACR v2022 document and is not reproduced here. [lungrads-2022]
+> v2022 is still the current version (2026 review). [lungrads-2022; petranovic-lungrads-2026]
 
 ## 1. Scope
 
@@ -43,10 +42,33 @@ last_reviewed: 2026-11-11
 | Multilocular cyst | Internal septations; may have ground glass or solid components | [lungrads-2022] |
 | Benign juxtapleural nodule | Solid, smooth margins, oval/lentiform/triangular, **< 10 mm mean diameter**, perifissural, costal pleural, perimediastinal or peridiaphragmatic | [lungrads-2022, Fig. 5] |
 | Large airway | Segmental or more proximal (diameter > 3 mm) | [lungrads-2022] |
-| Growth | Increase **> 1.5 mm** in mean diameter **within 12 months** | [lungrads-2022] |
+| Growth | Increase **> 1.5 mm** in mean diameter **within 12 months** (v1.1: > 1.5 mm with no time interval) | [lungrads-2022; petranovic-lungrads-2026] |
+| Size-threshold crossing | A nodule reaching a higher size category is reclassified even without meeting "growth" | [acr-lungrads-2022-table, note 5] |
+| Cavitary nodule | Wall thickening dominant → manage as a solid nodule by total mean diameter | [acr-lungrads-2022-table, note 12] |
 | Slow-growing | Increase of 1.5 mm over **> 12 months** (does not meet growth from one annual screen to the next) | [lungrads-2022] |
 
 ## 3. Criteria / categories
+
+### Assessment categories (ACR table, v2022)
+
+Size = **mean diameter** (long + short axis, one decimal, any plane); volume equivalents in
+parentheses. Each exam is coded by the most suspicious finding. [acr-lungrads-2022-table]
+
+| Category | Solid nodule | Part-solid nodule | Non-solid (GGN) | Other | Management |
+|---|---|---|---|---|---|
+| **0** Incomplete (~1%) | — | — | — | Prior CT being located; lungs partly unevaluable; findings suggesting infection/inflammation | Comparison; additional LDCT; or 1–3-month LDCT |
+| **1** Negative (39%) | No nodules, or benign calcification (complete, central, popcorn, concentric rings) or fat | — | — | — | 12-month LDCT |
+| **2** Benign (45%) | Baseline **< 6 mm** (< 113 mm³); new **< 4 mm** (< 34 mm³) | Baseline total **< 6 mm** | **< 30 mm** (< 14,137 mm³) at baseline, new or growing; **≥ 30 mm** stable or slowly growing | Benign juxtapleural nodule; subsegmental airway nodule; category 3 stable/smaller at 6 months; 4B proven benign | 12-month LDCT |
+| **3** Probably benign (9%) | Baseline **6 to < 8 mm** (113 to < 268 mm³); new **4 to < 6 mm** | Baseline total **≥ 6 mm** with solid component **< 6 mm**; new total < 6 mm | **≥ 30 mm** at baseline or new | Thick-walled cyst with growing cystic component; category 4A stable/smaller at 3 months (not airway) | 6-month LDCT |
+| **4A** Suspicious (4%) | Baseline **8 to < 15 mm** (268 to < 1,767 mm³); growing **< 8 mm**; new **6 to < 8 mm** | Solid component **6 to < 8 mm** at baseline; new or growing solid component **< 4 mm** | — | Segmental or more proximal airway nodule at baseline; thick-walled or multilocular cyst; cyst becoming multilocular | 3-month LDCT; PET/CT may be considered if solid nodule/component ≥ 8 mm |
+| **4B** Very suspicious (2%) | Baseline **≥ 15 mm** (≥ 1,767 mm³); new or growing **≥ 8 mm** | Solid component **≥ 8 mm** at baseline; new or growing solid component **≥ 4 mm** | — | Persistent (stable or growing) proximal airway nodule; growing thick-walled or multilocular cyst, or more loculation/new opacity; slow-growing solid or part-solid nodule over several screens | Diagnostic chest CT ± contrast; PET/CT if ≥ 8 mm solid; tissue sampling and/or clinical referral (airway: referral, typically bronchoscopy) |
+| **4X** (< 1%) | Category 3 or 4 with extra features raising suspicion (spiculation, lymphadenopathy, metastases, GGN doubling in 1 year, etc.) — a category, not a modifier | | | | As for 4B |
+| **S** modifier (10%) | Significant or potentially significant non-lung-cancer findings, added to 0–4 | | | | Per finding (ACR incidental-findings guidance) |
+
+[acr-lungrads-2022-table]
+
+Audit definitions: negative screen = categories 1–2; positive screen = 3–4.
+[acr-lungrads-2022-table, note 3]
 
 ### Atypical pulmonary cysts (Table 2)
 
@@ -121,21 +143,32 @@ examination. [lungrads-2022]
 
 ## 6. What the source does not say
 
-- This article does not list the complete size thresholds of categories 1–4X; they are in the
-  ACR Lung-RADS v2022 assessment-category document (not yet added as a reference).
-- Volumetry: v1.1 gave volume equivalents, but no volumetric growth threshold was adopted.
+- Volumetry: volume equivalents are given per category, but measurement stays **mean diameter**;
+  the ACR table writes growth as "> 1.5 mm (> 2 mm³)" — the 2 mm³ figure is not explained in
+  the summary, the 2024 article or the 2026 review and is implausibly small for a volume change;
+  do not use it as a volumetric growth threshold. Volumetry is under discussion by the
+  committee (member survey). [acr-lungrads-2022-table, note 6; petranovic-lungrads-2026]
+- Juxtapleural size: the ACR table says **< 10 mm** (524 mm³) mean diameter; the ACR summary
+  and the 2026 review say **≤ 10 mm**. [acr-lungrads-2022-table; petranovic-lungrads-2026]
 
 ## 7. Disagreements and newer versions
 
+- v2022 replaces v1.1 (2019); the risk-of-malignancy column was removed. Ongoing committee
+  topics (2026): volumetry vs diameter, subsolid-nodule over-surveillance (NLST data suggest
+  GGN early-recall thresholds could be lower), integration of risk models (category 4B
+  encourages the Brock/McWilliams calculator), AI, incidental nodules, international
+  harmonization. [petranovic-lungrads-2026; acr-lungrads-2022-table, note 13]
 - v2022 replaces v1.1 (2019). NCCN recommends 1-month CT for airway nodules; the paper finds
   insufficient data to choose between the approaches. [lungrads-2022]
 
 ## 8. How to cite
 
-- Primary: `lungrads-2022`
+- Primary: `lungrads-2022` (article) and `acr-lungrads-2022-table` (ACR table; all rights reserved — summarized)
+- Review: `petranovic-lungrads-2026`
 
 ## 9. Change log
 
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text of Christensen 2024 (updates only; full category table pending) | Claude |
+| 2026-11-11 | Added the full v2022 category table from the ACR document (summarized), the ACR summary and the 2026 review; flagged the '> 2 mm³' growth figure and the < vs ≤ 10 mm juxtapleural discrepancy | Claude |

@@ -7,10 +7,10 @@ modalities: [US]
 population: pregnant
 source_version: "1991–2018"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: Hadlock 1991 (text and Table 1, rendered page), Stirnemann 2017 (abstract, methods, formula), Kiserud 2017 WHO (abstract, methods), Nicolaides 2018 FMF (abstract, methods), ISUOG biometry 2019 (EFW section) — Hadlock 1985 (EFW formula) not available, so its coefficients are not given; awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: Hadlock 1985 (Table II equations, prospective test), Hadlock 1991 (text and Table 1, rendered page), Stirnemann 2017 (abstract, methods, formula), Kiserud 2017 WHO (abstract, methods), Nicolaides 2018 FMF (abstract, methods), ISUOG biometry 2019 (EFW section) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [hadlock-weight-standard-1991, ig21-efw-2017, who-fetal-growth-2017, fmf-weight-charts-2018, isuog-biometry-2019]
+sources: [hadlock-efw-1985, hadlock-weight-standard-1991, ig21-efw-2017, who-fetal-growth-2017, fmf-weight-charts-2018, isuog-biometry-2019]
 supersedes: []
 superseded_by: ""
 related: [fetal-biometry-isuog-2019, fgr-sga-isuog-2020]
@@ -38,6 +38,26 @@ last_reviewed: 2026-11-11
 | Prescriptive standard | Describes growth under optimal conditions in healthy women (e.g. INTERGROWTH-21st) | [isuog-biometry-2019] |
 
 ## 3. Criteria / categories
+
+### Hadlock formulas (1985, Table II; models from 276 fetuses)
+
+Measurements in **cm**, weight in **g**; log = base 10. [hadlock-efw-1985, Table II]
+
+| Parameters | Equation | Source |
+|---|---|---|
+| AC, FL | log₁₀ EFW = 1.304 + 0.05281 AC + 0.1938 FL − 0.004 AC × FL | [hadlock-efw-1985] |
+| BPD, AC, FL | log₁₀ EFW = 1.335 − 0.0034 AC × FL + 0.0316 BPD + 0.0457 AC + 0.1623 FL | [hadlock-efw-1985] |
+| **HC, AC, FL** | log₁₀ EFW = 1.326 − 0.00326 AC × FL + 0.0107 HC + 0.0438 AC + 0.158 FL | [hadlock-efw-1985] |
+| BPD, HC, AC, FL | log₁₀ EFW = 1.3596 − 0.00386 AC × FL + 0.0064 HC + 0.00061 BPD × AC + 0.0424 AC + 0.174 FL | [hadlock-efw-1985] |
+
+- Prospective test in 109 fetuses (scanned within 3 days of delivery in most cases): models
+  combining head, abdomen and femur had random error 1 SD ≈ 7.5%, significantly better than
+  head + abdomen models; the authors recommend the **HC + AC + FL** equation for general use,
+  choosing another model when a measurement is unobtainable (e.g. deeply engaged head).
+  [hadlock-efw-1985]
+- Population: predominantly middle-class white patients, Houston, Texas. [hadlock-efw-1985]
+
+### Charts
 
 | Chart | Population and design | EFW formula | GA range | Source |
 |---|---|---|---|---|
@@ -71,7 +91,6 @@ Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile =
 
 - None of the charts was built in a Brazilian-only population (Brazil contributed sites to
   INTERGROWTH-21st and WHO).
-- The Hadlock 1985 formula coefficients are not in this entry (PDF not yet read).
 - Full centile tables are not reproduced here.
 
 ## 7. Disagreements and newer versions
@@ -83,6 +102,7 @@ Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile =
 
 ## 8. How to cite
 
+- Formula: `hadlock-efw-1985`
 - The chart used: `hadlock-weight-standard-1991`, `ig21-efw-2017`, `who-fetal-growth-2017` or
   `fmf-weight-charts-2018`
 
@@ -91,3 +111,4 @@ Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile =
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
+| 2026-11-11 | Added the four Hadlock 1985 EFW equations (Table II) from the full text and their reference | Claude |
