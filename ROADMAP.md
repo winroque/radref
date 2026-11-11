@@ -48,14 +48,28 @@ DOI; `check_refs.py` skips them with a warning and needs a `url`).
 `chest/lungrads-2022` (updates only — the full ACR v2022 category table is still needed),
 `abdomen/us-lirads-surveillance-2024` (ACR core document).
 
-Still pending: `pirads-2-1-2019` — only the two letters to the editor (Park; Rosenkrantz reply)
-were downloaded, not the Turkbey 2019 article itself. Also wanted: ACR Lung-RADS v2022
-assessment-category PDF, O-RADS MRI 2020 validation (Thomassin-Naggara, JAMA Netw Open).
+**Update (2026-11-11, second batch):** `pelvis-obstetrics/pirads-2-1-2019` written from the
+Turkbey 2019 full text; `orads-mri-2022` now carries the Thomassin-Naggara 2020 validation.
+Still wanted: the ACR Lung-RADS v2022 assessment-category PDF (full size thresholds).
 
 ## Phase 2 — routine ultrasound
 
 `sru-liver-elastography-2020`, postmenopausal endometrium, `esur-microlithiasis-2015`,
 thyroid volume (WHO), hip dysplasia (Graf), urinary tract dilation (UTD 2014).
+
+### Obstetrics (2026-11-11, second batch) — written from full texts, all `draft`
+
+`pelvis-obstetrics/pregnancy-dating`, `fetal-biometry-isuog-2019`,
+`estimated-fetal-weight-charts`, `fgr-sga-isuog-2020`, `obstetric-doppler-isuog-2021`,
+`amniotic-fluid-volume`, `cervical-length-isuog-2022`, `first-trimester-scan-isuog-2023`,
+`mid-trimester-scan-isuog-2022`. Also checked in this batch: `mta-scheltens-1992` (per-side
+rating removed — not in the source), `carotid-imt-reference-values` (Santos 2014 and Lorenz 2006
+methods; their papers do not print the tables the statement reproduces).
+
+Received from the queue below: everything in the obstetric list except **Hadlock 1985** (EFW
+formula, 10.1016/0002-9378(85)90298-4); Turkbey 2019; Thomassin-Naggara 2020; Scheltens 1992;
+Santos 2014; Lorenz 2006. Still missing: Hadlock 1985, Lung-RADS v2022 ACR table, Khosa 2013,
+Eickemberg 2019, all pediatric reference values.
 
 ### Download queue (2026-11-11) — DOIs checked on Crossref
 

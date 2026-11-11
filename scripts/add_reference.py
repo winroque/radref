@@ -27,7 +27,7 @@ UA = "radref/0.1 (reference checker)"
 PROTECT = {
     "Alzheimer's", "Alzheimer", "Bosniak", "Fleischner", "Society", "Radiologists", "Ultrasound",
     "American", "College", "Radiology", "Radiology's", "Brazil", "Portugal", "Portuguese",
-    "Brazilian", "Committee", "Lancet",
+    "Brazilian", "Committee", "Lancet", "INTERGROWTH-21st", "World", "Health", "Organization", "Fetal", "Medicine", "Foundation", "ISUOG", "Delphi", "O-RADS", "MRI", "Data", "System", "Magnetic", "Resonance", "Imaging", "Ovarian-Adnexal", "Reporting", "Red-Cell", "Doppler",
 }
 
 # NLM abbreviations for journals Crossref often returns in full.
@@ -45,6 +45,17 @@ JOURNAL_ABBR = {
     "American Journal of Respiratory and Critical Care Medicine": "Am J Respir Crit Care Med",
     "Journal of Neurology, Neurosurgery & Psychiatry": "J Neurol Neurosurg Psychiatry",
     "PLoS ONE": "PLoS One",
+    "PLOS Medicine": "PLoS Med",
+    "Ultrasound in Obstetrics & Gynecology": "Ultrasound Obstet Gynecol",
+    "Ultrasound in Obstetrics &amp; Gynecology": "Ultrasound Obstet Gynecol",
+    "BJOG: An International Journal of Obstetrics & Gynaecology": "Br J Obstet Gynaecol",
+    "BJOG: An International Journal of Obstetrics &amp; Gynaecology": "Br J Obstet Gynaecol",
+    "American Journal of Obstetrics and Gynecology": "Am J Obstet Gynecol",
+    "New England Journal of Medicine": "N Engl J Med",
+    "Obstetrics & Gynecology": "Obstet Gynecol",
+    "Obstetrics &amp; Gynecology": "Obstet Gynecol",
+    "JAMA Network Open": "JAMA Netw Open",
+    "Stroke": "Stroke",
 }
 
 

@@ -7,10 +7,10 @@ modalities: [MRI]
 population: adults
 source_version: "2022"
 status: draft
-verified_against: "full-text PDF (Radiology 2022;303(1):35–47) read by Claude on 2026-11-11: Figure 1 risk table (rendered page) with footnotes, Table 2 protocol, time–intensity curve definitions, score 0 and solid-tissue definitions — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Radiology 2022;303(1):35–47) read by Claude on 2026-11-11: Figure 1 risk table (rendered page) with footnotes, Table 2 protocol, time–intensity curve definitions, score 0 and solid-tissue definitions; validation data checked against the full text of Thomassin-Naggara 2020 (JAMA Netw Open) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [orads-mri-2022]
+sources: [orads-mri-2022, thomassin-orads-mri-2020]
 supersedes: []
 superseded_by: ""
 related: [orads-us-2022]
@@ -85,12 +85,19 @@ Not defined by the source; see section 1.
 
 ## 7. Disagreements and newer versions
 
-- The 2020 O-RADS MRI score (Thomassin-Naggara et al, JAMA Netw Open 2020;3(1):e1919896) is the
-  validated basis; that paper is not yet in `references.json`.
+- **Validation (2020):** prospective study at 15 European centres (2013–2016, 2-year follow-up
+  for non-operated women) in women referred to MRI for a sonographically indeterminate adnexal
+  mass; 1,340 enrolled, 1,130 with a mass and a reference standard (surgery 67.9%, follow-up
+  32.1%), 18.0% with malignancy. No invasive cancer scored 2. Positive likelihood ratios: score
+  2 = 0.01, 3 = 0.27, 4 = 4.42, 5 = 38.81. Experienced readers: AUC 0.961, sensitivity 0.93,
+  specificity 0.91 (scores 4–5 as positive); interrater κ 0.784. [thomassin-orads-mri-2020]
+- The approximate PPVs in the 2022 figure come from that cohort; the 2020 paper itself reports
+  likelihood ratios per score rather than PPVs. [thomassin-orads-mri-2020]
 
 ## 8. How to cite
 
 - Primary: `orads-mri-2022`
+- Validation study: `thomassin-orads-mri-2020`
 - The figure is ACR material reprinted with permission; this entry summarizes it.
 
 ## 9. Change log
@@ -98,3 +105,4 @@ Not defined by the source; see section 1.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text (risk table read from the rendered Figure 1) | Claude |
+| 2026-11-11 | Added the 2020 validation data from the full text of Thomassin-Naggara 2020 and its reference | Claude |

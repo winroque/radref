@@ -372,7 +372,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/mta-scheltens-1992.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "posterior-atrophy-koedam-2011",
@@ -412,6 +412,44 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "amniotic-fluid-volume",
+   "title": "Amniotic fluid volume at ultrasound — deepest vertical pocket (Chamberlain 1984), amniotic fluid index (Moore & Cayle 1990) and ISUOG 2022 cut-offs",
+   "type": "reference-values",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "1984, 1990; ISUOG 2022",
+   "status": "draft",
+   "sources": [
+    "chamberlain-sdp-1984",
+    "moore-afi-1990",
+    "isuog-midtrimester-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/amniotic-fluid-volume.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "cervical-length-isuog-2022",
+   "title": "Cervical length for prediction of spontaneous preterm birth — ISUOG 2022 (transvaginal technique, ≤ 25 mm cut-off, screening and management)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ISUOG Practice Guidelines 2022",
+   "status": "draft",
+   "sources": [
+    "isuog-cervix-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/cervical-length-isuog-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
    "id": "early-pregnancy-failure-sru-2013",
    "title": "Early first-trimester pregnancy — SRU criteria for pregnancy failure, normal milestones and pregnancy of unknown location",
    "type": "guideline",
@@ -431,6 +469,129 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "estimated-fetal-weight-charts",
+   "title": "Estimated fetal weight (EFW) — formulas and percentile charts compared (Hadlock 1991, INTERGROWTH-21st 2017, WHO 2017, FMF 2018)",
+   "type": "reference-values",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "1991–2018",
+   "status": "draft",
+   "sources": [
+    "hadlock-weight-standard-1991",
+    "ig21-efw-2017",
+    "who-fetal-growth-2017",
+    "fmf-weight-charts-2018",
+    "isuog-biometry-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/estimated-fetal-weight-charts.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "fetal-biometry-isuog-2019",
+   "title": "Fetal biometry and growth — ISUOG 2019 (planes, size terms, chart choice, scan intervals) with the main biometry charts (Snijders 1994, INTERGROWTH-21st 2014, WHO 2017)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ISUOG Practice Guidelines 2019; charts 1994–2017",
+   "status": "draft",
+   "sources": [
+    "isuog-biometry-2019",
+    "snijders-biometry-1994",
+    "ig21-fetal-growth-2014",
+    "who-fetal-growth-2017",
+    "isuog-midtrimester-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/fetal-biometry-isuog-2019.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "fgr-sga-isuog-2020",
+   "title": "Fetal growth restriction and SGA — Delphi consensus definition (2016) and ISUOG 2020 monitoring and delivery criteria",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "Delphi 2016; ISUOG Practice Guidelines 2020",
+   "status": "draft",
+   "sources": [
+    "gordijn-fgr-delphi-2016",
+    "isuog-sga-fgr-2020",
+    "isuog-biometry-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/fgr-sga-isuog-2020.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "first-trimester-scan-isuog-2023",
+   "title": "The 11–14-week scan — ISUOG 2023 (CRL 45–84 mm, nuchal translucency, minimum anatomy, screening strategies, pre-eclampsia screening)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ISUOG Practice Guidelines (updated) 2023",
+   "status": "draft",
+   "sources": [
+    "isuog-11-14-2023",
+    "ig21-crl-2014"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/first-trimester-scan-isuog-2023.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "mid-trimester-scan-isuog-2022",
+   "title": "Routine mid-trimester fetal ultrasound — ISUOG 2022 (timing, minimum anatomy, biometry, fluid, placenta, cord, multiples)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ISUOG Practice Guidelines (updated) 2022",
+   "status": "draft",
+   "sources": [
+    "isuog-midtrimester-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/mid-trimester-scan-isuog-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "obstetric-doppler-isuog-2021",
+   "title": "Obstetric Doppler — ISUOG 2021 technique (uterine, umbilical, middle cerebral arteries, ductus venosus) and reference ranges (Gómez 2008 UtA-PI, FMF 2019 UA/MCA/CPR, Mari 2000 MCA-PSV)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ISUOG Practice Guidelines (updated) 2021; reference ranges 2000–2019",
+   "status": "draft",
+   "sources": [
+    "isuog-doppler-2021",
+    "gomez-uta-pi-2008",
+    "fmf-ua-mca-cpr-2019",
+    "mari-mca-psv-2000",
+    "isuog-11-14-2023"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/obstetric-doppler-isuog-2021.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
    "id": "orads-mri-2022",
    "title": "O-RADS MRI risk stratification system for adnexal lesions (ACR, 2022)",
    "type": "classification",
@@ -442,7 +603,8 @@
    "source_version": "2022",
    "status": "draft",
    "sources": [
-    "orads-mri-2022"
+    "orads-mri-2022",
+    "thomassin-orads-mri-2020"
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/orads-mri-2022.md",
@@ -483,6 +645,47 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/pcom-2023.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "pirads-2-1-2019",
+   "title": "PI-RADS v2.1 (2019) — changes from v2 in prostate MRI acquisition, transition-zone scoring, DWI scores 2–3, DCE and prostate volume",
+   "type": "classification",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "v2.1 (2019)",
+   "status": "draft",
+   "sources": [
+    "pirads-2-1-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/pirads-2-1-2019.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "pregnancy-dating",
+   "title": "Pregnancy dating by ultrasound — CRL in the first trimester, biometry later, and when to change the due date (ACOG/AIUM/SMFM 2017, ISUOG, INTERGROWTH-21st, Robinson 1975)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "pregnant",
+   "source_version": "ACOG Committee Opinion 700 (2017); ISUOG 2019 and 2023; INTERGROWTH-21st CRL standard (2014); Robinson & Fleming 1975",
+   "status": "draft",
+   "sources": [
+    "acog-co700-2017",
+    "robinson-crl-1975",
+    "ig21-crl-2014",
+    "hadlock-ga-1984",
+    "isuog-biometry-2019",
+    "isuog-11-14-2023"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/pregnancy-dating.md",
    "last_reviewed": "2026-11-11"
   },
   {
@@ -606,9 +809,9 @@
   }
  ],
  "counts": {
-  "entries": 32,
+  "entries": 42,
   "verified": 0,
-  "references": 51,
-  "references_reviewed": 32
+  "references": 74,
+  "references_reviewed": 61
  }
 }
