@@ -7,14 +7,14 @@ modalities: [US]
 population: pregnant
 source_version: "SRU 2012 consensus (published 2013); review 2015"
 status: draft
-verified_against: "pending — migrated from Digitado-IA primeiro-trimestre.md, written from the Rodgers 2015 review (text, Tables 1–4, Fig. 19); the NEJM criteria were read through their reproduction in Rodgers Tables 2–3, not from the NEJM full text"
+verified_against: "full-text PDFs read by Claude on 2026-11-11: Doubilet 2013 (NEJM, Table 1 diagnostic/suspicious criteria, discriminatory hCG text) and Rodgers 2015 (RadioGraphics, Tables 1–4, Fig. 19) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [doubilet-nonviable-2013, rodgers-early-pregnancy-2015]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Early first-trimester pregnancy (SRU 2012 consensus)
@@ -161,7 +161,7 @@ significance. [rodgers-early-pregnancy-2015]
 
 ## 7. Disagreements and newer versions
 
-- Other bodies (e.g. NICE, ISUOG) use slightly different thresholds; not summarized. [verify]
+- Other bodies (e.g. NICE, ISUOG) publish their own criteria; not summarized here (no entries yet).
 
 ## 8. How to cite
 
@@ -173,3 +173,4 @@ significance. [rodgers-early-pregnancy-2015]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `primeiro-trimestre.md` (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against both full texts, including the NEJM criteria table read directly: no changes; [verify] mark resolved | Claude |

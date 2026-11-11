@@ -7,14 +7,14 @@ modalities: [XR, CT, MRI]
 population: all
 source_version: "2021"
 status: draft
-verified_against: "pending — migrated from Digitado-IA torax.md (written from the full article; reference checked against the PDF on 2026-11-03); not yet re-read for radref"
+verified_against: "full-text PDF (J Bras Pneumol 2021;47(5):e20200595, Portuguese version) read by Claude on 2026-11-11: every numeric definition and the terms-to-avoid checked against the glossary entries — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [hochhegger-terminology-2021]
 supersedes: []
 superseded_by: ""
 related: [ipf-ppf-ct-patterns-2022, fleischner-2017]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Thoracic imaging terminology in Portuguese (Hochhegger 2021)
@@ -139,8 +139,8 @@ Not applicable (terminology).
 
 ## 7. Disagreements and newer versions
 
-- English-language reference: Fleischner Society glossary (2008, updated 2024) — not yet
-  added. [verify]
+- English-language reference: Fleischner Society glossary of terms for thoracic imaging — not
+  yet added.
 
 ## 8. How to cite
 
@@ -151,3 +151,4 @@ Not applicable (terminology).
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `torax.md` Part A (house rules on silent substitution removed) | Claude |
+| 2026-11-11 | Checked against the full text: numeric definitions, terms to avoid and the micronodule inconsistency confirmed; [verify] mark resolved | Claude |

@@ -7,14 +7,14 @@ modalities: [CT]
 population: adults
 source_version: "2022"
 status: draft
-verified_against: "pending — migrated from Digitado-IA torax.md Part B (written from the full guideline; reference checked against Europe PMC XML on 2026-11-03); not yet re-read for radref"
+verified_against: "full-text PDF (Am J Respir Crit Care Med 2022;205(9):e18–e47) read by Claude on 2026-11-11: HRCT pattern table, honeycombing and mimics, Table 4 (PPF, checked on the rendered page for ≥ symbols), changes from 2018, ILA paragraph — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [raghu-ipf-ppf-2022]
 supersedes: []
 superseded_by: ""
 related: [thoracic-terminology-pt-2021]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # UIP CT patterns and progressive pulmonary fibrosis (ATS/ERS/JRS/ALAT 2022)
@@ -107,3 +107,4 @@ last_reviewed: 2026-11-05
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `torax.md` Part B (house rules and report phrases removed) | Claude |
+| 2026-11-11 | Checked against the full text: categories, confidence levels, PPF criteria (≥ 5% FVC, ≥ 10% DLCO) and honeycomb definitions confirmed; no changes | Claude |

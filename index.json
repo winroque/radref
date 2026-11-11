@@ -226,7 +226,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/ipf-ppf-ct-patterns-2022.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "thoracic-terminology-pt-2021",
@@ -246,7 +246,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/thoracic-terminology-pt-2021.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "erica-2018",
@@ -374,7 +374,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/early-pregnancy-failure-sru-2013.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "pcom-2023",
@@ -393,7 +393,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/pcom-2023.md",
-   "last_reviewed": "2026-11-05"
+   "last_reviewed": "2026-11-11"
   },
   {
    "id": "acr-incidental-thyroid-2015",
@@ -519,6 +519,6 @@
   "entries": 27,
   "verified": 0,
   "references": 50,
-  "references_reviewed": 21
+  "references_reviewed": 25
  }
 }

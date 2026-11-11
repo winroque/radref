@@ -284,10 +284,10 @@
   "issue": "15",
   "pages": "1443-1451",
   "vancouver": "Doubilet PM, Benson CB, Bourne T, Blaivas M. Diagnostic criteria for nonviable pregnancy early in the first trimester. N Engl J Med. 2013;369(15):1443-51. doi:10.1056/NEJMra1302417",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "PubMed also lists a group author (SRU multispecialty panel); decide whether to include it."
+  "notes": "PubMed also lists a group author (SRU multispecialty panel); decide whether to include it. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "eickemberg-elsa-cimt-2019",
@@ -677,10 +677,10 @@
   "issue": "7",
   "pages": "2135-2148",
   "vancouver": "Rodgers SK, Chang C, DeBardeleben JT, Horrow MM. Normal and abnormal US findings in early first-trimester pregnancy: review of the Society of Radiologists in Ultrasound 2012 consensus panel recommendations. Radiographics. 2015;35(7):2135-48. doi:10.1148/rg.2015150092",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Digitado-IA checked the article text and Tables 1-4, Fig. 19. Vancouver from Digitado-IA (Crossref-checked there 2026-11-03)."
+  "notes": "Digitado-IA checked the article text and Tables 1-4, Fig. 19. Vancouver from Digitado-IA (Crossref-checked there 2026-11-03). Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "rotterdam-ct-tbi-2005",
@@ -789,10 +789,10 @@
   "issue": "2",
   "pages": "G43-G64",
   "vancouver": "Teede HJ, Tay CT, Laven JJE, Dokras A, Moran LJ, Piltonen TT, et al. Recommendations from the 2023 international evidence-based guideline for the assessment and management of polycystic ovary syndrome. Eur J Endocrinol. 2023;189(2):G43-64. doi:10.1093/ejendo/lvad096",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Same guideline was co-published in other journals; cite one."
+  "notes": "Same guideline was co-published in other journals; cite one. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "teede-pmos-name-2026",
@@ -805,9 +805,9 @@
   "issue": "10545",
   "pages": "2329-2339",
   "vancouver": "Teede HJ, Khomami MB, Morman R, Laven JSE, Joham AE, Costello MF, et al. Polyendocrine metabolic ovarian syndrome, the new name for polycystic ovary syndrome: a multistep global consensus process. Lancet. 2026;407(10545):2329-39. doi:10.1016/S0140-6736(26)00717-8",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  }
 ]
