@@ -7,14 +7,14 @@ modalities: [CT]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "pending — migrated from Digitado-IA classificacoes.md (table and reference checked there on 2026-10-22); not yet re-read against the full text for radref"
+verified_against: "full-text PDF (Radiology 2017;284(1):228–43), read by Claude on 2026-11-11: Table (A solid, B subsolid) with footnotes, General Recommendations (measurement), Risk Factors section — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [fleischner-2017]
 supersedes: []
 superseded_by: ""
 related: [lungrads-2022, thoracic-terminology-pt-2021]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Fleischner Society 2017 guidelines for incidental pulmonary nodules on CT
@@ -34,10 +34,11 @@ last_reviewed: 2026-11-05
 
 | Term | Definition | Source |
 |---|---|---|
-| Nodule size | Average of long and short axes measured on the same slice, rounded to the nearest millimetre | [fleischner-2017] |
-| Large nodules | For nodules ≥ 10 mm, report both long and short axes (as recorded in Digitado-IA; [verify] exact wording) | [fleischner-2017] |
-| Low risk | Few or no risk factors (smoking, family history, emphysema/fibrosis, upper-lobe location, spiculated margin, older age) | [fleischner-2017] |
-| High risk | Presence of risk factors above | [fleischner-2017] |
+| Nodule size | Average of long and short axes, rounded to the nearest millimetre (table footnote); measured on the transverse, coronal or sagittal image that shows the greatest dimensions | [fleischner-2017] |
+| Larger nodules | For nodules and masses larger than 10 mm it is generally appropriate to record both long- and short-axis dimensions (long axis for T staging and response) | [fleischner-2017] |
+| Volume equivalents | < 6 mm ≈ < 100 mm³; 6–8 mm ≈ 100–250 mm³; > 8 mm ≈ > 250 mm³ | [fleischner-2017, Table] |
+| Low risk | ACCP low risk: estimated cancer risk **< 5%** — young age, less smoking, smaller nodule, regular margins, non–upper-lobe location | [fleischner-2017] |
+| High risk | ACCP intermediate (5–65%) and high (> 65%) combined — older age, heavy smoking, larger nodule, irregular or spiculated margins, upper-lobe location | [fleischner-2017] |
 | Subsolid | Pure ground-glass or part-solid | [fleischner-2017] |
 
 ## 3. Criteria / categories
@@ -51,7 +52,7 @@ last_reviewed: 2026-11-05
 | Single > 8 mm | Consider CT at 3 months, PET-CT or tissue sampling | Same | [fleischner-2017] |
 | Multiple < 6 mm | No routine follow-up | Optional CT at 12 months | [fleischner-2017] |
 | Multiple 6–8 mm | CT at 3–6 months; then consider CT at 18–24 months | CT at 3–6 months, then CT at 18–24 months | [fleischner-2017] |
-| Multiple > 8 mm | CT at 3–6 months; then consider CT at 18–24 months | Same | [fleischner-2017] |
+| Multiple > 8 mm | CT at 3–6 months; then consider CT at 18–24 months | CT at 3–6 months, then CT at 18–24 months | [fleischner-2017] |
 
 ### Subsolid nodules (no low/high-risk split)
 
@@ -86,8 +87,8 @@ nodule judged incidental; clinical judgment and patient preference apply. [fleis
 
 - **Lung-RADS** (ACR) governs lung cancer **screening** CT; different size thresholds and
   categories. See `lungrads-2022` (entry pending).
-- The 2017 version replaced the 2005 (solid) and 2013 (subsolid) Fleischner statements.
-  [verify against the full text]
+- The 2017 version updates the 2005 guidelines for solid nodules and the separate 2013
+  guidelines for subsolid nodules. [fleischner-2017]
 
 ## 8. How to cite
 
@@ -98,3 +99,4 @@ nodule judged incidental; clinical judgment and patient preference apply. [fleis
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
+| 2026-11-11 | Checked against the full text: **corrected multiple > 8 mm, high risk** (was "same as low risk"); ACCP risk definitions, volume equivalents and measurement plane added; [verify] marks resolved | Claude |

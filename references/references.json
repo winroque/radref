@@ -370,10 +370,10 @@
   "issue": "1",
   "pages": "228-243",
   "vancouver": "MacMahon H, Naidich DP, Goo JM, Lee KS, Leung ANC, Mayo JR, et al. Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017. Radiology. 2017;284(1):228-43. doi:10.1148/radiol.2017161659",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Digitado-IA listed only 3 authors + et al.; the house rule is 6 + et al."
+  "notes": "Digitado-IA listed only 3 authors + et al.; the house rule is 6 + et al. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "folsom-mesa-cimt-2008",
@@ -418,10 +418,10 @@
   "issue": "9",
   "pages": "e71465",
   "vancouver": "Kelsey TW, Dodwell SK, Wilkinson AG, Greve T, Andersen CY, Anderson RA, et al. Ovarian volume throughout life: a validated normative model. PLoS One. 2013;8(9):e71465. doi:10.1371/journal.pone.0071465",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "kelsey-uterus-2016",
@@ -466,10 +466,10 @@
   "issue": "3",
   "pages": "816-830",
   "vancouver": "Chernyak V, Fowler KJ, Kamaya A, Kielar AZ, Elsayes KM, Bashir MR, et al. Liver Imaging Reporting and Data System (LI-RADS) version 2018: imaging of hepatocellular carcinoma in at-risk patients. Radiology. 2018;289(3):816-30. doi:10.1148/radiol.2018181494",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Digitado-IA listed only 3 authors + et al."
+  "notes": "Digitado-IA listed only 3 authors + et al. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "lorenz-caps-cimt-2006",
@@ -544,12 +544,12 @@
   "year": 2026,
   "volume": "227",
   "issue": "3",
-  "pages": "",
-  "vancouver": "Minichetti P, Cereser L, Versienti E, Francioso F, Sparascio F, Girometti R, et al. BI-RADS v2025: key updates and implications for breast imaging practice. AJR Am J Roentgenol. 2026;227(3). doi:10.2214/ajr.26.35051",
-  "vancouver_reviewed": false,
+  "pages": "e2635051",
+  "vancouver": "Minichetti P, Cereser L, Versienti E, Francioso F, Sparascio F, Girometti R, et al. BI-RADS v2025: key updates and implications for breast imaging practice. AJR Am J Roentgenol. 2026;227:e2635051. doi:10.2214/AJR.26.35051",
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Secondary source (review of the v2025 changes). Volume 227; issue/pages not final in Crossref yet."
+  "notes": "Secondary source (review of the v2025 changes). Volume 227; issue/pages not final in Crossref yet. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "orads-mri-2022",

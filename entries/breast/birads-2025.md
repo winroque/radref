@@ -7,14 +7,14 @@ modalities: [MG, US, MRI]
 population: adults
 source_version: "v2025"
 status: draft
-verified_against: "pending — migrated from Digitado-IA classificacoes.md, which was written from the ACR 'BI-RADS v2025 Manual — What's New?' table (Nov 2025) and Minichetti 2026; the manual itself was not read"
+verified_against: "full-text PDF of Minichetti 2026 (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; the ACR v2025 manual itself was not read — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-birads-2025, minichetti-birads-2026]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # ACR BI-RADS v2025
@@ -32,38 +32,40 @@ last_reviewed: 2026-11-05
 
 ## 2. Definitions
 
-Selected terms that changed in v2025 (summary). [acr-birads-2025; minichetti-birads-2026]
+Selected changes in v2025, as summarized by Minichetti 2026.
 
-| Topic | 5th edition (2013) | v2025 | Source |
-|---|---|---|---|
-| US composition | complex cystic and solid | mixed solid and cystic | [minichetti-birads-2026] |
-| US orientation / margin | not parallel / not circumscribed | non-parallel / non-circumscribed | [minichetti-birads-2026] |
-| US vascularity | absent; vessels in rim | avascular; peripheral vascularity | [minichetti-birads-2026] |
-| US margin "microlobulated" | margin descriptor | removed; described as **indistinct** | [minichetti-birads-2026] |
-| US shape "lobulated" | not in 5th edition (was "lobular" in 4th) | reintroduced as a **shape** descriptor | [minichetti-birads-2026] |
-| US posterior features "combined" | present | removed; any shadowing is described as shadowing | [minichetti-birads-2026] |
-| US non-mass lesion | — | new finding: discrete, three-dimensional, without mass margins or shape; described by distribution, echo pattern and posterior features | [minichetti-birads-2026] |
-| US perilesional features | — | **echogenic pseudocapsule** (thin, uniform, typically benign) and **echogenic rind** (thick, irregular, associated with malignancy; included in the lesion measurement) | [minichetti-birads-2026] |
-| US calcifications | — | macro- vs microcalcifications, and anatomic context (in mass/non-mass, outside, intraductal); size reported | [minichetti-birads-2026] |
-| US tissue composition | background echotexture | tissue pattern + glandular tissue component (GTC) | [minichetti-birads-2026] |
-| US location | clock face and distance from nipple | quadrant and/or clock face, and depth **or** distance from nipple (not both required) | [minichetti-birads-2026] |
-| MG composition | breast composition | breast density | [minichetti-birads-2026] |
-| MG calcifications | milk of calcium; popcorn-like; dystrophic; punctate | layering; popcorn-like and dystrophic merged into **coarse**; punctate removed as a subset of round | [minichetti-birads-2026] |
-| MG developing asymmetry | descriptor | discontinued | [minichetti-birads-2026] |
-| MG solitary dilated duct | category 4A by default | may be category 2 in an asymptomatic patient without associated suspicious features; multiple dilated ducts typically benign | [minichetti-birads-2026] |
-| Tomosynthesis | mass required two views | mass criteria may be met on a single view | [minichetti-birads-2026] |
+| Topic | v2025 change | Source |
+|---|---|---|
+| Report structure | Structured clinical indication categories (screening, diagnostic workup, known cancer); comparison with priors placed **before** technique; tissue composition and technique/acquisition as dedicated sections | [minichetti-birads-2026, Table 1] |
+| Tissue composition | Breast density remains the core element for mammography and CEM; fibroglandular tissue (FGT) for MRI; **glandular tissue component (GTC)** introduced for US | [minichetti-birads-2026] |
+| Lesion location | Standardized across modalities: laterality → quadrant and/or clock face → distance from nipple (whole cm) and/or depth; DBT slice number recommended; on US also the tissue layer | [minichetti-birads-2026] |
+| Shape | **"Lobulated"** reintroduced as a morphology descriptor across modalities | [minichetti-birads-2026, Table 2] |
+| Margin | **"Microlobulated" removed from mammography, MRI and CEM** (replaced by "indistinct"); it **remains in the US lexicon** | [minichetti-birads-2026] |
+| DBT | A mass may be defined on a **single DBT projection**; when margins are obscured on DM but circumscribed on DBT, classify by the DBT appearance | [minichetti-birads-2026, Table 2] |
+| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk) | [minichetti-birads-2026, Table 2] |
+| MG asymmetry | Descriptor **"developing asymmetry" removed**; interval change still matters | [minichetti-birads-2026, Table 2] |
+| Dilated ducts | New term "multiple dilated ducts" (typically benign); a **solitary dilated duct** is less suspicious than before in asymptomatic patients without associated suspicious findings | [minichetti-birads-2026, Table 2] |
+| US composition | "Complex cystic and solid" replaced by **"mixed solid and cystic"**; the solid component determines assessment | [minichetti-birads-2026, Table 2] |
+| US posterior features | **"Combined pattern" removed**; "shadowing" prioritized when it coexists with enhancement | [minichetti-birads-2026, Table 2] |
+| US nonmass lesion | New finding: visible in three dimensions, different from surrounding tissue, without definable shape or margins; described by distribution, echotexture and posterior features; consider sampling when suspicious features, a cross-modality correlate or symptoms are present | [minichetti-birads-2026, Table 2] |
+| US perilesional features | **Echogenic pseudocapsule** (thin, uniform rim around a circumscribed mass; typically benign) and **echogenic rind** (thick, irregular band; associated with malignancy, also seen in e.g. fat necrosis; **include in the lesion size**) | [minichetti-birads-2026] |
+| US calcifications | Macro- vs microcalcifications, described by anatomic context (in or outside a mass/nonmass lesion; within a duct) | [minichetti-birads-2026, Table 2] |
 
 ## 3. Criteria / categories
 
 | Category | Meaning | Source |
 |---|---|---|
-| 0 | Incomplete — split in v2025 into **"needs additional imaging evaluation"** and **"needs prior images for comparison"** (FDA/MQSA 2024 amendments) | [acr-birads-2025] |
+| 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; not to be used when a finding is already suspicious (assign 4 or 5) | [minichetti-birads-2026] |
 | 1 | Negative | [acr-birads-2025] |
 | 2 | Benign | [acr-birads-2025] |
 | 3 | Probably benign (likelihood of malignancy ≤ 2%) | [acr-birads-2025] |
-| 4 | Suspicious; subdivided 4A/4B/4C — in v2025 the subdivision also applies to MRI | [acr-birads-2025] |
+| 4 | Suspicious; subdivided 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
 | 5 | Highly suggestive of malignancy | [acr-birads-2025] |
 | 6 | Known biopsy-proven malignancy | [acr-birads-2025] |
+
+> Categories 1, 2, 3 and 5 and the routine management below are the long-standing BI-RADS
+> definitions; they were **not** checked against the v2025 manual (not available here), only
+> the changes reported by Minichetti 2026 were.
 
 ## 4. Management
 
@@ -73,25 +75,27 @@ Selected terms that changed in v2025 (summary). [acr-birads-2025; minichetti-bir
 | 1–2 | Routine screening | [acr-birads-2025] |
 | 3 | Short-interval (6-month) follow-up | [acr-birads-2025] |
 | 4–5 | Tissue diagnosis | [acr-birads-2025] |
-| 6 | Wording revised: clinical follow-up with surgeon and/or oncologist, and definitive local therapy (usually surgery) when clinically appropriate | [acr-birads-2025] |
+| 6 | Biopsy-proven malignancy before definitive local therapy (usually surgery), including during neoadjuvant treatment monitoring even with complete imaging response; timing and type of treatment decided by the multidisciplinary team | [minichetti-birads-2026] |
 
-- MRI, category 6: additional nearby suspicious (not definitely malignant) findings may also be
-  category 6 if < 2 cm from the known malignancy, they do not increase total extent by > 2 cm,
-  and they do not change management. [acr-birads-2025] [verify]
+- MRI, category 6: additional contiguous or closely adjacent findings with similar morphology
+  may be included in category 6 (no separate category) when they are **within 2 cm** of the
+  index malignancy, increase total disease extent by **≤ 2 cm**, and are not expected to alter
+  management; report their extent and relation to the known cancer. [minichetti-birads-2026]
+- Ablation and active surveillance of low-risk DCIS are not yet incorporated into BI-RADS.
+  [minichetti-birads-2026]
 
 ## 5. Pitfalls
 
 - Category 0 without saying which of the two v2025 variants applies.
 - Measuring a mass with an echogenic rind without including the rind.
-- Using "microlobulated" as a margin (removed) or confusing "lobulated" (shape) with
-  "indistinct" (margin).
+- Using "microlobulated" as a margin on mammography, MRI or CEM (removed there; still valid
+  on US), or confusing "lobulated" (shape) with "indistinct" (margin).
 
 ## 6. What the source does not say
 
 - This entry does not reproduce the lexicon definitions; consult the manual for exact wording.
-- Report section order changed in v2025 (comparison before technique, dedicated technique
-  section); the manual does not oblige a service to reorder legacy templates overnight.
-  [verify]
+- The summary used here is a secondary review of the manual; exact lexicon definitions and
+  any transition guidance must be taken from the ACR manual.
 
 ## 7. Disagreements and newer versions
 
@@ -108,3 +112,4 @@ Selected terms that changed in v2025 (summary). [acr-birads-2025; minichetti-bir
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
+| 2026-11-11 | Checked against the full text of Minichetti 2026: **corrected "microlobulated" (removed from MG/MRI/CEM, still in US)**; removed unsupported rows (US orientation and vascularity renaming, US calcification size); rebuilt change table; category 0/4/6 wording from the paper; [verify] marks resolved | Claude |

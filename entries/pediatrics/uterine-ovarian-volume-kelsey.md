@@ -7,35 +7,35 @@ modalities: [US]
 population: all
 source_version: "2013 (ovary); 2016 (uterus)"
 status: draft
-verified_against: "pending — migrated from Digitado-IA pediatria.md (uterine table and model checked there against Kelsey 2016 Table 5 for ages 9–13); not yet re-read for radref"
+verified_against: "full-text PDFs read by Claude on 2026-11-11: Kelsey 2016 (PLoS One, Methods, Table 5, model coefficients) and Kelsey 2013 (PLoS One, Methods, Table 2, Figs. 1–3) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [kelsey-uterus-2016, kelsey-ovary-2013]
 supersedes: []
 superseded_by: ""
 related: [pcom-2023]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Uterine and ovarian volume by age (Kelsey)
 
 > Normative models of uterine volume (birth to 40 years; n = 1,418; r² = 0.84) and ovarian
-> volume (birth to 82 years; n = 59,470; r² = 0.69) by **chronological age**, from pooled
+> volume (birth to 82 years; combined n = 59,994 in the abstract; r² = 0.69) by **chronological age**, from pooled
 > ultrasound data. [kelsey-uterus-2016; kelsey-ovary-2013]
 
 ## 1. Scope
 
 - **Applies to:** comparison of a measured uterine or ovarian volume with age-specific norms.
-- **Limitation stated by the authors:** the models are by chronological age, not pubertal
-  stage. [kelsey-uterus-2016] [verify wording]
+- Both models are by **chronological age**; neither stratifies by pubertal stage.
+  [kelsey-uterus-2016; kelsey-ovary-2013]
 - Uterine model censored at **40 years** (only 2 data points above). [kelsey-uterus-2016]
 
 ## 2. Definitions
 
 | Term | Definition | Source |
 |---|---|---|
-| Uterine volume | Modified ellipsoid with factor **0.5** (not 0.523; difference 4.6%) | [kelsey-uterus-2016] |
-| Ovarian volume | Per ovary, factor **π/6** | [kelsey-ovary-2013] |
+| Uterine volume | Modified prolate ellipsoid: **0.5 × length × height × width** | [kelsey-uterus-2016] |
+| Ovarian volume | Per ovary, prolate ellipsoid **a × b × c × π/6**; source data standardized to this formula | [kelsey-ovary-2013, Table 2] |
 
 ## 3. Criteria / categories
 
@@ -68,23 +68,22 @@ f = 0.0058979  g = 0.000399    h = -0.0001055  i = 0.000102     j = 0.0000015
 Check (Digitado-IA): returns 3.10 at 10 years (table 3.0), 5.53 at 11 (5.5), 12.33 at 12 (12.2).
 [kelsey-uterus-2016]
 
-### Ovary — volume per ovary (mL) by age (years)
+### Ovary — volume per ovary (mL) by age (years), Kelsey 2013 Table 2 (excerpt; table runs to 50 years, also gives ±3 SD)
 
 | Age | −2 SD | −1 SD | Mean | +1 SD | +2 SD | Source |
 |---|---|---|---|---|---|---|
-| 0 | 0.0 | 0.0 | 0.2 | 0.5 | 0.8 | [kelsey-ovary-2013] |
-| 2 | 0.1 | 0.4 | 0.7 | 1.0 | 1.5 | [kelsey-ovary-2013] |
-| 4 | 0.3 | 0.6 | 0.9 | 1.3 | 1.8 | [kelsey-ovary-2013] |
-| 6 | 0.5 | 0.8 | 1.2 | 1.7 | 2.3 | [kelsey-ovary-2013] |
-| 8 | 0.8 | 1.2 | 1.7 | 2.3 | 3.0 | [kelsey-ovary-2013] |
-| 10 | 1.3 | 1.9 | 2.5 | 3.3 | 4.3 | [kelsey-ovary-2013] |
-| 12 | 2.1 | 2.8 | 3.7 | 4.7 | 6.0 | [kelsey-ovary-2013] |
-| 14 | 3.0 | 3.9 | 5.0 | 6.4 | 8.0 | [kelsey-ovary-2013] |
-| 16 | 3.9 | 5.0 | 6.4 | 8.0 | 10.0 | [kelsey-ovary-2013] |
-| 18 | 4.5 | 5.8 | 7.3 | 9.2 | 11.4 | [kelsey-ovary-2013] |
-| 20 | 4.8 | 6.1 | 7.7 | 9.6 | 12.0 | [kelsey-ovary-2013] |
+| 0 | 0.0 | 0.0 | 0.2 | 0.5 | 0.8 | [kelsey-ovary-2013, Table 2] |
+| 2 | 0.1 | 0.4 | 0.7 | 1.0 | 1.5 | [kelsey-ovary-2013, Table 2] |
+| 4 | 0.3 | 0.6 | 0.9 | 1.3 | 1.8 | [kelsey-ovary-2013, Table 2] |
+| 6 | 0.5 | 0.8 | 1.2 | 1.7 | 2.3 | [kelsey-ovary-2013, Table 2] |
+| 8 | 0.8 | 1.2 | 1.7 | 2.3 | 3.0 | [kelsey-ovary-2013, Table 2] |
+| 10 | 1.3 | 1.9 | 2.5 | 3.3 | 4.3 | [kelsey-ovary-2013, Table 2] |
+| 12 | 2.1 | 2.8 | 3.7 | 4.7 | 6.0 | [kelsey-ovary-2013, Table 2] |
+| 14 | 3.0 | 3.9 | 5.0 | 6.4 | 8.0 | [kelsey-ovary-2013, Table 2] |
+| 16 | 3.9 | 5.0 | 6.4 | 8.0 | 10.0 | [kelsey-ovary-2013, Table 2] |
+| 18 | 4.5 | 5.8 | 7.3 | 9.2 | 11.4 | [kelsey-ovary-2013, Table 2] |
+| 20 | 4.8 | 6.1 | 7.7 | 9.6 | 12.0 | [kelsey-ovary-2013, Table 2] |
 
-[verify which table/figure of Kelsey 2013 these values come from]
 
 ## 4. Management
 
@@ -96,8 +95,6 @@ Not applicable (reference values).
   significant figures and the curve diverges above 14 years (returns 3.6 mL at 20 years vs 7.7
   in the table; negative at 30). Interpolate in the table instead.
 - Mixing volume factors (0.5, 0.523, π/6) between measurement and reference.
-- Neonatal uterus is larger than prepubertal (maternal oestrogen); norms are not monotonic in
-  the first months. [verify source]
 
 ## 6. What the source does not say
 
@@ -105,8 +102,7 @@ Not applicable (reference values).
 
 ## 7. Disagreements and newer versions
 
-- Older tables (Orsini; Cohen-Shapiro) are superseded in practice by these larger pooled
-  models. [verify]
+- None identified in the sources.
 
 ## 8. How to cite
 
@@ -118,3 +114,4 @@ Not applicable (reference values).
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `pediatria.md` (Uterus and ovary section; house rules removed) | Claude |
+| 2026-11-11 | Checked against both full texts: tables confirmed; ovarian n corrected (59,994, not 59,470); unsupported claims removed (0.523 comparison, neonatal note, older tables) | Claude |

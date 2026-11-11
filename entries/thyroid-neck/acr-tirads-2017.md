@@ -7,14 +7,14 @@ modalities: [US]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "pending — migrated from Digitado-IA classificacoes.md and scripts/tirads.py (point values and size thresholds checked there against the white paper); not yet re-read for radref"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(5):587–95), read by Claude on 2026-11-11: Fig. 1 chart and notes, points rules, size thresholds, papillary microcarcinoma, growth definition, follow-up timing, number of nodules — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-tirads-2017]
 supersedes: []
 superseded_by: ""
 related: [acr-incidental-thyroid-2015]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # ACR TI-RADS (2017)
@@ -26,8 +26,8 @@ last_reviewed: 2026-11-05
 ## 1. Scope
 
 - **Applies to:** thyroid nodules seen on dedicated thyroid ultrasound. [acr-tirads-2017]
-- **Not a grading of the gland:** a thyroid without nodules is not given a TR level in practice
-  (the system scores nodules). [verify how the white paper phrases this]
+- The system assigns levels to **nodules**; it gives no category for a gland without nodules.
+- Guidance for adults; "should not be construed as standards". [acr-tirads-2017]
 - Incidental nodules seen on CT/MRI/PET or on non-thyroid ultrasound are triaged first by the
   incidental thyroid nodule white paper (`acr-incidental-thyroid-2015`).
 
@@ -71,11 +71,11 @@ that apply in echogenic foci. [acr-tirads-2017]
 
 | Points | Level | Source |
 |---|---|---|
-| 0 | TR1 — benign | [acr-tirads-2017] |
+| 0 | TR1 — benign (expected cancer risk ≤ 2% for TR1–TR2) | [acr-tirads-2017] |
 | 2 | TR2 — not suspicious | [acr-tirads-2017] |
-| 3 | TR3 — mildly suspicious | [acr-tirads-2017] |
-| 4–6 | TR4 — moderately suspicious | [acr-tirads-2017] |
-| ≥ 7 | TR5 — highly suspicious | [acr-tirads-2017] |
+| 3 | TR3 — mildly suspicious (≈ 5%) | [acr-tirads-2017] |
+| 4–6 | TR4 — moderately suspicious (5–20%) | [acr-tirads-2017] |
+| ≥ 7 | TR5 — highly suspicious (≥ 20%) | [acr-tirads-2017] |
 
 There is no TR0 and no sub-levels.
 
@@ -89,8 +89,21 @@ There is no TR0 and no sub-levels.
 | TR4 | ≥ 1.5 cm | ≥ 1.0 cm | [acr-tirads-2017] |
 | TR5 | ≥ 1.0 cm | ≥ 0.5 cm | [acr-tirads-2017] |
 
-- TR5 nodules of 5–9 mm: the white paper refers to the discussion on papillary
-  microcarcinoma; not an automatic recommendation. [acr-tirads-2017]
+- TR5 nodules of 5–9 mm: routine biopsy of nodules < 1 cm is not recommended, but FNA may be
+  appropriate in certain circumstances (active surveillance/ablation/lobectomy programmes);
+  shared decision between referring physician and patient. The report should say whether the
+  nodule can be measured reproducibly and whether it abuts the trachea or lies next to the
+  tracheoesophageal groove. [acr-tirads-2017]
+- **Follow-up timing** (nodules below the FNA threshold): TR5 yearly up to 5 years; TR4 at 1,
+  2, 3 and 5 years; TR3 at 1, 3 and 5 years; intervals < 1 year not warranted (except proven
+  cancer under surveillance); stop at 5 years if unchanged; if the TR level increases, next
+  scan in 1 year. [acr-tirads-2017]
+- **Significant growth:** ≥ 20% increase in at least two dimensions with a minimum increase of
+  2 mm, or ≥ 50% increase in volume; compare with earlier scans, not only the last one.
+  [acr-tirads-2017]
+- **How many nodules:** biopsy no more than **two** nodules with the highest point totals
+  that meet FNA criteria (size is not the primary criterion); follow and report no more than
+  **four** nodules with the highest scores below the FNA threshold. [acr-tirads-2017]
 - Recommendations are guidance, not a standard; the decision to biopsy also weighs the
   referrer's and patient's preferences and patient factors. [acr-tirads-2017]
 
@@ -100,6 +113,10 @@ There is no TR0 and no sub-levels.
   undetermined.
 - Adding spongiform points to other groups.
 - Forgetting that echogenic foci points are cumulative.
+- Taller-than-wide measured on a longitudinal image: assess on a **transverse** image (height
+  parallel, width perpendicular to the beam). [acr-tirads-2017, Fig. 1]
+- Large comet-tail artefacts (V-shaped, > 1 mm, in cystic components) score 0; small
+  comet-tails may accompany punctate echogenic foci (3). [acr-tirads-2017, Fig. 1]
 
 ## 6. What the source does not say
 
@@ -110,8 +127,8 @@ There is no TR0 and no sub-levels.
 
 ## 7. Disagreements and newer versions
 
-- Other systems (ATA 2015, EU-TIRADS, K-TIRADS) use pattern-based categories and different FNA
-  thresholds. Not summarized here. [verify before adding comparisons]
+- Other systems (e.g. ATA 2015, EU-TIRADS, K-TIRADS) use pattern-based categories and different
+  FNA thresholds; not summarized here (no entries yet).
 
 ## 8. How to cite
 
@@ -124,3 +141,4 @@ There is no TR0 and no sub-levels.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
+| 2026-11-11 | Checked against the full text: points, rules and thresholds confirmed; added expected risk per level, microcarcinoma guidance, follow-up timing, growth definition, number of nodules; [verify] marks resolved | Claude |
