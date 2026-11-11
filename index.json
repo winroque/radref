@@ -172,6 +172,42 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "sru-gallbladder-polyps-2022",
+   "title": "Incidental gallbladder polyps at US — Society of Radiologists in Ultrasound consensus (2022)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "2022",
+   "status": "draft",
+   "sources": [
+    "sru-gallbladder-polyps-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/sru-gallbladder-polyps-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "us-lirads-surveillance-2024",
+   "title": "LI-RADS Ultrasound Surveillance v2024 — US category, visualization score and management in patients at high risk of HCC",
+   "type": "classification",
+   "area": "abdomen",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "v2024",
+   "status": "draft",
+   "sources": [
+    "acr-us-lirads-2024"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/us-lirads-surveillance-2024.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
    "id": "birads-2025",
    "title": "ACR BI-RADS v2025 — assessment categories and main changes from the 5th edition",
    "type": "classification",
@@ -226,6 +262,24 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/ipf-ppf-ct-patterns-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "lungrads-2022",
+   "title": "ACR Lung-RADS v2022 — updates for lung cancer screening CT (atypical cysts, juxtapleural and airway nodules, infection, growth, stepped management)",
+   "type": "classification",
+   "area": "chest",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "v2022 (released November 2022; article 2024)",
+   "status": "draft",
+   "sources": [
+    "lungrads-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/lungrads-2022.md",
    "last_reviewed": "2026-11-11"
   },
   {
@@ -377,6 +431,42 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "orads-mri-2022",
+   "title": "O-RADS MRI risk stratification system for adnexal lesions (ACR, 2022)",
+   "type": "classification",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2022",
+   "status": "draft",
+   "sources": [
+    "orads-mri-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/orads-mri-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "orads-us-2022",
+   "title": "O-RADS US v2022 — ultrasound risk stratification and management of ovarian and adnexal lesions",
+   "type": "classification",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "v2022 (released November 2022; article 2023)",
+   "status": "draft",
+   "sources": [
+    "orads-us-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/orads-us-2022.md",
+   "last_reviewed": "2026-11-11"
+  },
+  {
    "id": "pcom-2023",
    "title": "Polycystic ovarian morphology (PCOM) on ultrasound — International PCOS guideline 2023, and the 2026 renaming to PMOS",
    "type": "guideline",
@@ -516,9 +606,9 @@
   }
  ],
  "counts": {
-  "entries": 27,
+  "entries": 32,
   "verified": 0,
-  "references": 50,
-  "references_reviewed": 27
+  "references": 51,
+  "references_reviewed": 32
  }
 }

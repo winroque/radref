@@ -70,9 +70,9 @@ last_reviewed: 2026-11-11
 ## 7. Disagreements and newer versions
 
 - **Gallbladder polyps:** the SRU 2022 consensus (`sru-gallbladder-polyps-2022`) replaced the
-  single 10 mm cut-off with morphology-based risk categories; European guidelines
-  (ESGAR/EAES/EFISDS/ESGE 2022) are cited by the SRU paper as keeping cholecystectomy at ≥ 10 mm.
-  For polyps, the 2013 thresholds above are superseded in practice by the newer documents.
+  single 10 mm cut-off with morphology-based risk categories. The European multisociety
+  guidelines (ESGAR/EAES/EFISDS/ESGE, 2017) are another newer document (no entry yet). For
+  polyps, the 2013 thresholds above are superseded in practice by the newer documents.
 
 ## 8. How to cite
 

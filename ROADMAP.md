@@ -8,9 +8,11 @@ Source files are in the private repo `winroque/Digitado-IA`, `.claude/skills/lau
 For each one: keep the source's content, **move house rules out** (they stay in Digitado-IA),
 translate to English, split into one entry per system.
 
-**Status (2026-11-05): 26 of the planned entries migrated as `draft`.** Every number in them
-was cross-checked by script against the Digitado-IA file it came from. None is `verified`
-yet: each needs the radiologist's read against the full text.
+**Status (2026-11-11):** 26 entries migrated as `draft` (2026-11-05), then checked by Claude
+against the full-text PDFs on 2026-11-11 (`verified_against` says what was read). Still
+`draft` until the radiologist signs off. Not yet checked against a full text: the Eickemberg
+paragraph of `carotid-imt-reference-values` (Santos 2014, Lorenz 2006, Eickemberg 2019 PDFs
+missing) and BI-RADS categories 1–3/5 (ACR manual not available).
 
 | Entry | From (Digitado-IA) | Sources | Status |
 |---|---|---|---|
@@ -40,9 +42,15 @@ DOI; `check_refs.py` skips them with a warning and needs a `url`).
 
 ## Phase 1 — systems Digitado-IA already cites without a primary source
 
-`bosniak-2019` (draft started), `pirads-2-1-2019`, `orads-mri-2022`, `orads-us-2022`,
-`sru-gallbladder-polyps-2022`, US LI-RADS **v2024** (add the ACR core document; the 2018
-article describes v2017), `lungrads-2022`.
+**Status (2026-11-11):** written from the full texts, all `draft`:
+`abdomen/bosniak-2019` (rewritten), `abdomen/sru-gallbladder-polyps-2022`,
+`pelvis-obstetrics/orads-us-2022`, `pelvis-obstetrics/orads-mri-2022`,
+`chest/lungrads-2022` (updates only — the full ACR v2022 category table is still needed),
+`abdomen/us-lirads-surveillance-2024` (ACR core document).
+
+Still pending: `pirads-2-1-2019` — only the two letters to the editor (Park; Rosenkrantz reply)
+were downloaded, not the Turkbey 2019 article itself. Also wanted: ACR Lung-RADS v2022
+assessment-category PDF, O-RADS MRI 2020 validation (Thomassin-Naggara, JAMA Netw Open).
 
 ## Phase 2 — routine ultrasound
 

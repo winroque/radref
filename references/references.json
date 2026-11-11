@@ -178,6 +178,23 @@
   "notes": "From Digitado-IA formatacao.md ('referências prontas e conferidas'); DOI added from Crossref."
  },
  {
+  "id": "acr-us-lirads-2024",
+  "doi": "",
+  "url": "https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Reporting-and-Data-Systems/LI-RADS",
+  "first_author": "American College of Radiology",
+  "title_crossref": "",
+  "journal": "",
+  "year": 2024,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "vancouver": "American College of Radiology. LI-RADS® Ultrasound Surveillance v2024 core. Reston (VA): American College of Radiology; 2024.",
+  "vancouver_reviewed": true,
+  "crossref_checked": "",
+  "license_note": "ACR — all rights reserved; summarize, do not reproduce tables.",
+  "notes": "Title and year checked against the PDF cover ('LI-RADS® Ultrasound Surveillance v2024 Core', © 2024 ACR) by Claude on 2026-11-11. Replaces the 2018 article (v2017) as the US LI-RADS source."
+ },
+ {
   "id": "acr-vascular-2013",
   "doi": "10.1016/j.jacr.2013.05.021",
   "first_author": "Khosa",
@@ -514,10 +531,10 @@
   "issue": "3",
   "pages": "473-488",
   "vancouver": "Christensen J, Prosper AE, Wu CC, Chung J, Lee E, Elicker B, et al. ACR Lung-RADS v2022: assessment categories and management recommendations. J Am Coll Radiol. 2024;21(3):473-88. doi:10.1016/j.jacr.2023.09.009",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "marshall-ct-tbi-1991",
@@ -562,10 +579,10 @@
   "issue": "1",
   "pages": "35-47",
   "vancouver": "Sadowski EA, Thomassin-Naggara I, Rockall A, Maturen KE, Forstner R, Jha P, et al. O-RADS MRI risk stratification system: guide for assessing adnexal lesions from the ACR O-RADS Committee. Radiology. 2022;303(1):35-47. doi:10.1148/radiol.204371",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Metadata confirmed on PubMed (PMID 35040672, PMC8962917)."
+  "notes": "Metadata confirmed on PubMed (PMID 35040672, PMC8962917). Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "orads-us-2022",
@@ -578,10 +595,10 @@
   "issue": "3",
   "pages": "",
   "vancouver": "Strachowski LM, Jha P, Phillips CH, Blanchette Porter MM, Froyman W, Glanc P, et al. O-RADS US v2022: an update from the American College of Radiology's Ovarian-Adnexal Reporting and Data System US Committee. Radiology. 2023;308(3):e230685. doi:10.1148/radiol.230685",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "pasquier-gca-1996",
@@ -757,10 +774,10 @@
   "issue": "2",
   "pages": "277-289",
   "vancouver": "Kamaya A, Fung C, Szpakowski JL, Fetzer DT, Walsh AJ, Alimi Y, et al. Management of incidentally detected gallbladder polyps: Society of Radiologists in Ultrasound consensus conference recommendations. Radiology. 2022;305(2):277-89. doi:10.1148/radiol.213079",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Cited by Digitado-IA CLAUDE.md without a ready reference — priority."
+  "notes": "Cited by Digitado-IA CLAUDE.md without a ready reference — priority. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "sru-liver-elastography-2020",
