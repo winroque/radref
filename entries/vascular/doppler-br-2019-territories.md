@@ -7,14 +7,14 @@ modalities: [US]
 population: all
 source_version: "2019"
 status: draft
-verified_against: "pending — migrated from Digitado-IA vascular.md §3–7 (written from the 2019 statement PDF); not yet re-read for radref"
+verified_against: "full-text PDF (Arq Bras Cardiol 2019;112(6):809–49) read by Claude on 2026-11-11: Tables 9, 11, 13, 15, 17–19, 22–23, 25–27 and related text; every number of the entry found in the source — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [doppler-br-2019]
 supersedes: []
 superseded_by: ""
 related: [carotid-vertebral-doppler-br-2023, carotid-imt-reference-values, acr-incidental-vascular-2013]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Vascular ultrasound — DIC/SBC 2019, non-carotid territories
@@ -200,3 +200,4 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §3–7 (house rules removed) | Claude |
+| 2026-11-11 | Checked against the full text: no changes | Claude |

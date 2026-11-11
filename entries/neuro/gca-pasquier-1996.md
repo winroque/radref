@@ -7,14 +7,14 @@ modalities: [MRI]
 population: adults
 source_version: "1996"
 status: draft
-verified_against: "pending — migrated from Digitado-IA neurodegenerativo.md, written from the original article PDF (2026-11-04); not yet re-read for radref"
+verified_against: "full-text PDF (Eur Neurol 1996;36(5):268–72; scanned, read through OCR) by Claude on 2026-11-11: abstract and Methods (13 regions, 0–3, sum 0–39, axial T2, stroke patients) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [pasquier-gca-1996]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992, posterior-atrophy-koedam-2011]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Cerebral atrophy rating (Pasquier 1996) and the "GCA 0–3" simplification
@@ -72,3 +72,4 @@ Not applicable.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
+| 2026-11-11 | Checked against the full text (OCR of the scanned PDF): scale structure and population confirmed; no changes | Claude |

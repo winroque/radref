@@ -319,10 +319,10 @@
   "issue": "1",
   "pages": "226-233",
   "vancouver": "Enkirch SJ, Traschütz A, Müller A, Widmann CN, Gielen GH, Heneka MT, et al. The ERICA score: an MR imaging-based visual scoring system for the assessment of entorhinal cortex atrophy in Alzheimer disease. Radiology. 2018;288(1):226-33. doi:10.1148/radiol.2018171888",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Crossref page range is wrong (226-333); the article is 226-33.",
+  "notes": "Crossref page range is wrong (226-333); the article is 226-33. Vancouver checked against the PDF first page by Claude on 2026-11-11.",
   "crossref_exceptions": [
    "pages"
   ]
@@ -354,10 +354,10 @@
   "issue": "2",
   "pages": "351-356",
   "vancouver": "Fazekas F, Chawluk JB, Alavi A, Hurtig HI, Zimmerman RA. MR signal abnormalities at 1.5 T in Alzheimer's dementia and normal aging. AJR Am J Roentgenol. 1987;149(2):351-6. doi:10.2214/ajr.149.2.351",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Article provided by the radiologist (Digitado-IA). Check middle initials."
+  "notes": "Article provided by the radiologist (Digitado-IA). Check middle initials. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
   "id": "fleischner-2017",

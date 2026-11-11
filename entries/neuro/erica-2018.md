@@ -7,14 +7,14 @@ modalities: [MRI]
 population: adults
 source_version: "2018"
 status: draft
-verified_against: "pending — migrated from Digitado-IA neurodegenerativo.md, written from the original article PDF (2026-11-04); not yet re-read for radref"
+verified_against: "full-text PDF (Radiology 2018;288(1):226–33) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 2 score definitions, diagnostic accuracy results — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [enkirch-erica-2018]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # ERICA score (Enkirch 2018)
@@ -70,3 +70,4 @@ higher than MTA (74%). [enkirch-erica-2018]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
+| 2026-11-11 | Checked against the full text: score definitions, cut-off >= 2 and accuracy figures confirmed; no changes | Claude |

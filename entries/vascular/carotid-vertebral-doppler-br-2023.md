@@ -7,14 +7,14 @@ modalities: [US]
 population: adults
 source_version: "2023"
 status: draft
-verified_against: "pending — migrated from Digitado-IA vascular.md §1–3 (written from the 2023 update and the 2019 statement PDFs; tables checked 2026-10-23); not yet re-read for radref"
+verified_against: "full-text PDFs read by Claude on 2026-11-11: DIC/CBR/SBACV 2023 (Arq Bras Cardiol 2023;120(10):e20230695; Tables 1–6, Boxes 3–9) and DIC/SBC 2019 (Tables 5, 7); every number of the entry found in the sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [doppler-carotid-br-2023, doppler-br-2019]
 supersedes: []
 superseded_by: ""
 related: [carotid-imt-reference-values, doppler-br-2019-territories]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Carotid and vertebral Doppler — Brazilian update 2023 (DIC/CBR/SBACV)
@@ -220,10 +220,11 @@ analysis is less accurate peri-operatively and with calcium or stenotic plaques.
 
 - Primary: `doppler-carotid-br-2023`
 - Also: `doppler-br-2019` (velocity confounders, report content, vertebral normal values)
-- Licence: Arq Bras Cardiol is open access [verify CC licence per article]
+- Licence: the 2023 article is open access under a Creative Commons attribution licence (stated in the PDF)
 
 ## 9. Change log
 
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §1–3 (house rules removed) | Claude |
+| 2026-11-11 | Checked against both full texts: ICA table (incl. merged cells), post-stent/CEA, vertebral criteria confirmed; licence confirmed | Claude |

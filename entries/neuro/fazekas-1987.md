@@ -7,14 +7,14 @@ modalities: [MRI]
 population: adults
 source_version: "1987"
 status: draft
-verified_against: "pending — migrated from Digitado-IA neurodegenerativo.md, written from the original article PDF (2026-11-04); not yet re-read for radref"
+verified_against: "full-text PDF (AJR 1987;149(2):351–6, ARRS online reprint) read by Claude on 2026-11-11: grading paragraph (PVH and DWMH), results on frequency and risk factors — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [fazekas-1987]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992]
-last_reviewed: 2026-11-05
+last_reviewed: 2026-11-11
 ---
 
 # Fazekas scale (1987)
@@ -59,7 +59,7 @@ Alzheimer patients and controls, unrelated to hypertension or other vascular ris
 
 ## 7. Disagreements and newer versions
 
-- STRIVE (2013) standards for small-vessel disease terminology — not yet added. [verify]
+- STRIVE standards for small-vessel disease terminology — not yet added.
 
 ## 8. How to cite
 
@@ -70,3 +70,4 @@ Alzheimer patients and controls, unrelated to hypertension or other vascular ris
 | Date | Change | By |
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
+| 2026-11-11 | Checked against the full text: both grading scales confirmed verbatim in meaning; [verify] mark resolved | Claude |
