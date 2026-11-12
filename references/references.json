@@ -160,7 +160,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": false,
   "license_note": "ACR material, all rights reserved — summarize only; cut-offs and categories in own words",
-  "notes": "Assessment-category table (2 pages) and 'Summary of Changes and Updates' (4 pages), both dated November 2022, read by Claude on 2026-11-11."
+  "notes": "Assessment-category table (2 pages) and 'Summary of Changes and Updates' (4 pages), both dated November 2022, read by Claude on 2026-11-11. Committee authorship kept by the radiologist's choice (2026-11-12); neither the PDF (© 2022 American College of Radiology) nor the ACR Lung-RADS page names the committee."
  },
  {
   "id": "acr-pancreas-2017",
@@ -1530,7 +1530,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
-  "notes": "PDF header reads J Vasc Surg 2018;67:2-77; '.e2' refers to the online appendix — confirm which form to cite."
+  "notes": "PDF header reads J Vasc Surg 2018;67:2-77; '.e2' refers to the online appendix — the radiologist chose to cite 2-77.e2 (2026-11-12)."
  },
  {
   "id": "teede-pcos-guideline-2023",
