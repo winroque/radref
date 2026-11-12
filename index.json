@@ -333,7 +333,9 @@
    "sources": [
     "acr-birads-2025",
     "acr-birads-2025-whats-new",
-    "minichetti-birads-2026"
+    "minichetti-birads-2026",
+    "schijf-birads-mg-2026",
+    "schijf-birads-us-2026"
    ],
    "superseded_by": "",
    "path": "entries/breast/birads-2025.md",
@@ -1190,7 +1192,7 @@
  "counts": {
   "entries": 62,
   "verified": 0,
-  "references": 101,
-  "references_reviewed": 97
+  "references": 103,
+  "references_reviewed": 99
  }
 }
