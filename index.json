@@ -19,6 +19,24 @@
    "last_reviewed": "2026-11-12"
   },
   {
+   "id": "abdominal-lymph-node-size-ct-dorfman-1991",
+   "title": "Upper abdominal lymph nodes — normal short-axis size by station on CT (Dorfman 1991)",
+   "type": "reference-values",
+   "area": "abdomen",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "Dorfman 1991",
+   "status": "draft",
+   "sources": [
+    "dorfman-abdominal-nodes-1991"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/abdominal-lymph-node-size-ct-dorfman-1991.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "acr-incidental-adrenal-2017",
    "title": "Incidental adrenal mass on CT or MRI — ACR Incidental Findings Committee white paper (2017)",
    "type": "guideline",
@@ -152,6 +170,24 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "gallbladder-polyps-esgar-2022",
+   "title": "Gallbladder polyps — European joint guideline 2022 (ESGAR/EAES/EFISDS/ESGE): cholecystectomy ≥ 10 mm, risk-factor-based follow-up",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "ESGAR/EAES/EFISDS/ESGE update 2022 (of 2017)",
+   "status": "draft",
+   "sources": [
+    "esgar-gallbladder-polyps-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/gallbladder-polyps-esgar-2022.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "lirads-ctmr-2018",
    "title": "CT/MRI LI-RADS version 2018 — diagnostic algorithm for liver observations in patients at risk of HCC",
    "type": "classification",
@@ -172,6 +208,24 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "liver-elastography-sru-2020",
+   "title": "Liver shear-wave elastography (ARFI: pSWE and 2D-SWE) — SRU consensus update 2020, acquisition and the \"rule of four\" (5, 9, 13, 17 kPa)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "SRU liver elastography consensus update 2020",
+   "status": "draft",
+   "sources": [
+    "sru-liver-elastography-2020"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/liver-elastography-sru-2020.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "liver-fat-ct-2018",
    "title": "Liver fat fraction estimated from unenhanced CT attenuation — Pickhardt 2018",
    "type": "reference-values",
@@ -188,6 +242,24 @@
    "superseded_by": "",
    "path": "entries/abdomen/liver-fat-ct-2018.md",
    "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "spleen-size-adult-chow-2016",
+   "title": "Adult spleen size at US by sex and height — Chow 2016 (height-adjusted upper limits; 12-cm rule exceeded by 26% of healthy men)",
+   "type": "reference-values",
+   "area": "abdomen",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "Chow 2016",
+   "status": "draft",
+   "sources": [
+    "chow-spleen-size-2016"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/spleen-size-adult-chow-2016.md",
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "sru-gallbladder-polyps-2022",
@@ -358,6 +430,25 @@
    "superseded_by": "",
    "path": "entries/chest/thoracic-terminology-pt-2021.md",
    "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "lumbar-disc-nomenclature-2-2014",
+   "title": "Lumbar disc nomenclature 2.0 (NASS/ASSR/ASNR 2014) — bulge, protrusion, extrusion, sequestration, annular fissure",
+   "type": "terminology",
+   "area": "msk-spine",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "Version 2.0 (2014), update of the 2001 nomenclature",
+   "status": "draft",
+   "sources": [
+    "lumbar-nomenclature-2-2014"
+   ],
+   "superseded_by": "",
+   "path": "entries/msk-spine/lumbar-disc-nomenclature-2-2014.md",
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "aspects-2000",
@@ -618,17 +709,22 @@
   },
   {
    "id": "endometrium-postmenopausal-acog-2018",
-   "title": "Postmenopausal endometrium on transvaginal US — ACOG Committee Opinion 734 (≤ 4 mm with bleeding; incidental thickening without bleeding)",
+   "title": "Postmenopausal endometrium on transvaginal US — with bleeding (≤ 4 mm ACOG / ≤ 5 mm SRU) and incidental thickening without bleeding (11 mm, Smith-Bindman)",
    "type": "guideline",
    "area": "pelvis-obstetrics",
    "modalities": [
     "US"
    ],
    "population": "adults",
-   "source_version": "ACOG Committee Opinion No. 734 (May 2018; replaces No. 440, 2009)",
+   "source_version": "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; Chee 2025 meta-analysis; Doll 2021/2024",
    "status": "draft",
    "sources": [
-    "acog-co734-2018"
+    "acog-co734-2018",
+    "sru-postmenopausal-bleeding-2001",
+    "smith-bindman-endometrium-2004",
+    "chee-endometrium-2025",
+    "doll-tvus-simulated-2021",
+    "doll-tvus-black-2024"
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/endometrium-postmenopausal-acog-2018.md",
@@ -796,6 +892,24 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "ovarian-volume-adult-pavlik-2000",
+   "title": "Adult ovarian volume by age and menopausal status — Pavlik 2000 (upper limit 20 cm³ premenopausal, 10 cm³ postmenopausal)",
+   "type": "reference-values",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "Pavlik 2000",
+   "status": "draft",
+   "sources": [
+    "pavlik-ovarian-volume-2000"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/ovarian-volume-adult-pavlik-2000.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "pcom-2023",
    "title": "Polycystic ovarian morphology (PCOM) on ultrasound — International PCOS guideline 2023, and the 2026 renaming to PMOS",
    "type": "guideline",
@@ -856,6 +970,24 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "sru-simple-adnexal-cysts-2019",
+   "title": "Simple adnexal cysts — SRU consensus update 2019 (reporting and follow-up thresholds by menopausal status)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "SRU consensus conference update 2019",
+   "status": "draft",
+   "sources": [
+    "sru-simple-adnexal-cysts-2019"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/sru-simple-adnexal-cysts-2019.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "acr-incidental-thyroid-2015",
    "title": "Incidental thyroid nodules detected on imaging — ACR white paper (2015)",
    "type": "guideline",
@@ -894,6 +1026,44 @@
    "superseded_by": "",
    "path": "entries/thyroid-neck/acr-tirads-2017.md",
    "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "cervical-lymph-nodes-thyroid-cancer-us",
+   "title": "Cervical lymph nodes at US in thyroid cancer — ETA 2013 (normal / indeterminate / suspicious) and ATA 2015 (FNA if suspicious and ≥ 8–10 mm short axis)",
+   "type": "guideline",
+   "area": "thyroid-neck",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "ETA 2013; ATA 2015 (published 2016)",
+   "status": "draft",
+   "sources": [
+    "eta-cervical-us-2013",
+    "ata-thyroid-2015"
+   ],
+   "superseded_by": "",
+   "path": "entries/thyroid-neck/cervical-lymph-nodes-thyroid-cancer-us.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "thyroid-volume-adult",
+   "title": "Adult thyroid volume — the 18/25 mL limits, individualized reference equations (Ittermann 2025) and the ellipsoid correction factor (Shabana 2006)",
+   "type": "reference-values",
+   "area": "thyroid-neck",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "Ittermann 2025; Shabana 2006",
+   "status": "draft",
+   "sources": [
+    "ittermann-thyroid-volume-2025",
+    "shabana-thyroid-factor-2006"
+   ],
+   "superseded_by": "",
+   "path": "entries/thyroid-neck/thyroid-volume-adult.md",
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "aaa-surveillance-svs-esvs",
@@ -996,9 +1166,9 @@
   }
  ],
  "counts": {
-  "entries": 52,
+  "entries": 61,
   "verified": 0,
-  "references": 84,
-  "references_reviewed": 77
+  "references": 98,
+  "references_reviewed": 93
  }
 }

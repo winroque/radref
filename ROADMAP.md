@@ -62,10 +62,20 @@ thyroid volume (WHO), hip dysplasia (Graf), urinary tract dilation (UTD 2014).
 SRU 2001, SOGC 451, Chee 2025 and Doll 2021/2024 still to download),
 `vascular/aaa-surveillance-svs-esvs` (SVS 2018 + ESVS 2024, ESVS read up to PDF page 40),
 `pediatrics/thyroid-volume-children-who-2004`, `pediatrics/utd-2014`.
-Still to download for Phase 2: Barr 2020 (SRU elastography, 10.1148/radiol.2020192437), ESUR
-microlithiasis 2015, Graf (DOI to be traced), and the adult list in the 2026-11-11 answer
-(Pavlik 2000, Levine 2019, Timmerman 2021, AASLD 2023, EASL 2018, Baveno VII, Foley 2022,
-Chow 2016, Childs 2014, Dorfman 1991, Ittermann 2025, Shabana 2006, ATA 2015, ETA 2013).
+**Fifth batch (2026-11-12, adult reference values used by Digitado-IA `alertas.md`)** — from
+full texts, all `draft`: endometrium entry extended (SRU 2001, Smith-Bindman 2004, Chee 2025,
+Doll 2021/2024), `pelvis-obstetrics/sru-simple-adnexal-cysts-2019`,
+`pelvis-obstetrics/ovarian-volume-adult-pavlik-2000`,
+`abdomen/abdominal-lymph-node-size-ct-dorfman-1991`, `abdomen/spleen-size-adult-chow-2016`,
+`abdomen/gallbladder-polyps-esgar-2022`, `abdomen/liver-elastography-sru-2020`,
+`thyroid-neck/thyroid-volume-adult` (Ittermann 2025 + Shabana 2006),
+`thyroid-neck/cervical-lymph-nodes-thyroid-cancer-us` (ETA 2013 + ATA 2015 node sections),
+`msk-spine/lumbar-disc-nomenclature-2-2014`.
+Still missing: SOGC 451 (10.1016/j.jogc.2024.102591), Singal 2023 AASLD
+(10.1097/HEP.0000000000000466), ESUR microlithiasis 2015 PDF, Graf (DOI to be traced).
+Received but not written up: Timmerman 2021 ESGO/ISUOG/IOTA/ESGE (in Mendeley).
+Low priority (not used by Digitado-IA): EASL 2018, Baveno VII, Childs 2014, Marshall 1991,
+Maas 2005, Node-RADS 2021.
 
 ### Obstetrics (2026-11-11, second batch) — written from full texts, all `draft`
 

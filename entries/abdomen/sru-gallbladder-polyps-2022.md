@@ -13,7 +13,7 @@ verified_on: ""
 sources: [sru-gallbladder-polyps-2022]
 supersedes: []
 superseded_by: ""
-related: [acr-incidental-gallbladder-2013]
+related: [acr-incidental-gallbladder-2013, gallbladder-polyps-esgar-2022]
 last_reviewed: 2026-11-11
 ---
 
