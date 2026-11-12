@@ -10,7 +10,7 @@
   "issue": "6",
   "pages": "1119-1122",
   "vancouver": "Kozar RA, Crandall M, Shanmuganathan K, Zarzaur BL, Coburn M, Cribari C, et al. Organ injury scaling 2018 update: spleen, liver, and kidney. J Trauma Acute Care Surg. 2018;85(6):1119-22. doi:10.1097/TA.0000000000002058",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
   "notes": ""
@@ -30,6 +30,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11. Corporate author: ACOG Committee on Obstetric Practice, AIUM and SMFM (no personal authors in the byline)."
+ },
+ {
+  "id": "acog-co734-2018",
+  "doi": "10.1097/aog.0000000000002631",
+  "first_author": "ACOG",
+  "title_crossref": "ACOG Committee Opinion No. 734: The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Women With Postmenopausal Bleeding",
+  "journal": "Obstet Gynecol",
+  "year": 2018,
+  "volume": "131",
+  "issue": "5",
+  "pages": "e124-e129",
+  "vancouver": "American College of Obstetricians and Gynecologists' Committee on Gynecologic Practice. ACOG Committee Opinion No. 734: the role of transvaginal ultrasonography in evaluating the endometrium of women with postmenopausal bleeding. Obstet Gynecol. 2018;131(5):e124-9. doi:10.1097/AOG.0000000000002631",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": "Committee Opinion 734 (May 2018) replaces No. 440; check ACOG for reaffirmation status before citing."
  },
  {
   "id": "acr-adrenal-2017",
@@ -254,7 +270,7 @@
   "issue": "9216",
   "pages": "1670-1674",
   "vancouver": "Barber PA, Demchuk AM, Zhang J, Buchan AM. Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. Lancet. 2000;355(9216):1670-4. doi:10.1016/S0140-6736(00)02237-6",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
   "notes": ""
@@ -286,8 +302,24 @@
   "issue": "3",
   "pages": "185-191",
   "vancouver": "Hecht HS, Blaha MJ, Kazerooni EA, Cury RC, Budoff M, Leipsic J, et al. CAC-DRS: Coronary Artery Calcium Data and Reporting System. An expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT). J Cardiovasc Comput Tomogr. 2018;12(3):185-91. doi:10.1016/j.jcct.2018.03.008",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
+  "license_note": "",
+  "notes": ""
+ },
+ {
+  "id": "cad-rads-2-2022",
+  "doi": "10.1016/j.jcct.2022.07.002",
+  "first_author": "Cury",
+  "title_crossref": "CAD-RADS™ 2.0 - 2022 Coronary Artery Disease-Reporting and Data System",
+  "journal": "J Cardiovasc Comput Tomogr",
+  "year": 2022,
+  "volume": "16",
+  "issue": "6",
+  "pages": "536-557",
+  "vancouver": "Cury RC, Leipsic J, Abbara S, Achenbach S, Berman D, Bittencourt M, et al. CAD-RADS 2.0 - 2022 Coronary Artery Disease-Reporting and Data System: an expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Cardiology (ACC), the American College of Radiology (ACR), and the North America Society of Cardiovascular Imaging (NASCI). J Cardiovasc Comput Tomogr. 2022;16(6):536-57. doi:10.1016/j.jcct.2022.07.002",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": ""
  },
@@ -406,6 +438,22 @@
   "vancouver": "Richenberg J, Belfield J, Ramchandani P, Rocher L, Freeman S, Tsili AC, et al. Testicular microlithiasis imaging and follow-up: guidelines of the ESUR scrotal imaging subcommittee. Eur Radiol. 2015;25(2):323-30. doi:10.1007/s00330-014-3437-x",
   "vancouver_reviewed": false,
   "crossref_checked": "2026-11-05",
+  "license_note": "",
+  "notes": ""
+ },
+ {
+  "id": "esvs-aaa-2024",
+  "doi": "10.1016/j.ejvs.2023.11.002",
+  "first_author": "Wanhainen",
+  "title_crossref": "Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms",
+  "journal": "European Journal of Vascular and Endovascular Surgery",
+  "year": 2024,
+  "volume": "67",
+  "issue": "2",
+  "pages": "192-331",
+  "vancouver": "Wanhainen A, Van Herzeele I, Bastos Goncalves F, Bellmunt Montoya S, Berard X, Boyle JR, et al. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 clinical practice guidelines on the management of abdominal aorto-iliac artery aneurysms. Eur J Vasc Endovasc Surg. 2024;67(2):192-331. doi:10.1016/j.ejvs.2023.11.002",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": ""
  },
@@ -906,6 +954,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "nguyen-utd-2014",
+  "doi": "10.1016/j.jpurol.2014.10.002",
+  "first_author": "Nguyen",
+  "title_crossref": "Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system)",
+  "journal": "Journal of Pediatric Urology",
+  "year": 2014,
+  "volume": "10",
+  "issue": "6",
+  "pages": "982-998",
+  "vancouver": "Nguyen HT, Benson CB, Bromley B, Campbell JB, Chow J, Coleman B, et al. Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Pediatr Urol. 2014;10(6):982-98. doi:10.1016/j.jpurol.2014.10.002",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": ""
+ },
+ {
   "id": "orads-mri-2022",
   "doi": "10.1148/radiol.204371",
   "first_author": "Sadowski",
@@ -1031,7 +1095,7 @@
   "issue": "2",
   "pages": "228-247",
   "vancouver": "Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45(2):228-47. doi:10.1016/j.ejca.2008.10.026",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
   "notes": ""
@@ -1111,10 +1175,10 @@
   "issue": "1",
   "pages": "74-84",
   "vancouver": "Hecht HS, Cronin P, Blaha MJ, Budoff MJ, Kazerooni EA, Narula J, et al. 2016 SCCT/STR guidelines for coronary artery calcium scoring of noncontrast noncardiac chest CT scans: a report of the Society of Cardiovascular Computed Tomography and Society of Thoracic Radiology. J Cardiovasc Comput Tomogr. 2017;11(1):74-84. doi:10.1016/j.jcct.2016.11.003",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Co-published in J Thorac Imaging 2017;32(5):W54-W66 (doi:10.1097/RTI.0000000000000287); cite the JCCT version."
  },
  {
   "id": "scheltens-mta-1992",
@@ -1181,6 +1245,38 @@
   "notes": ""
  },
  {
+  "id": "strive-2-2023",
+  "doi": "10.1016/s1474-4422(23)00131-x",
+  "first_author": "Duering",
+  "title_crossref": "Neuroimaging standards for research into small vessel disease—advances since 2013",
+  "journal": "The Lancet Neurology",
+  "year": 2023,
+  "volume": "22",
+  "issue": "7",
+  "pages": "602-618",
+  "vancouver": "Duering M, Biessels GJ, Brodtmann A, Chen C, Cordonnier C, de Leeuw FE, et al. Neuroimaging standards for research into small vessel disease-advances since 2013. Lancet Neurol. 2023;22(7):602-18. doi:10.1016/S1474-4422(23)00131-X",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": ""
+ },
+ {
+  "id": "svs-aaa-2018",
+  "doi": "10.1016/j.jvs.2017.10.044",
+  "first_author": "Chaikof",
+  "title_crossref": "The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm",
+  "journal": "Journal of Vascular Surgery",
+  "year": 2018,
+  "volume": "67",
+  "issue": "1",
+  "pages": "2-77.e2",
+  "vancouver": "Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA, Mansour MA, et al. The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm. J Vasc Surg. 2018;67(1):2-77.e2. doi:10.1016/j.jvs.2017.10.044",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": ""
+ },
+ {
   "id": "teede-pcos-guideline-2023",
   "doi": "10.1093/ejendo/lvad096",
   "first_author": "Teede",
@@ -1243,5 +1339,21 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "zimmermann-thyroid-children-2004",
+  "doi": "10.1093/ajcn/79.2.231",
+  "first_author": "Zimmermann",
+  "title_crossref": "New reference values for thyroid volume by ultrasound in iodine-sufficient schoolchildren: a World Health Organization/Nutrition for Health and Development Iodine Deficiency Study Group Report",
+  "journal": "The American Journal of Clinical Nutrition",
+  "year": 2004,
+  "volume": "79",
+  "issue": "2",
+  "pages": "231-237",
+  "vancouver": "Zimmermann MB, Hess SY, Molinari L, de Benoist B, Delange F, Braverman LE, et al. New reference values for thyroid volume by ultrasound in iodine-sufficient schoolchildren: a World Health Organization/Nutrition for Health and Development Iodine Deficiency Study Group Report. Am J Clin Nutr. 2004;79(2):231-7. doi:10.1093/ajcn/79.2.231",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-11",
+  "license_note": "",
+  "notes": ""
  }
 ]

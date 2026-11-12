@@ -57,6 +57,16 @@ ACR Lung-RADS v2022 table, ACR summary and Petranović 2026 added to `lungrads-2
 `sru-liver-elastography-2020`, postmenopausal endometrium, `esur-microlithiasis-2015`,
 thyroid volume (WHO), hip dysplasia (Graf), urinary tract dilation (UTD 2014).
 
+**Status (2026-11-12, fourth batch)** — written from full texts, all `draft`:
+`pelvis-obstetrics/endometrium-postmenopausal-acog-2018` (ACOG CO 734 only; Smith-Bindman 2004,
+SRU 2001, SOGC 451, Chee 2025 and Doll 2021/2024 still to download),
+`vascular/aaa-surveillance-svs-esvs` (SVS 2018 + ESVS 2024, ESVS read up to PDF page 40),
+`pediatrics/thyroid-volume-children-who-2004`, `pediatrics/utd-2014`.
+Still to download for Phase 2: Barr 2020 (SRU elastography, 10.1148/radiol.2020192437), ESUR
+microlithiasis 2015, Graf (DOI to be traced), and the adult list in the 2026-11-11 answer
+(Pavlik 2000, Levine 2019, Timmerman 2021, AASLD 2023, EASL 2018, Baveno VII, Foley 2022,
+Chow 2016, Childs 2014, Dorfman 1991, Ittermann 2025, Shabana 2006, ATA 2015, ETA 2013).
+
 ### Obstetrics (2026-11-11, second batch) — written from full texts, all `draft`
 
 `pelvis-obstetrics/pregnancy-dating`, `fetal-biometry-isuog-2019`,
@@ -120,6 +130,13 @@ Prendergast 2014, Alves Rosa 2021, Villalobos Gálvez 2021.
 `scct-str-cac-nongated-2017`, `cac-drs-2018`, `aast-ois-2018`, `aspects-2000`,
 `marshall-ct-tbi-1991`, `rotterdam-ct-tbi-2005`, `lumbar-nomenclature-2-2014`,
 `recist-1-1-2009`; Node-RADS and CAD-RADS (current versions to be confirmed).
+
+**Status (2026-11-12, fourth batch)** — written from full texts, all `draft`:
+`abdomen/aast-ois-2018`, `neuro/aspects-2000`, `oncology/recist-1-1-2009`,
+`chest/cac-noncardiac-ct` (SCCT/STR 2016 + CAC-DRS 2018), `chest/cad-rads-2-2022`, and
+`neuro/strive-2-2023` (Duering 2023, received unrequested; appendix not read). Still to download:
+Marshall 1991, Maas 2005 (Rotterdam), Fardon 2014 (lumbar nomenclature 2.0), Elsholtz 2021
+(Node-RADS, 10.1007/s00330-020-07572-4).
 
 ## How Digitado-IA will consume it
 

@@ -1,6 +1,24 @@
 {
  "entries": [
   {
+   "id": "aast-ois-2018",
+   "title": "AAST Organ Injury Scale 2018 — spleen, liver and kidney (CT criteria, vascular injury, active bleeding)",
+   "type": "classification",
+   "area": "abdomen",
+   "modalities": [
+    "CT"
+   ],
+   "population": "all",
+   "source_version": "AAST OIS 2018 revision",
+   "status": "draft",
+   "sources": [
+    "aast-ois-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/aast-ois-2018.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "acr-incidental-adrenal-2017",
    "title": "Incidental adrenal mass on CT or MRI — ACR Incidental Findings Committee white paper (2017)",
    "type": "guideline",
@@ -229,6 +247,43 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "cac-noncardiac-ct",
+   "title": "Coronary artery calcium on non-contrast chest CT — SCCT/STR 2016 guideline and CAC-DRS 2018 (visual, ordinal and Agatston reporting)",
+   "type": "guideline",
+   "area": "chest",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "SCCT/STR guideline 2016 (published 2017); CAC-DRS 2018",
+   "status": "draft",
+   "sources": [
+    "scct-str-cac-nongated-2017",
+    "cac-drs-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/cac-noncardiac-ct.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "cad-rads-2-2022",
+   "title": "CAD-RADS 2.0 (2022) — coronary CTA stenosis categories, plaque burden P1–P4 and modifiers (N, HRP, I, S, G, E)",
+   "type": "classification",
+   "area": "chest",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "CAD-RADS 2.0 (2022)",
+   "status": "draft",
+   "sources": [
+    "cad-rads-2-2022"
+   ],
+   "superseded_by": "",
+   "path": "entries/chest/cad-rads-2-2022.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "fleischner-2017",
    "title": "Fleischner Society 2017 guidelines for incidental pulmonary nodules on CT",
    "type": "guideline",
@@ -303,6 +358,24 @@
    "superseded_by": "",
    "path": "entries/chest/thoracic-terminology-pt-2021.md",
    "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "aspects-2000",
+   "title": "ASPECTS — Alberta Stroke Program Early CT Score for early ischaemic change in the MCA territory (Barber 2000)",
+   "type": "scale",
+   "area": "neuro",
+   "modalities": [
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "Original description (Lancet 2000)",
+   "status": "draft",
+   "sources": [
+    "aspects-2000"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/aspects-2000.md",
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "erica-2018",
@@ -395,6 +468,79 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "strive-2-2023",
+   "title": "STRIVE-2 — terminology and definitions of small vessel disease features on MRI (recent small subcortical infarct, lacune, WMH, perivascular space, microbleed, siderosis, cortical microinfarct)",
+   "type": "terminology",
+   "area": "neuro",
+   "modalities": [
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "STRIVE-2 position paper (Lancet Neurol 2023), update of STRIVE-1 (2013)",
+   "status": "draft",
+   "sources": [
+    "strive-2-2023"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/strive-2-2023.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "recist-1-1-2009",
+   "title": "RECIST 1.1 — measurable disease, target and non-target lesions, lymph nodes and response categories (Eisenhauer 2009)",
+   "type": "classification",
+   "area": "oncology",
+   "modalities": [
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "RECIST version 1.1 (2009)",
+   "status": "draft",
+   "sources": [
+    "recist-1-1-2009"
+   ],
+   "superseded_by": "",
+   "path": "entries/oncology/recist-1-1-2009.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "thyroid-volume-children-who-2004",
+   "title": "Thyroid volume in 6–12-year-old children by ultrasound — WHO/ICCIDD international reference (Zimmermann 2004)",
+   "type": "reference-values",
+   "area": "pediatrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "children",
+   "source_version": "WHO/NHD Iodine Deficiency Study Group 2004",
+   "status": "draft",
+   "sources": [
+    "zimmermann-thyroid-children-2004"
+   ],
+   "superseded_by": "",
+   "path": "entries/pediatrics/thyroid-volume-children-who-2004.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "utd-2014",
+   "title": "Urinary tract dilation (UTD) classification 2014 — prenatal A1/A2–3 and postnatal P1/P2/P3, measurement and follow-up",
+   "type": "classification",
+   "area": "pediatrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "all",
+   "source_version": "Multidisciplinary consensus 2014 (eight societies)",
+   "status": "draft",
+   "sources": [
+    "nguyen-utd-2014"
+   ],
+   "superseded_by": "",
+   "path": "entries/pediatrics/utd-2014.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "uterine-ovarian-volume-kelsey",
    "title": "Normative uterine (Kelsey 2016) and ovarian (Kelsey 2013) volume by age",
    "type": "reference-values",
@@ -469,6 +615,24 @@
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/early-pregnancy-failure-sru-2013.md",
    "last_reviewed": "2026-11-11"
+  },
+  {
+   "id": "endometrium-postmenopausal-acog-2018",
+   "title": "Postmenopausal endometrium on transvaginal US — ACOG Committee Opinion 734 (≤ 4 mm with bleeding; incidental thickening without bleeding)",
+   "type": "guideline",
+   "area": "pelvis-obstetrics",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "ACOG Committee Opinion No. 734 (May 2018; replaces No. 440, 2009)",
+   "status": "draft",
+   "sources": [
+    "acog-co734-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/pelvis-obstetrics/endometrium-postmenopausal-acog-2018.md",
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "estimated-fetal-weight-charts",
@@ -732,6 +896,26 @@
    "last_reviewed": "2026-11-11"
   },
   {
+   "id": "aaa-surveillance-svs-esvs",
+   "title": "Abdominal aortic aneurysm — definition, diameter measurement and surveillance intervals (SVS 2018 and ESVS 2024)",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "US",
+    "CT"
+   ],
+   "population": "adults",
+   "source_version": "SVS practice guidelines 2018; ESVS clinical practice guidelines 2024",
+   "status": "draft",
+   "sources": [
+    "svs-aaa-2018",
+    "esvs-aaa-2024"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/aaa-surveillance-svs-esvs.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "acr-incidental-vascular-2013",
    "title": "Incidental vascular findings on abdominal/pelvic CT and MRI — ACR white paper (2013, part 2)",
    "type": "guideline",
@@ -812,9 +996,9 @@
   }
  ],
  "counts": {
-  "entries": 42,
+  "entries": 52,
   "verified": 0,
-  "references": 77,
-  "references_reviewed": 65
+  "references": 84,
+  "references_reviewed": 77
  }
 }
