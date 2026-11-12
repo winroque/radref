@@ -7,7 +7,7 @@ modalities: [US]
 population: pregnant
 source_version: "SRU 2012 consensus (published 2013); review 2015"
 status: draft
-verified_against: "full-text PDFs read by Claude on 2026-11-11: Doubilet 2013 (NEJM, Table 1 diagnostic/suspicious criteria, discriminatory hCG text) and Rodgers 2015 (RadioGraphics, Tables 1–4, Fig. 19) ; NEJM pages 6–9 (PUL/ectopic) not read; Rodgers Fig. 19 checked on the rendered page 2026-11-12 — awaiting radiologist sign-off"
+verified_against: "full-text PDFs read by Claude: Doubilet 2013 (NEJM; Table 1 terminology, tests and minimum exam quality; Table 2 diagnostic/suspicious criteria; discriminatory-hCG passage) on 2026-11-11/12, and Rodgers 2015 (RadioGraphics, Tables 1–4; Fig. 19 checked on the rendered page 2026-11-12). The rest of the NEJM PUL/ectopic discussion was not read — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [doubilet-nonviable-2013, rodgers-early-pregnancy-2015]
@@ -40,6 +40,12 @@ last_reviewed: 2026-11-12
 | Intradecidual sign | Eccentric sac within decidua, collapsed cavity seen as echogenic line — highly suggestive of IUP | [rodgers-early-pregnancy-2015] |
 | Double sac sign | Two concentric echogenic rings — confirms IUP; both signs absent in ≥ 35% of sacs | [rodgers-early-pregnancy-2015] |
 | PUL | Positive pregnancy test, no definite IUP and normal adnexa; transient state; three hypotheses: very early IUP, occult ectopic, completed miscarriage | [rodgers-early-pregnancy-2015] |
+
+**Exam prerequisites:** minimum quality — transvaginal assessment of uterus and adnexa plus a
+transabdominal look for free fluid and a high pelvic mass; trained physician oversight; certified
+operators; equipment adequate for early first-trimester structures [doubilet-nonviable-2013,
+Table 1]. Transabdominal US alone may suffice to diagnose failure when CRL ≥ 15 mm without cardiac
+activity [doubilet-nonviable-2013, Table 1 footnote].
 
 ## 3. Criteria / categories
 
@@ -150,13 +156,8 @@ significance. [rodgers-early-pregnancy-2015]
   [rodgers-early-pregnancy-2015]
 - The impact of conservative criteria is small: ~12% of pregnancies formerly labelled
   non-viable become "suspicious" and need follow-up. [rodgers-early-pregnancy-2015]
-- Minimum exam quality (Doubilet Table 1): transvaginal assessment of uterus and adnexa plus
-  transabdominal look for free fluid and a high pelvic mass; trained physician oversight;
-  certified operators; equipment adequate for early first-trimester structures.
-  [doubilet-nonviable-2013, Table 1]
-- Transabdominal US alone may suffice to diagnose failure when CRL ≥ 15 mm without cardiac
-  activity (Table 1 footnote); double-sac and intradecidual signs are absent in ≥ 35% of sacs;
-  interobserver CRL variation ±15% underlies the 7-mm cut-off. [doubilet-nonviable-2013]
+- Double-sac and intradecidual signs are absent in ≥ 35% of sacs; interobserver CRL variation
+  ±15% underlies the 7-mm cut-off. [doubilet-nonviable-2013]
 - Heart-rate lower limit: 120 bpm at 6.3–7.0 weeks in the text, 6.5–7.0 weeks in Table 1.
   [rodgers-early-pregnancy-2015]
 - Figure 19 says "embryo ≤ 4 mm" and the text "< 4 mm"; either way, a 4 mm embryo without
@@ -185,3 +186,4 @@ significance. [rodgers-early-pregnancy-2015]
 | 2026-11-11 | Checked against both full texts, including the NEJM criteria table read directly: no changes; [verify] mark resolved | Claude |
 | 2026-11-12 | Pre-check fixes: 7–10-day follow-up (Doubilet Table 2 footnote); impression wording matched to Fig. 19 (rendered); round/irregular split confirmed; items wrongly in §6 moved to Pitfalls; TA US, double-sac, CRL variation, heart-rate table/text difference. NEJM PUL pages not re-read | Claude |
 | 2026-11-12 | Doubilet Table 1 minimum quality criteria added; verified_against notes the unread NEJM PUL pages and the rendered Fig. 19 | Claude |
+| 2026-11-12 | Round-3: exam prerequisites moved from Pitfalls to §2; verified_against corrected (Table 2 holds the criteria) | Claude |

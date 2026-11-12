@@ -7,7 +7,7 @@ modalities: [XR, CT, MRI]
 population: all
 source_version: "2021"
 status: draft
-verified_against: "full-text PDF (J Bras Pneumol 2021;47(5):e20200595, Portuguese version) read by Claude on 2026-11-11: every numeric definition and the terms-to-avoid checked against the glossary entries — awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Bras Pneumol 2021;47(5):e20200595, Portuguese version) read by Claude on 2026-11-11: every numeric definition and the terms-to-avoid checked against the glossary entries; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [hochhegger-terminology-2021]

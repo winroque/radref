@@ -7,7 +7,7 @@ modalities: [CT]
 population: adults
 source_version: "v2022 (released November 2022; article 2024)"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11 (Tables 1–4 and text), plus the ACR Lung-RADS v2022 assessment-category table with notes and the ACR 'Summary of Changes and Updates' (both November 2022) and Petranović 2026 (Cancer Imaging review) — awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11 (Tables 1–4 and text), plus the ACR Lung-RADS v2022 assessment-category table with notes and the ACR 'Summary of Changes and Updates' (both November 2022) and Petranović 2026 (Cancer Imaging review); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [lungrads-2022, acr-lungrads-2022-table, petranovic-lungrads-2026]
@@ -138,9 +138,10 @@ examination. [lungrads-2022]
 
 - Downgrading a persistent segmental/proximal airway nodule at 3 months (it becomes 4B).
 - Classifying simple thin-walled cysts or diffuse cystic lung disease without concerning
-  features: thin-walled cysts (< 2 mm), fluid-containing cysts (possible infection) and
-  multiple cysts (LCH, LAM) are not classified unless other concerning features are present.
-  [acr-lungrads-2022-table, notes 12a, 12g, 12h]
+  features. Thin-walled cysts (unilocular, uniform wall < 2 mm) are benign and are not
+  classified [acr-lungrads-2022-table, note 12a]; fluid-containing cysts (possible infection)
+  and multiple cysts (LCH, LAM) are not classified unless other concerning features are present
+  [acr-lungrads-2022-table, notes 12g, 12h].
 - Using Lung-RADS thresholds for incidental (non-screening) nodules.
 - Ignoring a prior diagnostic CT at baseline: it should be used (e.g. 8-mm nodule stable for
   1 year → 2; new → 4B). Patients no longer eligible still receive a category and management
@@ -182,3 +183,4 @@ examination. [lungrads-2022]
 | 2026-11-11 | Added the full v2022 category table from the ACR document (summarized), the ACR summary and the 2026 review; flagged the '> 2 mm³' growth figure and the < vs ≤ 10 mm juxtapleural discrepancy | Claude |
 | 2026-11-12 | Pre-check fixes: 4X management not specified; juxtapleural 'at baseline or new'; slow-growing per notes 7–8; airway PET/CT option and 21 vs 21.7 HU; current-version claim softened; prior-CT and Table 4 items | Claude |
 | 2026-11-12 | Fluid-containing and multiple cysts not classified (notes 12g/h) | Claude |
+| 2026-11-12 | Round-3: note 12a separated from the 'unless other concerning features' caveat of 12g/h | Claude |

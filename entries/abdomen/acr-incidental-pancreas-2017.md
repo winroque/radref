@@ -7,7 +7,7 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF, in-press version without final pagination (published J Am Coll Radiol 2017;14(7):911–23), read by Claude on 2026-11-11: text of Charts 1–4, worrisome features table, growth definitions, follow-up duration — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
+verified_against: "full-text PDF, in-press version without final pagination (published J Am Coll Radiol 2017;14(7):911–23), read by Claude on 2026-11-11: text of Charts 1–4, worrisome features table, growth definitions, follow-up duration — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
 verified_on: ""
 sources: [acr-pancreas-2017]

@@ -7,7 +7,7 @@ modalities: [US]
 population: adults
 source_version: "2022"
 status: draft
-verified_against: "full-text PDF (Radiology 2022;305(2):277–89) read by Claude on 2026-11-11: Figure 1 (applicability flowchart) and Figure 2 (risk categories, footnotes) read from the rendered pages, Definitions table, sections on patient and polyp factors — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Radiology 2022;305(2):277–89) read by Claude on 2026-11-11: Figure 1 (applicability flowchart) and Figure 2 (risk categories, footnotes) read from the rendered pages, Definitions table, sections on patient and polyp factors; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [sru-gallbladder-polyps-2022]

@@ -7,7 +7,7 @@ modalities: [MG, US, MRI]
 population: adults
 source_version: "v2025"
 status: draft
-verified_against: "full-text PDF of Minichetti 2026 (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; ACR What's New (Nov 2025) read in full on 2026-11-12; the v2025 manual body was not read (its eBook terms forbid AI analysis) — awaiting radiologist sign-off"
+verified_against: "Minichetti 2026 full text (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; ACR What's New (Nov 2025), Schijf & Smithuis 2026 (mammography and US pages, text only), UNICAMP Dr. Pixel (US app) and Ndirangu 2026 (PDF supplied by the radiologist) read on 2026-11-12; the v2025 manual body was not read by Claude (eBook terms forbid AI analysis) — category 0 and vascular-calcification wording checked in the manual by the radiologist on 2026-11-12 — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-birads-2025, acr-birads-2025-whats-new, minichetti-birads-2026, schijf-birads-mg-2026, schijf-birads-us-2026, unicamp-birads-us-2025, ndirangu-bac-2026]
@@ -28,7 +28,8 @@ last_reviewed: 2026-11-12
 
 ## 1. Scope
 
-- **Applies to:** mammography (including tomosynthesis), breast ultrasound, breast MRI and CEM.
+- **Applies to:** mammography (including tomosynthesis), breast ultrasound, breast MRI and CEM
+  (the radref schema has no CEM modality value; CEM is listed under MG).
 - **Not covered here:** the full lexicon, audit section and report templates (see the manual).
 
 ## 2. Definitions
@@ -67,12 +68,12 @@ Selected changes in v2025, from Minichetti 2026, the ACR What's New table and th
 | 3 | Probably benign; likelihood of malignancy > 0 to ≤ 2% (US teaching app) | [unicamp-birads-us-2025] |
 | 4 | Suspicious: 4A > 2 to ≤ 10%, 4B > 10 to ≤ 50%, 4C > 50 to < 95% (US teaching app) [unicamp-birads-us-2025]; subdivision 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
 | 5 | Highly suggestive of malignancy; ≥ 95% (US teaching app) [unicamp-birads-us-2025]; on mammography "no single mammographic feature confers a > 95% likelihood of malignancy" [schijf-birads-mg-2026] | secondary summaries |
-| 6 | Known biopsy-proven malignancy | [acr-birads-2025; acr-birads-2025-whats-new] |
+| 6 | Known biopsy-proven malignancy | [acr-birads-2025-whats-new] |
 
-> Category definitions, likelihood ranges and management are corroborated by open secondary
-> summaries of the v2025 manual (Schijf & Smithuis 2026; UNICAMP Dr. Pixel, based on the ACR
-> 2025 edition). They were not checked against the manual itself (its eBook terms forbid AI
-> analysis).
+> Categories 1–5 and their management rest on open secondary summaries of the v2025 manual
+> (Schijf & Smithuis 2026; UNICAMP Dr. Pixel, based on the ACR 2025 edition) and were not read
+> in the manual by Claude (its eBook terms forbid AI analysis). The category 0 wording was
+> checked in the manual by the radiologist; category 6 rests on the ACR What's New.
 
 ## 4. Management
 
@@ -141,3 +142,4 @@ Selected changes in v2025, from Minichetti 2026, the ACR What's New table and th
 | 2026-11-12 | UNICAMP Dr. Pixel BI-RADS US 2025 added: likelihood ranges 1–5 (incl. 3 ≤ 2%, 4A/4B/4C, 5 ≥ 95%) and category 3 follow-up; Ndirangu 2026 (BAC review) added for vascular calcification context | Claude |
 | 2026-11-12 | Radiologist checked the v2025 manual: vascular calcifications 'should' be reported; category 0 applies to suspicious findings (at screening). Entry updated accordingly | Claude |
 | 2026-11-12 | Checagem fixes: [acr-birads-2025] removed where the manual was not read; likelihood ranges labelled as from a US teaching app; category 0 row no longer cites Minichetti and §7 drops our reconciliation; §2/§6/§8 updated | Claude |
+| 2026-11-12 | Round-3: note under §3 reconciled with the radiologist-checked category 0; category 6 cites What's New only; CEM/schema note; verified_against lists all sources | Claude |

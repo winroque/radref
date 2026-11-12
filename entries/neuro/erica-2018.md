@@ -7,7 +7,7 @@ modalities: [MRI]
 population: adults
 source_version: "2018"
 status: draft
-verified_against: "full-text PDF (Radiology 2018;288(1):226–33) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 3 score definitions, diagnostic accuracy results — awaiting radiologist sign-off"
+verified_against: "full-text PDF (online-ahead version, no final pagination) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 3 score definitions, diagnostic accuracy results; additions of 2026-11-12 from the independent pre-check of the same PDF — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [enkirch-erica-2018]
@@ -69,7 +69,7 @@ higher than MTA (74%). [enkirch-erica-2018]
 
 ## 8. How to cite
 
-- Primary: `enkirch-erica-2018` (Crossref lists pages 226-333; PubMed PMID 29514015 gives 226-33)
+- Primary: `enkirch-erica-2018` (PubMed PMID 29514015 and Crossref both list pages "226-333", an apparent error; the true page range is to be confirmed on the journal site)
 
 ## 9. Change log
 
@@ -79,3 +79,4 @@ higher than MTA (74%). [enkirch-erica-2018]
 | 2026-11-11 | Checked against the full text: score definitions, cut-off >= 2 and accuracy figures confirmed; no changes | Claude |
 | 2026-11-12 | Pre-check fixes: Fig. 3 for grade definitions; mammillary-body level and higher-side rule; study design, κ and AUC; MCI caveat; age correlation. Note: abstract and Table 1 swap the AD/SCD mean ages | Claude |
 | 2026-11-12 | §8 page note corrected (Crossref 226-333; PubMed 226-33) | Claude |
+| 2026-11-12 | Round-3: earlier note wrong — PubMed also lists 226-333; page range marked as to be confirmed | Claude |

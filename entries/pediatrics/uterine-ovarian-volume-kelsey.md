@@ -7,7 +7,7 @@ modalities: [US, MRI]
 population: all
 source_version: "2013 (ovary); 2016 (uterus)"
 status: draft
-verified_against: "full-text PDFs read by Claude on 2026-11-11: Kelsey 2016 (PLoS One, Methods, Table 5, model coefficients) and Kelsey 2013 (PLoS One, Methods, Table 2, Figs. 1–3) — awaiting radiologist sign-off"
+verified_against: "full-text PDFs read by Claude on 2026-11-11: Kelsey 2016 (PLoS One, Methods, Table 5, model coefficients) and Kelsey 2013 (PLoS One, Methods, Table 2, Figs. 1–3); data-composition points of 2026-11-12 from the independent pre-check of the same PDFs — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [kelsey-uterus-2016, kelsey-ovary-2013]

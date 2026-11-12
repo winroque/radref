@@ -39,6 +39,7 @@ last_reviewed: 2026-11-12
 | Indeterminate | Absent hilum and ≥ 1 of: round shape; short axis ≥ 8 mm (level II) or ≥ 5 mm (levels III and IV); increased central vascularity | [eta-cervical-us-2013] |
 | Suspicious | ≥ 1 of: microcalcifications, partly cystic appearance, peripheral or diffusely increased vascularity, hyperechoic thyroid-like tissue | [eta-cervical-us-2013] |
 | Thyroid-bed mass, suspicious | Hypoechoic and/or cystic, calcifications, irregular shape/borders, increased vascularity | [eta-cervical-us-2013, R4] |
+| US signs and their accuracy | ATA Table 7 lists the US signs of a metastatic node with sensitivity and specificity, adapted from the ETA guidelines (it corresponds to the ETA diagnostic-value table, not to the suspicious/indeterminate classification) | [ata-thyroid-2015, Table 7] |
 | Levels | III above and IV below the omohyoid; II/III separated at the carotid bifurcation | [eta-cervical-us-2013] |
 
 ## 3. Criteria / categories
@@ -55,7 +56,7 @@ last_reviewed: 2026-11-12
 | Situation | Recommendation | Source |
 |---|---|---|
 | Suspicious node | FNA cytology and FNA-Tg, considering size | [eta-cervical-us-2013, R12] |
-| Indeterminate node | Decide by stage, histology, size, location and serum Tg (Table 3 merges the two rows; ATA Table 7 is adapted from the ETA classification) | [eta-cervical-us-2013, R12; Table 3] |
+| Indeterminate node | Decide by stage, histology, size, location and serum Tg (Table 3 merges the two rows) | [eta-cervical-us-2013, R12; Table 3] |
 | Small node (short axis < 5–7 mm) | Conservative approach (QOE +, grade 1) | [eta-cervical-us-2013, R12] |
 | Suspicious node ≥ 8–10 mm smallest diameter (pre- or postoperative) | US-guided FNA if a positive result would change management | [ata-thyroid-2015, Rec. 32B (preoperative) and 65B (postoperative)] |
 | FNA washout Tg | Preoperative: appropriate in selected patients (Rec. 32C); postoperative: included with FNA (Rec. 65B) | [ata-thyroid-2015, Rec. 32C and 65B] |
@@ -92,3 +93,4 @@ last_reviewed: 2026-11-12
 | 2026-11-12 | Created from the full texts (node sections) | Claude |
 | 2026-11-12 | Pre-check fixes: 32B/32C/65B separated; washout Tg cut-offs by setting (C10 vs B4) plus ETA cut-offs; thyroid-bed lesion must be suspicious; small-node conduct moved to management; suspicious vs indeterminate split; bed-mass criteria (R4). ATA Table 7 is adapted from ETA | Claude |
 | 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |
+| 2026-11-12 | Round-3: ATA Table 7 sentence moved to §2 with its own key and corrected meaning | Claude |

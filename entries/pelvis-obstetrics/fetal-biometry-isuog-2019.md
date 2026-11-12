@@ -7,7 +7,7 @@ modalities: [US]
 population: pregnant
 source_version: "ISUOG Practice Guidelines 2019; charts 1994–2017"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: ISUOG biometry guideline 2019 (all sections, Tables 1–2), Papageorghiou 2014 Lancet (abstract, methods), Kiserud 2017 WHO (abstract, methods), Snijders 1994 (OCR of pages 1–3: abstract and methods; the chart tables were not transcribed) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: ISUOG biometry guideline 2019 (all sections, Tables 1–2), Papageorghiou 2014 Lancet (abstract, methods), Kiserud 2017 WHO (abstract, methods), Snijders 1994 (OCR of pages 1–3: abstract and methods; the chart tables were not transcribed); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [isuog-biometry-2019, snijders-biometry-1994, ig21-fetal-growth-2014, who-fetal-growth-2017, isuog-midtrimester-2022]

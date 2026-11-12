@@ -7,7 +7,7 @@ modalities: [US]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2017;14(5):587–95), read by Claude on 2026-11-11: Fig. 1 chart and notes, points rules, size thresholds, papillary microcarcinoma, growth definition, follow-up timing, number of nodules — awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(5):587–95), read by Claude on 2026-11-11: Fig. 1 chart and notes, points rules, size thresholds, papillary microcarcinoma, growth definition, follow-up timing, number of nodules; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-tirads-2017]

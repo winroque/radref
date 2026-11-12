@@ -7,7 +7,7 @@ modalities: [US]
 population: pregnant
 source_version: "ACOG Committee Opinion 700 (2017); ISUOG 2019 and 2023; INTERGROWTH-21st CRL standard (2014); Robinson & Fleming 1975"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (full text; Tables I–III legible), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (full text; Tables I–III legible), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acog-co700-2017, robinson-crl-1975, ig21-crl-2014, hadlock-ga-1984, isuog-biometry-2019, isuog-11-14-2023]
@@ -37,7 +37,7 @@ last_reviewed: 2026-11-12
 | Term | Definition | Source |
 |---|---|---|
 | Due date by LMP | 280 days after the first day of the LMP (assumes a 28-day cycle, ovulation on day 14) | [acog-co700-2017] |
-| CRL technique | True midsagittal plane, fetus neutral (neither flexed nor hyperextended), horizontal on screen with the line at ~90° to the beam, image magnified; longest straight line crown to rump, with the genital tubercle and spine longitudinally in view (ACOG). Mean of three measurements when possible (ACOG); ISUOG 2019 dates by CRL at **8–14 weeks**; best-quality CRL between **45 and 84 mm** when several were taken (ISUOG 2023) | [acog-co700-2017; isuog-11-14-2023] |
+| CRL technique | True midsagittal plane, fetus neutral (neither flexed nor hyperextended), horizontal on screen with the line at ~90° to the beam, image magnified; longest straight line crown to rump, with the genital tubercle and spine longitudinally in view (ACOG). Mean of three measurements when possible (ACOG); ISUOG 2019 dates by CRL at **8–14 weeks**; best-quality CRL between **45 and 84 mm** when several were taken (ISUOG 2023) | [acog-co700-2017; isuog-biometry-2019; isuog-11-14-2023] |
 | Mean sac diameter | **Not** recommended for estimating the due date | [acog-co700-2017] |
 | Suboptimally dated | No ultrasound confirming or revising the due date before **22 + 0 weeks** | [acog-co700-2017] |
 
@@ -124,3 +124,4 @@ reliable the LMP is. [acog-co700-2017]
 | 2026-11-11 | Created from the full texts | Claude |
 | 2026-11-12 | Pre-check fixes: accuracy column cited to the text; Hadlock tables are legible (editorial omission only); Hadlock pitfalls and ACOG items. Reference record: institutional authorship added | Claude |
 | 2026-11-12 | Checked against the PDFs: CRL measured once (IG-21st methods, confirmed), inverse equation and selection added; ISUOG 2019 8–14 weeks; ACOG CRL technique (genital tubercle and spine) | Claude |
+| 2026-11-12 | Round-3: [isuog-biometry-2019] key added to the CRL technique row | Claude |

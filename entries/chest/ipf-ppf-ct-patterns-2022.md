@@ -7,7 +7,7 @@ modalities: [CT]
 population: adults
 source_version: "2022"
 status: draft
-verified_against: "full-text PDF (Am J Respir Crit Care Med 2022;205(9):e18–e47) read by Claude on 2026-11-11: HRCT pattern table, honeycombing and mimics, Table 4 (PPF, checked on the rendered page for ≥ symbols), changes from 2018, ILA paragraph — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Am J Respir Crit Care Med 2022;205(9):e18–e47) read by Claude on 2026-11-11: HRCT pattern table, honeycombing and mimics (legends of Figs. 2–6, re-read 2026-11-12), Table 4 (PPF, checked on the rendered page for ≥ symbols), changes from 2018, ILA paragraph — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [raghu-ipf-ppf-2022]

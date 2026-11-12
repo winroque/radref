@@ -7,7 +7,7 @@ modalities: [MRI]
 population: adults
 source_version: "1992"
 status: draft
-verified_against: "full-text PDF (J Neurol Neurosurg Psychiatry 1992;55(10):967–72) read by Claude on 2026-11-11: Table 1 read from the rendered page, MRI technique and analysis, results (Fig. 4–5) — awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Neurol Neurosurg Psychiatry 1992;55(10):967–72) read by Claude on 2026-11-11: Table 1 read from the rendered page, MRI technique and analysis, results (Fig. 4–5), Discussion (sensitivity/specificity, < 75 years); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [scheltens-mta-1992]

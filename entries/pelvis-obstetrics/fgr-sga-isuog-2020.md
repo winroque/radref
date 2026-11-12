@@ -7,7 +7,7 @@ modalities: [US]
 population: pregnant
 source_version: "Delphi 2016; ISUOG Practice Guidelines 2020"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: Gordijn 2016 (abstract, results, Table of consensus parameters), Lees 2020 ISUOG (recommendations, Table 1, Figures 1–2 text), ISUOG biometry 2019 Table 2 — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: Gordijn 2016 (abstract, results, Table of consensus parameters), Lees 2020 ISUOG (recommendations, Table 1, Figures 1–2 text), ISUOG biometry 2019 Table 2; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [gordijn-fgr-delphi-2016, isuog-sga-fgr-2020, isuog-biometry-2019]

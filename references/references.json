@@ -549,7 +549,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Crossref page range is wrong (226-333); the article is 226-33. Vancouver checked against the PDF first page by Claude on 2026-11-11. The PDF read is the online-ahead version; 288(1):226-33 confirmed on PubMed (PMID 29514015).",
+  "notes": "The PDF read is the online-ahead version (no final pagination). PubMed (PMID 29514015) and Crossref both list pages 226-333, an apparent error; the page range in the Vancouver string (226-33) is to be confirmed on the journal site.",
   "crossref_exceptions": [
    "pages"
   ]

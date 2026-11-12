@@ -7,7 +7,7 @@ modalities: [CT]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2017;14(11):1429–37), read by Claude on 2026-11-11: flowchart footnotes, Table 1 (risk), benign/suspicious features, flash-filling, gadoxetate and biopsy notes — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(11):1429–37), read by Claude on 2026-11-11: flowchart footnotes, Table 1 (risk), benign/suspicious features, flash-filling, gadoxetate and biopsy notes — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
 verified_on: ""
 sources: [acr-liver-2017]

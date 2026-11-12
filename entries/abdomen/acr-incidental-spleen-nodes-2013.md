@@ -7,7 +7,7 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2013"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2013;10(11):833–9), read by Claude on 2026-11-11: splenic flowchart and footnotes, nodal criteria, ~3-month follow-up, sclerosing mesenteritis — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2013;10(11):833–9), read by Claude on 2026-11-11: splenic flowchart footnotes, nodal criteria, ~3-month follow-up, sclerosing mesenteritis; Fig. 1 flowchart (vector graphic) checked on the rendered page on 2026-11-12 — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-spleen-nodes-2013]
@@ -113,3 +113,4 @@ See section 3.
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
 | 2026-11-12 | Pre-check fixes: ~3-month follow-up condition per text; Dorfman cross-reference | Claude |
 | 2026-11-12 | Fig. 1 flowchart rendered: < 1 cm with cancer → follow-up imaging (MRI 6 and 12 months) confirmed | Claude |
+| 2026-11-12 | Round-3: verified_against records the rendered Fig. 1 check | Claude |

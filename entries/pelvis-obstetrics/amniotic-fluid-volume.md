@@ -7,7 +7,7 @@ modalities: [US]
 population: pregnant
 source_version: "1984, 1990; ISUOG 2022"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: Chamberlain 1984 (methods, results, figure legends; scanned PDF), Moore & Cayle 1990 (abstract, Methods, Tables III–V, results, comment), Chamberlain Tables II–III, ISUOG mid-trimester 2022 (amniotic fluid section) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: Chamberlain 1984 (methods, results, figure legends; scanned PDF), Moore & Cayle 1990 (abstract, Methods, Tables III–V, results, comment), Chamberlain Tables II–III, ISUOG mid-trimester 2022 (amniotic fluid section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [chamberlain-sdp-1984, moore-afi-1990, isuog-midtrimester-2022]

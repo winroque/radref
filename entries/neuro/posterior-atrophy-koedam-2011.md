@@ -7,7 +7,7 @@ modalities: [MRI]
 population: adults
 source_version: "2011"
 status: draft
-verified_against: "full-text PDF (Eur Radiol 2011;21:2618–25, open access), read by Claude on 2026-11-11: Methods (scale definition), Fig. 1, Tables 1–4, Discussion — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Eur Radiol 2011;21:2618–25, open access), read by Claude on 2026-11-11: Methods (scale definition), Fig. 1, Tables 1–4, Discussion; Table 3 models re-read on 2026-11-12 — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [koedam-posterior-2011]
@@ -78,7 +78,8 @@ Not applicable. Study results (rater 1 scores): [koedam-posterior-2011]
 - Treating the > 1 cut-off as validated in other populations or at 1.5 T/CT: it comes from one
   3.0 T memory-clinic cohort. The AD cohort was relatively young; the authors advise caution when
   generalizing to older patients. [koedam-posterior-2011]
-- PA was associated with MMSE independently of MTA (B −1.8). [koedam-posterior-2011, Table 3]
+- PA was associated with lower MMSE independently of MTA: B −1.6 with both scales in the model
+  (−1.7 unadjusted; −1.8 adjusted for age and sex). [koedam-posterior-2011, Table 3]
 
 ## 6. What the source does not say
 
@@ -102,3 +103,4 @@ Not applicable. Study results (rater 1 scores): [koedam-posterior-2011]
 | 2026-11-11 | Written from the full text (scale definition, landmarks, highest-score rule, > 1 dichotomy, study results); [verify] marks resolved | Claude |
 | 2026-11-12 | Pre-check additions: young AD cohort caution; PA–MMSE association independent of MTA. Reference record notes/licence updated (CC BY-NC) | Claude |
 | 2026-11-12 | Vancouver initials set to the first-page form (Koedam ELGE, Pijnenburg YAL), radiologist's choice | Claude |
+| 2026-11-12 | Round-3: MMSE coefficient corrected to the joint model (B −1.6; Table 3 models 1–3) | Claude |

@@ -7,7 +7,7 @@ modalities: [MRI]
 population: adults
 source_version: "1987"
 status: draft
-verified_against: "full-text PDF (AJR 1987;149(2):351–6, ARRS online reprint) read by Claude on 2026-11-11: grading paragraph (PVH and DWMH), results on frequency and risk factors — awaiting radiologist sign-off"
+verified_against: "full-text PDF (AJR 1987;149(2):351–6, ARRS online reprint) read by Claude on 2026-11-11: grading paragraph (PVH and DWMH), results on frequency and risk factors; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [fazekas-1987]

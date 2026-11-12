@@ -7,7 +7,7 @@ modalities: [CT]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF (Radiology 2017;284(1):228–43), read by Claude on 2026-11-11: Table (A solid, B subsolid) with footnotes and comments, General Recommendations (measurement, technique), Risk Factors section, perifissural nodules (p. 13) — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Radiology 2017;284(1):228–43), read by Claude on 2026-11-11 and 2026-11-12 (technique, perifissural nodules): Table (A solid, B subsolid) with footnotes and comments, General Recommendations (measurement, technique), Risk Factors section, perifissural nodules (PDF p. 13 = printed p. 240) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [fleischner-2017]

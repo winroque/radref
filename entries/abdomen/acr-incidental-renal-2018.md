@@ -7,7 +7,7 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2018"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2018;15(2):264–73), read by Claude on 2026-11-11: text of flowcharts 1–5, figure footnotes, Table (enhancement thresholds), exclusions — flowchart boxes are images and were read through their footnotes and the text; awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Am Coll Radiol 2018;15(2):264–73), read by Claude on 2026-11-11: text of flowcharts 1–5, figure footnotes, Table (enhancement thresholds), exclusions; 2026-11-12: Bosniak table and malignancy rates (p. 7), biopsy text (p. 9) — flowchart boxes are images and were read through their footnotes and the text — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-renal-2018]
@@ -88,7 +88,7 @@ both (`bosniak-2019`). [acr-renal-2018, Table 2]
 | Bosniak | Recommendation | Source |
 |---|---|---|
 | I, II | Benign, no follow-up | [acr-renal-2018] |
-| IIF | Malignancy ~11%. Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
+| IIF | Malignancy ~11% (rates are higher with a history of RCC or a coexisting Bosniak IV/solid mass). Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
 | III, IV | Refer for treatment (malignancy ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
 
 ### Flowchart 4 — solid mass or TSTC at unenhanced + enhanced CT/MRI
@@ -145,3 +145,4 @@ See the flowchart tables in section 3.
 | 2026-11-11 | Checked against the full text: IIF and small solid surveillance reworded to the paper's "semiannually then annually" (the 6/12-month wording was not in the text); cystic morphologic change defined | Claude |
 | 2026-11-12 | Pre-check fixes: pre-2019 hyperdense-cyst and calcification rules (Table 2); IIF malignancy ~11% | Claude |
 | 2026-11-12 | IIF malignancy moved to the IIF row; biopsy of > 4 cm solid masses generally reserved for significant comorbidities | Claude |
+| 2026-11-12 | Round-3: caveat on malignancy rates; verified_against updated | Claude |
