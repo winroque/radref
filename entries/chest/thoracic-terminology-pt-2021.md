@@ -14,7 +14,7 @@ sources: [hochhegger-terminology-2021]
 supersedes: []
 superseded_by: ""
 related: [ipf-ppf-ct-patterns-2022, fleischner-2017]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Thoracic imaging terminology in Portuguese (Hochhegger 2021)

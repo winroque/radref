@@ -14,7 +14,7 @@ sources: [koedam-posterior-2011]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992, gca-pasquier-1996]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Posterior atrophy scale (Koedam 2011)

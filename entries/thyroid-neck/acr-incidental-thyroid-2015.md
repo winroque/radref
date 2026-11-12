@@ -14,7 +14,7 @@ sources: [acr-thyroid-incidental-2015]
 supersedes: []
 superseded_by: ""
 related: [acr-tirads-2017]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental thyroid nodules on imaging (ACR white paper, 2015)
@@ -64,7 +64,7 @@ itself. [acr-thyroid-incidental-2015]
 |---|---|---|
 | **Focal** FDG uptake (with or without CT nodule) | US and FNA of the focus, **regardless** of US appearance (malignancy ~1 in 3); with severe comorbidity or limited life expectancy, no work-up unless requested or clinically indicated (Fig. 2, note 3) | [acr-thyroid-incidental-2015] |
 | Diffuse uptake without mass | Not focal; this branch does not apply | [acr-thyroid-incidental-2015] |
-| Uptake on MIBI or octreotide | Thyroid US; FNA according to US | [acr-thyroid-incidental-2015] |
+| Uptake on MIBI or octreotide | Thyroid US; FNA according to US; with comorbidity or limited life expectancy, no further evaluation unless clinically warranted or requested (Fig. 2, note 3) | [acr-thyroid-incidental-2015] |
 
 ### Ultrasound of extrathyroidal structures
 
@@ -107,3 +107,4 @@ itself. [acr-thyroid-incidental-2015]
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §8 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
 | 2026-11-12 | Pre-check fixes: impression rule moved to §4 (it is stated by the source); comorbidity caveat on the nuclear medicine branch; operator experience | Claude |
+| 2026-11-12 | Comorbidity/life-expectancy caveat extended to the MIBI/octreotide branch | Claude |

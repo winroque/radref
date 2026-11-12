@@ -14,7 +14,7 @@ sources: [enkirch-erica-2018]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # ERICA score (Enkirch 2018)
@@ -69,8 +69,7 @@ higher than MTA (74%). [enkirch-erica-2018]
 
 ## 8. How to cite
 
-- Primary: `enkirch-erica-2018` (pages indexed as "226-333" in PubMed PMID 29514015 and
-  Crossref)
+- Primary: `enkirch-erica-2018` (Crossref lists pages 226-333; PubMed PMID 29514015 gives 226-33)
 
 ## 9. Change log
 
@@ -79,3 +78,4 @@ higher than MTA (74%). [enkirch-erica-2018]
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: score definitions, cut-off >= 2 and accuracy figures confirmed; no changes | Claude |
 | 2026-11-12 | Pre-check fixes: Fig. 3 for grade definitions; mammillary-body level and higher-side rule; study design, κ and AUC; MCI caveat; age correlation. Note: abstract and Table 1 swap the AD/SCD mean ages | Claude |
+| 2026-11-12 | §8 page note corrected (Crossref 226-333; PubMed 226-33) | Claude |

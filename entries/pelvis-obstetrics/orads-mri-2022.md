@@ -14,7 +14,7 @@ sources: [orads-mri-2022, thomassin-orads-mri-2020]
 supersedes: []
 superseded_by: ""
 related: [orads-us-2022]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # O-RADS MRI (2022)

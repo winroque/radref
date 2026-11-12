@@ -3,7 +3,7 @@ id: uterine-ovarian-volume-kelsey
 title: Normative uterine (Kelsey 2016) and ovarian (Kelsey 2013) volume by age
 type: reference-values
 area: pediatrics
-modalities: [US]
+modalities: [US, MRI]
 population: all
 source_version: "2013 (ovary); 2016 (uterus)"
 status: draft
@@ -14,14 +14,15 @@ sources: [kelsey-uterus-2016, kelsey-ovary-2013]
 supersedes: []
 superseded_by: ""
 related: [pcom-2023]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Uterine and ovarian volume by age (Kelsey)
 
 > Normative models of uterine volume (birth to 40 years; n = 1,418; r² = 0.84) and ovarian
 > volume (birth to 82 years; combined n = 59,994 in the abstract; r² = 0.69) by **chronological age**, from pooled
-> ultrasound data. [kelsey-uterus-2016; kelsey-ovary-2013]
+> published data (mostly ultrasound; uterus also 87 MRI planimetry cases; ovary also MRI, specimen
+> weights and fetal data). [kelsey-uterus-2016; kelsey-ovary-2013]
 
 ## 1. Scope
 
@@ -126,3 +127,4 @@ Not applicable (reference values).
 | 2026-11-05 | Migrated from Digitado-IA `pediatria.md` (Uterus and ovary section; house rules removed) | Claude |
 | 2026-11-11 | Checked against both full texts: tables confirmed; ovarian n corrected (59,994, not 59,470); unsupported claims removed (0.523 comparison, neonatal note, older tables) | Claude |
 | 2026-11-12 | Pre-check fixes: mixed US-ellipsoid/MRI-planimetry data; formula in Methods; formula check no longer attributed to the source and Table 5 marked as reference; pitfalls on < 7 y, ovarian data composition and source inconsistencies; tool mention removed. Licences CC BY | Claude |
+| 2026-11-12 | Summary and modalities corrected to the mixed US/MRI/specimen data | Claude |

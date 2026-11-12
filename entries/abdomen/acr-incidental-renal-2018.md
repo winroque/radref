@@ -14,7 +14,7 @@ sources: [acr-renal-2018]
 supersedes: []
 superseded_by: ""
 related: [bosniak-2019]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental renal mass on CT (ACR white paper, 2018)
@@ -88,8 +88,8 @@ both (`bosniak-2019`). [acr-renal-2018, Table 2]
 | Bosniak | Recommendation | Source |
 |---|---|---|
 | I, II | Benign, no follow-up | [acr-renal-2018] |
-| IIF | Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
-| III, IV | Refer for treatment (malignancy ~11% in IIF, ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
+| IIF | Malignancy ~11%. Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
+| III, IV | Refer for treatment (malignancy ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
 
 ### Flowchart 4 — solid mass or TSTC at unenhanced + enhanced CT/MRI
 
@@ -97,7 +97,7 @@ both (`bosniak-2019`). [acr-renal-2018, Table 2]
 |---|---|---|
 | Solid **< 1.0 cm** | Active surveillance with semiannual then annual MRI or CT until growth to > 1 cm, then refer (~60% malignant at pathology but likely indolent; some masses stay on surveillance to 2–3 cm) | [acr-renal-2018] |
 | Solid **1.0–4.0 cm** | Refer; consider biopsy (~80% malignant) | [acr-renal-2018] |
-| Solid **> 4.0 cm** | Refer (~90% malignant) | [acr-renal-2018] |
+| Solid **> 4.0 cm** | Refer (~90% malignant); biopsy generally reserved for patients with significant comorbidities | [acr-renal-2018] |
 
 Biopsy especially if the mass enhances and is hyperattenuating unenhanced or T2-hypointense
 (fat-poor angiomyolipoma), notably in young women. Biopsy is of little use in cystic masses.
@@ -144,3 +144,4 @@ See the flowchart tables in section 3.
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §2 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: IIF and small solid surveillance reworded to the paper's "semiannually then annually" (the 6/12-month wording was not in the text); cystic morphologic change defined | Claude |
 | 2026-11-12 | Pre-check fixes: pre-2019 hyperdense-cyst and calcification rules (Table 2); IIF malignancy ~11% | Claude |
+| 2026-11-12 | IIF malignancy moved to the IIF row; biopsy of > 4 cm solid masses generally reserved for significant comorbidities | Claude |

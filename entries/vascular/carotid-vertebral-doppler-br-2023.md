@@ -14,7 +14,7 @@ sources: [doppler-carotid-br-2023, doppler-br-2019]
 supersedes: []
 superseded_by: ""
 related: [carotid-imt-reference-values, doppler-br-2019-territories]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Carotid and vertebral Doppler — Brazilian update 2023 (DIC/CBR/SBACV)
@@ -42,7 +42,7 @@ last_reviewed: 2026-11-11
 | Carotid plaque | Focal structure that (1) protrudes **≥ 0.5 mm** into the lumen; and/or (2) measures **> 50% of adjacent IMT**; and/or (3) has IMT **> 1.5 mm** | [doppler-carotid-br-2023, §4.1, Box 4] |
 | ASE 2020 plaque grading (I, B) | Emphasis on plaque height and focal vs diffuse: **< 1.5 mm; 1.5–2.4 mm; ≥ 2.5 mm**. Type I = protrusion < 1.5 mm (equated with the first two Mannheim definitions); diffuse IMT ≥ 1.5 mm = type II | [doppler-carotid-br-2023] |
 | Plaque echogenicity (types I–V) | I uniformly echolucent; II predominantly echolucent; III predominantly echogenic; IV uniformly echogenic; V calcified. Types II–III higher stroke risk; IV–V more stable | [doppler-carotid-br-2023, Box 6] |
-| Plaque surface | Regular < 0.4 mm depth; irregular 0.4–2.0 mm; **ulceration** (De Bray) concavity > 2.0 mm with well-defined base and reversed flow on colour | [doppler-carotid-br-2023, Box 6] |
+| Plaque surface | Regular < 0.4 mm depth; irregular 0.4–2.0 mm; **ulceration**: De Bray — concavity > 2.0 mm with well-defined base and reversed flow on colour; Muraki — clear concavity with base less echogenic than the adjacent wall; report the size of any mobile component | [doppler-carotid-br-2023, Box 6] |
 | Echogenicity relative to neighbours | Hypoechoic (≈ blood), isoechoic (≈ muscle), hyperechoic (brighter than muscle), calcified (≈ bone, with shadow) | [doppler-br-2019, §2.3] |
 | Intraplaque haemorrhage | Anechoic area near the surface with intact fibrous cap; vulnerability marker | [doppler-carotid-br-2023] |
 
@@ -65,6 +65,9 @@ inflammation: IIb, B. [doppler-carotid-br-2023, Boxes 4, 7]
 | > 90% | > 400 | —* | > 5.0 | > 30 | —* | [doppler-carotid-br-2023, Table 2] |
 | Near-occlusion | Variable, string flow | Variable, string flow | Variable, string flow | Variable, string flow | Variable, string flow | [doppler-carotid-br-2023, Table 2] |
 | Occlusion | No flow | No flow | n/a | n/a | n/a | [doppler-carotid-br-2023, Table 2] |
+
+Near-occlusion: the rendered Table 2 prints "Variável – fluxo filiforme" in all five parameter
+columns (checked 2026-11-12).
 
 \*Blank cell in the 2023 table, which has no row rules, so merging cannot be seen; on the
 rendered page (checked 2026-11-12) each value sits in its own row, and the same table in 2019
@@ -98,6 +101,9 @@ to right; PSV is the main one.
   > 70%. AbuRahma (asymptomatic ≥ 70%): multiparametric or PSV > 280. PSV ≥ 137 (AbuRahma) and
   ≥ 141 (Petisco) more specific than 125 for ≥ 50%. EDV > 140 for > 80% (specificity > 90%).
   PSV ICA/EDV CCA (St Mary's ratio) less studied — use when other parameters disagree.
+  DEGUM and EQUALIS: PSV > 200 and > 230 cm/s for ≥ 50%, > 300 and > 320 cm/s for ≥ 70%.
+  Gornik (167 patients, 299 carotids): PSV ≥ 180 cm/s best for ≥ 50% (S 93.3%, E 81.6%), or
+  PSV ≥ 125 with PSV ratio ≥ 2.
   [doppler-carotid-br-2023, §5.5.2]
 - Correlation with angiography (r): PSV has the best correlation or ties with it (Petisco: PSV
   ratio 0.81 = PSV; Braum: PSV ratio 0.766 > EDV 0.762); the EDV ICA/EDV CCA ratio correlates
@@ -188,7 +194,8 @@ double line). US is not the method of choice for stent fracture/kinking. [dopple
 - Report content (2019 §2.4.3): transducer, technical quality/limitations; plaques (site, extent,
   morphology, stenosis in deciles); other findings. [doppler-br-2019, §2.4.3] Also useful, from
   other sections: velocities and ratios (Table 2), near-occlusion with full/partial collapse
-  (2023 §5.2), IMT vs P75 when measured (2019 §2.2.4), the size of any mobile component.
+  (2023 §5.2), IMT vs P75 when measured (2019 §2.2.4), the size of any mobile component (2023 Box 6).
+  [doppler-carotid-br-2023, Table 2; Box 6; §5.2; doppler-br-2019, §2.2.4]
 - Dissection: CTA and MRA are the methods of choice (I, C); US less accurate; microbubbles
   IIa, B. [doppler-carotid-br-2023, §7.2.1, §8.8]
 
@@ -234,3 +241,5 @@ analysis is less accurate peri-operatively and with calcium or stenotic plaques.
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §1–3 (house rules removed) | Claude |
 | 2026-11-11 | Checked against both full texts: ICA table (incl. merged cells), post-stent/CEA, vertebral criteria confirmed; licence confirmed | Claude |
 | 2026-11-12 | Pre-check fixes: Table 2 blank cells read as no criterion (checked on the rendered page; 2019 prints '–'); near-occlusion row; residual lumen on CTA; correlation wording; restenosis and HITS inconsistencies; report content sources separated | Claude |
+| 2026-11-12 | Muraki ulceration and mobile component (Box 6); DEGUM/EQUALIS and Gornik cut-offs from §5.5.2; §4 additions cited | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

@@ -14,7 +14,7 @@ sources: [isuog-midtrimester-2022]
 supersedes: []
 superseded_by: ""
 related: [fetal-biometry-isuog-2019, amniotic-fluid-volume, cervical-length-isuog-2022]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Routine mid-trimester scan (ISUOG 2022)

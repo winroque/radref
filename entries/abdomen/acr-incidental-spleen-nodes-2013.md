@@ -14,7 +14,7 @@ sources: [acr-spleen-nodes-2013]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental splenic and nodal findings (ACR white paper, 2013)
@@ -65,7 +65,7 @@ diseased (low-grade lymphoma). [acr-spleen-nodes-2013]
 | Non-diagnostic, prior imaging, not stable | Evaluate (PET, MRI or biopsy) | [acr-spleen-nodes-2013] |
 | No prior, **no cancer**, suspicious | Evaluate | [acr-spleen-nodes-2013] |
 | No prior, **no cancer**, indeterminate | **MRI at 6 and 12 months** | [acr-spleen-nodes-2013] |
-| No prior, **cancer**, **< 1 cm** | Imaging follow-up (MRI at 6 and 12 months) | [acr-spleen-nodes-2013] |
+| No prior, **cancer**, **< 1 cm** | Imaging follow-up (MRI at 6 and 12 months) | [acr-spleen-nodes-2013, Fig. 1 (checked on the rendered flowchart)] |
 | No prior, **cancer**, **≥ 1 cm** | Evaluate (suspect metastasis if > 1 cm) | [acr-spleen-nodes-2013] |
 
 ### Lymph nodes
@@ -112,3 +112,4 @@ See section 3.
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §5 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
 | 2026-11-12 | Pre-check fixes: ~3-month follow-up condition per text; Dorfman cross-reference | Claude |
+| 2026-11-12 | Fig. 1 flowchart rendered: < 1 cm with cancer → follow-up imaging (MRI 6 and 12 months) confirmed | Claude |

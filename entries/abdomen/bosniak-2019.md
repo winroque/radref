@@ -14,7 +14,7 @@ sources: [bosniak-2019, acr-renal-2018]
 supersedes: []
 superseded_by: ""
 related: [acr-incidental-renal-2018]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Bosniak classification of cystic renal masses, version 2019

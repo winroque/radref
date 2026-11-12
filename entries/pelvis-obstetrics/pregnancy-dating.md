@@ -7,14 +7,14 @@ modalities: [US]
 population: pregnant
 source_version: "ACOG Committee Opinion 700 (2017); ISUOG 2019 and 2023; INTERGROWTH-21st CRL standard (2014); Robinson & Fleming 1975"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (abstract and methods; regression table not legible in the scan), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (full text; Tables I–III legible), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acog-co700-2017, robinson-crl-1975, ig21-crl-2014, hadlock-ga-1984, isuog-biometry-2019, isuog-11-14-2023]
 supersedes: []
 superseded_by: ""
 related: [early-pregnancy-failure-sru-2013, fetal-biometry-isuog-2019, first-trimester-scan-isuog-2023]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Pregnancy dating by ultrasound
@@ -37,7 +37,7 @@ last_reviewed: 2026-11-11
 | Term | Definition | Source |
 |---|---|---|
 | Due date by LMP | 280 days after the first day of the LMP (assumes a 28-day cycle, ovulation on day 14) | [acog-co700-2017] |
-| CRL technique | True midsagittal plane, fetus neutral (neither flexed nor hyperextended), horizontal on screen with the line at ~90° to the beam, image magnified; longest straight line crown to rump. Mean of three measurements when possible (ACOG); best-quality CRL between **45 and 84 mm** when several were taken (ISUOG 2023) | [acog-co700-2017; isuog-11-14-2023] |
+| CRL technique | True midsagittal plane, fetus neutral (neither flexed nor hyperextended), horizontal on screen with the line at ~90° to the beam, image magnified; longest straight line crown to rump, with the genital tubercle and spine longitudinally in view (ACOG). Mean of three measurements when possible (ACOG); ISUOG 2019 dates by CRL at **8–14 weeks**; best-quality CRL between **45 and 84 mm** when several were taken (ISUOG 2023) | [acog-co700-2017; isuog-11-14-2023] |
 | Mean sac diameter | **Not** recommended for estimating the due date | [acog-co700-2017] |
 | Suboptimally dated | No ultrasound confirming or revising the due date before **22 + 0 weeks** | [acog-co700-2017] |
 
@@ -61,7 +61,7 @@ reliable the LMP is. [acog-co700-2017]
 
 | Chart | What it is | Source |
 |---|---|---|
-| INTERGROWTH-21st (2014) | Prescriptive international standard from 4,265 women in eight countries, CRL measured once at 9 + 0 to 13 + 6 weeks; GA (days) = 40.9041 + 3.21585 × CRL^0.5 + 0.348956 × CRL (CRL in mm), SD of GA = 2.39102 + 0.0193474 × CRL; valid for CRL 15–95 mm | [ig21-crl-2014] |
+| INTERGROWTH-21st (2014) | Prescriptive international standard from 4,265 women in eight countries, CRL measured once at 9 + 0 to 13 + 6 weeks; GA (days) = 40.9041 + 3.21585 × CRL^0.5 + 0.348956 × CRL (CRL in mm), SD of GA = 2.39102 + 0.0193474 × CRL; valid for CRL 15–95 mm. Inverse (size for GA, 58–105 days): mean CRL = −50.6562 + 0.815118 × GA + 0.00535302 × GA², SD = −2.21626 + 0.0984894 × GA. Low-risk naturally conceived singletons with a certain LMP; women with LMP–CRL discrepancy > 7 days excluded | [ig21-crl-2014] |
 | Robinson & Fleming (1975) | Original sonar CRL curve, 334 measurements at 6–14 weeks: t (days) = 8.052 × √CRL + 23.73; 95% interval ±4.7 days for one measurement, ±2.7 days with three | [robinson-crl-1975] |
 | ISUOG 2023 | Older charts are still widely used, but **recent, international, prescriptive charts** (it cites INTERGROWTH-21st) are recommended | [isuog-11-14-2023] |
 
@@ -123,3 +123,4 @@ reliable the LMP is. [acog-co700-2017]
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
 | 2026-11-12 | Pre-check fixes: accuracy column cited to the text; Hadlock tables are legible (editorial omission only); Hadlock pitfalls and ACOG items. Reference record: institutional authorship added | Claude |
+| 2026-11-12 | Checked against the PDFs: CRL measured once (IG-21st methods, confirmed), inverse equation and selection added; ISUOG 2019 8–14 weeks; ACOG CRL technique (genital tubercle and spine) | Claude |

@@ -14,7 +14,7 @@ sources: [acr-tirads-2017]
 supersedes: []
 superseded_by: ""
 related: [acr-incidental-thyroid-2015]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # ACR TI-RADS (2017)
@@ -39,13 +39,13 @@ that apply in echogenic foci. [acr-tirads-2017]
 | Feature | Option | Points | Source |
 |---|---|---|---|
 | Composition | Cystic or almost completely cystic | 0 | [acr-tirads-2017] |
-| | Spongiform | 0 | [acr-tirads-2017] |
+| | Spongiform (predominantly, > 50%, small cystic spaces) | 0 | [acr-tirads-2017, Fig. 1] |
 | | Mixed cystic and solid | 1 | [acr-tirads-2017] |
 | | Solid or almost completely solid | 2 | [acr-tirads-2017] |
 | Echogenicity | Anechoic | 0 | [acr-tirads-2017] |
 | | Hyperechoic or isoechoic | 1 | [acr-tirads-2017] |
 | | Hypoechoic | 2 | [acr-tirads-2017] |
-| | Very hypoechoic | 3 | [acr-tirads-2017] |
+| | Very hypoechoic (more hypoechoic than the strap muscles) | 3 | [acr-tirads-2017, Fig. 1] |
 | Shape | Wider-than-tall | 0 | [acr-tirads-2017] |
 | | Taller-than-wide | 3 | [acr-tirads-2017] |
 | Margin | Smooth | 0 | [acr-tirads-2017] |
@@ -154,3 +154,4 @@ There is no TR0 and no sub-levels.
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: points, rules and thresholds confirmed; added expected risk per level, microcarcinoma guidance, follow-up timing, growth definition, number of nodules; [verify] marks resolved | Claude |
 | 2026-11-12 | Pre-check fixes: undetermined-feature pitfall rewritten (default points per Fig. 1); cervical node assessment; > 5-year follow-up; previously biopsied nodules not addressed | Claude |
+| 2026-11-12 | Definitions of spongiform and very hypoechoic added (Fig. 1 notes) | Claude |

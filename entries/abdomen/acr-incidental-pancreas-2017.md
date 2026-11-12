@@ -14,7 +14,7 @@ sources: [acr-pancreas-2017]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental pancreatic cyst (ACR white paper, 2017)

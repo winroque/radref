@@ -14,7 +14,7 @@ sources: [acr-birads-2025, acr-birads-2025-whats-new, minichetti-birads-2026, sc
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # ACR BI-RADS v2025
@@ -33,7 +33,7 @@ last_reviewed: 2026-11-11
 
 ## 2. Definitions
 
-Selected changes in v2025, as summarized by Minichetti 2026.
+Selected changes in v2025, from Minichetti 2026, the ACR What's New table and the Schijf & Smithuis summaries.
 
 | Topic | v2025 change | Source |
 |---|---|---|
@@ -61,12 +61,12 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 
 | Category | Meaning | Source |
 |---|---|---|
-| 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; at **screening**, category 0 also applies to a suspicious finding that needs diagnostic workup (manual checked by the radiologist on 2026-11-12) | [acr-birads-2025; minichetti-birads-2026; schijf-birads-mg-2026] |
-| 1 | Negative (no findings); likelihood of malignancy ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
-| 2 | Benign; ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
-| 3 | Probably benign (likelihood of malignancy > 0 to ≤ 2%) | [acr-birads-2025; unicamp-birads-us-2025] |
-| 4 | Suspicious: 4A > 2 to ≤ 10%, 4B > 10 to ≤ 50%, 4C > 50 to < 95% [unicamp-birads-us-2025]; subdivision 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
-| 5 | Highly suggestive of malignancy, ≥ 95% ("no single mammographic feature confers a > 95% likelihood of malignancy") | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
+| 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; at **screening**, category 0 also applies to a suspicious finding that needs diagnostic workup (manual checked by the radiologist on 2026-11-12; Minichetti says the opposite — see §7) | [acr-birads-2025; schijf-birads-mg-2026] |
+| 1 | Negative (no findings) [schijf-birads-mg-2026]; likelihood of malignancy ~0% (US teaching app) [unicamp-birads-us-2025] | secondary summaries |
+| 2 | Benign [schijf-birads-mg-2026]; ~0% (US teaching app) [unicamp-birads-us-2025] | secondary summaries |
+| 3 | Probably benign; likelihood of malignancy > 0 to ≤ 2% (US teaching app) | [unicamp-birads-us-2025] |
+| 4 | Suspicious: 4A > 2 to ≤ 10%, 4B > 10 to ≤ 50%, 4C > 50 to < 95% (US teaching app) [unicamp-birads-us-2025]; subdivision 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
+| 5 | Highly suggestive of malignancy; ≥ 95% (US teaching app) [unicamp-birads-us-2025]; on mammography "no single mammographic feature confers a > 95% likelihood of malignancy" [schijf-birads-mg-2026] | secondary summaries |
 | 6 | Known biopsy-proven malignancy | [acr-birads-2025; acr-birads-2025-whats-new] |
 
 > Category definitions, likelihood ranges and management are corroborated by open secondary
@@ -78,10 +78,10 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 
 | Category | Recommendation | Source |
 |---|---|---|
-| 0 | Additional imaging, or comparison with prior images (state which; wording follows the 2024 FDA MQSA amendments: "Need Additional Imaging Evaluation" / "Need Prior Imaging for Comparison") | [acr-birads-2025-whats-new] |
-| 1–2 | Continue or resume screening at the appropriate interval | [acr-birads-2025; schijf-birads-mg-2026] |
-| 3 | Short-interval follow-up; imaging at 6, 12 and 24 months "may be appropriate" [schijf-birads-mg-2026]; UNICAMP phrases it as 6-month follow-up while stability is < 12 months, then annual [unicamp-birads-us-2025] | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
-| 4–5 | Biopsy, stating the recommended method (stereotactic, US- or MR-guided) | [acr-birads-2025; schijf-birads-mg-2026] |
+| 0 | Additional imaging, or comparison with prior images (state which; wording follows the 2024 FDA MQSA amendments: "Need Additional Imaging Evaluation" / "Need Prior Imaging for Comparison"); at screening this includes a suspicious finding needing diagnostic workup (manual, checked by the radiologist) | [acr-birads-2025-whats-new; acr-birads-2025] |
+| 1–2 | Continue or resume screening at the appropriate interval | [schijf-birads-mg-2026] |
+| 3 | Short-interval follow-up; imaging at 6, 12 and 24 months "may be appropriate" [schijf-birads-mg-2026]; UNICAMP phrases it as 6-month follow-up while stability is < 12 months, then annual [unicamp-birads-us-2025] | secondary summaries |
+| 4–5 | Biopsy, stating the recommended method (stereotactic, US- or MR-guided) | [schijf-birads-mg-2026] |
 | 6 | Management wording changed from "surgical excision when clinically appropriate" to "clinical follow-up with surgeon and/or oncologist, and definitive local therapy (usually surgery) when clinically appropriate", recognizing non-surgical definitive therapies [acr-birads-2025-whats-new]. Biopsy-proven malignancy before definitive local therapy (usually surgery), including during neoadjuvant treatment monitoring even with complete imaging response; timing and type of treatment decided by the multidisciplinary team | [minichetti-birads-2026] |
 
 - MRI, category 6 ("additional close findings", ACFs): additional contiguous or closely adjacent findings with similar morphology
@@ -105,7 +105,8 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 ## 6. What the source does not say
 
 - This entry does not reproduce the lexicon definitions; consult the manual for exact wording.
-- The summary used here is a secondary review of the manual; exact lexicon definitions and
+- The summaries used here are secondary reviews of the manual (Minichetti, Schijf & Smithuis,
+  UNICAMP) plus the ACR What's New table; exact lexicon definitions and
   any transition guidance must be taken from the ACR manual.
 
 ## 7. Disagreements and newer versions
@@ -114,8 +115,8 @@ Selected changes in v2025, as summarized by Minichetti 2026.
   when a finding is already suspicious (assign 4 or 5 without delay); Schijf 2026 (mammography)
   describes category 0 in screening as used for any abnormality "even if suspicious" that needs
   diagnostic workup. The manual agrees with Schijf: category 0 applies to suspicious findings
-  (checked by the radiologist on 2026-11-12). Minichetti's statement is best read as applying
-  to the diagnostic setting. [acr-birads-2025; minichetti-birads-2026; schijf-birads-mg-2026]
+  (checked by the radiologist on 2026-11-12). Minichetti does not qualify its statement by
+  setting; the disagreement stands. [acr-birads-2025; minichetti-birads-2026; schijf-birads-mg-2026]
 
 - v2025 supersedes the 5th edition (2013). Other reviews of the v2025 changes exist
   (e.g. Song 2026, Ultrasonography; Arenas Rivera 2026, Radiología) — not yet added.
@@ -123,7 +124,9 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 ## 8. How to cite
 
 - Primary: `acr-birads-2025` (proprietary manual; summarize only)
-- Secondary: `minichetti-birads-2026`
+- Secondary: `acr-birads-2025-whats-new` (ACR, public), `minichetti-birads-2026`,
+  `schijf-birads-mg-2026`, `schijf-birads-us-2026`, `unicamp-birads-us-2025`; BAC context:
+  `ndirangu-bac-2026`
 
 ## 9. Change log
 
@@ -137,3 +140,4 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | 2026-11-12 | Radiology Assistant (Schijf & Smithuis 2026, mammography and US) added: categories 1/2/5 and management corroborated; category 3 follow-up 6/12/24 months; GTC percentage grades; US margin list (microlobulated kept); solitary duct wording; nonmass PPV > 2%; category 0 disagreement recorded | Claude |
 | 2026-11-12 | UNICAMP Dr. Pixel BI-RADS US 2025 added: likelihood ranges 1–5 (incl. 3 ≤ 2%, 4A/4B/4C, 5 ≥ 95%) and category 3 follow-up; Ndirangu 2026 (BAC review) added for vascular calcification context | Claude |
 | 2026-11-12 | Radiologist checked the v2025 manual: vascular calcifications 'should' be reported; category 0 applies to suspicious findings (at screening). Entry updated accordingly | Claude |
+| 2026-11-12 | Checagem fixes: [acr-birads-2025] removed where the manual was not read; likelihood ranges labelled as from a US teaching app; category 0 row no longer cites Minichetti and §7 drops our reconciliation; §2/§6/§8 updated | Claude |

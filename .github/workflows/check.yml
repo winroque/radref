@@ -17,3 +17,5 @@ jobs:
         run: python3 scripts/build_index.py --check
       - name: References match Crossref
         run: python3 scripts/check_refs.py
+      - name: Citation keys in entry bodies
+        run: python3 scripts/check_citations.py

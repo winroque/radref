@@ -7,7 +7,7 @@ modalities: [CT]
 population: adults
 source_version: "CAD-RADS 2.0 (2022)"
 status: draft
-verified_against: "full-text PDF (J Cardiovasc Comput Tomogr 2022;16(6):536–57) read by Claude on 2026-11-12: Tables 1–5, sections 3.1–3.4 (categories, plaque burden, modifiers, HRP definitions, coding order) — awaiting radiologist sign-off"
+verified_against: "full-text PDF (J Cardiovasc Comput Tomogr 2022;16(6):536–57) read by Claude on 2026-11-12: Tables 1–8, Figs. 13 and 17, sections 3.1–3.4 (categories, plaque burden, modifiers, HRP definitions, CT-FFR, CTP, coding order) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [cad-rads-2-2022]
@@ -60,6 +60,10 @@ last_reviewed: 2026-11-12
   with no other stenosis → `CAD-RADS N/P2/S`. With bypass grafts, grade grafts and native segments
   from the anastomosis distally only. [cad-rads-2-2022]
 
+- Plaque-burden methods that disagree: the Table 2 note says to use CAC or total plaque
+  quantification if available, while the text (§3.2.1) says the most severe assessment applies
+  when several methods are used. [cad-rads-2-2022, Table 2; §3.2.1]
+
 ## 4. Management
 
 - Management depends on the category plus P (P3–P4 → aggressive preventive therapy in any
@@ -78,9 +82,7 @@ last_reviewed: 2026-11-12
 
 ## 6. What the source does not say
 
-- No single preferred method for plaque burden. If methods disagree, the Table 2 note says to
-  use CAC or total plaque quantification if available, while the text (§3.2.1) says the most
-  severe assessment applies when several methods are used.
+- No single method for plaque burden is mandated.
 
 ## 7. Disagreements and newer versions
 
@@ -100,3 +102,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: > 1.5 mm; SIS ≤ 2; plaque-burden disagreement rules; Fig. 17 inconsistency; CT-FFR/CTP tables, 4A ICA triggers, HRP management | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

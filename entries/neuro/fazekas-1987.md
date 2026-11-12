@@ -14,7 +14,7 @@ sources: [fazekas-1987]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Fazekas scale (1987)

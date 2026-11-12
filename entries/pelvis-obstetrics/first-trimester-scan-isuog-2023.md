@@ -14,7 +14,7 @@ sources: [isuog-11-14-2023, ig21-crl-2014]
 supersedes: []
 superseded_by: ""
 related: [pregnancy-dating, early-pregnancy-failure-sru-2013, obstetric-doppler-isuog-2021]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # 11–14-week scan (ISUOG 2023)
@@ -62,7 +62,7 @@ longitudinal diameter **< 7 mm** by 12 weeks, spine continuity and both hands an
 
 - Use the CRL itself (not the calculated GA) as the reference for NT, UtA-PI and serum
   markers. [isuog-11-14-2023]
-- Markers: tricuspid regurgitation = flow > 60 cm/s for > 50% of systole; absent/hypoplastic
+- Markers: tricuspid regurgitation = flow > 60 cm/s for > 50% of the cardiac cycle (2–4-mm gate across the tricuspid valve, apex at 12 or 6 o'clock); absent/hypoplastic
   nasal bone in 50–60% of trisomy 21. Mean FHR 171 bpm at 10 weeks, 156 at 14. Doppler with
   TI ≤ 1.0 and short exposure (5–10 min). [isuog-11-14-2023]
 
@@ -76,6 +76,10 @@ longitudinal diameter **< 7 mm** by 12 weeks, spine continuity and both hands an
   weeks, delivery or diagnosis of pre-eclampsia (not for all women). Without UtA-PI/PlGF, use
   maternal factors + MAP (not maternal factors alone); calcium supplementation if intake
   < 800 mg/day. [isuog-11-14-2023]
+- CRL technique: transabdominal or transvaginal, fetus horizontal with the crown–rump line at
+  ~90° to the beam, neutral position (neither flexed nor hyperextended), image magnified to
+  fill most of the screen. The amnion is often seen as a sac around the fetus, not yet fused
+  with the chorion. [isuog-11-14-2023]
 - CRL dates the pregnancy in all cases except IVF; first-trimester cervical length is not yet
   recommended routinely. [isuog-11-14-2023]
 
@@ -103,3 +107,4 @@ longitudinal diameter **< 7 mm** by 12 weeks, spine continuity and both hands an
 |---|---|---|
 | 2026-11-11 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: additional markers vs contingent cfDNA separated with risk bands and DR/FPR; cfDNA row; bladder < 7 mm by 12 weeks; markers, FHR, Doppler safety; pre-eclampsia without UtA/PlGF, aspirin end, calcium; CRL dating; cervix | Claude |
+| 2026-11-12 | Tricuspid regurgitation corrected to > 50% of the cardiac cycle (source text); CRL technique and amnion–chorion note added | Claude |

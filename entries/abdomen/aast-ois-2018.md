@@ -56,7 +56,7 @@ last_reviewed: 2026-11-12
 
 | Grade | CT findings | Source |
 |---|---|---|
-| I | Subcapsular hematoma < 10%; laceration < 1 cm deep (capsular tear is an operative/pathologic criterion only for the liver, not a CT criterion) | [aast-ois-2018, Table 2] |
+| I | Subcapsular hematoma < 10%; laceration < 1 cm deep (for the liver, capsular tear appears only in the operative/pathologic columns, not among the CT criteria) | [aast-ois-2018, Table 2] |
 | II | Subcapsular hematoma 10–50%; intraparenchymal hematoma < 10 cm; laceration 1–3 cm deep and ≤ 10 cm long | [aast-ois-2018, Table 2] |
 | III | Subcapsular hematoma > 50% or ruptured; intraparenchymal hematoma > 10 cm; laceration > 3 cm deep; any injury with liver vascular injury or active bleeding contained in the parenchyma | [aast-ois-2018, Table 2] |
 | IV | Parenchymal disruption of 25–75% of a hepatic lobe; active bleeding beyond the liver into the peritoneum | [aast-ois-2018, Table 2] |
@@ -103,3 +103,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: hepatic grade I capsular tear marked as operative/pathologic only (Table 2) | Claude |
+| 2026-11-12 | Capsular tear wording clarified. Collective author 'AAST Patient Assessment Committee' not added to the Vancouver (optional; pending the radiologist's choice) | Claude |

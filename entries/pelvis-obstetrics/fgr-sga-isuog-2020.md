@@ -14,7 +14,7 @@ sources: [gordijn-fgr-delphi-2016, isuog-sga-fgr-2020, isuog-biometry-2019]
 supersedes: []
 superseded_by: ""
 related: [fetal-biometry-isuog-2019, estimated-fetal-weight-charts, obstetric-doppler-isuog-2021]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # FGR and SGA — definition and management

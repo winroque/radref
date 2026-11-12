@@ -14,7 +14,7 @@ sources: [sru-gallbladder-polyps-2022]
 supersedes: []
 superseded_by: ""
 related: [acr-incidental-gallbladder-2013, gallbladder-polyps-esgar-2022]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental gallbladder polyps at US (SRU 2022)

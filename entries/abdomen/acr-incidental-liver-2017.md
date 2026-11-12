@@ -14,7 +14,7 @@ sources: [acr-liver-2017]
 supersedes: []
 superseded_by: ""
 related: [lirads-ctmr-2018]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental liver lesion on CT (ACR white paper, 2017)

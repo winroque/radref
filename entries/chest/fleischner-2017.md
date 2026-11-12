@@ -7,14 +7,14 @@ modalities: [CT]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF (Radiology 2017;284(1):228–43), read by Claude on 2026-11-11: Table (A solid, B subsolid) with footnotes, General Recommendations (measurement), Risk Factors section — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Radiology 2017;284(1):228–43), read by Claude on 2026-11-11: Table (A solid, B subsolid) with footnotes and comments, General Recommendations (measurement, technique), Risk Factors section, perifissural nodules (p. 13) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [fleischner-2017]
 supersedes: []
 superseded_by: ""
 related: [lungrads-2022, thoracic-terminology-pt-2021]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Fleischner Society 2017 guidelines for incidental pulmonary nodules on CT
@@ -111,3 +111,4 @@ follow-up. [fleischner-2017]
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: **corrected multiple > 8 mm, high risk** (was "same as low risk"); ACCP risk definitions, volume equivalents and measurement plane added; [verify] marks resolved | Claude |
 | 2026-11-12 | Pre-check fixes: intervals as ranges (~1% risk), not minimum; house practice on unknown risk removed; < 35 y wording; table comments, technique, perifissural nodules | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

@@ -14,7 +14,7 @@ sources: [scheltens-mta-1992]
 supersedes: []
 superseded_by: ""
 related: [erica-2018, gca-pasquier-1996, posterior-atrophy-koedam-2011, fazekas-1987]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # MTA scale (Scheltens 1992)
@@ -71,7 +71,7 @@ scoring 2 or 3 were aged over 77 — discrimination is poorer in older subjects.
 - **Age-specific cut-offs** (e.g. abnormal ≥ 2 below 75 years, ≥ 3 from 75) are **not in this
   article**; they come from later work (not yet added). Do not cite Scheltens 1992 for them.
   The article's Discussion does say the rating would be useful "in subjects younger than 75
-  years", and reports sensitivity 81% and specificity 67%. [mta-scheltens-1992, Discussion]
+  years", and reports sensitivity 81% and specificity 67%. [scheltens-mta-1992, Discussion]
 
 ## 7. Disagreements and newer versions
 
@@ -89,3 +89,4 @@ scoring 2 or 3 were aged over 77 — discrimination is poorer in older subjects.
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: scope and Table 1 confirmed; removed the per-side rating (not in the source); added study details | Claude |
 | 2026-11-12 | Pre-check: 'younger than 75 years' remark and sensitivity/specificity from the Discussion | Claude |
+| 2026-11-12 | Citation key corrected (scheltens-mta-1992) | Claude |

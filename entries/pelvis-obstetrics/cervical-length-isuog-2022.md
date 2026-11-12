@@ -14,7 +14,7 @@ sources: [isuog-cervix-2022]
 supersedes: []
 superseded_by: ""
 related: [mid-trimester-scan-isuog-2022]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Cervical length (ISUOG 2022)

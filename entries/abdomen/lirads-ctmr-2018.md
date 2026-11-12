@@ -14,7 +14,7 @@ sources: [lirads-ctmr-2018, acr-lirads-ctmr-core-2018]
 supersedes: []
 superseded_by: ""
 related: [acr-incidental-liver-2017]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # CT/MRI LI-RADS version 2018

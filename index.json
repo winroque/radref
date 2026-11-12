@@ -53,7 +53,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-adrenal-2017.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-incidental-gallbladder-2013",
@@ -72,7 +72,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-gallbladder-2013.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-incidental-liver-2017",
@@ -90,7 +90,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-liver-2017.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-incidental-pancreas-2017",
@@ -109,7 +109,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-pancreas-2017.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-incidental-renal-2018",
@@ -128,7 +128,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-renal-2018.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-incidental-spleen-nodes-2013",
@@ -147,7 +147,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/acr-incidental-spleen-nodes-2013.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "bosniak-2019",
@@ -167,7 +167,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/bosniak-2019.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "gallbladder-polyps-esgar-2022",
@@ -225,7 +225,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/lirads-ctmr-2018.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "liver-elastography-sru-2020",
@@ -261,7 +261,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/liver-fat-ct-2018.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "spleen-size-adult-chow-2016",
@@ -297,7 +297,7 @@
    ],
    "superseded_by": "",
    "path": "entries/abdomen/sru-gallbladder-polyps-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "us-lirads-surveillance-2024",
@@ -341,7 +341,7 @@
    ],
    "superseded_by": "",
    "path": "entries/breast/birads-2025.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "cac-noncardiac-ct",
@@ -396,7 +396,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/fleischner-2017.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "ipf-ppf-ct-patterns-2022",
@@ -414,7 +414,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/ipf-ppf-ct-patterns-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "lungrads-2022",
@@ -434,7 +434,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/lungrads-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "thoracic-terminology-pt-2021",
@@ -454,7 +454,7 @@
    ],
    "superseded_by": "",
    "path": "entries/chest/thoracic-terminology-pt-2021.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "lumbar-disc-nomenclature-2-2014",
@@ -509,7 +509,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/erica-2018.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "fazekas-1987",
@@ -527,7 +527,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/fazekas-1987.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "gca-pasquier-1996",
@@ -545,7 +545,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/gca-pasquier-1996.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "mta-scheltens-1992",
@@ -563,7 +563,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/mta-scheltens-1992.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "posterior-atrophy-koedam-2011",
@@ -581,7 +581,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/posterior-atrophy-koedam-2011.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "strive-2-2023",
@@ -662,7 +662,8 @@
    "type": "reference-values",
    "area": "pediatrics",
    "modalities": [
-    "US"
+    "US",
+    "MRI"
    ],
    "population": "all",
    "source_version": "2013 (ovary); 2016 (uterus)",
@@ -673,7 +674,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pediatrics/uterine-ovarian-volume-kelsey.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "amniotic-fluid-volume",
@@ -693,7 +694,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/amniotic-fluid-volume.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "cervical-length-isuog-2022",
@@ -711,7 +712,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/cervical-length-isuog-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "early-pregnancy-failure-sru-2013",
@@ -730,7 +731,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/early-pregnancy-failure-sru-2013.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "endometrium-postmenopausal-acog-2018",
@@ -777,7 +778,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/estimated-fetal-weight-charts.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "fetal-biometry-isuog-2019",
@@ -799,7 +800,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/fetal-biometry-isuog-2019.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "fgr-sga-isuog-2020",
@@ -819,7 +820,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/fgr-sga-isuog-2020.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "first-trimester-scan-isuog-2023",
@@ -838,7 +839,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/first-trimester-scan-isuog-2023.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "mid-trimester-scan-isuog-2022",
@@ -856,7 +857,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/mid-trimester-scan-isuog-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "obstetric-doppler-isuog-2021",
@@ -878,7 +879,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/obstetric-doppler-isuog-2021.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "orads-mri-2022",
@@ -897,7 +898,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/orads-mri-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "orads-us-2022",
@@ -915,7 +916,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/orads-us-2022.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "ovarian-volume-adult-pavlik-2000",
@@ -952,7 +953,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/pcom-2023.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "pirads-2-1-2019",
@@ -970,7 +971,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/pirads-2-1-2019.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "pregnancy-dating",
@@ -993,7 +994,7 @@
    ],
    "superseded_by": "",
    "path": "entries/pelvis-obstetrics/pregnancy-dating.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "sru-simple-adnexal-cysts-2019",
@@ -1033,7 +1034,7 @@
    ],
    "superseded_by": "",
    "path": "entries/thyroid-neck/acr-incidental-thyroid-2015.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "acr-tirads-2017",
@@ -1051,7 +1052,7 @@
    ],
    "superseded_by": "",
    "path": "entries/thyroid-neck/acr-tirads-2017.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "cervical-lymph-nodes-thyroid-cancer-us",
@@ -1128,7 +1129,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/acr-incidental-vascular-2013.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "carotid-imt-reference-values",
@@ -1151,7 +1152,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/carotid-imt-reference-values.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "carotid-vertebral-doppler-br-2023",
@@ -1170,7 +1171,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/carotid-vertebral-doppler-br-2023.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   },
   {
    "id": "doppler-br-2019-territories",
@@ -1184,11 +1185,12 @@
    "source_version": "2019",
    "status": "draft",
    "sources": [
-    "doppler-br-2019"
+    "doppler-br-2019",
+    "esvs-aaa-2024"
    ],
    "superseded_by": "",
    "path": "entries/vascular/doppler-br-2019-territories.md",
-   "last_reviewed": "2026-11-11"
+   "last_reviewed": "2026-11-12"
   }
  ],
  "counts": {

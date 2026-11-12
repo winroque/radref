@@ -7,14 +7,14 @@ modalities: [US]
 population: pregnant
 source_version: "1984, 1990; ISUOG 2022"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-11: Chamberlain 1984 (methods, results, figure legends; scanned PDF), Moore & Cayle 1990 (abstract, Table III technique, results, comment), ISUOG mid-trimester 2022 (amniotic fluid section) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-11: Chamberlain 1984 (methods, results, figure legends; scanned PDF), Moore & Cayle 1990 (abstract, Methods, Tables III–V, results, comment), Chamberlain Tables II–III, ISUOG mid-trimester 2022 (amniotic fluid section) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [chamberlain-sdp-1984, moore-afi-1990, isuog-midtrimester-2022]
 supersedes: []
 superseded_by: ""
 related: [mid-trimester-scan-isuog-2022, fgr-sga-isuog-2020]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Amniotic fluid volume (DVP and AFI)
@@ -60,7 +60,7 @@ normal / marginal / decreased; mortality in the marginal group 56.6/1000). A poc
 - 791 normal pregnancies, 16–44 weeks; interobserver variation ≈ 6.7% (9.7 mm), intraobserver
   ≈ 3.1% (5 mm) (Table IV and Results; the abstract inverts the two). [moore-afi-1990, Table IV]
 - With AFI < 100 mm the authors recommend the mean of three measurements (percentage error
-  ≥ 20% in that range).
+  ≥ 20% in that range). [moore-afi-1990, Comment]
 - **Term:** mean 115 mm, 5th–95th percentile **68–196 mm**. **Postdates** (41.1–43 weeks in Table V; the abstract says
   "> 42 weeks", the text "> 41 weeks"): mean 108 mm, 5th–95th 67–174 mm.
 - AFI rises about 25% from 16 to 27 weeks, plateaus from 27 to 33 weeks, then falls about 29% by the end of the
@@ -108,3 +108,4 @@ normal / marginal / decreased; mortality in the marginal group 56.6/1000). A poc
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
 | 2026-11-12 | Pre-check fixes: Moore inter/intra variation (Table IV; abstract inverted); postdates definition; Methods/Table III; Chamberlain n (7,562 vs 7,582) and study-protocol management; singleton attribution; morbidity figures; three-measurement rule; plateau 27–33 weeks; ISUOG grade and technique | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

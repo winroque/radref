@@ -10,11 +10,11 @@ status: draft
 verified_against: "full-text PDF (Arq Bras Cardiol 2019;112(6):809–49) read by Claude on 2026-11-11: Tables 9, 11, 13, 15, 17–19, 22–23, 25–27 and related text; every number of the entry found in the source — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [doppler-br-2019]
+sources: [doppler-br-2019, esvs-aaa-2024]
 supersedes: []
 superseded_by: ""
 related: [carotid-vertebral-doppler-br-2023, carotid-imt-reference-values, acr-incidental-vascular-2013]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Vascular ultrasound — DIC/SBC 2019, non-carotid territories
@@ -176,7 +176,7 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 ## 5. Pitfalls
 
 - Not stating OTO vs ITI for the aorta (the source asks only that the method be stated; ESVS 2024
-  gives ITI about 3–6 mm smaller than OTO — `aaa-surveillance-svs-esvs`).
+  gives ITI about 3–6 mm smaller than OTO [esvs-aaa-2024] — `aaa-surveillance-svs-esvs`).
 - Applying limb V2/V1 ratios without a proper proximal reference segment.
 - Mesenteric velocities without stating fasting vs post-prandial.
 - Respiratory phasicity: lower limbs flow ↓ on inspiration, ↑ on expiration; upper limbs and
@@ -204,3 +204,4 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §3–7 (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes | Claude |
 | 2026-11-12 | Pre-check fixes: OTO/ITI number attributed to ESVS; SVS/ESVS cross-reference; >15% criterion separated from endarterectomy; infrapatellar; Lindegaard for mild vasospasm; brain-death 12-h repeat; sickle cell inconclusive rows | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

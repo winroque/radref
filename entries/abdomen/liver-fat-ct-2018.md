@@ -14,7 +14,7 @@ sources: [pickhardt-liver-fat-2018]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Liver fat fraction from unenhanced CT (Pickhardt 2018)

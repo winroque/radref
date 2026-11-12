@@ -7,7 +7,7 @@ modalities: [US]
 population: adults
 source_version: "ETA 2013; ATA 2015 (published 2016)"
 status: draft
-verified_against: "full texts read by Claude on 2026-11-12: ETA 2013 (Eur Thyroid J 2013;2:147–59 — lymph node section, Table 2 headings, recommendations R4–R5, Table 3) and ATA 2015 (Thyroid 2016;26:1–133 — Recommendations 32 and 65 and the cervical US text only) — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude on 2026-11-12: ETA 2013 (Eur Thyroid J 2013;2:147–59 — lymph node section, Table 2 headings, recommendations R4, R5 and R12, Table 3, washout Tg) and ATA 2015 (Thyroid 2016;26:1–133 — Recommendations 32 and 65, sections B4 and C10, Table 7) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [eta-cervical-us-2013, ata-thyroid-2015]
@@ -55,7 +55,7 @@ last_reviewed: 2026-11-12
 | Situation | Recommendation | Source |
 |---|---|---|
 | Suspicious node | FNA cytology and FNA-Tg, considering size | [eta-cervical-us-2013, R12] |
-| Indeterminate node | Decide by stage, histology, size, location and serum Tg (Table 3 merges the two rows) | [eta-cervical-us-2013, R12; Table 3] |
+| Indeterminate node | Decide by stage, histology, size, location and serum Tg (Table 3 merges the two rows; ATA Table 7 is adapted from the ETA classification) | [eta-cervical-us-2013, R12; Table 3] |
 | Small node (short axis < 5–7 mm) | Conservative approach (QOE +, grade 1) | [eta-cervical-us-2013, R12] |
 | Suspicious node ≥ 8–10 mm smallest diameter (pre- or postoperative) | US-guided FNA if a positive result would change management | [ata-thyroid-2015, Rec. 32B (preoperative) and 65B (postoperative)] |
 | FNA washout Tg | Preoperative: appropriate in selected patients (Rec. 32C); postoperative: included with FNA (Rec. 65B) | [ata-thyroid-2015, Rec. 32C and 65B] |
@@ -91,3 +91,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from the full texts (node sections) | Claude |
 | 2026-11-12 | Pre-check fixes: 32B/32C/65B separated; washout Tg cut-offs by setting (C10 vs B4) plus ETA cut-offs; thyroid-bed lesion must be suspicious; small-node conduct moved to management; suspicious vs indeterminate split; bed-mass criteria (R4). ATA Table 7 is adapted from ETA | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

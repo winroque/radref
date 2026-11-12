@@ -14,7 +14,7 @@ sources: [raghu-ipf-ppf-2022]
 supersedes: []
 superseded_by: ""
 related: [thoracic-terminology-pt-2021]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # UIP CT patterns and progressive pulmonary fibrosis (ATS/ERS/JRS/ALAT 2022)
@@ -36,11 +36,11 @@ last_reviewed: 2026-11-11
 | Term | Definition | Source |
 |---|---|---|
 | Fibrosis (reliable signs) | Traction bronchiectasis/bronchiolectasis and/or honeycombing (a continuum in IPF) | [raghu-ipf-ppf-2022] |
-| Honeycombing | Clustered cysts with thick walls and similar diameters, 3–10 mm (up to 2.5 cm); a single subpleural layer counts | [raghu-ipf-ppf-2022] |
-| Paraseptal emphysema (mimic) | Single layer, larger cysts (usually > 1 cm), upper lobes, no reticulation or traction | [raghu-ipf-ppf-2022] |
-| Airspace enlargement with fibrosis (mimic) | Smoking-related; asymmetric, larger, irregular clustered cysts, no traction bronchiectasis | [raghu-ipf-ppf-2022] |
-| Clues to fibrotic HP | Upper/mid-zone fibrosis, mosaic attenuation or three-density sign, axially diffuse fibrosis, lobular air trapping on expiration | [raghu-ipf-ppf-2022] |
-| Clues to CTD-ILD | Exuberant honeycombing (> 70% of fibrotic area), straight-edge sign (coronal), anterior upper-lobe predominance | [raghu-ipf-ppf-2022] |
+| Honeycombing | Clustered cysts with thick walls and similar diameters, 3–10 mm (up to 2.5 cm); a single subpleural layer counts | [raghu-ipf-ppf-2022, Fig. 2] |
+| Paraseptal emphysema (mimic) | Single layer, larger cysts (usually > 1 cm), upper lobes, no reticulation or traction | [raghu-ipf-ppf-2022, Fig. 3] |
+| Airspace enlargement with fibrosis (mimic) | Smoking-related; asymmetric, larger, irregular clustered cysts, no traction bronchiectasis or other signs of fibrosis; not a distinct idiopathic interstitial pneumonia | [raghu-ipf-ppf-2022, Fig. 4] |
+| Clues to fibrotic HP | Upper/mid-zone fibrosis, mosaic attenuation or three-density sign, axially diffuse fibrosis, lobular air trapping on expiration | [raghu-ipf-ppf-2022, Fig. 5] |
+| Clues to CTD-ILD | Exuberant honeycombing (> 70% of fibrotic area), straight-edge sign (coronal), anterior upper-lobe predominance | [raghu-ipf-ppf-2022, Fig. 6] |
 | Pleuroparenchymal fibroelastosis | Dense apical subpleural fibrosis with volume loss; coexists in 6–10% of IPF and worsens prognosis | [raghu-ipf-ppf-2022] |
 
 ## 3. Criteria / categories
@@ -112,3 +112,4 @@ Excluding alternative explanations matters most when only symptoms worsen or onl
 | 2026-11-05 | Migrated from Digitado-IA `torax.md` Part B (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: categories, confidence levels, PPF criteria (≥ 5% FVC, ≥ 10% DLCO) and honeycomb definitions confirmed; no changes | Claude |
 | 2026-11-12 | Pre-check fixes: 'no honeycombing' grounded on Fig. 2; Table 3/Table 4 locations; Table 4 note | Claude |
+| 2026-11-12 | Definitions cited to Figs. 2–6; airspace enlargement with fibrosis checked against the Fig. 4 legend | Claude |

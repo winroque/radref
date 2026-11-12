@@ -101,8 +101,8 @@ last_reviewed: 2026-11-12
   of cancers without bleeding (2.2–8.9%).
   [smith-bindman-endometrium-2004]
 - SOGC recommendations use "< 11 mm" and "> 11 mm" and do not define 11 mm itself; the evidence
-  text (Alcazar and the summary paragraph) appears to use "≥ 11 mm" as thick (the symbol is
-  corrupted in the PDF text layer). Smith-Bindman: ≤ 11 normal.
+  text uses "≥ 11 mm" for Alcazar's meta-analysis (checked on the rendered p. 5, 2026-11-12),
+  and the Smith-Bindman paragraph "≤ 11 mm" vs "thicker than 11 mm". Smith-Bindman: ≤ 11 normal.
   [sogc-endometrium-451-2024; smith-bindman-endometrium-2004]
 
 ## 7. Disagreements and newer versions
@@ -127,3 +127,4 @@ last_reviewed: 2026-11-12
 | 2026-11-12 | Added SRU 2001, Smith-Bindman 2004, Chee 2025 and Doll 2021/2024 from the full texts | Claude |
 | 2026-11-12 | Added SOGC 451 (2024) from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: measurement details attributed to SRU 2001 only; Smith-Bindman 7/8-mm threshold restated with detection gain; modelled factors; SOGC 11-mm wording, Lynch exclusion, > 5 mm definition, Rec. 6; ACOG missed-cancer rates and non-visualization; Doll 2024 cohort composition and PMB subgroup | Claude |
+| 2026-11-12 | SOGC '≥ 11 mm' confirmed on the rendered page | Claude |

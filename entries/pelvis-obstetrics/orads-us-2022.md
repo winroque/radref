@@ -13,8 +13,8 @@ verified_on: ""
 sources: [orads-us-2022]
 supersedes: []
 superseded_by: ""
-related: [orads-mri-2022, pcom-2023]
-last_reviewed: 2026-11-11
+related: [orads-mri-2022, pcom-2023, sru-simple-adnexal-cysts-2019]
+last_reviewed: 2026-11-12
 ---
 
 # O-RADS US v2022
@@ -135,3 +135,4 @@ fertility treatment. [orads-us-2022]
 | 2026-11-11 | Created from the full text (algorithm read from the rendered Figure 3) | Claude |
 | 2026-11-12 | Pre-check fixes: glossary cited as Fig. 1B; PID/ectopic moved out of §6; SRU cross-reference; 50–<55/≥55 rule; full growth rules; endometrioma ≤ 10 cm; multiple lesions, O-RADS 0, technique; dermoid wording variation | Claude |
 | 2026-11-12 | Fig. 1B checked on the rendered page: glossary values confirmed (≥ 3 mm, ≥ 80%, 3 sides, < 3 mm); menopause > 50 / > 50–< 55 / ≥ 55; category 3 includes any smooth uni-/bilocular cyst ≥ 10 cm; simple cyst ≥ 10 cm moved out of the category 2 row | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

@@ -21,8 +21,8 @@ last_reviewed: 2026-11-12
 
 > International sex-specific **97th percentiles (P97)** of thyroid volume by age (6–12 years) and
 > by body surface area (0.7–1.6 m²), from 3,529 iodine-sufficient children on five continents.
-> Built for **goitre screening in iodine-deficiency monitoring**; volumes above P97 define goitre
-> in that context. [zimmermann-thyroid-children-2004]
+> Built for **goitre screening in iodine-deficiency monitoring**; volumes above P97 are used to define
+> goitre in that context (implicit in the paper; no explicit definition sentence). [zimmermann-thyroid-children-2004]
 
 ## 1. Scope
 
@@ -93,3 +93,4 @@ Anchor values (P97, mL; the full age and BSA tables are in the source, Tables 3�
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: WHO/NHD (not WHO/ICCIDD) in title; P97 definition implicit; relation to the 1997/2001 references; interobserver and equipment variation | Claude |
+| 2026-11-12 | Summary box: P97 goitre definition marked as implicit | Claude |

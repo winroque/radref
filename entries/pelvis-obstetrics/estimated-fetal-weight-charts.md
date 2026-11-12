@@ -14,7 +14,7 @@ sources: [hadlock-efw-1985, hadlock-weight-standard-1991, ig21-efw-2017, who-fet
 supersedes: []
 superseded_by: ""
 related: [fetal-biometry-isuog-2019, fgr-sga-isuog-2020]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Estimated fetal weight — formulas and charts

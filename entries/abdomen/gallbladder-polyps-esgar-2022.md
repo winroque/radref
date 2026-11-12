@@ -7,7 +7,7 @@ modalities: [US]
 population: adults
 source_version: "ESGAR/EAES/EFISDS/ESGE update 2022 (of 2017)"
 status: draft
-verified_against: "full-text PDF (Eur Radiol 2022;32:3358–68) read by Claude on 2026-11-12: main recommendations 1–8 with GRADE strength — supporting text not read in full — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Eur Radiol 2022;32:3358–68) read by Claude on 2026-11-12: main recommendations 1–8 with GRADE strength and supporting text on scope and definitions (p. 3360) and monitoring (pp. 3364–65) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [esgar-gallbladder-polyps-2022]
@@ -89,3 +89,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from the full text (recommendations) | Claude |
 | 2026-11-12 | Pre-check fixes: scope (transabdominal US, pseudopolyps and masses excluded, surgical fitness); polyp definition; multiple polyps; solitary polyp note; tool-specific note removed | Claude |
+| 2026-11-12 | Checagem fixes (metadata, citations, section placement) | Claude |

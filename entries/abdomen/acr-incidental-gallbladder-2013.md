@@ -14,7 +14,7 @@ sources: [acr-gallbladder-2013]
 supersedes: []
 superseded_by: ""
 related: [sru-gallbladder-polyps-2022]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental gallbladder and biliary findings (ACR white paper, 2013)

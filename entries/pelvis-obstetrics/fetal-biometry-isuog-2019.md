@@ -14,7 +14,7 @@ sources: [isuog-biometry-2019, snijders-biometry-1994, ig21-fetal-growth-2014, w
 supersedes: []
 superseded_by: ""
 related: [pregnancy-dating, estimated-fetal-weight-charts, fgr-sga-isuog-2020]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Fetal biometry and growth (ISUOG 2019)

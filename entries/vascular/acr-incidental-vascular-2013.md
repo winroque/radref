@@ -14,7 +14,7 @@ sources: [acr-vascular-2013]
 supersedes: []
 superseded_by: ""
 related: [doppler-br-2019-territories, aaa-surveillance-svs-esvs]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Incidental vascular findings on abdominal/pelvic CT and MRI (ACR white paper, 2013)

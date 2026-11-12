@@ -7,14 +7,14 @@ modalities: [US]
 population: pregnant
 source_version: "SRU 2012 consensus (published 2013); review 2015"
 status: draft
-verified_against: "full-text PDFs read by Claude on 2026-11-11: Doubilet 2013 (NEJM, Table 1 diagnostic/suspicious criteria, discriminatory hCG text) and Rodgers 2015 (RadioGraphics, Tables 1–4, Fig. 19) — awaiting radiologist sign-off"
+verified_against: "full-text PDFs read by Claude on 2026-11-11: Doubilet 2013 (NEJM, Table 1 diagnostic/suspicious criteria, discriminatory hCG text) and Rodgers 2015 (RadioGraphics, Tables 1–4, Fig. 19) ; NEJM pages 6–9 (PUL/ectopic) not read; Rodgers Fig. 19 checked on the rendered page 2026-11-12 — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [doubilet-nonviable-2013, rodgers-early-pregnancy-2015]
 supersedes: []
 superseded_by: ""
 related: []
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Early first-trimester pregnancy (SRU 2012 consensus)
@@ -150,6 +150,10 @@ significance. [rodgers-early-pregnancy-2015]
   [rodgers-early-pregnancy-2015]
 - The impact of conservative criteria is small: ~12% of pregnancies formerly labelled
   non-viable become "suspicious" and need follow-up. [rodgers-early-pregnancy-2015]
+- Minimum exam quality (Doubilet Table 1): transvaginal assessment of uterus and adnexa plus
+  transabdominal look for free fluid and a high pelvic mass; trained physician oversight;
+  certified operators; equipment adequate for early first-trimester structures.
+  [doubilet-nonviable-2013, Table 1]
 - Transabdominal US alone may suffice to diagnose failure when CRL ≥ 15 mm without cardiac
   activity (Table 1 footnote); double-sac and intradecidual signs are absent in ≥ 35% of sacs;
   interobserver CRL variation ±15% underlies the 7-mm cut-off. [doubilet-nonviable-2013]
@@ -180,3 +184,4 @@ significance. [rodgers-early-pregnancy-2015]
 | 2026-11-05 | Migrated from Digitado-IA `primeiro-trimestre.md` (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against both full texts, including the NEJM criteria table read directly: no changes; [verify] mark resolved | Claude |
 | 2026-11-12 | Pre-check fixes: 7–10-day follow-up (Doubilet Table 2 footnote); impression wording matched to Fig. 19 (rendered); round/irregular split confirmed; items wrongly in §6 moved to Pitfalls; TA US, double-sac, CRL variation, heart-rate table/text difference. NEJM PUL pages not re-read | Claude |
+| 2026-11-12 | Doubilet Table 1 minimum quality criteria added; verified_against notes the unread NEJM PUL pages and the rendered Fig. 19 | Claude |

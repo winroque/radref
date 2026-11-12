@@ -37,7 +37,7 @@ last_reviewed: 2026-11-12
 
 | Term | Definition | Source |
 |---|---|---|
-| Acquisition (Table 1) | Fast ≥ 4 h; intercostal, supine or slight (≤ 30°) left lateral decubitus with the right arm above the head (text; Table 1 says only "slight lateral decubitus (30°)"); neutral breath-hold; box 15–20 mm below the capsule; ARFI push optimal at 4–4.5 cm depth | [sru-liver-elastography-2020, Table 1] |
+| Acquisition (Table 1 and text) | Fast ≥ 4 h; intercostal, supine or slight (≤ 30°) left lateral decubitus with the right arm above the head (text; Table 1 says only "slight lateral decubitus (30°)"); neutral breath-hold; box 15–20 mm below the capsule; ARFI push optimal at 4–4.5 cm depth | [sru-liver-elastography-2020, Table 1; text] |
 | Number of measurements | pSWE 10 (at least 5 if IQR/M acceptable); 2D SWE 5 with manufacturer quality criteria (10 without them); report the median and IQR/M | [sru-liver-elastography-2020, Table 1] |
 | Confounders | AST/ALT > 5 × ULN, obstructive cholestasis, congestion, acute hepatitis, infiltrative disease — all overestimate fibrosis | [sru-liver-elastography-2020, Table 1] |
 
@@ -89,3 +89,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: < 9 kPa caveat; 10 measurements without quality criteria; position per text; post-antiviral cut-offs; spleen stiffness; B-mode cirrhosis | Claude |
+| 2026-11-12 | Positioning attributed to the text as well as Table 1 | Claude |

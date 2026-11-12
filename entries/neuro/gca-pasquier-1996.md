@@ -14,7 +14,7 @@ sources: [pasquier-gca-1996]
 supersedes: []
 superseded_by: ""
 related: [mta-scheltens-1992, posterior-atrophy-koedam-2011]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Cerebral atrophy rating (Pasquier 1996) and the "GCA 0–3" simplification

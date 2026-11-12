@@ -14,7 +14,7 @@ sources: [isuog-doppler-2021, gomez-uta-pi-2008, fmf-ua-mca-cpr-2019, mari-mca-p
 supersedes: []
 superseded_by: ""
 related: [fgr-sga-isuog-2020]
-last_reviewed: 2026-11-11
+last_reviewed: 2026-11-12
 ---
 
 # Obstetric Doppler (ISUOG 2021) and reference ranges
@@ -56,7 +56,7 @@ last_reviewed: 2026-11-11
 | Vessel | Technique | Source |
 |---|---|---|
 | UtA, first trimester | Transabdominal or transvaginal; sagittal section, move laterally to the paracervical plexus; sample at the internal-os level **before branching** into arcuate arteries; PSV < 60 cm/s (5th centile) → check gate position [isuog-doppler-2021]. 11–14 weeks: **transabdominal**, at the same scan as the NT (CRL 45–84 mm), 2-mm gate, angle < 30°, three similar waveforms, automatic tracing, **mean of right and left PI**, by trained/certified operators (e.g. FMF) [isuog-11-14-2023] | [isuog-doppler-2021; isuog-11-14-2023] |
-| UtA, 2nd–3rd trimester | Transabdominal: gate **1 cm downstream** of the apparent crossing with the external iliac artery (or before an early bifurcation); report right and left and the presence of notching; use ranges for the same route; unreliable in uterine anomalies | [isuog-doppler-2021] |
+| UtA, 2nd–3rd trimester | Transabdominal: gate **1 cm downstream** of the apparent crossing with the external iliac artery (or before an early bifurcation); transvaginal: empty bladder, lithotomy, probe in the **lateral fornix**, UtA identified with colour Doppler at the level of the **internal cervical os**; report right and left and the presence of notching; use ranges for the same route; unreliable in uterine anomalies | [isuog-doppler-2021] |
 | UA | By convention in a **free cord loop** (impedance is highest at the fetal end); in multiples, near the abdominal insertion with matching charts; single UA → interpret with caution | [isuog-doppler-2021] |
 | MCA | Axial plane with thalami and sphenoid wings; gate on the **proximal third** near the internal carotid origin; angle ~0°; no pressure on the head; ≥ 3 and < 10 waveforms; PSV = highest point. MCA-PI interobserver agreement only moderate — repeat | [isuog-doppler-2021] |
 | DV | Sagittal or oblique upper-abdominal plane; gate at the isthmic inlet (colour aliasing); small gate in early or compromised pregnancy; usually triphasic, velocities 55–90 cm/s in the second half of pregnancy | [isuog-doppler-2021] |
@@ -106,3 +106,4 @@ last_reviewed: 2026-11-11
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
 | 2026-11-12 | Pre-check fixes: chart citations in §6; safety wording; first-trimester UtA technique attributed to ISUOG 11–14 (transabdominal, same scan as NT); PIV for DV; Mari thresholds and formula; angle correction and far-field MCA | Claude |
+| 2026-11-12 | Second/third-trimester transvaginal UtA technique added (lateral fornix, internal os level) | Claude |
