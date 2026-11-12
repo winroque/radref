@@ -104,3 +104,4 @@ last_reviewed: 2026-11-12
 | 2026-11-12 | Created from the full text | Claude |
 | 2026-11-12 | Pre-check fixes: hepatic grade I capsular tear marked as operative/pathologic only (Table 2) | Claude |
 | 2026-11-12 | Capsular tear wording clarified. Collective author 'AAST Patient Assessment Committee' not added to the Vancouver (optional; pending the radiologist's choice) | Claude |
+| 2026-11-12 | Collective author 'AAST Patient Assessment Committee' added to the Vancouver, radiologist's choice | Claude |

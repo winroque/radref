@@ -101,3 +101,4 @@ Not applicable. Study results (rater 1 scores): [koedam-posterior-2011]
 | 2026-11-05 | Skeleton created; full text needed before review | Claude |
 | 2026-11-11 | Written from the full text (scale definition, landmarks, highest-score rule, > 1 dichotomy, study results); [verify] marks resolved | Claude |
 | 2026-11-12 | Pre-check additions: young AD cohort caution; PA–MMSE association independent of MTA. Reference record notes/licence updated (CC BY-NC) | Claude |
+| 2026-11-12 | Vancouver initials set to the first-page form (Koedam ELGE, Pijnenburg YAL), radiologist's choice | Claude |
