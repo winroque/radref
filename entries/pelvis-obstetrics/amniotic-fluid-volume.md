@@ -26,15 +26,16 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Applies to:** singleton pregnancies; AFI can be estimated from 18 weeks.
-  [isuog-midtrimester-2022]
+- **Applies to:** singleton pregnancies (Chamberlain's methods; twins excluded by Moore)
+  [chamberlain-sdp-1984; moore-afi-1990]; AFI can be estimated from 18 weeks
+  [isuog-midtrimester-2022]. Chamberlain applied his criteria at 24–44 weeks.
 
 ## 2. Definitions
 
 | Term | Definition | Source |
 |---|---|---|
 | DVP | Largest vertical pocket free of cord and fetal parts, measured at a right angle to the uterine contour (Chamberlain: in two perpendicular planes) | [isuog-midtrimester-2022; chamberlain-sdp-1984] |
-| AFI | Uterus divided into four quadrants (sagittal midline and midway up the fundus); transducer vertical and sagittal; deepest vertical pocket in each quadrant summed; avoid pockets confluent with an adjacent quadrant | [moore-afi-1990, Table III] |
+| AFI | Uterus divided into four quadrants (sagittal midline and midway up the fundus); transducer vertical and sagittal; deepest vertical pocket in each quadrant summed; avoid pockets confluent with an adjacent quadrant | [moore-afi-1990, Methods; Table III] |
 
 ## 3. Criteria / categories
 
@@ -42,28 +43,41 @@ last_reviewed: 2026-11-11
 
 | Source | Decreased | Marginal | Normal | Increased |
 |---|---|---|---|---|
-| Chamberlain 1984 (7,582 high-risk referrals, biophysical profile) | < 1.0 cm | 1.0–2.0 cm | > 2.0 to < 8.0 cm | ≥ 8 cm |
+| Chamberlain 1984 (7,562 high-risk referrals in the Results and Table II; 7,582 in the abstract) | < 1.0 cm | 1.0–2.0 cm | > 2.0 to < 8.0 cm | ≥ 8 cm |
 | ISUOG 2022 | ≤ 2.0 cm | — | > 2.0 and ≤ 8.0 cm | > 8.0 cm |
 
 [chamberlain-sdp-1984; isuog-midtrimester-2022]
 
 In Chamberlain's series, perinatal mortality rose from 4.65/1000 (gross) with normal fluid to
 187.5/1000 with decreased fluid; major anomalies and growth restriction were also more
-frequent as fluid fell. [chamberlain-sdp-1984]
+frequent as fluid fell (major anomaly 0.54% / 2.52% / 9.37% and IUGR 4.9% / 20% / 38.6% for
+normal / marginal / decreased; mortality in the marginal group 56.6/1000). A pocket width of
+≥ 1 cm was required, except in the "decreased" group; the mortality analysis (Table III) used
+7,319 patients after excluding 243 with increased fluid. [chamberlain-sdp-1984]
 
 ### AFI (Moore & Cayle 1990)
 
-- 791 normal pregnancies, 16–44 weeks; interobserver variation 3.1%, intraobserver 6.7%.
-- **Term:** mean 115 mm, 5th–95th percentile **68–196 mm**. **Postdates (> 42 weeks):** mean
-  108 mm, 5th–95th 67–174 mm.
-- AFI rises about 25% from 16 to 27 weeks, peaks at 27 weeks, falls about 29% by the end of the
+- 791 normal pregnancies, 16–44 weeks; interobserver variation ≈ 6.7% (9.7 mm), intraobserver
+  ≈ 3.1% (5 mm) (Table IV and Results; the abstract inverts the two). [moore-afi-1990, Table IV]
+- With AFI < 100 mm the authors recommend the mean of three measurements (percentage error
+  ≥ 20% in that range).
+- **Term:** mean 115 mm, 5th–95th percentile **68–196 mm**. **Postdates** (41.1–43 weeks in Table V; the abstract says
+  "> 42 weeks", the text "> 41 weeks"): mean 108 mm, 5th–95th 67–174 mm.
+- AFI rises about 25% from 16 to 27 weeks, plateaus from 27 to 33 weeks, then falls about 29% by the end of the
   third trimester and about 12% per week after term; week-specific tables are needed.
 - The authors suggest the **5th percentile** as the screening limit for oligohydramnios; the
   "5 cm rule" sits slightly below the 1st percentile at term. [moore-afi-1990]
 
 ## 4. Management
 
-- Not set by these sources. ISUOG 2022: AFI labels more women as oligohydramnios than DVP and
+- No guideline management in these sources. Study protocols: Chamberlain recommended delivery
+  for "decreased" fluid (< 1 cm in two planes) unless grossly immature (< 26 weeks) or with a
+  major anomaly, and suggested intensive investigation (including renal assessment) when the
+  largest pocket is ≤ 2 cm [chamberlain-sdp-1984]; in Moore's study management changed only if
+  no pocket exceeded 1 cm [moore-afi-1990].
+- ISUOG 2022 (grade C) also accepts subjective assessment and gestational-age reference values;
+  technique: transducer perpendicular, clear borders, largest unobstructed pocket, colour Doppler
+  to exclude cord. ISUOG 2022: AFI labels more women as oligohydramnios than DVP and
   increases induction without better outcomes; DVP may be better for oligohydramnios, AFI for
   polyhydramnios (observational data). [isuog-midtrimester-2022]
 
@@ -93,3 +107,4 @@ frequent as fluid fell. [chamberlain-sdp-1984]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check fixes: Moore inter/intra variation (Table IV; abstract inverted); postdates definition; Methods/Table III; Chamberlain n (7,562 vs 7,582) and study-protocol management; singleton attribution; morbidity figures; three-measurement rule; plateau 27–33 weeks; ISUOG grade and technique | Claude |

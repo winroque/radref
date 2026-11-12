@@ -63,10 +63,11 @@ Growth is not formally in the algorithm; **no growth for 1 year** strongly favou
 - ≥ 1 cm without enough imaging to decide (e.g. unenhanced CT only) → MRI now.
 - High-risk 3–6-month MRI may need to be earlier; in oncologic patients already on routine CT,
   CT is acceptable.
-- > 1.5 cm without benign features: at least MRI now; direct biopsy may be appropriate (e.g.
-  3 cm probable colorectal metastasis). Core biopsy preferred over FNA.
+- > 1.5 cm without benign features: low risk → MRI; high risk → at least MRI now, and direct
+  biopsy may be appropriate in high-risk patients (e.g. 3 cm probable colorectal metastasis).
+  Core biopsy preferred over FNA (biopsy morbidity ~0.5%, mortality ~0.05%).
 - FNH vs adenoma matters when **> 3 cm and subcapsular** → MRI with **gadoxetate**; otherwise
-  extracellular contrast is preferred. [acr-liver-2017]
+  gadolinium blood-pool (non-hepatobiliary) agents are preferred. [acr-liver-2017, Imaging Protocol]
 
 ## 5. Pitfalls
 
@@ -75,8 +76,10 @@ Growth is not formally in the algorithm; **no growth for 1 year** strongly favou
 
 ## 6. What the source does not say
 
-- It is not the system for patients at risk of HCC in practice; LI-RADS is the specific,
-  newer system for that population (cirrhosis, chronic HBV, prior HCC).
+- It does not mention LI-RADS. CT done to evaluate known or suspected liver disease (e.g. an
+  HCC surveillance work-up) is outside its scope, although cirrhosis and hepatitis count as
+  "high risk" for incidental lesions (Table 1). LI-RADS (`lirads-ctmr-2018`) is the dedicated
+  system for at-risk patients.
 
 ## 7. Disagreements and newer versions
 
@@ -92,3 +95,4 @@ Growth is not formally in the algorithm; **no growth for 1 year** strongly favou
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §4 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
+| 2026-11-12 | Pre-check fixes: biopsy option limited to high-risk branch; blood-pool agents wording; §6 rewritten (LI-RADS not mentioned; scope) | Claude |

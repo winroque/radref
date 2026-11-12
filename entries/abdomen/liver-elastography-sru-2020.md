@@ -37,8 +37,8 @@ last_reviewed: 2026-11-12
 
 | Term | Definition | Source |
 |---|---|---|
-| Acquisition (Table 1) | Fast ≥ 4 h; intercostal, supine or slight (30°) lateral decubitus with the right arm extended; neutral breath-hold; box 15–20 mm below the capsule; ARFI push optimal at 4–4.5 cm depth | [sru-liver-elastography-2020, Table 1] |
-| Number of measurements | pSWE 10 (at least 5 if IQR/M acceptable); 2D SWE 5 with manufacturer quality criteria; report the median and IQR/M | [sru-liver-elastography-2020, Table 1] |
+| Acquisition (Table 1) | Fast ≥ 4 h; intercostal, supine or slight (≤ 30°) left lateral decubitus with the right arm above the head (text; Table 1 says only "slight lateral decubitus (30°)"); neutral breath-hold; box 15–20 mm below the capsule; ARFI push optimal at 4–4.5 cm depth | [sru-liver-elastography-2020, Table 1] |
+| Number of measurements | pSWE 10 (at least 5 if IQR/M acceptable); 2D SWE 5 with manufacturer quality criteria (10 without them); report the median and IQR/M | [sru-liver-elastography-2020, Table 1] |
 | Confounders | AST/ALT > 5 × ULN, obstructive cholestasis, congestion, acute hepatitis, infiltrative disease — all overestimate fibrosis | [sru-liver-elastography-2020, Table 1] |
 
 ## 3. Criteria / categories
@@ -47,7 +47,7 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | ≤ 5 kPa (1.3 m/s) | High probability of normal | [sru-liver-elastography-2020, Table 2] |
 | < 7 kPa (1.5 m/s) | Helps rule out significant fibrosis (most ARFI studies) | [sru-liver-elastography-2020] |
-| < 9 kPa (1.7 m/s) | Rules out cACLD if no other clinical signs | [sru-liver-elastography-2020, Table 2] |
+| < 9 kPa (1.7 m/s) | Rules out cACLD if no other clinical signs; with known clinical signs, further tests may be needed for confirmation | [sru-liver-elastography-2020, Table 2] |
 | 9–13 kPa (1.7–2.1 m/s) | Suggestive of cACLD; may need further tests | [sru-liver-elastography-2020, Table 2] |
 | > 13 kPa (2.1 m/s) | Highly suggestive of cACLD | [sru-liver-elastography-2020, Table 2] |
 | > 17 kPa (2.4 m/s) | Probability of CSPH; additional tests may be required | [sru-liver-elastography-2020, Table 2] |
@@ -58,13 +58,17 @@ last_reviewed: 2026-11-12
 ## 4. Management
 
 - Follow-up: a change > 10% is clinically significant; use the same equipment; after viral
-  eradication the post-treatment value becomes the baseline. [sru-liver-elastography-2020]
+  eradication the post-treatment value becomes the baseline, and the cut-offs derived from
+  viraemic patients should not be used. [sru-liver-elastography-2020]
+- Spleen stiffness: no cut-offs (insufficient studies); measure only in cACLD.
+  [sru-liver-elastography-2020]
 
 ## 5. Pitfalls
 
 - Measuring within 15 mm of the capsule (reverberation artefact).
 - Reporting a value with IQR/M > 30% (kPa).
 - Non-fasting patient or elevated transaminases, congestion or cholestasis.
+- Using elastography to exclude cirrhosis when it is evident on B-mode. [sru-liver-elastography-2020]
 
 ## 6. What the source does not say
 
@@ -84,3 +88,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: < 9 kPa caveat; 10 measurements without quality criteria; position per text; post-antiviral cut-offs; spleen stiffness; B-mode cirrhosis | Claude |

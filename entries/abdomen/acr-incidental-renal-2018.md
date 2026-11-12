@@ -81,11 +81,15 @@ lesions; US can characterize a homogeneous mass as haemorrhagic/proteinaceous cy
 
 ### Flowchart 3 — characterized cystic mass (Bosniak, pre-2019 version)
 
+In the pre-2019 Bosniak table used here (Table 2), a non-enhancing hyperdense cyst **< 3 cm** is
+II and **> 3 cm intrarenal** is IIF; thick or nodular calcification is IIF. Bosniak 2019 changed
+both (`bosniak-2019`). [acr-renal-2018, Table 2]
+
 | Bosniak | Recommendation | Source |
 |---|---|---|
 | I, II | Benign, no follow-up | [acr-renal-2018] |
 | IIF | Surveillance with CT or MRI "first semiannually then annually, for a minimum of 5 years"; no change in imaging features for ≥ 5 years = stable. Growth without morphologic change does **not** indicate malignancy; morphologic change (more septa, thicker wall/septa, solid nodular component, reclassification as III/IV) → refer | [acr-renal-2018] |
-| III, IV | Refer for treatment (malignancy ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
+| III, IV | Refer for treatment (malignancy ~11% in IIF, ~54% in III); surveillance of III acceptable with limited life expectancy or high surgical risk | [acr-renal-2018] |
 
 ### Flowchart 4 — solid mass or TSTC at unenhanced + enhanced CT/MRI
 
@@ -139,3 +143,4 @@ See the flowchart tables in section 3.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §2 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: IIF and small solid surveillance reworded to the paper's "semiannually then annually" (the 6/12-month wording was not in the text); cystic morphologic change defined | Claude |
+| 2026-11-12 | Pre-check fixes: pre-2019 hyperdense-cyst and calcification rules (Table 2); IIF malignancy ~11% | Claude |

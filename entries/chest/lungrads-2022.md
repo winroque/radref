@@ -24,7 +24,7 @@ last_reviewed: 2026-11-11
 > the benign perifissural rule to all juxtapleural nodules, adds guidance for potentially
 > infectious/inflammatory findings and airway nodules, redefines growth (with a 12-month
 > interval) and slow growth, clarifies the S modifier, and introduces **stepped management**.
-> v2022 is still the current version (2026 review). [lungrads-2022; petranovic-lungrads-2026]
+> No newer version is described in the 2026 review. [lungrads-2022; petranovic-lungrads-2026]
 
 ## 1. Scope
 
@@ -40,12 +40,12 @@ last_reviewed: 2026-11-11
 | Thin-walled cyst | Unilocular, wall **< 2 mm** — benign, not classified in Lung-RADS | [lungrads-2022] |
 | Thick-walled cyst | Unilocular, wall **≥ 2 mm** (uniform, asymmetric or focal nodularity) | [lungrads-2022] |
 | Multilocular cyst | Internal septations; may have ground glass or solid components | [lungrads-2022] |
-| Benign juxtapleural nodule | Solid, smooth margins, oval/lentiform/triangular, **< 10 mm mean diameter**, perifissural, costal pleural, perimediastinal or peridiaphragmatic | [lungrads-2022, Fig. 5] |
+| Benign juxtapleural nodule | Solid, smooth margins, oval/lentiform/triangular, **< 10 mm mean diameter at baseline or new** (a growing juxtapleural nodule does not qualify), perifissural, costal pleural, perimediastinal or peridiaphragmatic | [lungrads-2022, Fig. 5] |
 | Large airway | Segmental or more proximal (diameter > 3 mm) | [lungrads-2022] |
 | Growth | Increase **> 1.5 mm** in mean diameter **within 12 months** (v1.1: > 1.5 mm with no time interval) | [lungrads-2022; petranovic-lungrads-2026] |
 | Size-threshold crossing | A nodule reaching a higher size category is reclassified even without meeting "growth" | [acr-lungrads-2022-table, note 5] |
 | Cavitary nodule | Wall thickening dominant → manage as a solid nodule by total mean diameter | [acr-lungrads-2022-table, note 12] |
-| Slow-growing | Increase of 1.5 mm over **> 12 months** (does not meet growth from one annual screen to the next) | [lungrads-2022] |
+| Slow-growing | Growth over several screening exams that never reaches > 1.5 mm in any 12-month interval ("≤ 1.5-mm increase in a > 12-month interval") | [lungrads-2022; acr-lungrads-2022-table, notes 7–8] |
 
 ## 3. Criteria / categories
 
@@ -62,7 +62,7 @@ parentheses. Each exam is coded by the most suspicious finding. [acr-lungrads-20
 | **3** Probably benign (9%) | Baseline **6 to < 8 mm** (113 to < 268 mm³); new **4 to < 6 mm** | Baseline total **≥ 6 mm** with solid component **< 6 mm**; new total < 6 mm | **≥ 30 mm** at baseline or new | Thick-walled cyst with growing cystic component; category 4A stable/smaller at 3 months (not airway) | 6-month LDCT |
 | **4A** Suspicious (4%) | Baseline **8 to < 15 mm** (268 to < 1,767 mm³); growing **< 8 mm**; new **6 to < 8 mm** | Solid component **6 to < 8 mm** at baseline; new or growing solid component **< 4 mm** | — | Segmental or more proximal airway nodule at baseline; thick-walled or multilocular cyst; cyst becoming multilocular | 3-month LDCT; PET/CT may be considered if solid nodule/component ≥ 8 mm |
 | **4B** Very suspicious (2%) | Baseline **≥ 15 mm** (≥ 1,767 mm³); new or growing **≥ 8 mm** | Solid component **≥ 8 mm** at baseline; new or growing solid component **≥ 4 mm** | — | Persistent (stable or growing) proximal airway nodule; growing thick-walled or multilocular cyst, or more loculation/new opacity; slow-growing solid or part-solid nodule over several screens | Diagnostic chest CT ± contrast; PET/CT if ≥ 8 mm solid; tissue sampling and/or clinical referral (airway: referral, typically bronchoscopy) |
-| **4X** (< 1%) | Category 3 or 4 with extra features raising suspicion (spiculation, lymphadenopathy, metastases, GGN doubling in 1 year, etc.) — a category, not a modifier | | | | As for 4B |
+| **4X** (< 1%) | Category 3 or 4 with extra features raising suspicion (spiculation, lymphadenopathy, metastases, GGN doubling in 1 year, etc.) — a category, not a modifier | | | | Not specified in the table (4X is a distinct category, not a modifier) |
 | **S** modifier (10%) | Significant or potentially significant non-lung-cancer findings, added to 0–4 | | | | Per finding (ACR incidental-findings guidance) |
 
 [acr-lungrads-2022-table]
@@ -100,11 +100,11 @@ and composition. [lungrads-2022, Fig. 5]
 |---|---|---|---|
 | 2 | Subsegmental — baseline, new or stable | 12-month screening LDCT | [lungrads-2022, Table 3] |
 | 4A | Segmental or more proximal — at baseline | 3-month LDCT; PET/CT if ≥ 8 mm solid nodule/component | [lungrads-2022, Table 3] |
-| 4B | Segmental or more proximal — stable or growing | Referral for clinical evaluation (typically bronchoscopy); **not** downgraded by stepped management | [lungrads-2022, Table 3] |
+| 4B | Segmental or more proximal — stable or growing | Referral for clinical evaluation (typically bronchoscopy); the text also allows the 4B diagnostic work-up, including PET/CT if a solid component ≥ 8 mm; **not** downgraded by stepped management | [lungrads-2022, Table 3] |
 
 Features favouring secretions (complex or tubular shape, no soft tissue, air, HU < 21.7) may be
 classified Lung-RADS 2; multiple airway opacities favour a non-neoplastic process.
-[lungrads-2022]
+[lungrads-2022, text p. 479] (the Fig. 7 legend says "< 21 Hounsfield units")
 
 ## 4. Management
 
@@ -140,6 +140,12 @@ examination. [lungrads-2022]
 - Classifying simple thin-walled cysts or diffuse cystic lung disease without concerning
   features.
 - Using Lung-RADS thresholds for incidental (non-screening) nodules.
+- Ignoring a prior diagnostic CT at baseline: it should be used (e.g. 8-mm nodule stable for
+  1 year → 2; new → 4B). Patients no longer eligible still receive a category and management
+  from the current exam. After a cancer diagnosis the exam is no longer screening.
+  [lungrads-2022, p. 486; acr-lungrads-2022-table, note 16]
+- Resolved category 3/4A findings and proven-benign 4B go directly to 1 or 2, outside stepped
+  management. [lungrads-2022, Table 4]
 
 ## 6. What the source does not say
 
@@ -172,3 +178,4 @@ examination. [lungrads-2022]
 |---|---|---|
 | 2026-11-11 | Created from the full text of Christensen 2024 (updates only; full category table pending) | Claude |
 | 2026-11-11 | Added the full v2022 category table from the ACR document (summarized), the ACR summary and the 2026 review; flagged the '> 2 mm³' growth figure and the < vs ≤ 10 mm juxtapleural discrepancy | Claude |
+| 2026-11-12 | Pre-check fixes: 4X management not specified; juxtapleural 'at baseline or new'; slow-growing per notes 7–8; airway PET/CT option and 21 vs 21.7 HU; current-version claim softened; prior-CT and Table 4 items | Claude |

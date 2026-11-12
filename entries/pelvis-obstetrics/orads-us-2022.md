@@ -35,19 +35,23 @@ last_reviewed: 2026-11-11
   absent ovary, etc. When lesion origin is uncertain, CT or MRI may be considered.
   [orads-us-2022, Table 1]
 - Menopausal status uncertain or uterus absent: age **≥ 50 years** → manage as
-  postmenopausal. Early (< 5 years) vs late (≥ 5 years) menopause matters for hemorrhagic
-  cysts. [orads-us-2022]
+  postmenopausal; for hemorrhagic cysts, 50 to < 55 years = early menopause and ≥ 55 = late.
+  Early (< 5 years) vs late (≥ 5 years) menopause matters for hemorrhagic cysts. [orads-us-2022]
+- Multiple or bilateral lesions: score each separately; management follows the highest score.
+  O-RADS 0 for a non-visualized ovary only when visualization is expected (e.g. high-risk
+  screening). Transvaginal US recommended (transabdominal may suffice); cine in orthogonal planes
+  encouraged; the single largest dimension drives scoring and management. [orads-us-2022]
 
 ## 2. Definitions
 
 | Term | Definition | Source |
 |---|---|---|
-| Solid | Excludes blood products and dermoid contents | [orads-us-2022, Fig. 3 glossary] |
-| Solid component | Protrudes **≥ 3 mm** (height) into the cyst lumen from wall or septation | [orads-us-2022, Fig. 3] |
-| Papillary projection | Solid component ≥ 3 mm surrounded by fluid on three sides | [orads-us-2022, Fig. 3] |
-| Irregular | Inner walls/septations (cysts) or outer contour (solid lesions); irregular wall thickening < 3 mm in height for cysts | [orads-us-2022, Fig. 3] |
+| Solid | Excludes blood products and dermoid contents | [orads-us-2022, Fig. 1B glossary] |
+| Solid component | Protrudes **≥ 3 mm** (height) into the cyst lumen from wall or septation | [orads-us-2022, Fig. 1B glossary] |
+| Papillary projection | Solid component ≥ 3 mm surrounded by fluid on three sides | [orads-us-2022, Fig. 1B glossary] |
+| Irregular | Inner walls/septations (cysts) or outer contour (solid lesions); irregular wall thickening < 3 mm in height for cysts | [orads-us-2022, Fig. 1B glossary] |
 | Bilocular / multilocular | Bilocular = 2 locules (new); multilocular = **≥ 3** locules | [orads-us-2022, Table 3] |
-| Solid(-appearing) lesion | ≥ 80% solid | [orads-us-2022, Fig. 3] |
+| Solid(-appearing) lesion | ≥ 80% solid | [orads-us-2022, Fig. 1B glossary] |
 | Shadowing | Must be diffuse or broad; refractive artefact excluded | [orads-us-2022, Table 3] |
 | Colour score (CS) | 1 no flow; 2 minimal; 3 moderate; 4 very strong (IOTA) | [orads-us-2022, Table 4] |
 | Corpus luteum | "Typically" ≤ 3 cm (size cut-off suggested, not required) | [orads-us-2022, Table 3] |
@@ -86,13 +90,15 @@ When features are mixed, use the features giving the **highest** score. [orads-u
 | 1 | None | [orads-us-2022] |
 | 2 — simple cyst | Follow-up US in 12 months if > 5 cm (premenopausal) or > 3 cm (postmenopausal); 6 months if ≥ 10 cm (if not excised) | [orads-us-2022] |
 | 2 — other cysts | Postmenopausal unilocular non-simple smooth cyst < 3 cm: 12 months. Unilocular non-simple smooth or bilocular smooth cyst > 3 and < 10 cm: 6 months, regardless of menopausal status. Surveillance limited to **24 months** | [orads-us-2022] |
-| 2 — classic benign | If features only suggestive and uncertain: US within 3 months. Hemorrhagic cyst in early menopause: US in 2–3 months, US specialist or MRI; not expected in late menopause (re-describe). Endometrioma first seen after menopause: US 2–3 months, specialist or MRI; if not excised, US at 12 and 24 months. Dermoid ≤ 3 cm: follow-up optional; > 3 and < 10 cm: excision or US at 12 and 24 months | [orads-us-2022] |
+| 2 — classic benign | If features only suggestive and uncertain: US within 3 months. Hemorrhagic cyst in early menopause: US in 2–3 months, US specialist or MRI; not expected in late menopause (re-describe). Endometrioma (≤ 10 cm) first seen after menopause: US 2–3 months, specialist or MRI; if not excised, US at 12 and 24 months. Dermoid ≤ 3 cm: follow-up optional; > 3 and < 10 cm: excision or US at 12 and 24 months | [orads-us-2022] |
 | 3 | If not excised, US within **6 months**; if stable, at 12 and 24 months from the first exam; solid lesions may go to US specialist or MRI; gynecologist | [orads-us-2022, Table 5] |
 | 4 | US specialist or MRI (most useful for solid lesions and cysts with solid components), or imaging per gynecologic oncologist; gynecologic oncologist involvement | [orads-us-2022] |
 | 5 | Gynecologic oncologist; imaging per gyn-oncologist protocol | [orads-us-2022, Table 5] |
 
 Growth: a decrease of ≥ 10–15% in average linear dimension at first follow-up suggests a
-benign lesion. Shorter intervals may be chosen for anxiety, genetic risk, pregnancy or
+benign lesion; stable at first follow-up → US at 24 months; growth ≥ 10–15% → US at 12 and 24
+months; continued growth → gynaecologic management; morphologic change → reclassify. Ascites or
+peritoneal nodules with an O-RADS 1–2 lesion → consider other causes (Fig. 18 legend). Shorter intervals may be chosen for anxiety, genetic risk, pregnancy or
 fertility treatment. [orads-us-2022]
 
 ## 5. Pitfalls
@@ -101,18 +107,22 @@ fertility treatment. [orads-us-2022]
 - Calling a single smooth septation multilocular (it is bilocular → category 2 if < 10 cm).
 - Counting refractive edge artefact as shadowing.
 - Using classic benign categories when any atypical feature is present.
+- Dermoid wording: Table 3 and Fig. 15 say "diffuse or regional" hyperechoic component; the text
+  (p. 11) says "diffuse or focal".
 - An exophytic myoma can simulate a solid adnexal lesion (Fig. 2 of the paper).
 
 ## 6. What the source does not say
 
-- It does not apply to pelvic inflammatory disease or ectopic pregnancy.
+- It gives no PPV of its own per category and no numeric definition of "US specialist".
+- The numeric glossary values (≥ 3 mm, ≥ 80%, "three sides") sit in the Fig. 1B image and could
+  not be re-checked against text in the 2026-11-12 pre-check.
 - The figure algorithm and lexicon are ACR material; this entry summarizes them — consult the
   ACR O-RADS documents for exact wording.
 
 ## 7. Disagreements and newer versions
 
 - v2022 replaces the 2020 version. For MRI, see `orads-mri-2022`.
-- The SRU consensus on adnexal cysts (not yet added) is the source of the growth threshold and
+- The SRU consensus on adnexal cysts (`sru-simple-adnexal-cysts-2019`) is the source of the growth threshold and
   the early/late menopause definitions adopted here.
 
 ## 8. How to cite
@@ -124,3 +134,4 @@ fertility treatment. [orads-us-2022]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text (algorithm read from the rendered Figure 3) | Claude |
+| 2026-11-12 | Pre-check fixes: glossary cited as Fig. 1B; PID/ectopic moved out of §6; SRU cross-reference; 50–<55/≥55 rule; full growth rules; endometrioma ≤ 10 cm; multiple lesions, O-RADS 0, technique; dermoid wording variation | Claude |

@@ -26,8 +26,9 @@ last_reviewed: 2026-11-12
 
 ## 1. Scope
 
-- **Population:** 130 patients unlikely to have enlarged abdominal nodes (no history of
-  malignancy). CT 1991 era: contiguous 1-cm sections, oral and IV contrast.
+- **Population:** 130 consecutive patients with blunt abdominal trauma, aged 16–90 years, with a
+  low likelihood of enlarged nodes; absence of malignancy was confirmed in the records only for
+  the 9 patients whose nodes were near the limits. CT 1991 era: contiguous 1-cm sections, oral and IV contrast.
   [dorfman-abdominal-nodes-1991]
 - Derived from CT, not ultrasound.
 
@@ -62,7 +63,11 @@ last_reviewed: 2026-11-12
 
 - Applying one 10-mm rule everywhere misses enlarged retrocrural and porta hepatis nodes.
 - Few patients had visible nodes at some stations (porta hepatis 13, gastrohepatic 25), so those
-  limits rest on small samples. [dorfman-abdominal-nodes-1991]
+  limits rest on small samples. In those two stations the distribution was discontinuous, so the
+  limit was set 1 mm above the second-largest node and the largest was treated as an outlier.
+  [dorfman-abdominal-nodes-1991, Discussion]
+- The authors call nodes above these limits suspicious "particularly if several nodes are
+  present"; a single node just above the limit is weaker evidence. [dorfman-abdominal-nodes-1991]
 
 ## 6. What the source does not say
 
@@ -70,8 +75,7 @@ last_reviewed: 2026-11-12
 
 ## 7. Disagreements and newer versions
 
-- Digitado-IA `alertas.md` text says "retrocrural de 7 mm e hilo hepático de 8 mm" pass under the
-  10-mm rule; the source thresholds are 6 and 7 mm (its own table in `alertas.md` is correct).
+- None recorded.
 
 ## 8. How to cite
 
@@ -82,3 +86,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: population (blunt trauma, 16–90 y, records checked in 9); discontinuous-distribution note; 'several nodes'; tool-specific note removed | Claude |

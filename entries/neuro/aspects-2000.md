@@ -42,12 +42,16 @@ last_reviewed: 2026-11-12
 | Score | Meaning in the source | Source |
 |---|---|---|
 | 10 | Normal CT | [aspects-2000] |
-| ≤ 7 | Predicted dependence or death (sensitivity 0.78, specificity 0.96) and symptomatic intracerebral haemorrhage (0.90 / 0.62) after IV alteplase; risk of symptomatic ICH about 14 times that of scores > 7 | [aspects-2000] |
+| ≤ 7 | Predicted dependence or death (sensitivity 0.78, specificity 0.96) and symptomatic intracerebral haemorrhage (0.90 / 0.62) after IV alteplase; odds of symptomatic ICH about 14 times that of scores > 7 (OR 14, CI 1.8–117); sICH 1% with scores > 7 | [aspects-2000, Table 1; Discussion] |
 | 0 | Diffuse ischaemia throughout the MCA territory | [aspects-2000] |
 
 - Cohort: 156 patients treated with IV alteplase within 3 h; CT with 10-mm slices; median
-  baseline ASPECTS 8. Between-observer agreement (knowing the affected side) κ 0.71–0.89.
-  [aspects-2000]
+  baseline ASPECTS 8. Readers knew the affected side but were blind to NIHSS and outcome.
+  Between-observer agreement for ASPECTS ≤ 7 vs > 7 (side known) κ 0.71–0.89; within-observer
+  κ 0.67–0.82. Model modifiers: age > 78 years (functional outcome) and glucose > 10 mmol/L
+  (sICH). [aspects-2000, Table 2; Results]
+- Source inconsistency: in Table 1 the n labels look swapped (≤ 7 shown with n = 89, > 7 with
+  n = 65); the text says 65 had ≤ 7 and 89 had > 7.
 
 ## 4. Management
 
@@ -80,3 +84,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: κ refers to dichotomized score; locations; OR 14 wording; sICH 1%; intraobserver κ, blinding, modifiers; Table 1 n-label inconsistency | Claude |

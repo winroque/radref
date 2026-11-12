@@ -62,7 +62,7 @@ itself. [acr-thyroid-incidental-2015]
 
 | Finding | Recommendation | Source |
 |---|---|---|
-| **Focal** FDG uptake (with or without CT nodule) | US and FNA of the focus, **regardless** of US appearance (malignancy ~1 in 3) | [acr-thyroid-incidental-2015] |
+| **Focal** FDG uptake (with or without CT nodule) | US and FNA of the focus, **regardless** of US appearance (malignancy ~1 in 3); with severe comorbidity or limited life expectancy, no work-up unless requested or clinically indicated (Fig. 2, note 3) | [acr-thyroid-incidental-2015] |
 | Diffuse uptake without mass | Not focal; this branch does not apply | [acr-thyroid-incidental-2015] |
 | Uptake on MIBI or octreotide | Thyroid US; FNA according to US | [acr-thyroid-incidental-2015] |
 
@@ -75,7 +75,12 @@ itself. [acr-thyroid-incidental-2015]
 
 ## 4. Management
 
-After thyroid US, FNA and follow-up follow the US findings (e.g. ACR TI-RADS).
+- Do **not** mention in the impression, nor recommend work-up for, a nodule that does not meet
+  criteria; whether to mention it in the body is left to the radiologist.
+  [acr-thyroid-incidental-2015]
+- After thyroid US, FNA and follow-up follow the US findings (e.g. ACR TI-RADS).
+- US of extrathyroidal structures should be done by staff experienced in thyroid US.
+  [acr-thyroid-incidental-2015]
 
 ## 5. Pitfalls
 
@@ -84,9 +89,8 @@ After thyroid US, FNA and follow-up follow the US findings (e.g. ACR TI-RADS).
 
 ## 6. What the source does not say
 
-- The paper recommends **not** mentioning in the impression, nor recommending work-up for, a
-  nodule that does not meet criteria; whether to mention it in the body is left to the
-  radiologist. [acr-thyroid-incidental-2015]
+- It gives no follow-up intervals and no FNA criteria for the dedicated US; it defers to the
+  thyroid US findings.
 
 ## 7. Disagreements and newer versions
 
@@ -102,3 +106,4 @@ After thyroid US, FNA and follow-up follow the US findings (e.g. ACR TI-RADS).
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §8 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
+| 2026-11-12 | Pre-check fixes: impression rule moved to §4 (it is stated by the source); comorbidity caveat on the nuclear medicine branch; operator experience | Claude |

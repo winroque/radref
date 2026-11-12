@@ -26,8 +26,9 @@ last_reviewed: 2026-11-12
 
 ## 1. Scope
 
-- **Valid for:** women 155–179 cm and men 165–199 cm tall (German, predominantly white, healthy
-  donors). [chow-spleen-size-2016]
+- **Valid for:** women 155–179 cm and men 165–199 cm tall (German healthy volunteers,
+  exclusively white, aged 18–55, median 31 years); older adults were not studied.
+  [chow-spleen-size-2016, Results]
 
 ## 2. Definitions
 
@@ -59,7 +60,9 @@ H = body height in cm. Example (computed from the formula): a 180-cm man → abo
 ## 5. Pitfalls
 
 - Calling splenomegaly at 12 cm in a tall man.
-- Using the formulae outside the validated height range.
+- Using the formulae outside the validated height range, or in older adults.
+- No external validation: the same cohort derived and validated the limits; single examiner.
+  [chow-spleen-size-2016]
 
 ## 6. What the source does not say
 
@@ -68,8 +71,9 @@ H = body height in cm. Example (computed from the formula): a 180-cm man → abo
 
 ## 7. Disagreements and newer versions
 
-- Internal inconsistency: the abstract reports 234 of 906 men (26%) above 12 cm, while one
-  results sentence prints "23 of 906 men (26%)" (typo).
+- Internal inconsistency: three numbers for men above 12 cm — 234 of 906 (abstract), 237 of
+  906 (Advances in Knowledge) and "23 of 906" in one results sentence (typo); 234 and 237 both
+  round to 26%.
 
 ## 8. How to cite
 
@@ -80,3 +84,4 @@ H = body height in cm. Example (computed from the formula): a 180-cm man → abo
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: population (exclusively white, 18–55 y); no external validation; third inconsistent number (237) | Claude |

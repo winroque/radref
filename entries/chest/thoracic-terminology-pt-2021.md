@@ -42,7 +42,7 @@ last_reviewed: 2026-11-11
 | espaços aéreos | — | Gas-exchanging portion (respiratory bronchioles, ducts, alveoli), excluding conducting airways | [hochhegger-terminology-2021] |
 | fissura | cissura (accepted) | Infolding of visceral pleura between lobes; may be incomplete or accessory | [hochhegger-terminology-2021] |
 | interface | sinal da interface | Boundary between structures of different density; irregularity suggests interstitial thickening | [hochhegger-terminology-2021] |
-| compartimentos do mediastino | — | Prevascular (anterior), visceral (middle), paravertebral (posterior), per ITMIG | [hochhegger-terminology-2021] |
+| compartimentos do mediastino | — | Prevascular (anterior), visceral (middle), paravertebral (posterior), per ITMIG; defined within the entry "massa", not a separate term | [hochhegger-terminology-2021] |
 
 ### Opacities and patterns
 
@@ -112,8 +112,8 @@ last_reviewed: 2026-11-11
 
 | Avoid | Use instead | Reason | Source |
 |---|---|---|---|
-| infiltrado | opacidade, or the specific term | Imprecise; means different things to different readers ("lesão infiltrativa" of a mass is acceptable) | [hochhegger-terminology-2021] |
-| atenuação em mosaico | padrão de perfusão em mosaico, or "opacidade em vidro fosco não homogênea" | Confused with mosaic perfusion | [hochhegger-terminology-2021] |
+| infiltrado | opacidade, or the specific term | Imprecise; means different things to different readers; replace with "opacidade" | [hochhegger-terminology-2021] |
+| atenuação em mosaico | "opacidade em vidro fosco não homogênea" (use "padrão de perfusão em mosaico" only when it is truly perfusion) | Confused with mosaic perfusion | [hochhegger-terminology-2021] |
 | micetoma (for fungus ball) | bola fúngica (aspergiloma) | Mycetoma is a chronic subcutaneous infection | [hochhegger-terminology-2021] |
 | opacidade linear (generic) | banda parenquimatosa, atelectasia linear, espessamento septal | Precision recommendation | [hochhegger-terminology-2021] |
 | vidro fosco on radiographs | opacidade mal definida / tênue | Superimposition misleads | [hochhegger-terminology-2021] |
@@ -139,8 +139,9 @@ Not applicable (terminology).
 
 ## 7. Disagreements and newer versions
 
-- English-language reference: Fleischner Society glossary of terms for thoracic imaging — not
-  yet added.
+- English-language reference: the source cites the Fleischner glossary of 2008 (Hansell); an
+  updated Fleischner glossary was published in 2024 (Bankier et al., Radiology). Neither is in
+  radref yet.
 
 ## 8. How to cite
 
@@ -152,3 +153,4 @@ Not applicable (terminology).
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `torax.md` Part A (house rules on silent substitution removed) | Claude |
 | 2026-11-11 | Checked against the full text: numeric definitions, terms to avoid and the micronodule inconsistency confirmed; [verify] mark resolved | Claude |
+| 2026-11-12 | Pre-check fixes: 'infiltrado' caveat removed; 'atenuação em mosaico' substitute per source; mediastinal compartments location; Fleischner 2008/2024 | Claude |

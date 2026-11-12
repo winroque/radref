@@ -70,6 +70,8 @@ scoring 2 or 3 were aged over 77 — discrimination is poorer in older subjects.
   practice.
 - **Age-specific cut-offs** (e.g. abnormal ≥ 2 below 75 years, ≥ 3 from 75) are **not in this
   article**; they come from later work (not yet added). Do not cite Scheltens 1992 for them.
+  The article's Discussion does say the rating would be useful "in subjects younger than 75
+  years", and reports sensitivity 81% and specificity 67%. [mta-scheltens-1992, Discussion]
 
 ## 7. Disagreements and newer versions
 
@@ -86,3 +88,4 @@ scoring 2 or 3 were aged over 77 — discrimination is poorer in older subjects.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: scope and Table 1 confirmed; removed the per-side rating (not in the source); added study details | Claude |
+| 2026-11-12 | Pre-check: 'younger than 75 years' remark and sensitivity/specificity from the Discussion | Claude |

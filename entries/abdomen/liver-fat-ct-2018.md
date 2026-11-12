@@ -53,6 +53,10 @@ last_reviewed: 2026-11-11
   **14% PDFF** and **42 HU** on unenhanced CT, according to the authors' data.
 - Worked values (arithmetic from the formula): 57 HU ≈ 5%; 42 HU ≈ 14%; 20 HU ≈ 27%.
   [pickhardt-liver-fat-2018]
+- The authors give the formula-derived thresholds of **42.1 HU** (moderate) and **17.8 HU**
+  (severe); in the cohort all patients with PDFF > 28% had ≤ 20 HU and all with PDFF > 14% had
+  ≤ 45 HU. The formula's intercepts: 0 HU ≈ 38.2%; PDFF 0% ≈ 66.5 HU.
+  [pickhardt-liver-fat-2018, Results]
 
 ## 4. Management
 
@@ -70,6 +74,9 @@ patients for MRI PDFF follow-up. [pickhardt-liver-fat-2018]
 | Low fat content | Human correlation weaker than phantom, especially at low fat concentrations | [pickhardt-liver-fat-2018] |
 
 - Contrast-enhanced phases: out of scope (not studied).
+- Increased glycogen is cited as a possible confounder; MRI PDFF itself is unreliable with
+  R2* > 500 s⁻¹ (authors' experience); dual-energy CT did not seem to improve quantification on
+  unenhanced scans. [pickhardt-liver-fat-2018]
 - The estimate is a regression prediction, not a measurement.
 
 ## 6. What the source does not say
@@ -95,3 +102,4 @@ patients for MRI PDFF follow-up. [pickhardt-liver-fat-2018]
 |---|---|---|
 | 2026-11-05 | Created from the formula in Digitado-IA `CLAUDE.md` (house rules removed) | Claude |
 | 2026-11-11 | Rewritten from the full text: 120-kV restriction, ROI method, cohort, confounders, 42 HU/14% correspondence; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check additions: 42.1/17.8 HU thresholds and cohort ranges; glycogen, R2*, DECT | Claude |

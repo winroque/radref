@@ -43,14 +43,16 @@ last_reviewed: 2026-11-12
 | Situation | Statement (level, strength) | Source |
 |---|---|---|
 | Surveillance | US + AFP about every 6 months (2, strong) | [aasld-hcc-2023] |
-| Routine CT/MRI or other biomarkers for surveillance | Not recommended routinely (5, weak); limited US visualization → contrast MRI or multiphase CT may be used (5, weak) | [aasld-hcc-2023] |
+| Routine CT/MRI or other biomarkers for surveillance | Not recommended routinely (5, weak); contrast MRI in selected cases with suboptimal US (11a: 3, weak); limited US visualization → contrast MRI or multiphase CT may be used (12a: 5, weak) | [aasld-hcc-2023] |
 | Lesion < 1 cm at US | Repeat US + AFP in about 3–6 months (3, strong); stable on ≥ 2 follow-ups → back to 6-monthly (5, weak) | [aasld-hcc-2023] |
 | Suspicious lesion ≥ 1 cm at US | Multiphase contrast CT or MRI (1, strong) | [aasld-hcc-2023] |
 | AFP ≥ 20 ng/mL or rising | Multiphase CT or MRI (3, strong) | [aasld-hcc-2023] |
-| Non-invasive diagnosis | In at-risk patients, by imaging criteria (LI-RADS) and/or pathology (1, strong); dynamic MRI or multiphase CT (1, strong); without cirrhosis or at-risk HBV → pathology required (1, strong) | [aasld-hcc-2023] |
+| Non-invasive diagnosis | In at-risk patients, by imaging and/or pathology (16: 1, strong); use of LI-RADS specifically (16a: 5, weak); AFP alone or liquid biopsy not for diagnosis (16c: 3, weak); dynamic MRI or multiphase CT (1, strong); without cirrhosis or at-risk HBV → pathology required (1, strong) | [aasld-hcc-2023] |
 | LR-3 | Repeat cross-sectional imaging in 3–6 months (2, weak) | [aasld-hcc-2023] |
 | LR-4 | Multidisciplinary discussion; repeat CT/MRI within 3 months or immediate biopsy (2, strong) | [aasld-hcc-2023] |
-| LR-M | Biopsy | [aasld-hcc-2023] |
+| LR-M | Biopsy (1, strong) | [aasld-hcc-2023] |
+| LR-4 / LR-5 | Biopsy may be considered (21: 3, weak); biopsy instead of repeat imaging when an immediate diagnosis changes management (20a: 5, strong) | [aasld-hcc-2023] |
+| Listed for transplant | 6-monthly surveillance (7b: 3, strong) | [aasld-hcc-2023] |
 
 - Not recommended: routine surveillance in HCV after SVR or NAFLD with advanced fibrosis but
   without cirrhosis (3, weak). [aasld-hcc-2023]
@@ -66,8 +68,8 @@ last_reviewed: 2026-11-12
 
 ## 6. What the source does not say
 
-- No US-specific morphology rule for "benign-looking" nodules in cirrhosis; that point in
-  Digitado-IA `alertas.md` comes from US LI-RADS, not from this guidance.
+- No US-specific morphology rule for "benign-looking" nodules in cirrhosis (see
+  `us-lirads-surveillance-2024`).
 
 ## 7. Disagreements and newer versions
 
@@ -82,3 +84,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the author manuscript (surveillance and diagnosis statements) | Claude |
+| 2026-11-12 | Pre-check fixes: statements 11a/12a, 16/16a/16c, 20a, 21, 7b and LR-M level separated; tool-specific note removed | Claude |

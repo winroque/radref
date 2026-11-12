@@ -61,12 +61,23 @@ last_reviewed: 2026-11-11
 
 Rules (Figure 2 footnotes): [sru-gallbladder-polyps-2022, Fig. 2]
 
+- Polyp size is rounded to the nearest millimetre.
+
 - During follow-up: increase of **≥ 4 mm in ≤ 12 months**, or reaching the threshold size of the
   category → surgical consult. Decrease of **≥ 4 mm** → stop following.
 - If unsure between categories, choose **low risk**.
 - It is optional to treat polyps as low risk instead of extremely low risk when certain
   ethnicities with higher gallbladder cancer incidence are known (North Indian, North/South
   American Indigenous, local incidence).
+- The "vs surgical consult" alternatives appear in Fig. 2 (checked on the rendered figure on
+  2026-11-12, including footnote c for 10–14 mm extremely low risk); the legends of Figs. 3–7
+  mention only the follow-up schedule.
+
+Panel statements in the text: polyp vascularity and echogenicity should **not** change the risk
+category; a maximum follow-up of **3 years** is sufficient; growth of up to 3 mm may be natural
+history, while ≥ 4 mm in 1 year is "rapid growth"; EUS is not part of the usual work-up; CT is
+inferior to CEUS or MRI for separating sludge, polyp and adenomyomatosis.
+[sru-gallbladder-polyps-2022, text]
 
 ## 4. Management
 
@@ -105,3 +116,4 @@ age-related surgical risk and the imaging risk. [sru-gallbladder-polyps-2022]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text (Figures 1–2 read from the rendered pages) | Claude |
+| 2026-11-12 | Pre-check: Fig. 2 alternatives confirmed on the rendered figure; rounding rule; panel statements (vascularity, 3-year maximum, growth, EUS, CT) | Claude |

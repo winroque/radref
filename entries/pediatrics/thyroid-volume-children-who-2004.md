@@ -1,6 +1,6 @@
 ---
 id: thyroid-volume-children-who-2004
-title: Thyroid volume in 6–12-year-old children by ultrasound — WHO/ICCIDD international reference (Zimmermann 2004)
+title: Thyroid volume in 6–12-year-old children by ultrasound — WHO/NHD international reference (Zimmermann 2004)
 type: reference-values
 area: pediatrics
 modalities: [US]
@@ -17,7 +17,7 @@ related: [uterine-ovarian-volume-kelsey]
 last_reviewed: 2026-11-12
 ---
 
-# Thyroid volume in schoolchildren (WHO/ICCIDD, Zimmermann 2004)
+# Thyroid volume in schoolchildren (WHO/NHD, Zimmermann 2004)
 
 > International sex-specific **97th percentiles (P97)** of thyroid volume by age (6–12 years) and
 > by body surface area (0.7–1.6 m²), from 3,529 iodine-sufficient children on five continents.
@@ -37,7 +37,7 @@ last_reviewed: 2026-11-12
 | Lobe volume | AP × mediolateral × craniocaudal diameter (cm) × **0.479** (Brunn method); total = sum of both lobes; isthmus excluded | [zimmermann-thyroid-children-2004] |
 | Technique | Sitting, neck extended; AP and transverse on the largest transverse image, craniocaudal on a longitudinal image; capsule not included; 7.5-MHz linear probe | [zimmermann-thyroid-children-2004] |
 | BSA | weight(kg)^0.425 × height(cm)^0.725 × 71.84 × 10⁻⁴ | [zimmermann-thyroid-children-2004] |
-| Goitre (survey use) | Volume > P97 for sex and age or BSA | [zimmermann-thyroid-children-2004] |
+| Goitre (survey use) | Volume > P97 for sex and age or BSA (implicit: the references are "used to define goiter"; no explicit definition sentence) | [zimmermann-thyroid-children-2004, Introduction] |
 
 ## 3. Criteria / categories
 
@@ -59,6 +59,8 @@ Anchor values (P97, mL; the full age and BSA tables are in the source, Tables 3�
 
 ## 5. Pitfalls
 
+- Comparing measurements made with different technique: interobserver error reached 26% from
+  technique differences, and equipment varied by about 12%. [zimmermann-thyroid-children-2004]
 - Comparing a volume computed with another factor (e.g. the 0.52 ellipsoid factor) with these
   P97s; the authors state the references apply when volume is determined by the Brunn method.
   [zimmermann-thyroid-children-2004]
@@ -76,8 +78,10 @@ Anchor values (P97, mL; the full age and BSA tables are in the source, Tables 3�
 - The authors found significant differences between sites and note population-specific
   references may be more accurate, but propose one international set because the differences
   were modest. [zimmermann-thyroid-children-2004]
-- It replaced the 1997 WHO/ICCIDD references, which later reports found too high.
-  [zimmermann-thyroid-children-2004]
+- The 1997 WHO/ICCIDD references were found too high (systematic bias of about +30%); provisional
+  corrected references followed in 2001. The new P97 values are about 20% lower than the
+  corrected 1997 values (boys) and will give higher goitre prevalence. The paper does not use
+  the word "replace". [zimmermann-thyroid-children-2004, Introduction; Discussion]
 
 ## 8. How to cite
 
@@ -88,3 +92,4 @@ Anchor values (P97, mL; the full age and BSA tables are in the source, Tables 3�
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: WHO/NHD (not WHO/ICCIDD) in title; P97 definition implicit; relation to the 1997/2001 references; interobserver and equipment variation | Claude |

@@ -59,15 +59,17 @@ inflammation: IIb, B. [doppler-carotid-br-2023, Boxes 4, 7]
 |---|---|---|---|---|---|---|
 | < 50% | < 140 | < 40 | < 2.0 | < 8 | < 2.6 | [doppler-carotid-br-2023, Table 2] |
 | 50–59% | 140–230 | 40–69 | 2.0–3.1 | 8–10 | 2.6–5.5 | [doppler-carotid-br-2023, Table 2] |
-| 60–69% | (140–230)* | 70–100 | 3.2–4.0 | 11–13 | (2.6–5.5)* | [doppler-carotid-br-2023, Table 2] |
-| 70–79% | > 230 | > 100 | > 4.0 | 14–21 | (2.6–5.5)* | [doppler-carotid-br-2023, Table 2] |
-| 80–89% | (> 230)* | > 140 | (> 4.0)* | 22–29 | > 5.5 | [doppler-carotid-br-2023, Table 2] |
-| > 90% | > 400 | (> 140)* | > 5.0 | > 30 | (> 5.5)* | [doppler-carotid-br-2023, Table 2] |
-| Near-occlusion | Variable, string flow | — | — | — | — | [doppler-carotid-br-2023, Table 2] |
+| 60–69% | —* | 70–100 | 3.2–4.0 | 11–13 | —* | [doppler-carotid-br-2023, Table 2] |
+| 70–79% | > 230 | > 100 | > 4.0 | 14–21 | —* | [doppler-carotid-br-2023, Table 2] |
+| 80–89% | —* | > 140 | —* | 22–29 | > 5.5 | [doppler-carotid-br-2023, Table 2] |
+| > 90% | > 400 | —* | > 5.0 | > 30 | —* | [doppler-carotid-br-2023, Table 2] |
+| Near-occlusion | Variable, string flow | Variable, string flow | Variable, string flow | Variable, string flow | Variable, string flow | [doppler-carotid-br-2023, Table 2] |
 | Occlusion | No flow | No flow | n/a | n/a | n/a | [doppler-carotid-br-2023, Table 2] |
 
-\*Merged cells in the original: the value carries over from the adjacent band (consistent with
-the text: EDV ICA/EDV CCA > 5.5 identifies > 80%). Parameters are in order of relevance, left
+\*Blank cell in the 2023 table, which has no row rules, so merging cannot be seen; on the
+rendered page (checked 2026-11-12) each value sits in its own row, and the same table in 2019
+(Table 6) prints "–" in these cells. Read as **no criterion for that band**, not as a value
+carried over from the adjacent band. Parameters are in order of relevance, left
 to right; PSV is the main one.
 
 - **Sequence** (Fig. 3): plaque → PSV < 140 cm/s = < 50% → grade by local lumen reduction
@@ -83,7 +85,7 @@ to right; PSV is the main one.
 
 ### Residual lumen and NASCET/ECST
 
-- Residual lumen **1.4–2.2 mm** suggests 50–69% (S 75%, E 93.8%); **≤ 1.3 mm** suggests > 70%
+- On **CTA**, residual lumen **1.4–2.2 mm** suggests 50–69% (S 75%, E 93.8%); **≤ 1.3 mm** suggests > 70%
   (S 88.2%, E 92.4%, NPV 98%). Lumen ≤ 1.5 mm with haemodynamic change suggests severe stenosis;
   on B-flow < 1.5 mm ≈ 70–99% NASCET. [doppler-carotid-br-2023, §5.2, Table 1]
 - NASCET (distal) ≈ ECST (local): < 20 ≈ < 50; 20–29 ≈ 50–55; 30–39 ≈ 58–63; 40–49 ≈ 64–69;
@@ -97,8 +99,9 @@ to right; PSV is the main one.
   ≥ 141 (Petisco) more specific than 125 for ≥ 50%. EDV > 140 for > 80% (specificity > 90%).
   PSV ICA/EDV CCA (St Mary's ratio) less studied — use when other parameters disagree.
   [doppler-carotid-br-2023, §5.5.2]
-- Correlation with angiography (r): PSV and EDV correlate better than ratios (AbuRahma 2011,
-  Petisco 2015, Braum 2008). [doppler-carotid-br-2023, Table 3]
+- Correlation with angiography (r): PSV has the best correlation or ties with it (Petisco: PSV
+  ratio 0.81 = PSV; Braum: PSV ratio 0.766 > EDV 0.762); the EDV ICA/EDV CCA ratio correlates
+  worst (AbuRahma 2011, Petisco 2015, Braum 2008). [doppler-carotid-br-2023, Table 3]
 - Post-stenotic flow (very severe stenosis, shadowing plaque): turbulence, PSV < 30 cm/s,
   prolonged acceleration time; compare contralateral side.
 
@@ -136,7 +139,8 @@ to right; PSV is the main one.
 | In-stent restenosis types | I focal at the edge (< 10 mm); II focal intra-stent (< 10 mm); III diffuse (> 10 mm); IV diffuse proliferative (> 10 mm) beyond the edges; V occlusion | [doppler-carotid-br-2023, Box 5] |
 
 Post-CEA surveillance at **1, 3 and 12 months** (Bandyk). Restenosis 3–24 months = neointimal
-hyperplasia; > 24 months = atherosclerosis. Expected findings: sutures (regularly spaced bright
+hyperplasia; > 24 months = atherosclerosis (Box 5; the text of §6.3 says 6–12 months and after
+24–36 months — internal inconsistency). Expected findings: sutures (regularly spaced bright
 echoes), venous patch (may be indistinguishable), Dacron (thick very echogenic), PTFE (bright
 double line). US is not the method of choice for stent fracture/kinking. [doppler-carotid-br-2023]
 
@@ -171,7 +175,8 @@ double line). US is not the method of choice for stent fracture/kinking. [dopple
 - Transducer ≤ 2 MHz; orbital, temporal and foraminal windows; low resistance in all trunk
   arteries except the ophthalmic. [doppler-carotid-br-2023]
 - Recommendations (all I, B): silent microembolism — blinded TCD with headframe, continuous MCA
-  or basilar monitoring for **≥ 4 h**; vasomotor reserve before endarterectomy; peri-operative
+  or basilar monitoring for **≥ 4 h** (the text of §10.4.2 says ≥ 1 h in symptomatic and 4 h in
+  asymptomatic patients); vasomotor reserve before endarterectomy; peri-operative
   monitoring and **≥ 90 min** after endarterectomy; include V4 and basilar in carotid/vertebral
   exams of symptomatic patients without an explaining extracranial lesion.
 - HITS: transient (< 300 ms) high-intensity signals; distal microembolism = **7.5×** risk of
@@ -180,10 +185,10 @@ double line). US is not the method of choice for stent fracture/kinking. [dopple
 
 ## 4. Management
 
-- Report content: transducer, technical quality/limitations; plaques (site, extent,
-  morphology, stenosis in deciles); ICA and CCA PSV/EDV and ratios; other findings
-  (tortuosity, dissection, tumour, arteritis); conclusion in decile bands, near-occlusion with
-  full/partial collapse, or occlusion; IMT vs P75 when measured. [doppler-br-2019, §2.4.3]
+- Report content (2019 §2.4.3): transducer, technical quality/limitations; plaques (site, extent,
+  morphology, stenosis in deciles); other findings. [doppler-br-2019, §2.4.3] Also useful, from
+  other sections: velocities and ratios (Table 2), near-occlusion with full/partial collapse
+  (2023 §5.2), IMT vs P75 when measured (2019 §2.2.4), the size of any mobile component.
 - Dissection: CTA and MRA are the methods of choice (I, C); US less accurate; microbubbles
   IIa, B. [doppler-carotid-br-2023, §7.2.1, §8.8]
 
@@ -228,3 +233,4 @@ analysis is less accurate peri-operatively and with calcium or stenotic plaques.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §1–3 (house rules removed) | Claude |
 | 2026-11-11 | Checked against both full texts: ICA table (incl. merged cells), post-stent/CEA, vertebral criteria confirmed; licence confirmed | Claude |
+| 2026-11-12 | Pre-check fixes: Table 2 blank cells read as no criterion (checked on the rendered page; 2019 prints '–'); near-occlusion row; residual lumen on CTA; correlation wording; restenosis and HITS inconsistencies; report content sources separated | Claude |

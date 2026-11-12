@@ -28,7 +28,9 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Applies to:** singleton fetuses **without congenital anomalies**. [gordijn-fgr-delphi-2016]
+- **Applies to:** singleton, correctly dated fetuses without aneuploidy, malformation or infection
+  [isuog-sga-fgr-2020, Introduction]; the Delphi FGR definition assumes no congenital anomalies
+  (placental FGR) [gordijn-fgr-delphi-2016, Table 6].
 - Growth centiles in the definition are **non-customized**. [isuog-biometry-2019, Table 2]
 
 ## 2. Definitions
@@ -85,6 +87,14 @@ alteration, absent/reversed UA-EDF, altered BPP or maternal indication.
   should be **confirmed within 24 h**. [isuog-sga-fgr-2020]
 - Induction of labour is indicated in the absence of contraindications, with continuous fetal
   heart rate monitoring. [isuog-sga-fgr-2020]
+- Absent or reversed UA-EDF (Fig. 2): monitor every 2–3 days unless delivery is indicated.
+  [isuog-sga-fgr-2020, Fig. 2]
+
+### SGA (not FGR)
+
+- Doppler at diagnosis and follow-up; late SGA: growth every 2 weeks and UA/MCA-PI, CPR and UCR
+  weekly; plan delivery from 38 + 0 weeks, not beyond 39 + 0 (grade A); continuous monitoring
+  in labour. [isuog-sga-fgr-2020, SGA section]
 
 ## 5. Pitfalls
 
@@ -95,7 +105,10 @@ alteration, absent/reversed UA-EDF, altered BPP or maternal indication.
 ## 6. What the source does not say
 
 - No Doppler reference chart is mandated; the percentiles must come from a stated chart
-  (see `obstetric-doppler-isuog-2021`).
+  (see `obstetric-doppler-isuog-2021`). Charts vary widely (up to 50% in the MCA-PI 5th-centile
+  cut-off at term), and there is no strong evidence favouring CPR or UCR. [isuog-sga-fgr-2020]
+- The Delphi consensus rejected customized centiles, isolated MCA or DV Doppler, AFI and
+  biomarkers as criteria. [gordijn-fgr-delphi-2016, Table 4]
 - Antenatal corticosteroids between 34 and 36 weeks: guidelines disagree (RCOG up to 35 + 6).
 
 ## 7. Disagreements and newer versions
@@ -112,3 +125,4 @@ alteration, absent/reversed UA-EDF, altered BPP or maternal indication.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check fixes: scope attribution (singleton from ISUOG 2020; no anomalies from Delphi Table 6); SGA management; Fig. 2 monitoring; Doppler chart variability; Delphi rejected criteria | Claude |

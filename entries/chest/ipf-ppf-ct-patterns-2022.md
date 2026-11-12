@@ -47,11 +47,14 @@ last_reviewed: 2026-11-11
 
 | | UIP | Probable UIP | Indeterminate for UIP | Alternative diagnosis | Source |
 |---|---|---|---|---|---|
-| Confidence for histologic UIP | Confident (> 90%) | Provisional high (70–89%) | Provisional low (51–69%) | Low to very low (≤ 50%) | [raghu-ipf-ppf-2022] |
-| Distribution | Subpleural and basal; often heterogeneous; occasionally diffuse; may be asymmetric | Subpleural and basal; often heterogeneous | Diffuse, without subpleural predominance | Peribronchovascular with subpleural sparing (NSIP); perilymphatic (sarcoidosis); upper/mid lung (fibrotic HP, CTD, sarcoidosis); subpleural sparing (NSIP, smoking-related) | [raghu-ipf-ppf-2022] |
-| Features | Honeycombing ± traction bronchiectasis/bronchiolectasis; irregular septal thickening; usually reticulation and mild ground-glass; may have pulmonary ossification | Reticulation with traction bronchiectasis/bronchiolectasis; may have mild ground-glass; **no** subpleural sparing; **no honeycombing** | Fibrosis signs not suggesting any specific aetiology | Lung: cysts (LAM, PLCH, LIP, DIP); mosaic attenuation / three-density sign (HP); predominant ground-glass; profuse centrilobular micronodules; nodules; consolidation. Mediastinum: pleural plaques (asbestosis); dilated oesophagus (CTD) | [raghu-ipf-ppf-2022] |
+| Confidence for histologic UIP | Confident (> 90%) | Provisional high (70–89%) | Provisional low (51–69%) | Low to very low (≤ 50%) | [raghu-ipf-ppf-2022, Table 3] |
+| Distribution | Subpleural and basal; often heterogeneous; occasionally diffuse; may be asymmetric | Subpleural and basal; often heterogeneous | Diffuse, without subpleural predominance | Peribronchovascular with subpleural sparing (NSIP); perilymphatic (sarcoidosis); upper/mid lung (fibrotic HP, CTD, sarcoidosis); subpleural sparing (NSIP, smoking-related) | [raghu-ipf-ppf-2022, Table 3] |
+| Features | Honeycombing ± traction bronchiectasis/bronchiolectasis; irregular septal thickening; usually reticulation and mild ground-glass; may have pulmonary ossification | Reticulation with traction bronchiectasis/bronchiolectasis; may have mild ground-glass; **no** subpleural sparing; no honeycombing (honeycombing would make it UIP; Fig. 2 legend) | Fibrosis signs not suggesting any specific aetiology | Lung: cysts (LAM, PLCH, LIP, DIP); mosaic attenuation / three-density sign (HP); predominant ground-glass; profuse centrilobular micronodules; nodules; consolidation. Mediastinum: pleural plaques (asbestosis); dilated oesophagus (CTD) | [raghu-ipf-ppf-2022, Table 3] |
 
-### PPF — at least 2 of 3 in the past year, without alternative explanation
+### PPF — at least 2 of 3 in the past year, without alternative explanation [raghu-ipf-ppf-2022, Table 4]
+
+Excluding alternative explanations matters most when only symptoms worsen or only DLCO falls
+(less specific than FVC and CT). [raghu-ipf-ppf-2022, Table 4 note]
 
 1. Worsening respiratory symptoms.
 2. Physiological progression: absolute decline in FVC ≥ 5% predicted, or in DLCO (Hb-corrected)
@@ -108,3 +111,4 @@ last_reviewed: 2026-11-11
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `torax.md` Part B (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: categories, confidence levels, PPF criteria (≥ 5% FVC, ≥ 10% DLCO) and honeycomb definitions confirmed; no changes | Claude |
+| 2026-11-12 | Pre-check fixes: 'no honeycombing' grounded on Fig. 2; Table 3/Table 4 locations; Table 4 note | Claude |

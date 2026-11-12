@@ -26,7 +26,9 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Original:** axial T2 MRI, patients with stroke (hemispheric infarcts). [pasquier-gca-1996]
+- **Original:** axial spin-echo T2 MRI at 0.5 T (6-mm sections, 1-mm gap), 2–15 days after a
+  hemispheric ischaemic stroke; n = 50, median age 50 years (19–81). [pasquier-gca-1996]
+  (The PDF is image-only; content was checked by OCR.)
 
 ## 2. Definitions
 
@@ -52,6 +54,10 @@ Not applicable.
 ## 5. Pitfalls
 
 - Saying the article defined a single global 0–3 score: it defined regional scores and a sum.
+- Changing readers between exams: interobserver agreement was moderate (overall κ 0.48 in the
+  first session, 0.67 in the second; intraobserver κ 0.65); the authors recommend the same
+  reader for follow-up. [pasquier-gca-1996]
+- Temporal horns are poorly assessed on the axial plane used. [pasquier-gca-1996, Discussion]
 
 ## 6. What the source does not say
 
@@ -60,8 +66,10 @@ Not applicable.
 
 ## 7. Disagreements and newer versions
 
-- Later dementia literature uses the simplified global 0–3 grade. [add the source that first
-  described it]
+- Later dementia literature uses the simplified global 0–3 grade. Koedam 2011 cites for it
+  Scheltens P, Pasquier F, Weerts JG, et al. Eur Neurol 1997;37:95–99 (dementia and normal
+  ageing); not yet read or added. The 1996 article itself mentions a companion article in the
+  general population.
 
 ## 8. How to cite
 
@@ -73,3 +81,4 @@ Not applicable.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text (OCR of the scanned PDF): scale structure and population confirmed; no changes | Claude |
+| 2026-11-12 | Pre-check fixes: technique and sample; reproducibility and same-reader advice; temporal horns; lead for the global 0–3 source (Scheltens 1997) | Claude |

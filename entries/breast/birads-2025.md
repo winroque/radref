@@ -19,9 +19,9 @@ last_reviewed: 2026-11-11
 
 # ACR BI-RADS v2025
 
-> BI-RADS v2025 extends the 5th edition (2013). The "Atlas" became a "Manual", editions are now
-> named by year to align with the other ACR RADS, and contrast-enhanced mammography (CEM) is an
-> intrinsic section rather than a supplement. This entry is a **summary** of assessment
+> BI-RADS v2025 extends the 5th edition (2013). It is called a "manual", and contrast-enhanced mammography (CEM) is
+> formally incorporated rather than treated as a merely complementary technique. (The ACR's
+> "What's New" document, which explains the naming change, is not yet in radref; unverified.) This entry is a **summary** of assessment
 > categories and of the changes that affect reporting; it does not reproduce the lexicon,
 > which is proprietary. [acr-birads-2025; minichetti-birads-2026]
 
@@ -37,18 +37,23 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | Topic | v2025 change | Source |
 |---|---|---|
 | Report structure | Structured clinical indication categories (screening, diagnostic workup, known cancer); comparison with priors placed **before** technique; tissue composition and technique/acquisition as dedicated sections | [minichetti-birads-2026, Table 1] |
-| Tissue composition | Breast density remains the core element for mammography and CEM; fibroglandular tissue (FGT) for MRI; **glandular tissue component (GTC)** introduced for US | [minichetti-birads-2026] |
+| Tissue composition | Breast density remains the core element for mammography and CEM; fibroglandular tissue (FGT) for MRI; **glandular tissue component (GTC)** introduced for US, in four grades (minimal, mild, moderate, marked), which can be simplified to low/high | [minichetti-birads-2026] |
 | Lesion location | Standardized across modalities: laterality → quadrant and/or clock face → distance from nipple (whole cm) and/or depth; DBT slice number recommended; on US also the tissue layer | [minichetti-birads-2026] |
-| Shape | **"Lobulated"** reintroduced as a morphology descriptor across modalities | [minichetti-birads-2026, Table 2] |
+| Shape | **"Lobulated"** reintroduced as a shape descriptor across modalities, replacing "lobular" | [minichetti-birads-2026, Table 1] |
 | Margin | **"Microlobulated" removed from mammography, MRI and CEM** (replaced by "indistinct"); it **remains in the US lexicon** | [minichetti-birads-2026] |
 | DBT | A mass may be defined on a **single DBT projection**; when margins are obscured on DM but circumscribed on DBT, classify by the DBT appearance | [minichetti-birads-2026, Table 2] |
-| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk) | [minichetti-birads-2026, Table 2] |
+| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk; the text says "may", Table 2 says "should") | [minichetti-birads-2026, Table 2] |
 | MG asymmetry | Descriptor **"developing asymmetry" removed**; interval change still matters | [minichetti-birads-2026, Table 2] |
-| Dilated ducts | New term "multiple dilated ducts" (typically benign); a **solitary dilated duct** is less suspicious than before in asymptomatic patients without associated suspicious findings | [minichetti-birads-2026, Table 2] |
+| Dilated ducts | New term "multiple dilated ducts" (typically benign); a true **solitary dilated duct** (tubular/branching structure > 5 mm from the nipple) in an asymptomatic patient without associated suspicious findings may now be category 2 (previously usually 4A) | [minichetti-birads-2026, Table 2] |
 | US composition | "Complex cystic and solid" replaced by **"mixed solid and cystic"**; the solid component determines assessment | [minichetti-birads-2026, Table 2] |
 | US posterior features | **"Combined pattern" removed**; "shadowing" prioritized when it coexists with enhancement | [minichetti-birads-2026, Table 2] |
 | US nonmass lesion | New finding: visible in three dimensions, different from surrounding tissue, without definable shape or margins; described by distribution, echotexture and posterior features; consider sampling when suspicious features, a cross-modality correlate or symptoms are present | [minichetti-birads-2026, Table 2] |
 | US perilesional features | **Echogenic pseudocapsule** (thin, uniform rim around a circumscribed mass; typically benign) and **echogenic rind** (thick, irregular band; associated with malignancy, also seen in e.g. fat necrosis; **include in the lesion size**) | [minichetti-birads-2026] |
+| Lymph nodes | Separate reporting category: assessed by morphology (cortex, hilum, shape, change, vascularity); stations follow TNM (intramammary, axillary levels I–III by the pectoralis minor, internal mammary, supraclavicular); Node-RADS not incorporated | [minichetti-birads-2026, Tables 1–2] |
+| MG calcifications (suspicious) | New PPV table by **morphology**; the risk-by-distribution table removed. A fat-containing mass does not exclude malignancy; architectural distortion on DBT has lower PPV | [minichetti-birads-2026] |
+| MRI | "Focus" removed (findings ≤ 5 mm become mass or non-mass enhancement); minimal BPE includes "no enhancement"; "thick rim enhancement" replaces "rim enhancement"; T2 signal (hyper vs not, relative to lymph node) as adjunct descriptor; peritumoral oedema; early post-contrast phase at ~60–120 s; abbreviated protocol recognized; DWI outside the lexicon | [minichetti-birads-2026] |
+| CEM | "Multiple regions" removed from non-mass enhancement; "invasion" of nipple/skin becomes "involvement" | [minichetti-birads-2026] |
+| Audit | Category 0 is temporary and excluded; the final 1–5 assessment counts; positive/negative defined by clinical indication; specific audit for preoperative MRI | [minichetti-birads-2026] |
 | US calcifications | Macro- vs microcalcifications, described by anatomic context (in or outside a mass/nonmass lesion; within a duct) | [minichetti-birads-2026, Table 2] |
 
 ## 3. Criteria / categories
@@ -113,3 +118,4 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text of Minichetti 2026: **corrected "microlobulated" (removed from MG/MRI/CEM, still in US)**; removed unsupported rows (US orientation and vascularity renaming, US calcification size); rebuilt change table; category 0/4/6 wording from the paper; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check fixes: 'lobulated' Table 1 and replaces 'lobular'; manual naming claim marked unverified; solitary duct may be 2; vascular calcification may/should inconsistency; lymph nodes, MG PPV, MRI, CEM, US GTC grades and audit changes added | Claude |

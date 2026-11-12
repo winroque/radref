@@ -36,7 +36,7 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | Volume | Prolate ellipsoid L × H × W × **0.523**, transvaginal 5-MHz probe | [pavlik-ovarian-volume-2000] |
 | Postmenopausal | No menses for ≥ 12 months | [pavlik-ovarian-volume-2000] |
-| Upper limit | Mean + 2 SD (convention cited by the authors) | [pavlik-ovarian-volume-2000] |
+| Upper limit | Mean + 2 SD (convention cited in the text); Fig. 2 plots mean + 1.96 SD (upper 95% limit) | [pavlik-ovarian-volume-2000, Discussion; Fig. 2] |
 
 ## 3. Criteria / categories
 
@@ -47,16 +47,19 @@ last_reviewed: 2026-11-12
 | 40–49 | 4.8 | [pavlik-ovarian-volume-2000, Table 1] |
 | 50–59 | 2.6 | [pavlik-ovarian-volume-2000, Table 1] |
 | 60–69 | 2.1 | [pavlik-ovarian-volume-2000, Table 1] |
-| ≥ 70 | 1.8 | [pavlik-ovarian-volume-2000, Table 1] |
+| > 70 | 1.8 | [pavlik-ovarian-volume-2000, Table 1] |
 
 - Exogenous oestrogen was associated with smaller ovaries at 40–59 years, not ≥ 60. Volume was
-  unrelated to weight but larger in tall (> 68 in) than short (< 58 in) women.
+  unrelated to weight or parity, but larger in taller women: ≥ 68 in 3.4 cm³ vs < 68 in 2.9 cm³
+  (Results, Table 2; the abstract says > 68 vs < 58 in, and the lowest band in Table 2 is
+  < 60 in).
   [pavlik-ovarian-volume-2000]
 
 ## 4. Management
 
-- Not addressed; the context is ovarian cancer screening, where a persistent increase in volume
-  triggers further evaluation. [pavlik-ovarian-volume-2000]
+- The authors conclude that a persistent volume > 20 cm³ (premenopausal) or > 10 cm³
+  (postmenopausal) "is abnormal and warrants further evaluation" (ovarian cancer screening
+  context). [pavlik-ovarian-volume-2000, Conclusion]
 
 ## 5. Pitfalls
 
@@ -65,14 +68,14 @@ last_reviewed: 2026-11-12
 
 ## 6. What the source does not say
 
-- The paper does not print the SD values used for the 20/10 cm³ limits (only means with small
-  ± values, apparently standard errors).
+- The paper does not print the SD values used for the 20/10 cm³ limits (only means ± SEM, as the
+  table footnotes state; Fig. 2 shows mean + 1.96 SD only graphically).
 - No values under 25 years (see `uterine-ovarian-volume-kelsey`).
 
 ## 7. Disagreements and newer versions
 
-- Digitado-IA notes a lower "8 cm³" postmenopausal limit from secondary literature; this paper
-  supports 10 cm³.
+- Some secondary literature uses a lower postmenopausal limit (8 cm³); this paper supports
+  10 cm³. Table 1 writes the oldest band as "> 70" and the Results "≥ 70".
 
 ## 8. How to cite
 
@@ -83,3 +86,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: SEM stated by table footnotes; > 70 band; 2 SD vs 1.96 SD; height comparison per Results; authors' recommendation in §4; parity; tool mention removed | Claude |

@@ -28,10 +28,13 @@ last_reviewed: 2026-11-11
 ## 1. Scope
 
 - **Applies to:** adnexal lesions at MRI, typically those indeterminate or incompletely
-  evaluated at US. [orads-mri-2022]
+  evaluated at US, in average-risk patients **without acute symptoms**. Not for non-ovarian /
+  non-adnexal lesions; a dilated tube in an acute setting (pyosalpinx/PID) is not scored.
+  [orads-mri-2022]
 - **Protocol** (1.5 or 3.0 T): sagittal and axial T2 without fat saturation, T1 in/opposed
   phase, DWI, and dynamic contrast-enhanced (DCE) 3D T1 with fat saturation at **≤ 15-s**
   temporal resolution, starting 30 s before injection, about 4 minutes long, sections ≤ 3 mm.
+  DWI with b ≥ 1000 s/mm² and sections ≤ 4 mm; sagittal T2 ≤ 4 mm, axial T2 ≤ 3 mm.
   [orads-mri-2022, Table 2]
 - Management recommendations per score are **not** set by this paper (prospective studies
   needed). [orads-mri-2022]
@@ -40,6 +43,7 @@ last_reviewed: 2026-11-11
 
 | Term | Definition | Source |
 |---|---|---|
+| Solid lesion | ≥ 80% enhancing solid tissue | [orads-mri-2022] |
 | Solid tissue | **Enhancing** component with one of these morphologies: papillary projection, mural nodule, irregular septation/wall, or larger solid portion | [orads-mri-2022, Fig. 1] |
 | Non-solid tissue | Smooth septations or walls (thin or thick), clot, non-enhancing debris, fibrin, fat | [orads-mri-2022] |
 | Dark T2/dark DWI solid tissue | Solid tissue homogeneously hypointense on T2 and on high-b DWI | [orads-mri-2022, Fig. 1] |
@@ -63,7 +67,10 @@ last_reviewed: 2026-11-11
 Notes (Figure 1 footnotes): PPVs are approximate (from the 2020 validation), apply to the score
 overall, and include borderline tumours. Minimal enhancement of a Rokitansky nodule in a
 lipid-containing lesion does **not** raise the score to 4. A hemorrhagic cyst ≤ 3 cm in a
-premenopausal woman is O-RADS MRI 1. [orads-mri-2022, Fig. 1]
+premenopausal woman is O-RADS MRI 1 (Fig. 1 footnote, checked on the rendered page; also Fig. 4 and
+text p. 5 — but the Fig. 5 legend classifies it as O-RADS MRI 2, an internal inconsistency).
+Endometriomas with a multilocular appearance are score 2; multilocular without solid tissue has
+PPV < 3%; by TIC, PPV 6.7% (low), 46.6% (intermediate), 85.6% (high). [orads-mri-2022, Fig. 1; pp. 9–10]
 
 ## 4. Management
 
@@ -85,10 +92,11 @@ Not defined by the source; see section 1.
 
 ## 7. Disagreements and newer versions
 
-- **Validation (2020):** prospective study at 15 European centres (2013–2016, 2-year follow-up
+- **Validation (2020):** prospective study at 15 referral centres (ESUR network) (2013–2016, 2-year follow-up
   for non-operated women) in women referred to MRI for a sonographically indeterminate adnexal
-  mass; 1,340 enrolled, 1,130 with a mass and a reference standard (surgery 67.9%, follow-up
-  32.1%), 18.0% with malignancy. No invasive cancer scored 2. Positive likelihood ratios: score
+  mass; 1,340 enrolled, 1,194 evaluable, 1,130 with a mass and a reference standard (surgery 67.9%,
+  follow-up 32.1%); 18.0% had ≥ 1 malignant adnexal or non-adnexal pelvic mass (borderline
+  counted as malignant). When a TIC was not feasible it was classified as type 2. No invasive cancer scored 2. Positive likelihood ratios: score
   2 = 0.01, 3 = 0.27, 4 = 4.42, 5 = 38.81. Experienced readers: AUC 0.961, sensitivity 0.93,
   specificity 0.91 (scores 4–5 as positive); interrater κ 0.784. [thomassin-orads-mri-2020]
 - The approximate PPVs in the 2022 figure come from that cohort; the 2020 paper itself reports
@@ -106,3 +114,4 @@ Not defined by the source; see section 1.
 |---|---|---|
 | 2026-11-11 | Created from the full text (risk table read from the rendered Figure 1) | Claude |
 | 2026-11-11 | Added the 2020 validation data from the full text of Thomassin-Naggara 2020 and its reference | Claude |
+| 2026-11-12 | Pre-check: Fig. 1 rendered — footnotes and score-5 peritoneal wording confirmed; Fig. 5 inconsistency recorded; scope exclusions (acute symptoms, non-adnexal, PID tube); solid lesion ≥ 80%; DWI/T2 protocol; PPVs; validation numbers (1,194 evaluable; malignancy definition; ESUR centres; TIC not feasible = type 2). Article corrected 15 June 2023 | Claude |

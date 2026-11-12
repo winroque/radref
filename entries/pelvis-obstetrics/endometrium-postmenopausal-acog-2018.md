@@ -36,8 +36,8 @@ last_reviewed: 2026-11-12
 
 | Term | Definition | Source |
 |---|---|---|
-| Endometrial thickness | Maximum anteroposterior **double-layer** thickness on a long-axis (sagittal) transvaginal view, at the thickest part, between the echogenic borders, excluding the hypoechoic inner myometrium | [acog-co734-2018; sru-postmenopausal-bleeding-2001] |
-| Fluid | Not included; with intracavitary fluid, measure each layer and add them | [acog-co734-2018; sru-postmenopausal-bleeding-2001] |
+| Endometrial thickness | Maximum anteroposterior thickness on a long-axis (sagittal) transvaginal view, at the thickest part, between the echogenic borders [acog-co734-2018]; "double-thickness" measurement excluding the hypoechoic inner myometrium [sru-postmenopausal-bleeding-2001] | [acog-co734-2018; sru-postmenopausal-bleeding-2001] |
+| Fluid | Not included; with intracavitary fluid, measure each layer and add them | [sru-postmenopausal-bleeding-2001, Fig. 5] |
 | Technique (SRU) | Transvaginal 5–10 MHz, empty bladder, sagittal and transverse views including cervix, fundus and cornua; transabdominal alone is insufficient | [sru-postmenopausal-bleeding-2001] |
 | Non-diagnostic study | Endometrium not seen in its entirety or margins indistinct (about 5–10% of patients) — state technical adequacy in the report | [sru-postmenopausal-bleeding-2001] |
 
@@ -58,10 +58,10 @@ last_reviewed: 2026-11-12
 | Statement | Source |
 |---|---|
 | > 11 mm: cancer risk ≈ 6.7% (similar to bleeding with > 5 mm) → consider biopsy; ≤ 11 mm: risk ≈ 0.002%. A 10-mm threshold (≤ 10 normal) gives ≈ 5.8%, matching bleeding with ≥ 5 mm | [smith-bindman-endometrium-2004] |
-| An 8-mm threshold would biopsy ≈ 0.9% of normal women for a 2.1% cancer risk | [smith-bindman-endometrium-2004] |
+| With normal ≤ 7 mm (≥ 8 mm abnormal): cancer risk with a thick endometrium 2.1%; false positives rise from 0.25% to 0.90%; detection rises from 87% to 95% | [smith-bindman-endometrium-2004, Results] |
 | > 4 mm without bleeding need not routinely trigger evaluation; individualize by risk factors; TVUS is not a screening test | [acog-co734-2018] |
 | The bleeding threshold does not apply to asymptomatic women; no normal maximum established (2001) | [sru-postmenopausal-bleeding-2001] |
-| No bleeding, no risk factors, global thickening < 11 mm → no invasive investigation (strong, moderate); > 11 mm and/or increased vascularity, inhomogeneity or particulate fluid → sampling or gynaecology referral (strong, moderate); with risk factors (obesity, hypertension, late menopause, unopposed oestrogen, genetic risk) → individualize | [sogc-endometrium-451-2024] |
+| Asymptomatic thickening is defined as > 5 mm. Not applicable to Lynch syndrome. No bleeding, no risk factors, global thickening < 11 mm → no invasive investigation (strong, moderate); > 11 mm and/or increased vascularity, inhomogeneity or particulate fluid → sampling or gynaecology referral (strong, moderate); with risk factors (obesity, hypertension, late menopause, unopposed oestrogen, genetic risk) → individualize. > 11 mm with insufficient sampling → sonohysterography, hysteroscopy, D&C or surveillance (Rec. 6, conditional, low) | [sogc-endometrium-451-2024] |
 | Asymptomatic thickening > 5 mm occurs in 3–15% of postmenopausal women; cancer incidence below 11 mm ≈ 1% (SOGC summary statement, high); meta-analysis cited: cancer or atypical hyperplasia 6.5% above vs 1.7% below 11 mm | [sogc-endometrium-451-2024] |
 
 ## 4. Management
@@ -80,20 +80,29 @@ last_reviewed: 2026-11-12
 ## 5. Pitfalls
 
 - Axial uterus, obesity, myomas, adenomyosis or prior surgery can prevent a reliable
-  measurement; report "not adequately visualized" rather than a number. [acog-co734-2018]
-- A thin echo does not reliably exclude type II cancer. [acog-co734-2018]
+  measurement; report "not adequately visualized" rather than a number; with bleeding, failure to see a thin
+  distinct echo calls for sonohysterography, office hysteroscopy or sampling. [acog-co734-2018]
+- In a high-risk woman (> 60 years, obesity, diabetes) biopsy may be preferred as the first step.
+  [sru-postmenopausal-bleeding-2001]
+- A thin echo does not reliably exclude type II cancer, which may measure < 3 mm; missed cancers
+  were 1 in 383 (≤ 3 mm), 1 in 339 (≤ 4 mm) and 1 in 239 (≤ 5 mm). [acog-co734-2018, Table 2]
 - Black patients: in a simulation the ≥ 4-mm rule had sensitivity 47.5% in Black vs 87.9% in
   White women (fibroids, non-endometrioid histology) [doll-tvus-simulated-2021]; in a real cohort
-  of Black patients undergoing hysterectomy, the false-negative probability at < 5 mm was 11.4%
-  (26.1% with partial visibility of the endometrium), and tissue sampling is recommended when
+  of Black patients undergoing hysterectomy (median age 46.1, mostly premenopausal; 71% with
+  bleeding, 78% with fibroids), the false-negative probability at < 5 mm was 11.4%
+  (26.1% with partial visibility of the endometrium; 12.4% in the postmenopausal-bleeding subgroup), and tissue sampling is recommended when
   bleeding is present. [doll-tvus-black-2024]
 
 ## 6. What the source does not say
 
 - Smith-Bindman's 11-mm threshold comes from a decision model, not from a cohort with outcomes;
-  it excludes hormone users and does not account for individual risk factors.
+  it excludes hormone users and women after hysterectomy; only age was modelled in the
+  sensitivity analysis (risk with > 11 mm from 4.1% at 50 years to 9.3% at 79), plus the fraction
+  of cancers without bleeding (2.2–8.9%).
   [smith-bindman-endometrium-2004]
-- SOGC uses "< 11 mm" and "> 11 mm", leaving exactly 11 mm unassigned (Smith-Bindman: ≤ 11 normal).
+- SOGC recommendations use "< 11 mm" and "> 11 mm" and do not define 11 mm itself; the evidence
+  text (Alcazar and the summary paragraph) appears to use "≥ 11 mm" as thick (the symbol is
+  corrupted in the PDF text layer). Smith-Bindman: ≤ 11 normal.
   [sogc-endometrium-451-2024; smith-bindman-endometrium-2004]
 
 ## 7. Disagreements and newer versions
@@ -117,3 +126,4 @@ last_reviewed: 2026-11-12
 | 2026-11-12 | Created from ACOG CO 734 | Claude |
 | 2026-11-12 | Added SRU 2001, Smith-Bindman 2004, Chee 2025 and Doll 2021/2024 from the full texts | Claude |
 | 2026-11-12 | Added SOGC 451 (2024) from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: measurement details attributed to SRU 2001 only; Smith-Bindman 7/8-mm threshold restated with detection gain; modelled factors; SOGC 11-mm wording, Lynch exclusion, > 5 mm definition, Rec. 6; ACOG missed-cancer rates and non-visualization; Doll 2024 cohort composition and PMB subgroup | Claude |

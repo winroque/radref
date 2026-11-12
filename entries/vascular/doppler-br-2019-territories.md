@@ -36,7 +36,7 @@ last_reviewed: 2026-11-11
 |---|---|---|
 | AAA | Localized dilatation **≥ 50%** of proximal/normal diameter involving all layers; mean infrarrenal aorta ~2.0 cm, upper normal < 3.0 cm; **AAA = aorta > 3.0 cm** | [doppler-br-2019, §3.1] |
 | AAA measurement | AP diameter at maximal systolic expansion, stating **outer-to-outer (OTO)** or **inner-to-inner (ITI)** | [doppler-br-2019, §3.1] |
-| Proximal DVT | Popliteal and/or above; distal = infrapopliteal deep veins | [doppler-br-2019, §6] |
+| Proximal DVT | Popliteal and/or above; distal = infrapatellar deep veins ("veias profundas infrapatelares") | [doppler-br-2019, §6] |
 | Residual thrombus | Calibre > 2 mm after maximal compression at 6 months, or > 3 mm on two consecutive exams | [doppler-br-2019, Table 22] |
 | AVF flow volume | Flow (mL/min) = mean velocity (cm/s) × r² (cm²) × π × 60; in the draining vein, inner edges, away from turbulence (usually 2–5 cm from anastomosis), mean of 3–5 cycles | [doppler-br-2019, §5.4.2] |
 
@@ -151,12 +151,13 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 
 | Application | Criteria | Source |
 |---|---|---|
-| Vasospasm after SAH — MCA | Vm 120–130 mild; 130–200 moderate (Lindegaard 3–6); > 200 cm/s severe (Lindegaard > 6) | [doppler-br-2019, Table 26] |
+| Vasospasm after SAH — MCA | Vm 120–130 mild (Lindegaard 3–6); 130–200 moderate (Lindegaard 3–6); > 200 cm/s severe (Lindegaard > 6) | [doppler-br-2019, Table 26] |
 | Vasospasm — other | ACA: > 50% Vm rise in 24 h; PCA > 110; vertebral > 80 cm/s; basilar mild 80–95 (Soustiel 2–2.49), moderate "> 85" (sic; Soustiel 2.5–2.99), severe > 115 (Soustiel > 3); critical period days 4–14 | [doppler-br-2019, Table 26] |
-| Sickle cell disease, 2–16 years | Vm < 70 low flow (repeat 30 days); < 170 normal (12 months); 170–184 conditional low (3 months); 184–199 conditional high (30 days); 200–220 abnormal (30 days; > 200 transfusion exchange); **> 220 cm/s imminent stroke risk** | [doppler-br-2019, Table 27] |
+| Sickle cell disease, 2–16 years | Vm < 70 low flow (repeat 30 days); < 170 normal (12 months); 170–184 conditional low (3 months); 184–199 conditional high (30 days); 200–220 abnormal (30 days; > 200 transfusion exchange); **> 220 cm/s imminent stroke risk**; inconclusive: inadequate window → other method; non-cooperation → repeat in 3 months | [doppler-br-2019, Table 27] |
 | PFO (Spencer) | Grade 0 no HITS; 1: 1–10; 2: 11–30; 3: 31–100; 4: 101–300; 5: > 300 (curtain); > grade 2 = significant shunt | [doppler-br-2019, §7.2] |
-| Brain death | SBP ≥ 90 mmHg; systolic peak < 50 cm/s without diastole, or oscillating flow; absent flow is not a criterion without a prior TCD with flow in the same admission | [doppler-br-2019, §7.2] |
-| Post-endarterectomy | Up to 70% microembolize in the first hour; 50 signals/h (up to 10%) predicts ipsilateral ischaemia; mean velocity drop > 15% from baseline = risk | [doppler-br-2019, Table 25] |
+| Brain death | SBP ≥ 90 mmHg; systolic peak < 50 cm/s without diastole, or oscillating flow; absent flow is not a criterion without a prior TCD with flow in the same admission; residual flow → repeat in 12 h (Table 25) | [doppler-br-2019, §7.2] |
+| Post-endarterectomy | Up to 70% microembolize in the first hour; 50 signals/h (up to 10%) predicts ipsilateral ischaemia | [doppler-br-2019, Table 25] |
+| Intra-operative monitoring (neurological and cardiovascular surgery in general) | Mean velocity drop > 15% from baseline = risk | [doppler-br-2019, Table 25] |
 
 ## 4. Management
 
@@ -174,7 +175,8 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 
 ## 5. Pitfalls
 
-- Not stating OTO vs ITI for the aorta (2–4 mm difference between methods).
+- Not stating OTO vs ITI for the aorta (the source asks only that the method be stated; ESVS 2024
+  gives ITI about 3–6 mm smaller than OTO — `aaa-surveillance-svs-esvs`).
 - Applying limb V2/V1 ratios without a proper proximal reference segment.
 - Mesenteric velocities without stating fasting vs post-prandial.
 - Respiratory phasicity: lower limbs flow ↓ on inspiration, ↑ on expiration; upper limbs and
@@ -189,7 +191,7 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 ## 7. Disagreements and newer versions
 
 - Carotid/vertebral sections superseded by the 2023 update.
-- AAA surveillance: see `acr-incidental-vascular-2013`; SVS 2018 and ESVS 2024 entries pending.
+- AAA surveillance: see `acr-incidental-vascular-2013`; SVS 2018 and ESVS 2024: `aaa-surveillance-svs-esvs`.
 
 ## 8. How to cite
 
@@ -201,3 +203,4 @@ compressible thrombus with tail, vein diameter ≥ 2× contralateral or artery. 
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `vascular.md` §3–7 (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes | Claude |
+| 2026-11-12 | Pre-check fixes: OTO/ITI number attributed to ESVS; SVS/ESVS cross-reference; >15% criterion separated from endarterectomy; infrapatellar; Lindegaard for mild vasospasm; brain-death 12-h repeat; sickle cell inconclusive rows | Claude |

@@ -76,7 +76,9 @@ Not applicable. Study results (rater 1 scores): [koedam-posterior-2011]
 - Using a single orientation: the score is the highest across sagittal, axial and coronal.
 - Reading normal PA as reassurance against AD: sensitivity was 58% in the development study.
 - Treating the > 1 cut-off as validated in other populations or at 1.5 T/CT: it comes from one
-  3.0 T memory-clinic cohort.
+  3.0 T memory-clinic cohort. The AD cohort was relatively young; the authors advise caution when
+  generalizing to older patients. [koedam-posterior-2011]
+- PA was associated with MMSE independently of MTA (B −1.8). [koedam-posterior-2011, Table 3]
 
 ## 6. What the source does not say
 
@@ -98,3 +100,4 @@ Not applicable. Study results (rater 1 scores): [koedam-posterior-2011]
 |---|---|---|
 | 2026-11-05 | Skeleton created; full text needed before review | Claude |
 | 2026-11-11 | Written from the full text (scale definition, landmarks, highest-score rule, > 1 dichotomy, study results); [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check additions: young AD cohort caution; PA–MMSE association independent of MTA. Reference record notes/licence updated (CC BY-NC) | Claude |

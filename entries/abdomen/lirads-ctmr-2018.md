@@ -87,10 +87,14 @@ The core advises avoiding report language that compels biopsy. [acr-lirads-ctmr-
 - Calling a 10–19 mm APHE observation with capsule only LR-5 (it is LR-4).
 - When unsure whether a major feature is present, characterize it as **absent**.
   [acr-lirads-ctmr-core-2018]
+- Categorizing lesions already proven by pathology (malignant, or benign non-hepatocellular such
+  as haemangioma): the core says not to. [acr-lirads-ctmr-core-2018]
+- Adjusting when ancillary features favouring malignancy and benignity coexist (do not adjust);
+  ancillary features favouring malignancy upgrade to LR-4 at most. [acr-lirads-ctmr-core-2018]
 
 ## 6. What the source does not say
 
-- The diagnostic algorithm does not apply to ultrasound (see US LI-RADS, entry pending).
+- The diagnostic algorithm does not apply to ultrasound (see `us-lirads-surveillance-2024`).
 - It does not cover treatment response beyond the LR-TR algorithm (not summarized here).
 
 ## 7. Disagreements and newer versions
@@ -112,3 +116,4 @@ The core advises avoiding report language that compels biopsy. [acr-lirads-ctmr-
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the article and the ACR v2018 core: full exclusion list, management for every category, version scope after the 2024 treatment-response cores; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check fixes: US LI-RADS cross-reference; proven-lesion and conflicting-AF rules from the core | Claude |

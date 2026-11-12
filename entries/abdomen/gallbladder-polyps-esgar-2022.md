@@ -27,13 +27,21 @@ last_reviewed: 2026-11-12
 
 ## 1. Scope
 
-- **Applies to:** polypoid lesions of the gallbladder found at US in adults.
+- **Applies to:** polypoid lesions of the gallbladder found at transabdominal US in adults; the
+  recommendations are based on transabdominal US. [esgar-gallbladder-polyps-2022]
+- **Does not apply to:** pseudopolyps with reverberation/comet-tail artefact (adenomyomatosis,
+  cholesterolosis); large or infiltrative masses, which are managed as cancer.
+  [esgar-gallbladder-polyps-2022]
+- Monitoring is reserved for patients who are potentially fit for surgery.
+  [esgar-gallbladder-polyps-2022]
 
 ## 2. Definitions
 
 | Term | Definition | Source |
 |---|---|---|
-| Risk factors for malignancy | Age > 60 years, PSC, Asian ethnicity, sessile polypoid lesion (including focal wall thickening > 4 mm) | [esgar-gallbladder-polyps-2022] |
+| Polyp | Elevation of the gallbladder wall that protrudes into the lumen, is not mobile and has no acoustic shadow | [esgar-gallbladder-polyps-2022] |
+| Multiple polyps | Use the size of the largest | [esgar-gallbladder-polyps-2022] |
+| Risk factors for malignancy | Age > 60 years, PSC, Asian ethnicity, sessile polypoid lesion (including focal wall thickening > 4 mm). A solitary polyp adds to the risk when ≥ 1 factor is present, but was not put on the list | [esgar-gallbladder-polyps-2022] |
 
 ## 3. Criteria / categories
 
@@ -59,6 +67,7 @@ last_reviewed: 2026-11-12
 
 - Mixing European (≥ 10 mm surgery) and SRU 2022 (risk tiers by morphology, longer thresholds)
   recommendations in one report; state which guideline is used.
+- Applying the guideline to comet-tail pseudopolyps. [esgar-gallbladder-polyps-2022]
 
 ## 6. What the source does not say
 
@@ -68,7 +77,7 @@ last_reviewed: 2026-11-12
 ## 7. Disagreements and newer versions
 
 - SRU 2022 (`sru-gallbladder-polyps-2022`) is more conservative about surgery for small polyps;
-  Digitado-IA treats this as an open transatlantic disagreement.
+  the two documents disagree and neither cites a resolution.
 
 ## 8. How to cite
 
@@ -79,3 +88,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text (recommendations) | Claude |
+| 2026-11-12 | Pre-check fixes: scope (transabdominal US, pseudopolyps and masses excluded, surgical fitness); polyp definition; multiple polyps; solitary polyp note; tool-specific note removed | Claude |

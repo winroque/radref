@@ -43,14 +43,14 @@ last_reviewed: 2026-11-11
 | IMT | B-mode double line (lumen–intima and media–adventitia interfaces); IMT is the distance between them | [doppler-br-2019, §2.2] |
 | Protocol | Fundamental B-mode, **no zoom**, transducer > 7 MHz, depth 3.0–4.0 cm; longitudinal CCA and bifurcation; straightest image with clear double line | [doppler-br-2019, Table 2] |
 | Site | **Far wall of right and left CCA, 1 cm proximal to the bifurcation**; automatic or semi-automatic | [doppler-br-2019, §2.2.2] |
-| Manual point-to-point | At least **5 measurements per side** for mean IMT | [doppler-br-2019] |
+| Manual point-to-point | Admitted only when the equipment has no automatic measurement, with strict technique; at least **5 measurements per side** for mean IMT | [doppler-br-2019, §2.2.2] |
 | Increased IMT | Mean IMT **> P75** for age, sex and race; use the **higher** percentile of the two sides | [doppler-br-2019, §2.2.3] |
 | IMT as plaque | IMT > 1.5 mm characterizes plaque (dyslipidaemia guideline 2017); per ASE 2020, IMT ≥ 1.5 mm may be considered plaque-equivalent, especially if diffuse (type II) | [doppler-carotid-br-2023, §4] |
 
 ## 3. Criteria / categories
 
-Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footnotes say
-"CCE: right common carotid" in every table — a typo; CCE is the **left**.) [doppler-br-2019]
+Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footnotes of Tables 3 and 5 say
+"CCE: right common carotid" — a typo; CCE is the **left**.) [doppler-br-2019]
 
 ### ELSA-Brasil (Santos 2014), 40–65 years [santos-elsa-cimt-2014; doppler-br-2019, Table 3]
 
@@ -133,7 +133,7 @@ Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footno
 | | P50 | 0.567 | 0.615 | 0.665 | 0.719 | 0.778 | 0.837 | 0.880 |
 | | **P75** | **0.612** | **0.66** | **0.713** | 0.776 | 0.852 | 0.921 | 0.935 |
 
-### MESA (Folsom 2008), by age band 45–54 / 55–64 / 65–74 / 75–84 years; indicated for 65–84 [folsom-mesa-cimt-2008; doppler-br-2019, Table 5]
+### MESA (as reproduced by the statement; the table is not in Folsom 2008), by age band 45–54 / 55–64 / 65–74 / 75–84 years; indicated for 65–84 [folsom-mesa-cimt-2008; doppler-br-2019, Table 5]
 
 #### Right CCA
 
@@ -171,7 +171,7 @@ Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footno
   Asian and Indigenous self-classification because of small numbers). Median IMT: men 0.59 mm (IQR 0.52–0.69); women 0.56 mm
   (0.50–0.64). Global P75 (all ages pooled): men 0.69 mm; women 0.64 mm. IMT dichotomized at 1.5 mm
   (plaque threshold) was found in only 4% of men and 2% of women (data not shown in the paper). [eickemberg-elsa-cimt-2019]
-- Abdominal adiposity was associated with IMT > P75, mainly waist circumference (adjusted OR
+- Abdominal adiposity was associated with IMT ≥ P75 (the paper's definition of elevated IMT), mainly waist circumference (adjusted OR
   1.47 men, 1.38 women). [eickemberg-elsa-cimt-2019]
 
 ### Original cohorts: what the papers themselves say
@@ -179,7 +179,7 @@ Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footno
 | Cohort | Method and sample | Source |
 |---|---|---|
 | ELSA-Brasil | 10,405 civil servants aged 35–74 (self-reported White, Brown, Black); Toshiba Aplio XG, 7.5 MHz; far wall of a 1-cm CCA segment starting 1 cm below the bifurcation, three cardiac cycles, central reading with MIA software. Black participants had higher IMT than Brown and White (Brown intermediate); men higher than women. The per-side mean and maximum nomograms are in the online supplement, not in the article | [santos-elsa-cimt-2014] |
-| CAPS | 5,056 German primary-care members aged 19–90 (mean 50.1), 7.5–10 MHz; far-wall **CCA-IMT measured 20–60 mm proximal to the flow divider** (bifurcation and bulb measured separately), single systolic frame. Mean follow-up 4.2 years. CCA-IMT predicted MI, stroke and death; per 0.1 mm CCA-IMT, the adjusted risk ratio for the combined end point was higher under 50 years (1.34) than from 50 years (1.10). The article has no age-percentile table | [lorenz-caps-cimt-2006] |
+| CAPS | 5,056 German primary-care members aged 19–90 (mean 50.1), 7.5–10 MHz; far-wall **CCA-IMT measured 20–60 mm proximal to the flow divider** (bifurcation and bulb measured separately), single systolic frame. Mean follow-up 4.2 years. CCA-IMT predicted MI, stroke and death; per 0.1 mm CCA-IMT, the risk ratio for the combined end point was higher under 50 years than from 50 years (abstract 1.34 vs 1.10; fully adjusted in the Results 1.26 [1.06–1.49] vs 1.08 [1.03–1.14]). The article has no age-percentile table | [lorenz-caps-cimt-2006] |
 
 ## 4. Management
 
@@ -205,9 +205,12 @@ Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footno
 ## 6. What the source does not say
 
 - The CAPS table has columns to 85 years, but the statement indicates it only for 25–45.
-- Neither original article prints the tables as the statement reproduces them: ELSA's per-side
-  nomograms are in Santos's online supplement; the CAPS percentiles are not in Lorenz 2006 (the
-  statement does not give their exact origin).
+- None of the original articles prints the tables as the statement reproduces them: the CAPS percentiles are not in Lorenz 2006; the MESA
+  table is not in Folsom 2008 either, which has no percentile table by age, sex, race and side
+  and measures **maximum** IMT (mean of the maxima of near and far walls, both sides) with
+  z-scores, not mean far-wall CCA IMT. The statement does not give the exact origin of these
+  tables. The ELSA per-side nomograms are cited as "Supplementary data" in Santos 2014; the
+  supplement itself was not read.
 - The MESA table title says 65–84 years but its columns span 45–84; the statement indicates it
   for 65–84. Some MESA cells are not monotonic in the original (e.g. Hispanic women right CCA
   P25 at 75–84 = 0.63); transcribed as published.
@@ -231,3 +234,4 @@ Values are mean CCA IMT in mm. CCA = common carotid artery. (The original footno
 | 2026-11-11 | Tables re-checked against the 2019 statement PDF; Eickemberg 2019 paragraph still unchecked (PDF not available) | Claude |
 | 2026-11-11 | Checked against the full texts of Santos 2014 and Lorenz 2006: added cohort methods; CAPS measures CCA-IMT 20–60 mm below the flow divider; neither article prints the tables reproduced by the statement | Claude |
 | 2026-11-11 | Eickemberg 2019 paragraph checked against the full text (sample derivation, 1.5-mm figure marked as data not shown) | Claude |
+| 2026-11-12 | Pre-check fixes: CCE typo only in Tables 3 and 5; manual measurement condition; ≥ P75 in Eickemberg; CAPS fully adjusted RRs; MESA table not in Folsom 2008 (maximum IMT); ELSA supplement not read | Claude |

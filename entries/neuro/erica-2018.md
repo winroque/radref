@@ -7,7 +7,7 @@ modalities: [MRI]
 population: adults
 source_version: "2018"
 status: draft
-verified_against: "full-text PDF (Radiology 2018;288(1):226–33) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 2 score definitions, diagnostic accuracy results — awaiting radiologist sign-off"
+verified_against: "full-text PDF (Radiology 2018;288(1):226–33) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 3 score definitions, diagnostic accuracy results — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [enkirch-erica-2018]
@@ -25,8 +25,12 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Applies to:** coronal 3D T1 (1 mm) aligned with the brainstem; each hemisphere separately.
-  [enkirch-erica-2018]
+- **Applies to:** coronal 3D T1 (1 mm) aligned with the brainstem, graded at the level of the
+  **mammillary bodies**; each hemisphere separately (when they differed, the analysis used the
+  higher value). [enkirch-erica-2018]
+- **Study:** retrospective 3 T cohort; AD with positive biomarker (CSF or PET) vs subjective
+  cognitive decline (SCD). Interobserver κ 0.91 (left) and 0.94 (right); AUC 0.93 vs 0.82 for MTA.
+  [enkirch-erica-2018, Table 3]
 
 ## 2. Definitions
 
@@ -37,7 +41,7 @@ last_reviewed: 2026-11-11
 
 | Score | Definition | Source |
 |---|---|---|
-| 0 | Normal volume of entorhinal cortex and parahippocampal gyrus | [enkirch-erica-2018] |
+| 0 | Normal volume of entorhinal cortex and parahippocampal gyrus | [enkirch-erica-2018, Fig. 3] |
 | 1 | Mild atrophy, widened collateral sulcus | [enkirch-erica-2018] |
 | 2 | Moderate atrophy, entorhinal cortex detached from the tentorium (tentorial cleft sign) | [enkirch-erica-2018] |
 | 3 | Severe atrophy of the parahippocampal gyrus, wide cleft between entorhinal cortex and tentorium | [enkirch-erica-2018] |
@@ -50,7 +54,10 @@ higher than MTA (74%). [enkirch-erica-2018]
 
 ## 5. Pitfalls
 
-- Applying the cut-off outside the study's comparison (AD vs subjective cognitive decline).
+- Applying the cut-off outside the study's comparison (AD vs subjective cognitive decline): for
+  MCI vs SCD the AUC was 0.66, similar to MTA (0.65); the ≥ 2 cut-off was not validated for MCI.
+- ERICA correlates with age (r = 0.45); there are no age-specific normal values.
+  [enkirch-erica-2018]
 
 ## 6. What the source does not say
 
@@ -71,3 +78,4 @@ higher than MTA (74%). [enkirch-erica-2018]
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: score definitions, cut-off >= 2 and accuracy figures confirmed; no changes | Claude |
+| 2026-11-12 | Pre-check fixes: Fig. 3 for grade definitions; mammillary-body level and higher-side rule; study design, κ and AUC; MCI caveat; age correlation. Note: abstract and Table 1 swap the AD/SCD mean ages | Claude |

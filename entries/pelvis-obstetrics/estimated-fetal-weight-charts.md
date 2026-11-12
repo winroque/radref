@@ -26,7 +26,7 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Applies to:** singleton fetuses with known GA, from about 20–22 weeks (chart-dependent).
+- **Applies to:** singleton fetuses with known GA, with a range that depends on the chart (from 10 weeks in Hadlock 1991 and 14 in WHO to 22 in INTERGROWTH).
 - EFW is plotted on **fetal (EFW) charts**, never on birth-weight charts. [isuog-biometry-2019]
 
 ## 2. Definitions
@@ -61,10 +61,10 @@ Measurements in **cm**, weight in **g**; log = base 10. [hadlock-efw-1985, Table
 
 | Chart | Population and design | EFW formula | GA range | Source |
 |---|---|---|---|---|
-| **Hadlock 1991** | 392 predominantly middle-class white women (US), cross-sectional, one scan per fetus | Hadlock BPD + HC + AC + FL model (1985; random error 1 SD = 7.4%). Median curve: ln EFW (g) = 0.578 + 0.332 × GA − 0.00354 × GA² (GA in weeks); residual SD ≈ 12.7% | 10–40 weeks (table) | [hadlock-weight-standard-1991] |
-| **INTERGROWTH-21st 2017** | Prescriptive; formula from 2,404 babies born within 14 days of the last scan; tables from 4,231 FGLS fetuses (eight countries) | ln EFW = 5.084820 − 54.06633 × (AC/100)³ − 95.80076 × (AC/100)³ × ln(AC/100) + 3.136370 × (HC/100); AC and HC in **cm**; FL not used | 22–40 weeks | [ig21-efw-2017] |
+| **Hadlock 1991** | 392 predominantly middle-class white women (US), cross-sectional, one scan per fetus | Hadlock BPD + HC + AC + FL model (1985; random error 1 SD = 7.4%). Median curve: ln EFW (g) = 0.578 + 0.332 × GA − 0.00354 × GA² (GA in weeks); residual SD ≈ 12.7%. The authors suggest P3 and P97 as limits of normal growth, advise against using the curve unless GA was confirmed by early US, and state that it applies to other racial origins | 10–40 weeks (table) | [hadlock-weight-standard-1991] |
+| **INTERGROWTH-21st 2017** | Prescriptive; formula from 2,404 babies born within 14 days of the last scan; tables from 4,231 FGLS fetuses (eight countries) | ln EFW = 5.084820 − 54.06633 × (AC/100)³ − 95.80076 × (AC/100)³ × ln(AC/100) + 3.136370 × (HC/100); AC and HC in **cm**; FL not used. The paper writes "log(EFW)" without stating the base (natural log assumed; confirm with the INTERGROWTH calculator) | 22–40 weeks | [ig21-efw-2017] |
 | **WHO 2017** | Longitudinal, 1,387 low-risk women in ten countries (including Brazil) | Hadlock's third formula (HC + AC + FL) | 14–40 weeks | [who-fetal-growth-2017] |
-| **FMF 2018** (Nicolaides) | 5,163 EFW–birth-weight pairs (birth within 2 days) plus 95,579 routine EFWs at 20–36 weeks, London/Kent; Bayesian model with a common median for EFW and birth weight | Hadlock 1985 (HC + AC + FL) | 20 + 0 to 36 + 6 weeks (EFW validated) | [fmf-weight-charts-2018] |
+| **FMF 2018** (Nicolaides) | 5,163 EFW–birth-weight pairs (birth within 2 days; this dataset was "not used to establish the reference ranges") plus 95,579 routine EFWs at 20–36 weeks, London/Kent; Bayesian model with a common median for EFW and birth weight | Hadlock 1985 (HC + AC + FL) | 20 + 0 to 36 + 6 weeks (EFW validated) | [fmf-weight-charts-2018] |
 
 Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile = 2,335 /
 2,813 / 3,291 g; median 3,619 g at 40 weeks. [hadlock-weight-standard-1991, Table 1]
@@ -83,7 +83,8 @@ Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile =
 - Using birth-weight charts for EFW: they include many growth-restricted preterm babies, so
   preterm 10th centiles are too low. FMF built its birth-weight chart to include fetuses still
   in utero to correct this. [isuog-biometry-2019; fmf-weight-charts-2018]
-- Using a percentile without the chart name: Hadlock (white US population), INTERGROWTH
+- Using a percentile without the chart name: Hadlock (white US population, although Hadlock 1991
+  states its curve applies to other racial origins), INTERGROWTH
   (prescriptive, multinational), WHO (multinational, country variation) and FMF (UK routine
   population) are not interchangeable.
 
@@ -112,3 +113,4 @@ Anchor values, Hadlock 1991 (Table 1): at 36 weeks, 10th / 50th / 90th centile =
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
 | 2026-11-11 | Added the four Hadlock 1985 EFW equations (Table II) from the full text and their reference | Claude |
+| 2026-11-12 | Pre-check: GA range by chart; Hadlock 1991 P3/P97, GA confirmation and racial-origin statement; INTERGROWTH log base; FMF dataset 1 not used for the ranges | Claude |

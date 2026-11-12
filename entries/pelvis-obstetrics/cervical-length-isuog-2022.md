@@ -50,11 +50,13 @@ last_reviewed: 2026-11-11
 
 | Situation | Recommendation | Source |
 |---|---|---|
-| Asymptomatic singleton, no prior PTB | Universal TVS CL at 18–24 weeks where feasible; CL ≤ 25 mm → nightly vaginal progesterone until 36 weeks (grade A) | [isuog-cervix-2022] |
-| Prior spontaneous PTB | Progesterone 16–36 weeks, or surveillance and treatment if CL ≤ 25 mm; CL every 2 weeks from 14–16 to 24 weeks if ≥ 30 mm, weekly if 26–29 mm; CL ≤ 25 mm on progesterone before 24 weeks → ultrasound-indicated cerclage may be recommended | [isuog-cervix-2022] |
+| Asymptomatic singleton, no prior PTB | Universal TVS CL at 18–24 weeks where feasible (grade C); CL ≤ 25 mm → nightly vaginal progesterone until 36 weeks (grade A); then CL every 1–2 weeks until 24 weeks (good practice point); cerclage may be considered if CL falls below 10 mm despite progesterone (grade C) | [isuog-cervix-2022, Fig. 11] |
+| Prior spontaneous PTB | Progesterone 16–36 weeks, or surveillance and treatment if CL ≤ 25 mm; CL every 2 weeks from 14 weeks (prior loss/PTB at 14–27 weeks) or 16 weeks (prior PTB at 28–36 weeks; Fig. 12) to 24 weeks if ≥ 30 mm, weekly if 26–29 mm; CL ≤ 25 mm on progesterone before 24 weeks → ultrasound-indicated cerclage may be recommended | [isuog-cervix-2022] |
 | Threatened preterm labour, 22 + 0 to 33 + 6 weeks | TVS CL recommended; ≥ 30 mm → usually discharge; < 15 or < 20 mm → admission/steroids per local protocol; between → laboratory triage test if available | [isuog-cervix-2022] |
-| Twins | CL preferred screening method; 25 mm pragmatic cut-off at 18–24 weeks; vaginal progesterone may be considered if ≤ 25 mm; not for unselected twins | [isuog-cervix-2022] |
+| Twins | CL preferred screening method; 25 mm pragmatic cut-off at 18–24 weeks; vaginal progesterone may be considered if ≤ 25 mm; not for unselected twins (grade A); history-indicated cerclage not recommended (grade C); physical-exam-indicated cerclage with antibiotics and tocolytics may be considered if the cervix is dilated before 24 weeks (grade C); CL in symptomatic twins: insufficient evidence | [isuog-cervix-2022] |
 | After cerclage | Further CL measurement not recommended | [isuog-cervix-2022] |
+| Pessary | Not recommended outside research (singletons grade B; unselected twins grade B; twins with short cervix not endorsed) | [isuog-cervix-2022] |
+| Activity restriction | Not recommended (grade C) | [isuog-cervix-2022] |
 
 ## 5. Pitfalls
 
@@ -81,3 +83,4 @@ last_reviewed: 2026-11-11
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check additions: universal screening grade C; low-risk follow-up and < 10 mm cerclage option (Fig. 11); Fig. 12 start week; twin recommendations with grades; pessary; activity restriction | Claude |

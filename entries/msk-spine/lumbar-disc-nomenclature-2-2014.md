@@ -47,8 +47,17 @@ last_reviewed: 2026-11-12
 
 ## 3. Criteria / categories
 
-- Herniations may be further described as contained (covered by outer annulus) or uncontained.
-  [lumbar-nomenclature-2-2014]
+- Herniations may be further described as contained (covered by outer annular fibres and/or the
+  posterior longitudinal ligament; "subligamentous" is equivalent) or uncontained (not
+  contained if the PLL is not intact). The protrusion/extrusion distinction is optional; an
+  alternative scheme based on containment exists. [lumbar-nomenclature-2-2014]
+- **Canal compromise by disc material**, on the axial image of greatest compromise: < 1/3 mild,
+  1/3–2/3 moderate, > 2/3 severe; the same grading can be applied to foraminal involvement.
+  [lumbar-nomenclature-2-2014, Volume and composition of displaced material]
+- **Location:** zones central, subarticular, foraminal, extraforaminal, anterior; levels discal,
+  infrapedicular, pedicular, suprapedicular. [lumbar-nomenclature-2-2014, Figs. 11–12]
+- The terms imply no aetiology, symptoms or treatment; the 25% cut-off is a convention. Acute
+  herniation cannot be dated by imaging. [lumbar-nomenclature-2-2014]
 
 ## 4. Management
 
@@ -57,11 +66,13 @@ last_reviewed: 2026-11-12
 ## 5. Pitfalls
 
 - Calling a broad symmetric bulge a "herniation".
-- Using "annular tear" in medicolegal contexts (implies trauma). [lumbar-nomenclature-2-2014]
+- Using "annular tear": "tear" suggests trauma; v2.0 considers it non-standard ("annular
+  fissure"). [lumbar-nomenclature-2-2014]
 
 ## 6. What the source does not say
 
-- No size cut-offs for stenosis grading.
+- No grading of stenosis from non-disc causes (the canal-compromise grading above refers to disc
+  material only).
 
 ## 7. Disagreements and newer versions
 
@@ -76,3 +87,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: canal/foraminal compromise grading exists (removed 'no cut-offs'); containment includes PLL; 'tear' wording; location zones/levels; optional distinction; no aetiology implied; licence CC BY-NC-ND 3.0 recorded | Claude |

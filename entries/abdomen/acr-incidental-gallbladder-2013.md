@@ -41,17 +41,17 @@ last_reviewed: 2026-11-11
 
 | Finding | Recommendation | Source |
 |---|---|---|
-| Stones, no mass, no duct dilatation, no symptoms | Nothing; US if symptoms develop | [acr-gallbladder-2013] |
-| Wall calcification (focal or diffuse "porcelain"), no mass | No follow-up; if the referrer wants follow-up, individualize and use contrast CT (US is poor with concentric calcification). Cancer risk low (~5–7% in series; higher in focal/mucosal than diffuse) | [acr-gallbladder-2013] |
-| Dense content (20–100 HU) | No work-up/follow-up if no wall thickening or pericholecystic change | [acr-gallbladder-2013] |
-| Diffuse wall thickening > 3 mm, no mass | No specific work-up (hepatitis, heart failure, liver disease, pancreatitis, hypoproteinaemia) | [acr-gallbladder-2013] |
-| Focal thickening > 3 mm or mass | Depends on size and clinical context; adenomyomatosis has a typical US appearance (comet-tail); no follow-up if asymptomatic and benign | [acr-gallbladder-2013] |
-| Polyp **≤ 6 mm** | Nothing | [acr-gallbladder-2013] |
-| Polyp **7–9 mm** | **Yearly US**; growth → surgical evaluation | [acr-gallbladder-2013] |
-| Polyp **≥ 10 mm** or mass | Surgical evaluation / consider cholecystectomy; without surgery → yearly US | [acr-gallbladder-2013] |
-| Pericholecystic fluid (outside the wall) | Individualize (usually symptomatic; do not confuse with wall oedema) | [acr-gallbladder-2013] |
-| Distended gallbladder | Asymptomatic: fasting, nothing. Symptomatic: consider obstruction | [acr-gallbladder-2013] |
-| Biliary dilatation | Normal labs → nothing; abnormal → ERCP, EUS, MRCP or CT cholangiography | [acr-gallbladder-2013] |
+| Stones, no mass, no duct dilatation, no symptoms | Nothing; US if symptoms develop | [acr-gallbladder-2013, Table 1] |
+| Wall calcification (focal or diffuse "porcelain"), no mass | No follow-up; if the referrer wants follow-up, individualize and use contrast CT (US is poor with concentric calcification). Cancer risk low (~5–7% in series; higher in focal/mucosal than diffuse) | [acr-gallbladder-2013, Table 1] |
+| Dense content (20–100 HU) | No work-up/follow-up if no wall thickening or pericholecystic change | [acr-gallbladder-2013, Table 1] |
+| Diffuse wall thickening > 3 mm, no mass | No specific work-up (hepatitis, heart failure, liver disease, pancreatitis, hypoproteinaemia) | [acr-gallbladder-2013, Table 1] |
+| Focal thickening > 3 mm or mass | Depends on size and clinical context; adenomyomatosis has a typical US appearance (comet-tail); no follow-up if asymptomatic and benign | [acr-gallbladder-2013, Table 1] |
+| Polyp **≤ 6 mm** | Nothing | [acr-gallbladder-2013, Table 1] |
+| Polyp **7–9 mm** | **Yearly US**; growth → surgical evaluation | [acr-gallbladder-2013, Table 1] |
+| Polyp **≥ 10 mm** or mass | Surgical evaluation / consider cholecystectomy; without surgery → yearly US | [acr-gallbladder-2013, Table 1] |
+| Pericholecystic fluid (outside the wall) | Individualize (usually symptomatic; do not confuse with wall oedema) | [acr-gallbladder-2013, Table 1] |
+| Distended gallbladder | Asymptomatic: fasting, nothing. Symptomatic: consider obstruction | [acr-gallbladder-2013, Table 1] |
+| Biliary dilatation | Normal labs → nothing; abnormal → ERCP, EUS, MRCP or CT cholangiography | [acr-gallbladder-2013, Table 1] |
 
 ## 4. Management
 
@@ -71,7 +71,7 @@ last_reviewed: 2026-11-11
 
 - **Gallbladder polyps:** the SRU 2022 consensus (`sru-gallbladder-polyps-2022`) replaced the
   single 10 mm cut-off with morphology-based risk categories. The European multisociety
-  guidelines (ESGAR/EAES/EFISDS/ESGE, 2017) are another newer document (no entry yet). For
+  guideline (ESGAR/EAES/EFISDS/ESGE) was updated in 2022 (`gallbladder-polyps-esgar-2022`). For
   polyps, the 2013 thresholds above are superseded in practice by the newer documents.
 
 ## 8. How to cite
@@ -84,3 +84,4 @@ last_reviewed: 2026-11-11
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §6 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes to the 2013 content; [verify] mark resolved (see sru-gallbladder-polyps-2022) | Claude |
+| 2026-11-12 | Pre-check fixes: ESGAR 2022 cross-reference; Table 1 locations | Claude |

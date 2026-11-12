@@ -7,7 +7,7 @@ modalities: [CT, MRI]
 population: adults
 source_version: "2017"
 status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2017;14(7):911–23), read by Claude on 2026-11-11: text of Charts 1–4, worrisome features table, growth definitions, follow-up duration — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
+verified_against: "full-text PDF, in-press version without final pagination (published J Am Coll Radiol 2017;14(7):911–23), read by Claude on 2026-11-11: text of Charts 1–4, worrisome features table, growth definitions, follow-up duration — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-pancreas-2017]
@@ -43,9 +43,9 @@ last_reviewed: 2026-11-11
 | High-risk stigmata | Obstructive jaundice with head cyst; enhancing solid component; MPD **≥ 10 mm** without other cause | [acr-pancreas-2017] |
 | Growth (longest axis) | Cyst **< 5 mm** → **100%** increase; **5 to < 15 mm** → **50%**; **≥ 15 mm** → **20%** | [acr-pancreas-2017] |
 | Aggressive growth rate | > 2 mm/year suggests aggressive behaviour | [acr-pancreas-2017] |
-| High risk by imaging (> 2.5 cm chart) | Mural nodule, wall thickening, MPD ≥ 7 mm, peripheral calcification | [acr-pancreas-2017] |
+| High risk by imaging (> 2.5 cm chart) | Worrisome features or high-risk stigmata (text). "Peripheral calcification" in the chart box is an image and was not verifiable; in the text it is a sign of MCN and of frank malignancy | [acr-pancreas-2017] |
 
-General trigger for immediate EUS/FNA and surgical evaluation (figure legends): mural nodule,
+General trigger for immediate EUS/FNA and surgical evaluation (Five Common Principles (4); Table 1): mural nodule,
 wall thickening, MPD ≥ 7 mm, or extrahepatic biliary obstruction/jaundice. Exception: a cyst
 ≥ 3 cm with no other feature may be followed. [acr-pancreas-2017]
 
@@ -109,7 +109,10 @@ neoplasm. [acr-pancreas-2017]
 
 ## 6. What the source does not say
 
-- It does not incorporate later consensus documents (revised Fukuoka, AGA, European).
+- It predates the revised Fukuoka 2017 and European 2018 documents; it cites the AGA 2015
+  technical review and Fukuoka 2012.
+- The follow-up schedules inside the Charts (images) could not be checked against text;
+  only the text and legends were verified.
 
 ## 7. Disagreements and newer versions
 
@@ -127,3 +130,4 @@ neoplasm. [acr-pancreas-2017]
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §3 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: schedules for 1.5–1.9 and 2.0–2.5 cm, white-dot rule, growth definitions, 80-year rule confirmed; [verify] mark resolved | Claude |
+| 2026-11-12 | Pre-check fixes: trigger location; §6 on later documents; in-press PDF noted; chart-only items flagged | Claude |

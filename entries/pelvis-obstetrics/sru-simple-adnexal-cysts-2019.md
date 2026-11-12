@@ -51,8 +51,10 @@ last_reviewed: 2026-11-12
 - First follow-up: postmenopausal 3–6 months (characterization) or 6–12 months (growth);
   premenopausal 2–6 or 6–12 months. [sru-simple-adnexal-cysts-2019]
 - At follow-up: smaller → stop; similar size → one more study at 2 years from the first;
-  growing → likely cystadenoma, one more US in 1 year, then clinical management; new papillary
-  projections or solid areas → describe with standard terminology (O-RADS).
+  growing → likely cystadenoma, one more US in 1 year, then clinical management (Tables 1–2; the
+  Key Results say "additional follow-up at 2 years"); new papillary projections or solid areas
+  within the original cyst → consult gynecologic oncology if unequivocal; if equivocal,
+  short-interval US, second-opinion US or MRI. Describe changes with standardized terminology.
   [sru-simple-adnexal-cysts-2019]
 - Simple paraovarian or paratubal cysts: no follow-up at any size. Probably simple but poorly
   characterized: short-interval US, second-opinion US or MRI (within 3 months).
@@ -65,7 +67,14 @@ last_reviewed: 2026-11-12
 
 ## 5. Pitfalls
 
-- Applying these thresholds to a cyst that is not truly simple (septation, solid tissue, flow).
+- Applying these thresholds to a cyst that is not truly simple (septation, solid tissue, flow), or
+  to a non-diagnostic exam: the exam must meet minimum facility standards, and cine clips
+  support the higher thresholds. Posterior enhancement is no longer required with compound
+  imaging, but there must be no attenuation.
+- Measure with the cyst as round as possible; report three diameters, and let the largest drive
+  management. [sru-simple-adnexal-cysts-2019, Tables 1–2 footnote]
+- Source inconsistency: the abstract and text say "symptoms not attributable to the cyst", the
+  Tables 1–2 note says "symptoms attributable to the visualized cyst".
 - Comparing a cyst only by largest diameter when its shape changed (compare three diameters or
   volume). [sru-simple-adnexal-cysts-2019]
 
@@ -76,7 +85,8 @@ last_reviewed: 2026-11-12
 ## 7. Disagreements and newer versions
 
 - Tiered thresholds (3–5 cm, 5–7 cm) were a majority, not unanimous, opinion; some favoured a
-  single 3-cm (post) or 5-cm (pre) threshold. [sru-simple-adnexal-cysts-2019]
+  single 3-cm (post) or 5-cm (pre) threshold. [sru-simple-adnexal-cysts-2019, Tables 1–2,
+  footnote ‡] Consensus levels: strong 18–19 votes, moderate 15–17, majority 11–14 (19 voters).
 - O-RADS US uses 2–3 months for premenopausal repeat imaging. [sru-simple-adnexal-cysts-2019]
 
 ## 8. How to cite
@@ -88,3 +98,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: change in cyst → gyn-oncology consult or short-interval imaging (O-RADS attribution removed); 1-year vs 2-year inconsistency; quality, measurement and symptom-wording notes; consensus levels | Claude |

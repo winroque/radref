@@ -106,11 +106,20 @@ There is no TR0 and no sub-levels.
   **four** nodules with the highest scores below the FNA threshold. [acr-tirads-2017]
 - Recommendations are guidance, not a standard; the decision to biopsy also weighs the
   referrer's and patient's preferences and patient factors. [acr-tirads-2017]
+- **Cervical lymph nodes** are assessed in every exam; FNA of a suspicious node is recommended in
+  addition to the (up to two) nodules. Suspicious signs: rounded shape, loss of the fatty hilum,
+  peripheral flow, cystic component, punctate echogenic foci. [acr-tirads-2017, p. 593]
+- Follow-up probably continues beyond 5 years if a nodule grows significantly but stays below
+  the FNA threshold; be cautious calling minimal extrathyroidal extension.
+  [acr-tirads-2017]
 
 ## 5. Pitfalls
 
-- Scoring a nodule when one of the five feature groups was not described: the level is then
-  undetermined.
+- Confusing "not described" with "cannot be determined": the system gives default points when a
+  feature cannot be determined (composition obscured by calcification = 2; echogenicity = 1;
+  margin = 0) and aims to classify every nodule. Leaving the level open when a feature was
+  simply not described in a report is a reporting convention, not a rule of the source.
+  [acr-tirads-2017, Fig. 1]
 - Adding spongiform points to other groups.
 - Forgetting that echogenic foci points are cumulative.
 - Taller-than-wide measured on a longitudinal image: assess on a **transverse** image (height
@@ -124,6 +133,8 @@ There is no TR0 and no sub-levels.
   detection of clinically important cancers against biopsy of benign nodules and indolent
   cancers (overdiagnosis is a stated concern). [acr-tirads-2017]
 - It does not give a category to a gland without nodules.
+- The committee did not address follow-up of nodules that have already had FNA.
+  [acr-tirads-2017]
 
 ## 7. Disagreements and newer versions
 
@@ -142,3 +153,4 @@ There is no TR0 and no sub-levels.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: points, rules and thresholds confirmed; added expected risk per level, microcarcinoma guidance, follow-up timing, growth definition, number of nodules; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check fixes: undetermined-feature pitfall rewritten (default points per Fig. 1); cervical node assessment; > 5-year follow-up; previously biopsied nodules not addressed | Claude |

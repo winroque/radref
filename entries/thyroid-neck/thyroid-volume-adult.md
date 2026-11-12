@@ -21,8 +21,8 @@ last_reviewed: 2026-11-12
 
 > The usual limits (**> 18 mL women, > 25 mL men**) come from Gutekunst 1988 (mean + 3 SD,
 > method never detailed) and ignore age, height and weight. In 8,606 thyroid-healthy German
-> adults the 95th percentile was **38.7 mL (men) and 28.6 mL (women)**; with the old limits 34% of
-> the population had "goitre", with individualized equations 7%. [ittermann-thyroid-volume-2025]
+> adults the 95th percentile was **38.7 mL (men) and 28.6 mL (women)**; in the total study population
+> (11,549) the old limits labelled 34% as "goitre", the individualized equations 7%. [ittermann-thyroid-volume-2025]
 
 ## 1. Scope
 
@@ -56,13 +56,16 @@ Example (computed by Claude from the equations): man 50 y, 180 cm, 80 kg → ≈
 ### Correction factor
 
 - Volumes with 0.524 did not differ from CT volumetry (p = 0.748); volumes with 0.479 did
-  (p = 0.007, underestimation). Factors 0.494–0.554 were acceptable; the authors propose 0.529.
+  (p = 0.007 in the text; Fig. 3 shows p = 0.01; 0.479 < 0.524, so it underestimates). Factors 0.494–0.554 were acceptable; the authors propose 0.529.
   [shabana-thyroid-factor-2006]
 
 ## 4. Management
 
 - Not addressed. Goitre-related symptoms were similar between those classified by the old and the
-  new limits. [ittermann-thyroid-volume-2025]
+  new limits; the authors state that a volume above the reference without symptoms, nodules or
+  functional change has no clinical relevance. [ittermann-thyroid-volume-2025]
+- Age-band limits (Figs. 6–7): 20–29 years 22.6 mL women / 27.2 mL men; 70–81 years 35.7 / 43.8
+  mL. Volumes > 100 mL were excluded from the reference sample. [ittermann-thyroid-volume-2025]
 
 ## 5. Pitfalls
 
@@ -91,3 +94,4 @@ Example (computed by Claude from the equations): man 50 y, 180 cm, 80 kg → ≈
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check fixes: 34%/7% refer to the total population (11,549); p 0.007 vs 0.01 (Fig. 3); clinical relevance statement; age-band limits; > 100 mL exclusion | Claude |

@@ -38,7 +38,7 @@ last_reviewed: 2026-11-12
 | Normal node | Hilum preserved, ovoid shape and normal size, absent or hilar vascularity, no other suspicious sign | [eta-cervical-us-2013] |
 | Indeterminate | Absent hilum and ≥ 1 of: round shape; short axis ≥ 8 mm (level II) or ≥ 5 mm (levels III and IV); increased central vascularity | [eta-cervical-us-2013] |
 | Suspicious | ≥ 1 of: microcalcifications, partly cystic appearance, peripheral or diffusely increased vascularity, hyperechoic thyroid-like tissue | [eta-cervical-us-2013] |
-| Small node | Short axis < 5–7 mm (conservative approach) | [eta-cervical-us-2013] |
+| Thyroid-bed mass, suspicious | Hypoechoic and/or cystic, calcifications, irregular shape/borders, increased vascularity | [eta-cervical-us-2013, R4] |
 | Levels | III above and IV below the omohyoid; II/III separated at the carotid bifurcation | [eta-cervical-us-2013] |
 
 ## 3. Criteria / categories
@@ -54,11 +54,16 @@ last_reviewed: 2026-11-12
 
 | Situation | Recommendation | Source |
 |---|---|---|
-| Suspicious or indeterminate node | FNA cytology and FNA-Tg, weighing stage, histology, size, location and serum Tg | [eta-cervical-us-2013, Table 3] |
-| Suspicious node ≥ 8–10 mm smallest diameter (pre- or postoperative) | US-guided FNA if a positive result would change management (with Tg washout) | [ata-thyroid-2015, Rec. 32B and 65B] |
+| Suspicious node | FNA cytology and FNA-Tg, considering size | [eta-cervical-us-2013, R12] |
+| Indeterminate node | Decide by stage, histology, size, location and serum Tg (Table 3 merges the two rows) | [eta-cervical-us-2013, R12; Table 3] |
+| Small node (short axis < 5–7 mm) | Conservative approach (QOE +, grade 1) | [eta-cervical-us-2013, R12] |
+| Suspicious node ≥ 8–10 mm smallest diameter (pre- or postoperative) | US-guided FNA if a positive result would change management | [ata-thyroid-2015, Rec. 32B (preoperative) and 65B (postoperative)] |
+| FNA washout Tg | Preoperative: appropriate in selected patients (Rec. 32C); postoperative: included with FNA (Rec. 65B) | [ata-thyroid-2015, Rec. 32C and 65B] |
 | Suspicious node < 8–10 mm | May be followed without biopsy; FNA or intervention if growing or threatening vital structures | [ata-thyroid-2015, Rec. 65C] |
-| Thyroid bed lesion | FNA if > 10 mm or growing | [eta-cervical-us-2013, Table 3] |
-| Washout Tg | > 10 ng/mL highly suspicious; 1–10 ng/mL moderately suspicious | [ata-thyroid-2015] |
+| Thyroid bed lesion | **Suspicious** lesion > 10 mm or with documented growth → FNA; smaller or stable lesions may be monitored | [eta-cervical-us-2013, R12; Table 3] |
+| Washout Tg, postoperative | > 10 ng/mL highly suspicious; 1–10 ng/mL moderately suspicious | [ata-thyroid-2015, sec. C10] |
+| Washout Tg, preoperative (gland in place) | < 1 ng/mL reassuring; false positives in the central compartment with the thyroid present; a 32 ng/mL cut-off (Pak) is cited | [ata-thyroid-2015, sec. B4] |
+| Washout Tg (ETA, ng/FNA) | < 1 normal; 1–10 compare with cytology; > 10 suggests tumour | [eta-cervical-us-2013] |
 
 ## 5. Pitfalls
 
@@ -85,3 +90,4 @@ last_reviewed: 2026-11-12
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full texts (node sections) | Claude |
+| 2026-11-12 | Pre-check fixes: 32B/32C/65B separated; washout Tg cut-offs by setting (C10 vs B4) plus ETA cut-offs; thyroid-bed lesion must be suspicious; small-node conduct moved to management; suspicious vs indeterminate split; bed-mass criteria (R4). ATA Table 7 is adapted from ETA | Claude |

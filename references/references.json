@@ -41,11 +41,11 @@
   "volume": "129",
   "issue": "5",
   "pages": "e150-e154",
-  "vancouver": "Committee opinion no 700: methods for estimating the due date. Obstet Gynecol. 2017;129(5):e150-4. doi:10.1097/AOG.0000000000002046",
+  "vancouver": "American College of Obstetricians and Gynecologists' Committee on Obstetric Practice; American Institute of Ultrasound in Medicine; Society for Maternal-Fetal Medicine. Committee Opinion No 700: methods for estimating the due date. Obstet Gynecol. 2017;129(5):e150-4. doi:10.1097/AOG.0000000000002046",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
-  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11. Corporate author: ACOG Committee on Obstetric Practice, AIUM and SMFM (no personal authors in the byline)."
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11. Corporate author: ACOG Committee on Obstetric Practice, AIUM and SMFM (no personal authors in the byline). Institutional authorship added 2026-11-12 (byline and suggested citation, p. e154)."
  },
  {
   "id": "acog-co734-2018",
@@ -176,7 +176,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01)."
+  "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01). The PDF read is the in-press version; 14(7):911-23 confirmed on PubMed (PMID 28533111)."
  },
  {
   "id": "acr-renal-2018",
@@ -224,7 +224,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01)."
+  "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01). The PDF read is the in-press version; 12(2):143-50 confirmed on PubMed (PMID 25456025)."
  },
  {
   "id": "acr-tirads-2017",
@@ -412,12 +412,12 @@
   "year": 2024,
   "volume": "10",
   "issue": "8",
-  "pages": "1068",
+  "pages": "1068-1076",
   "vancouver": "Doll KM, Pike M, Alson J, Williams P, Carey E, Stürmer T, et al. Endometrial thickness as diagnostic triage for endometrial cancer among Black individuals. JAMA Oncol. 2024;10(8):1068-76. doi:10.1001/jamaoncol.2024.1891",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-12",
   "license_note": "",
-  "notes": ""
+  "notes": "Article corrected on 23 January 2025."
  },
  {
   "id": "doll-tvus-simulated-2021",
@@ -428,7 +428,7 @@
   "year": 2021,
   "volume": "7",
   "issue": "8",
-  "pages": "1158",
+  "pages": "1158-1165",
   "vancouver": "Doll KM, Romano SS, Marsh EE, Robinson WR. Estimated performance of transvaginal ultrasonography for evaluation of postmenopausal bleeding in a simulated cohort of Black and White women in the US. JAMA Oncol. 2021;7(8):1158-65. doi:10.1001/jamaoncol.2021.1700",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-12",
@@ -532,7 +532,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Crossref page range is wrong (226-333); the article is 226-33. Vancouver checked against the PDF first page by Claude on 2026-11-11.",
+  "notes": "Crossref page range is wrong (226-333); the article is 226-33. Vancouver checked against the PDF first page by Claude on 2026-11-11. The PDF read is the online-ahead version; 288(1):226-33 confirmed on PubMed (PMID 29514015).",
   "crossref_exceptions": [
    "pages"
   ]
@@ -579,7 +579,7 @@
   "volume": "67",
   "issue": "2",
   "pages": "192-331",
-  "vancouver": "Wanhainen A, Van Herzeele I, Bastos Goncalves F, Bellmunt Montoya S, Berard X, Boyle JR, et al. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 clinical practice guidelines on the management of abdominal aorto-iliac artery aneurysms. Eur J Vasc Endovasc Surg. 2024;67(2):192-331. doi:10.1016/j.ejvs.2023.11.002",
+  "vancouver": "Wanhainen A, Van Herzeele I, Bastos Goncalves F, Bellmunt Montoya S, Berard X, Boyle JR, et al. Editor's Choice – European Society for Vascular Surgery (ESVS) 2024 clinical practice guidelines on the management of abdominal aorto-iliac artery aneurysms. Eur J Vasc Endovasc Surg. 2024;67(2):192-331. doi:10.1016/j.ejvs.2023.11.002",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
@@ -950,7 +950,7 @@
   "vancouver": "Kelsey TW, Dodwell SK, Wilkinson AG, Greve T, Andersen CY, Anderson RA, et al. Ovarian volume throughout life: a validated normative model. PLoS One. 2013;8(9):e71465. doi:10.1371/journal.pone.0071465",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
-  "license_note": "",
+  "license_note": "CC BY",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
@@ -966,8 +966,8 @@
   "vancouver": "Kelsey TW, Ginbey E, Chowdhury MM, Bath LE, Anderson RA, Wallace WHB. A validated normative model for human uterine volume from birth to age 40 years. PLoS One. 2016;11(6):e0157375. doi:10.1371/journal.pone.0157375",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
-  "license_note": "",
-  "notes": "From Digitado-IA formatacao.md; DOI added from Crossref."
+  "license_note": "CC BY",
+  "notes": "DOI added from Crossref; checked against the PDF (2026-11-12)."
  },
  {
   "id": "koedam-posterior-2011",
@@ -982,8 +982,8 @@
   "vancouver": "Koedam EL, Lehmann M, van der Flier WM, Scheltens P, Pijnenburg YA, Fox N, et al. Visual assessment of posterior atrophy development of a MRI rating scale. Eur Radiol. 2011;21(12):2618-25. doi:10.1007/s00330-011-2205-4",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
-  "license_note": "",
-  "notes": "Metadata checked on Crossref in Digitado-IA; the article itself was not provided yet."
+  "license_note": "CC BY-NC (open access)",
+  "notes": "Article read in full (Mendeley). First page gives 'Esther L. G. E. Koedam' and 'Yolande A. L. Pijnenburg'; Vancouver keeps the PubMed initials (EL, YA)."
  },
  {
   "id": "lirads-ctmr-2018",
@@ -999,7 +999,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Digitado-IA listed only 3 authors + et al. Vancouver checked against the PDF first page by Claude on 2026-11-11."
+  "notes": "Digitado-IA listed only 3 authors + et al. Vancouver checked against the PDF first page by Claude on 2026-11-11. The PDF read is the online-first version; 289(3):816-30 confirmed on PubMed (PMID 30251931)."
  },
  {
   "id": "lorenz-caps-cimt-2006",
@@ -1030,8 +1030,8 @@
   "vancouver": "Fardon DF, Williams AL, Dohring EJ, Murtagh FR, Gabriel Rothman SL, Sze GK. Lumbar disc nomenclature: version 2.0: recommendations of the combined task forces of the North American Spine Society, the American Society of Spine Radiology and the American Society of Neuroradiology. Spine J. 2014;14(11):2525-45. doi:10.1016/j.spinee.2014.04.022",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
-  "license_note": "",
-  "notes": "Crossref title omits the subtitle; confirm the full title on the first page."
+  "license_note": "CC BY-NC-ND 3.0",
+  "notes": "Crossref title omits the subtitle; confirm the full title on the first page. Subtitle confirmed on the first page (2026-11-12)."
  },
  {
   "id": "lungrads-2022",
@@ -1059,7 +1059,7 @@
   "volume": "342",
   "issue": "1",
   "pages": "9-14",
-  "vancouver": "Mari G, Deter RL, Carpenter RL, Rahman F, Zimmerman R, Moise KJ Jr, et al. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14. doi:10.1056/NEJM200001063420102",
+  "vancouver": "Mari G, Deter RL, Carpenter RL, Rahman F, Zimmerman R, Moise KJ Jr, et al.; Collaborative Group for Doppler Assessment of the Blood Velocity in Anemic Fetuses. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14. doi:10.1056/NEJM200001063420102",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
@@ -1091,11 +1091,11 @@
   "volume": "227",
   "issue": "3",
   "pages": "e2635051",
-  "vancouver": "Minichetti P, Cereser L, Versienti E, Francioso F, Sparascio F, Girometti R, et al. BI-RADS v2025: key updates and implications for breast imaging practice. AJR Am J Roentgenol. 2026;227:e2635051. doi:10.2214/AJR.26.35051",
+  "vancouver": "Minichetti P, Cereser L, Versienti E, Francioso F, Sparascio F, Girometti R, et al. BI-RADS v2025: key updates and implications for breast imaging practice. AJR Am J Roentgenol. 2026;227(3):e2635051. doi:10.2214/AJR.26.35051",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Secondary source (review of the v2025 changes). Volume 227; issue/pages not final in Crossref yet. Vancouver checked against the PDF first page by Claude on 2026-11-11."
+  "notes": "Secondary source (review of the v2025 changes). Version of record: AJR 2026;227(3):e2635051 (September 2026), checked on the PDF first page. The manual it cites (ref. 2) lists editors Newell MS, Destounis SV, Leung JWT, DeMartini WB, Lee CH, Eby PR."
  },
  {
   "id": "moore-afi-1990",
@@ -1126,8 +1126,8 @@
   "vancouver": "Nguyen HT, Benson CB, Bromley B, Campbell JB, Chow J, Coleman B, et al. Multidisciplinary consensus on the classification of prenatal and postnatal urinary tract dilation (UTD classification system). J Pediatr Urol. 2014;10(6):982-98. doi:10.1016/j.jpurol.2014.10.002",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
-  "license_note": "",
-  "notes": ""
+  "license_note": "CC BY-NC-ND 3.0",
+  "notes": "Journal header reads 982–999 (article ends p. 997; p. 998 has an invited commentary); PubMed (PMID 25435247) uses 982–98."
  },
  {
   "id": "orads-mri-2022",
@@ -1143,7 +1143,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Metadata confirmed on PubMed (PMID 35040672, PMC8962917). Vancouver checked against the PDF first page by Claude on 2026-11-11."
+  "notes": "Metadata confirmed on PubMed (PMID 35040672, PMC8962917). Vancouver checked against the PDF first page by Claude on 2026-11-11. The article was corrected on 15 June 2023 (first-page notice)."
  },
  {
   "id": "orads-us-2022",
@@ -1154,7 +1154,7 @@
   "year": 2023,
   "volume": "308",
   "issue": "3",
-  "pages": "",
+  "pages": "e230685",
   "vancouver": "Strachowski LM, Jha P, Phillips CH, Blanchette Porter MM, Froyman W, Glanc P, et al. O-RADS US v2022: an update from the American College of Radiology's Ovarian-Adnexal Reporting and Data System US Committee. Radiology. 2023;308(3):e230685. doi:10.1148/radiol.230685",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
@@ -1171,11 +1171,11 @@
   "volume": "36",
   "issue": "5",
   "pages": "268-272",
-  "vancouver": "Pasquier F, Leys D, Weerts JG, Mounier-Vehier F, Barkhof F, Scheltens P. Inter- and intraobserver reproducibility of cerebral atrophy assessment on MRI scans with hemispheric infarcts. Eur Neurol. 1996;36(5):268-72. doi:10.1159/000117270",
+  "vancouver": "Pasquier F, Leys D, Weerts JGE, Mounier-Vehier F, Barkhof F, Scheltens P. Inter- and intraobserver reproducibility of cerebral atrophy assessment on MRI scans with hemispheric infarcts. Eur Neurol. 1996;36(5):268-72. doi:10.1159/000117270",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Article provided by the radiologist. Crossref lists the online version as 2008; the article is from 1996.",
+  "notes": "Article provided by the radiologist. Crossref lists the online version as 2008; the article is from 1996. Third author 'Jan G.E. Weerts' on the first page (2026-11-12).",
   "crossref_exceptions": [
    "year"
   ]
@@ -1354,7 +1354,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Co-published in J Thorac Imaging 2017;32(5):W54-W66 (doi:10.1097/RTI.0000000000000287); cite the JCCT version."
+  "notes": "Co-published in J Thorac Imaging 2017;32(5):W54-W66 (doi:10.1097/RTI.0000000000000287); cite the JCCT version. The PDF read is the JCCT article in press (no final pagination); volume/pages 11(1):74-84 supported by CAC-DRS ref. 5. The Mendeley record carries the JTI metadata."
  },
  {
   "id": "scheltens-mta-1992",
@@ -1530,7 +1530,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-11",
   "license_note": "",
-  "notes": ""
+  "notes": "PDF header reads J Vasc Surg 2018;67:2-77; '.e2' refers to the online appendix — confirm which form to cite."
  },
  {
   "id": "teede-pcos-guideline-2023",
@@ -1545,7 +1545,7 @@
   "vancouver": "Teede HJ, Tay CT, Laven JJE, Dokras A, Moran LJ, Piltonen TT, et al. Recommendations from the 2023 international evidence-based guideline for the assessment and management of polycystic ovary syndrome. Eur J Endocrinol. 2023;189(2):G43-64. doi:10.1093/ejendo/lvad096",
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
-  "license_note": "",
+  "license_note": "CC BY-NC 4.0",
   "notes": "Same guideline was co-published in other journals; cite one. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
@@ -1562,7 +1562,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11. PubMed (PMID 42119588) indexes the second author as 'Khomami MB'; her name on the first page is Mahnaz Bahri Khomami. Collective author: Global Name Change Consortium."
  },
  {
   "id": "thomassin-orads-mri-2020",

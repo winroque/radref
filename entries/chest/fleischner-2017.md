@@ -54,33 +54,43 @@ last_reviewed: 2026-11-11
 | Multiple 6–8 mm | CT at 3–6 months; then consider CT at 18–24 months | CT at 3–6 months, then CT at 18–24 months | [fleischner-2017] |
 | Multiple > 8 mm | CT at 3–6 months; then consider CT at 18–24 months | CT at 3–6 months, then CT at 18–24 months | [fleischner-2017] |
 
+Comments column: for multiple solid nodules, use the most suspicious nodule as the guide; the
+optional 12-month CT for a single solid < 6 mm in high risk applies to suspicious morphology
+and/or upper-lobe location. [fleischner-2017, Table]
+
 ### Subsolid nodules (no low/high-risk split)
 
 | Nodule | Recommendation | Source |
 |---|---|---|
-| Single pure ground-glass < 6 mm | No routine follow-up | [fleischner-2017] |
+| Single pure ground-glass < 6 mm | No routine follow-up; if suspicious, consider CT at 2 and 4 years; if a solid component appears or it grows, consider resection | [fleischner-2017, Table] |
 | Single pure ground-glass ≥ 6 mm | CT at 6–12 months to confirm persistence, then every 2 years until 5 years | [fleischner-2017] |
 | Single part-solid < 6 mm | No routine follow-up | [fleischner-2017] |
 | Single part-solid ≥ 6 mm | CT at 3–6 months; if persistent and solid component < 6 mm, annual CT for 5 years; solid component ≥ 6 mm is highly suspicious | [fleischner-2017] |
-| Multiple subsolid < 6 mm | CT at 3–6 months; if stable, consider CT at 2 and 4 years | [fleischner-2017] |
+| Multiple subsolid < 6 mm | CT at 3–6 months; if stable, consider CT at 2 and 4 years (high risk) | [fleischner-2017, Table] |
 | Multiple subsolid ≥ 6 mm | CT at 3–6 months; subsequent management based on the most suspicious nodule | [fleischner-2017] |
 
 ## 4. Management
 
-The table above is the management. Recommendations are minimum intervals for follow-up of a
-nodule judged incidental; clinical judgment and patient preference apply. [fleischner-2017]
+The table above is the management. Intervals are given as ranges to allow discretion for risk
+factors and patient preference; the follow-up threshold corresponds to an estimated cancer risk
+of about 1% or more. [fleischner-2017]
+
+Technical recommendations: contiguous thin sections ≤ 1.5 mm (typically 1 mm) with coronal and
+sagittal reconstructions; compare with the **oldest** available study; low-dose CT for
+follow-up. Typical perifissural or subpleural nodules (intrapulmonary lymph nodes) need no
+follow-up. [fleischner-2017]
 
 ## 5. Pitfalls
 
 - Applying the table to screening CT or to oncologic patients (out of scope).
 - Using the long axis alone instead of the average diameter for nodules < 10 mm.
-- Assuming low risk when risk factors are unknown: when risk is not stated, the recommendation
-  for both risk levels can be given.
 - Rounding: thresholds are applied to the average diameter rounded to the nearest millimetre.
 
 ## 6. What the source does not say
 
-- It gives no recommendations for patients < 35 years (out of scope), not "no follow-up".
+- It says the guidelines are not appropriate below 35 years; management there is case by case,
+  infection is more likely than cancer and serial CT should be minimized. It gives no table for
+  that group.
 - It does not define Lung-RADS categories and should not be cited for screening intervals.
 
 ## 7. Disagreements and newer versions
@@ -100,3 +110,4 @@ nodule judged incidental; clinical judgment and patient preference apply. [fleis
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `classificacoes.md` (house rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: **corrected multiple > 8 mm, high risk** (was "same as low risk"); ACCP risk definitions, volume equivalents and measurement plane added; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check fixes: intervals as ranges (~1% risk), not minimum; house practice on unknown risk removed; < 35 y wording; table comments, technique, perifissural nodules | Claude |

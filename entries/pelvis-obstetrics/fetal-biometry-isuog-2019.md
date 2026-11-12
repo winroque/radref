@@ -64,7 +64,7 @@ last_reviewed: 2026-11-11
 
 | Chart | Type and population | Source |
 |---|---|---|
-| Snijders & Nicolaides 1994 | Cross-sectional, 1,040 normal singletons at 14–40 weeks (40 per week), London; also ventricles, cerebellum, cisterna magna; HC calculated as 3.14 × (BPD + OFD)/2 from outer borders | [snijders-biometry-1994] |
+| Snijders & Nicolaides 1994 | Cross-sectional, 1,040 normal singletons at 14–40 weeks (40 per week), London; also ventricles, cerebellum, cisterna magna; HC calculated as 3.14 × (BPD + OFD)/2 from outer borders; FL from greater trochanter to lateral condyle; AC from two diameters; published P5/P50/P95 (not P3/P10) | [snijders-biometry-1994] |
 | INTERGROWTH-21st 2014 | **Prescriptive**, longitudinal; 4,321 low-risk women in eight countries (including Pelotas, Brazil), scans every 5 weeks from 14 to 42 weeks; HC, BPD, OFD, AC, FL; 3rd–97th centiles | [ig21-fetal-growth-2014] |
 | WHO 2017 | Longitudinal, 1,387 low-risk women in ten countries (including Brazil), 7,924 scans at 14–40 weeks, quantile regression; biometry and EFW; growth differed between countries and with fetal sex | [who-fetal-growth-2017] |
 
@@ -76,7 +76,11 @@ last_reviewed: 2026-11-11
   36-week scan detected FGR better than a 32-week scan. [isuog-biometry-2019]
 - A fall in centile or Z-score should prompt more monitoring; > 2 quartiles (> 50 centiles) is a
   Delphi criterion for FGR. [isuog-biometry-2019]
-- Abnormal biometry → detailed assessment, including confirmation of dating. [isuog-biometry-2019]
+- Abnormal biometry → detailed assessment, including confirmation of dating. With new maternal
+  hypertension and/or absent or reversed end-diastolic flow in the UA → urgent referral to a
+  specialist. [isuog-biometry-2019]
+- Report at least: chart/standard and EFW formula used, and centile or Z-score.
+  [isuog-biometry-2019]
 
 ## 5. Pitfalls
 
@@ -111,3 +115,4 @@ last_reviewed: 2026-11-11
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check additions: Snijders measurement conventions and published centiles; urgent referral criteria; minimum report items | Claude |

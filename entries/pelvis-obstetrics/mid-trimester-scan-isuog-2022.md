@@ -25,8 +25,8 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Applies to:** low-risk routine scans; detailed or targeted examinations follow other
-  guidelines. [isuog-midtrimester-2022]
+- **Applies to:** the routine scan offered to all pregnant women (grade B); detailed or targeted
+  examinations follow other guidelines. [isuog-midtrimester-2022]
 
 ## 2. Definitions
 
@@ -72,11 +72,18 @@ last_reviewed: 2026-11-11
   screening at this scan. Report marginal or velamentous cord insertion if seen; a single
   umbilical artery without other findings should not cause undue anxiety.
   [isuog-midtrimester-2022]
+- Abnormal UA Doppler and/or maternal hypertension or pre-eclampsia → emergency referral.
+  AFI may be preferable for polyhydramnios and DVP for oligohydramnios (grade C). Uterine or
+  adnexal findings seen should be reported, but their formal assessment is not part of the
+  scan. Cervix: TVS CL < 25 mm before 24 weeks is the short-cervix cut-off used in studies;
+  screening requires consent, training and audit (see `cervical-length-isuog-2022`).
+  [isuog-midtrimester-2022]
 
 ## 5. Pitfalls
 
-- Using older femur charts with modern machines (narrower beam → shorter lateral
-  measurements, overestimated FL centile on old charts). [isuog-midtrimester-2022]
+- Using older femur charts with modern machines: the narrower beam changed lateral
+  measurements, and older charts "may lead to an overestimation of the FL"; use recent charts.
+  [isuog-midtrimester-2022]
 - Calling chorionicity in the mid trimester when it could have been fixed before 14–15 weeks.
 
 ## 6. What the source does not say
@@ -97,3 +104,4 @@ last_reviewed: 2026-11-11
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full text | Claude |
+| 2026-11-12 | Pre-check fixes: FL pitfall reworded to the source (old charts may overestimate FL); scope = routine scan for all women; emergency referral, AFI/DVP preference, incidental findings, cervix | Claude |

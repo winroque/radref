@@ -72,7 +72,7 @@ not be measurable reliably. [bosniak-2019]
 | **III** | One or more enhancing **thick (≥ 4 mm)** or enhancing **irregular** (≤ 3 mm obtuse protrusion) walls or septa | Same | [bosniak-2019, Table 2] |
 | **IV** | One or more enhancing **nodules** (≥ 4 mm obtuse, or any size with acute margins) | Same | [bosniak-2019, Table 2] |
 
-Rules: [bosniak-2019, Table 2 footnotes]
+Rules: [bosniak-2019, Table 2 footnotes; text, pp. 482–483 for calcification and the 3-cm limit]
 
 - Features of more than one class → assign the **highest** class (e.g. few thick enhancing
   septa = III, not II).
@@ -143,3 +143,4 @@ algorithm"; patient factors decide treatment. [bosniak-2019]
 |---|---|---|
 | 2026-11-06 | First draft (structure and expected content); all criteria pending full-text check | Claude (Cowork) |
 | 2026-11-11 | Rewritten from the full text: Tables 2–4, definitions, rules, malignancy rates, US role; [verify] marks resolved | Claude |
+| 2026-11-12 | Pre-check fix: location of calcification and size-limit changes (text) | Claude |

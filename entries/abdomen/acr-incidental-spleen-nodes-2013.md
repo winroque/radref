@@ -77,7 +77,7 @@ diseased (low-grade lymphoma). [acr-spleen-nodes-2013]
 | Suspicious, prior imaging, not stable | Biopsy or other evaluation (PET-CT, scintigraphy, EUS) | [acr-spleen-nodes-2013] |
 | Suspicious, no prior, **known neoplasm** | Biopsy or other evaluation (if the tumour drains there, it is not incidental) | [acr-spleen-nodes-2013] |
 | Suspicious, no prior, no neoplasm, clinical/lab pointing to **lymphoproliferative** disease | Biopsy of a representative accessible node | [acr-spleen-nodes-2013] |
-| Suspicious, no prior, no neoplasm, clinical/lab pointing to **benign** cause | **CT or MRI in ~3 months** | [acr-spleen-nodes-2013] |
+| Suspicious, no prior, no neoplasm, no clinical/lab features suggesting a lymphoproliferative disorder | **CT or MRI in ~3 months** (with a known non-neoplastic condition: re-image after treatment) | [acr-spleen-nodes-2013] |
 | Underlying inflammatory/infectious disease (e.g. pancreatitis) | Follow-up after treatment; probably secondary | [acr-spleen-nodes-2013] |
 
 ## 4. Management
@@ -93,8 +93,9 @@ See section 3.
 
 ## 6. What the source does not say
 
-- It gives no station-by-station normal node sizes; those come from other sources (e.g.
-  Dorfman 1991, to be added in the reference-values entry).
+- It gives no station-by-station normal node sizes; it cites Dorfman 1991 and lists
+  the small-node stations without giving the values (see
+  `abdominal-lymph-node-size-ct-dorfman-1991`).
 
 ## 7. Disagreements and newer versions
 
@@ -110,3 +111,4 @@ See section 3.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §5 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: no changes needed | Claude |
+| 2026-11-12 | Pre-check fixes: ~3-month follow-up condition per text; Dorfman cross-reference | Claude |

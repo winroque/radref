@@ -13,7 +13,7 @@ verified_on: ""
 sources: [acr-vascular-2013]
 supersedes: []
 superseded_by: ""
-related: [doppler-br-2019]
+related: [doppler-br-2019-territories, aaa-surveillance-svs-esvs]
 last_reviewed: 2026-11-11
 ---
 
@@ -79,7 +79,8 @@ Adjust for comorbidity and growth. Asymptomatic penetrating aortic ulcer: **year
 
 - IVC anomalies (duplication, left IVC, azygos continuation, retroaortic/circumaortic left
   renal vein): no action; relevant for donors and procedures.
-- IVC pseudothrombus from mixing of contrast: the most common filling defect; delayed phase, US
+- IVC pseudothrombus: laminar flow of contrast-laden blood from the renal veins beside unenhanced
+  blood from the legs; the most common filling defect (mixing/reflux produce similar defects); delayed phase, US
   or MR angiography if indeterminate. Reflux into IVC/hepatic veins may occur with injection
   > 3 mL/s.
 - May-Thurner compression (~25% of the population): no follow-up unless unilateral oedema or
@@ -117,7 +118,7 @@ See section 3.
 ## 7. Disagreements and newer versions
 
 - AAA surveillance intervals differ in newer guidelines: SVS 2018, ESVS 2024 (sex-specific),
-  and the Brazilian DIC/SBC 2019 statement (`doppler-br-2019`). Entries for SVS/ESVS pending.
+  and the Brazilian DIC/SBC 2019 statement (`doppler-br-2019-territories`); see `aaa-surveillance-svs-esvs`.
 
 ## 8. How to cite
 
@@ -129,3 +130,4 @@ See section 3.
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §7 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text (Khosa 2013): added suprarenal normal diameter, Table 1 unit error, chronic thrombosis criteria and pelvic-vein figures | Claude |
+| 2026-11-12 | Pre-check fixes: related ids; IVC pseudothrombus mechanism; SVS/ESVS cross-reference | Claude |

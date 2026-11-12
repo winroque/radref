@@ -104,7 +104,7 @@ Present in 18–22% of first-trimester pregnancies with bleeding; risk of loss *
 large haematomas, especially > 2/3 of the chorionic circumference. "Chorionic bump": uncertain
 significance. [rodgers-early-pregnancy-2015]
 
-### PUL sub-groups (review, Fig. 19)
+### PUL sub-groups (review, Fig. 19; round/irregular split checked on the rendered figure)
 
 | US scenario | Hypotheses | Source |
 |---|---|---|
@@ -115,24 +115,23 @@ significance. [rodgers-early-pregnancy-2015]
 
 ## 4. Management
 
-- Suspicious findings → follow-up US. Interval follows from the time criteria: from **7 days**
-  a repeat scan is informative; to be **diagnostic** by time it must be **≥ 11 days** (yolk
-  sac present) or **≥ 14 days** (no yolk sac). The review does not set a single number.
-  [rodgers-early-pregnancy-2015]
+- Suspicious findings → follow-up US at **7–10 days** is generally appropriate.
+  [doubilet-nonviable-2013, Table 2 footnote] To be **diagnostic** by time, the interval must be
+  **≥ 11 days** (yolk sac present) or **≥ 14 days** (no yolk sac). [rodgers-early-pregnancy-2015]
 - Indeterminate intrauterine collection: repeat β-hCG and transvaginal US in **7–10 days**.
   [rodgers-early-pregnancy-2015]
 - Stable PUL: waiting, repeating β-hCG and US does less harm than presumptive ectopic
   treatment; no methotrexate if an IUP is possible. [rodgers-early-pregnancy-2015]
 
-### Recommended impression wording (review, Fig. 19, paraphrased)
+### Recommended impression wording (review, Fig. 19, checked on the rendered figure)
 
 | Situation | Wording | Source |
 |---|---|---|
-| Embryo with cardiac activity | Live intrauterine pregnancy | [rodgers-early-pregnancy-2015] |
-| Sac without yolk sac/embryo, or embryo ≤ 4 mm without heartbeat, no suspicious sign | Early intrauterine gestational sac, viability to be determined | [rodgers-early-pregnancy-2015] |
-| Any suspicious criterion or poor-prognosis sign | Findings suspicious but not diagnostic of pregnancy failure | [rodgers-early-pregnancy-2015] |
+| Embryo with cardiac activity | Viable IUP at __ age | [rodgers-early-pregnancy-2015] |
+| Sac without yolk sac/embryo, or embryo ≤ 4 mm without heartbeat, no suspicious sign | "IUP at __ age of unknown viability" → "Early intrauterine gestational sac at __ age" (probably normal: empty sac, sac with yolk sac but no embryo, or embryo ≤ 4 mm without cardiac activity) | [rodgers-early-pregnancy-2015] |
+| Any suspicious criterion or poor-prognosis sign | "IUP at __ age of unknown viability" → "IUP at __ age with findings suspicious for pregnancy failure" (the text prefers "IUP of unknown viability" also for suspicious findings) | [rodgers-early-pregnancy-2015] |
 | Positive test, no IUP or ectopic seen | Pregnancy of unknown location | [rodgers-early-pregnancy-2015] |
-| Diagnostic criterion met | Non-viable intrauterine pregnancy | [rodgers-early-pregnancy-2015] |
+| Diagnostic criterion met | Nonviable IUP at __ age | [rodgers-early-pregnancy-2015] |
 
 ## 5. Pitfalls
 
@@ -141,23 +140,29 @@ significance. [rodgers-early-pregnancy-2015]
   without embryo (4.4% false positives; 17–21 mm sacs later viable). [rodgers-early-pregnancy-2015]
 - "No embryo ≥ 6 weeks after LMP" is only suspicious: LMP is unreliable.
 - Spectral Doppler is discouraged in the first trimester when a normal IUP is possible.
-- Figure 19 says "embryo ≤ 4 mm" and the text "< 4 mm"; either way, a 4 mm embryo without
-  heartbeat is suspicious (CRL < 7 mm), never diagnostic.
-
-## 6. What the source does not say
-
 - β-hCG "discriminatory zone": reported between 1,000 and 2,000 mIU/mL but less reliable than
   thought; embryos with heartbeat have followed scans without a sac at β-hCG above
   2,000–3,000; multiple pregnancies have higher β-hCG. Empty uterus with high β-hCG (especially
   > 3,000) greatly raises ectopic likelihood but ~0.5% chance of viable IUP remains. **A single
   β-hCG does not distinguish the three PUL hypotheses.** [rodgers-early-pregnancy-2015]
-- The review does **not** list "pseudosac", "blighted ovum" or "anembryonic pregnancy" as terms
-  to avoid; avoiding them is an inference from its principles, not its text.
-- It does not detail ectopic signs; it notes a minority of ectopics have a small intrauterine
-  collection, and complex free fluid represents blood (differentials with a possible IUP:
-  ruptured haemorrhagic cyst, heterotopic pregnancy). [rodgers-early-pregnancy-2015]
+- A minority of ectopics have a small intrauterine collection; complex free fluid represents
+  blood (differentials with a possible IUP: ruptured haemorrhagic cyst, heterotopic pregnancy).
+  [rodgers-early-pregnancy-2015]
 - The impact of conservative criteria is small: ~12% of pregnancies formerly labelled
   non-viable become "suspicious" and need follow-up. [rodgers-early-pregnancy-2015]
+- Transabdominal US alone may suffice to diagnose failure when CRL ≥ 15 mm without cardiac
+  activity (Table 1 footnote); double-sac and intradecidual signs are absent in ≥ 35% of sacs;
+  interobserver CRL variation ±15% underlies the 7-mm cut-off. [doubilet-nonviable-2013]
+- Heart-rate lower limit: 120 bpm at 6.3–7.0 weeks in the text, 6.5–7.0 weeks in Table 1.
+  [rodgers-early-pregnancy-2015]
+- Figure 19 says "embryo ≤ 4 mm" and the text "< 4 mm"; either way, a 4 mm embryo without
+  heartbeat is suspicious (CRL < 7 mm), never diagnostic.
+
+## 6. What the source does not say
+
+- The review does **not** list "pseudosac", "blighted ovum" or "anembryonic pregnancy" as terms
+  to avoid; avoiding them is an inference from its principles, not its text.
+- It does not detail the US signs of ectopic pregnancy.
 
 ## 7. Disagreements and newer versions
 
@@ -174,3 +179,4 @@ significance. [rodgers-early-pregnancy-2015]
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `primeiro-trimestre.md` (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against both full texts, including the NEJM criteria table read directly: no changes; [verify] mark resolved | Claude |
+| 2026-11-12 | Pre-check fixes: 7–10-day follow-up (Doubilet Table 2 footnote); impression wording matched to Fig. 19 (rendered); round/irregular split confirmed; items wrongly in §6 moved to Pitfalls; TA US, double-sac, CRL variation, heart-rate table/text difference. NEJM PUL pages not re-read | Claude |

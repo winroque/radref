@@ -24,8 +24,12 @@ last_reviewed: 2026-11-11
 
 ## 1. Scope
 
-- **Original:** T2-weighted MRI at 1.5 T in Alzheimer's dementia and normal ageing.
-  [fazekas-1987] (Current practice uses T2/FLAIR.)
+- **Original:** T2-weighted spin-echo MRI at 1.5 T in 25 subjects: 12 with Alzheimer's disease,
+  4 with multi-infarct dementia and 9 controls. The scale is presented as a modification of
+  earlier rating scales. [fazekas-1987, Methods] (Current practice uses T2/FLAIR.)
+- Findings: a periventricular "halo" (PVH 2) in 50% of Alzheimer patients and no control
+  (p = .024); grade 3 (PVH or DWMH) only in hypertensive patients. [fazekas-1987, Table 2;
+  Discussion]
 
 ## 2. Definitions
 
@@ -54,12 +58,14 @@ Alzheimer patients and controls, unrelated to hypertension or other vascular ris
 ## 6. What the source does not say
 
 - It does not define a single combined Fazekas grade.
-- It does not attribute the lesions to small-vessel disease ("presumed vascular origin" is
-  later terminology, e.g. STRIVE).
+- It does not use the term "small-vessel disease" ("presumed vascular origin" is later
+  terminology, e.g. STRIVE). It does discuss local ischaemia as a possible cause, notes that all
+  grade 3 cases had hypertension, and says the small foci do not imply a vascular cause of the
+  dementia. [fazekas-1987, Discussion]
 
 ## 7. Disagreements and newer versions
 
-- STRIVE standards for small-vessel disease terminology — not yet added.
+- STRIVE standards for small-vessel disease terminology: `strive-2-2023`.
 
 ## 8. How to cite
 
@@ -71,3 +77,4 @@ Alzheimer patients and controls, unrelated to hypertension or other vascular ris
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `neurodegenerativo.md` (house template and rules removed) | Claude |
 | 2026-11-11 | Checked against the full text: both grading scales confirmed verbatim in meaning; [verify] mark resolved | Claude |
+| 2026-11-12 | Pre-check fixes: sample (incl. multi-infarct) and 'modification of earlier scales'; §6 rewritten on aetiology; halo and grade-3 findings; STRIVE cross-reference | Claude |

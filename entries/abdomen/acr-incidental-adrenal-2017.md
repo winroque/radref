@@ -63,14 +63,14 @@ last_reviewed: 2026-11-11
 | Cancer history | Recommendation | Source |
 |---|---|---|
 | No | **Surgical resection (without biopsy) is recommended** — possible adrenocortical carcinoma | [acr-adrenal-2017] |
-| Yes | Consider biopsy or PET-CT | [acr-adrenal-2017] |
+| Yes | Proceed to PET-CT or biopsy (text: "should proceed") | [acr-adrenal-2017, PET/CT section] |
 
 ### Indeterminate mass 1 to < 4 cm
 
 | Situation | Recommendation | Source |
 |---|---|---|
 | Prior imaging, stable ≥ 1 year | Benign, no follow-up | [acr-adrenal-2017] |
-| Prior imaging, new/enlarging, no cancer | Consider adrenal CT or resection (after biochemical evaluation) | [acr-adrenal-2017] |
+| Prior imaging, new/enlarging, no cancer | Biochemical evaluation and, depending on growth rate, resection without biopsy (text); the flowchart, an image, could not be checked for "consider adrenal CT" | [acr-adrenal-2017] |
 | Prior imaging, new/enlarging, cancer | Consider biopsy or PET-CT | [acr-adrenal-2017] |
 | No prior, no cancer, 1–2 cm | Probably benign; consider adrenal CT at **12 months** | [acr-adrenal-2017] |
 | No prior, no cancer, > 2 and < 4 cm | Adrenal-protocol CT now | [acr-adrenal-2017] |
@@ -100,7 +100,10 @@ last_reviewed: 2026-11-11
 ## 6. What the source does not say
 
 - It does not set a size above which a lipid-rich adenoma (≤ 10 HU) needs follow-up.
-- It does not specify which biochemical tests to order.
+- It does not mandate a test panel (detailed review is out of scope); it cites one
+  endocrinologist approach: dexamethasone suppression test and plasma metanephrines for all, 24-h
+  urine if equivocal, renin/aldosterone if hypertensive; plasma fractionated metanephrines
+  before biopsy if phaeochromocytoma is possible. [acr-adrenal-2017, Endocrine Evaluation]
 
 ## 7. Disagreements and newer versions
 
@@ -117,3 +120,4 @@ last_reviewed: 2026-11-11
 |---|---|---|
 | 2026-11-05 | Migrated from Digitado-IA `incidentais.md` §1 (house rules and report phrases removed) | Claude |
 | 2026-11-11 | Checked against the full text: content confirmed; >= 4 cm without cancer reworded to "resection recommended" as in the paper; [verify] mark resolved | Claude |
+| 2026-11-12 | Pre-check fixes: ≥ 4 cm with cancer 'should proceed'; new/enlarging no-cancer branch per text; biochemical approach the source cites | Claude |

@@ -45,14 +45,14 @@ last_reviewed: 2026-11-11
 
 ### Accuracy and redating thresholds (ACOG/AIUM/SMFM, Table 1)
 
-| GA by LMP | Method | Accuracy of US | Change the due date if US–LMP discrepancy is | Source |
+| GA by LMP | Method | Accuracy of US (text) | Change the due date if US–LMP discrepancy is (Table 1) | Source |
 |---|---|---|---|---|
-| ≤ 8 + 6 wk | CRL | ±5–7 days (whole first trimester) | **> 5 days** | [acog-co700-2017, Table 1] |
-| 9 + 0 to 13 + 6 wk | CRL | ±5–7 days | **> 7 days** | [acog-co700-2017, Table 1] |
-| 14 + 0 to 15 + 6 wk | BPD, HC, AC, FL | ±7–10 days (14–21 wk) | **> 7 days** | [acog-co700-2017, Table 1] |
-| 16 + 0 to 21 + 6 wk | BPD, HC, AC, FL | ±7–10 days | **> 10 days** | [acog-co700-2017, Table 1] |
-| 22 + 0 to 27 + 6 wk | BPD, HC, AC, FL | ±10–14 days | **> 14 days** | [acog-co700-2017, Table 1] |
-| ≥ 28 + 0 wk | BPD, HC, AC, FL | ±21–30 days | **> 21 days** (only if it is the first scan; risk of redating a growth-restricted fetus) | [acog-co700-2017, Table 1] |
+| ≤ 8 + 6 wk | CRL | ±5–7 days (whole first trimester) | **> 5 days** | [acog-co700-2017, Table 1; text pp. e151–e152] |
+| 9 + 0 to 13 + 6 wk | CRL | ±5–7 days | **> 7 days** | [acog-co700-2017, Table 1; text pp. e151–e152] |
+| 14 + 0 to 15 + 6 wk | BPD, HC, AC, FL | ±7–10 days (14–21 wk) | **> 7 days** | [acog-co700-2017, Table 1; text pp. e151–e152] |
+| 16 + 0 to 21 + 6 wk | BPD, HC, AC, FL | ±7–10 days | **> 10 days** | [acog-co700-2017, Table 1; text pp. e151–e152] |
+| 22 + 0 to 27 + 6 wk | BPD, HC, AC, FL | ±10–14 days | **> 14 days** | [acog-co700-2017, Table 1; text pp. e151–e152] |
+| ≥ 28 + 0 wk | BPD, HC, AC, FL | ±21–30 days | **> 21 days** (only if it is the first scan; risk of redating a growth-restricted fetus) | [acog-co700-2017, Table 1; text pp. e151–e152] |
 
 Smaller discrepancies may justify redating depending on how early the scan was and how
 reliable the LMP is. [acog-co700-2017]
@@ -85,6 +85,13 @@ reliable the LMP is. [acog-co700-2017]
 ## 5. Pitfalls
 
 - Redating a small fetus in the third trimester (may hide growth restriction).
+- Hadlock 1984: over- or underestimates age in symmetrically large or small fetuses; exclude BPD
+  if the cephalic index is < 70 or > 86; FL/BPD 79 ± 8 and FL/AC 22 ± 2 flag a disproportionate
+  parameter; with all four parameters SD 1.02 weeks and maximum error 3.2 weeks (BPD alone 1.36
+  and 5.1). [hadlock-ga-1984]
+- ACOG: if LMP is uncertain, date by the earliest CRL; GA at delivery = "best obstetric estimate"
+  for certificates and research; in the second trimester, smaller discrepancies (10–14 days) may
+  justify redating. [acog-co700-2017]
 - "Normalizing" a small CRL by changing dates when the fetus has structural anomalies (CRL is
   reduced in trisomy 18 and triploidy). [isuog-11-14-2023]
 - Using a calculated GA instead of the CRL itself as the reference for NT, uterine-artery PI
@@ -96,8 +103,8 @@ reliable the LMP is. [acog-co700-2017]
 - Robinson & Fleming do not print the unit of t next to the equation; the values match days
   (CRL 45 mm → about 78 days). They also warn that their Table I must be re-corrected for the
   systematic errors of each machine. [robinson-crl-1975]
-- The Hadlock 1984 regression coefficients are not reproduced here (table not legible in the
-  available scan).
+- The Hadlock 1984 regression coefficients are not reproduced here (editorial choice; Tables
+  I–III are legible in the PDF).
 
 ## 7. Disagreements and newer versions
 
@@ -115,3 +122,4 @@ reliable the LMP is. [acog-co700-2017]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-11 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check fixes: accuracy column cited to the text; Hadlock tables are legible (editorial omission only); Hadlock pitfalls and ACOG items. Reference record: institutional authorship added | Claude |

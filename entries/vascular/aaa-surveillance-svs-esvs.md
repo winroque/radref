@@ -63,15 +63,15 @@ last_reviewed: 2026-11-12
 | 5.0–5.4 cm | Every 6 months | Every 6 months | Every 6 months |
 
 Sources: [svs-aaa-2018] (all weak recommendations, low-quality evidence); [esvs-aaa-2024]
-(Class IIa; intervals adjusted for life expectancy, fitness for repair and patient preference).
+(Rec. 13 men: IIa B; Rec. 14 women: IIa C; intervals adjusted for life expectancy, fitness for repair and patient preference).
 
 ### Repair thresholds (for context)
 
 | Population | SVS 2018 | ESVS 2024 | Source |
 |---|---|---|---|
-| Men, asymptomatic fusiform | Elective repair ≥ 5.5 cm (1A) | Not recommended < 55 mm; consider ≥ 55 mm (IIa C) | [svs-aaa-2018; esvs-aaa-2024] |
-| Women | Suggest repair at 5.0–5.4 cm (2B) | Not recommended < 50 mm; threshold to consider 50 mm | [svs-aaa-2018; esvs-aaa-2024] |
-| Saccular, symptomatic | Suggest repair of saccular AAA; repair if pain attributable to AAA | — | [svs-aaa-2018] |
+| Men, asymptomatic fusiform | Elective repair ≥ 5.5 cm (1A) | Not recommended < 55 mm (Rec. 20, III A); consider ≥ 55 mm (Rec. 22, IIa C) | [svs-aaa-2018; esvs-aaa-2024] |
+| Women | Suggest repair at 5.0–5.4 cm (2B) | Not recommended < 50 mm (Rec. 21, III C); may be considered ≥ 50 mm (Rec. 23, IIb C) | [svs-aaa-2018; esvs-aaa-2024] |
+| Saccular, symptomatic | Suggest repair of saccular AAA; repair if pain attributable to AAA | Early repair may be considered for saccular AAA (and penetrating ulcer) at a smaller diameter than fusiform (Rec. 150, IIb C); symptomatic AAA has its own chapter (ch. 6) | [svs-aaa-2018; esvs-aaa-2024] |
 
 ESVS 2024 states the diameter threshold for considering repair should preferably be based on the
 US measurement. [esvs-aaa-2024]
@@ -89,7 +89,10 @@ US measurement. [esvs-aaa-2024]
 
 - Mixing caliper methods between exams (a 3–6-mm swing can cross a threshold).
 - Measuring an oblique axial section of a tortuous aorta (overestimates the diameter).
-- Comparing a CT diameter with an earlier US diameter without saying so.
+- Comparing a CT diameter with an earlier US diameter without saying so: AP diameter on CTA is on
+  average 4.2 mm larger than on US, and up to 70% of AAA measuring 50–55 mm on US exceed 55 mm
+  on CT; acceptable US repeatability is ±5 mm; interobserver reproducibility on CT is poor.
+  [esvs-aaa-2024]
 
 ## 6. What the source does not say
 
@@ -111,3 +114,4 @@ US measurement. [esvs-aaa-2024]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-12 | Created from the full texts | Claude |
+| 2026-11-12 | Pre-check fixes: ESVS classes and levels (Rec. 13/14, 20–23, 150); saccular row; CT vs US measurement differences | Claude |
