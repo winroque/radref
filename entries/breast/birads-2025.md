@@ -43,7 +43,7 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | Shape | **"Lobulated"** reintroduced as a shape descriptor across modalities, replacing "lobular" | [minichetti-birads-2026, Table 1] |
 | Margin | **"Microlobulated" removed from mammography, MRI and CEM** (replaced by "indistinct"); it **remains in the US lexicon** (US non-circumscribed margins: indistinct, microlobulated, angular, spiculated) | [minichetti-birads-2026; schijf-birads-us-2026] |
 | DBT | A mass may be defined on a **single DBT projection**; when margins are obscured on DM but circumscribed on DBT, classify by the DBT appearance | [minichetti-birads-2026, Table 2] |
-| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk; the text says "may", Table 2 says "should"). No formal guideline yet defines BAC grading or follow-up; reporting is inconsistent (41–62% of radiologists report it routinely; 96% of surveyed women want it disclosed) [ndirangu-bac-2026] | [minichetti-birads-2026, Table 2] |
+| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications **should** be reported (cardiovascular risk) — manual wording checked by the radiologist on 2026-11-12 [acr-birads-2025]; Minichetti's text says "may" and its Table 2 "should". No formal guideline yet defines BAC grading or follow-up; reporting is inconsistent (41–62% of radiologists report it routinely; 96% of surveyed women want it disclosed) [ndirangu-bac-2026] | [minichetti-birads-2026, Table 2] |
 | MG asymmetry | Descriptor **"developing asymmetry" removed**; interval change still matters | [minichetti-birads-2026, Table 2] |
 | Dilated ducts | New term "multiple dilated ducts" (typically benign); a true **solitary dilated duct** (tubular/branching structure > 5 mm from the nipple) in an asymptomatic patient without associated suspicious findings may now be category 2 (Minichetti); the ACR and Schijf say only that it "can be considered benign" when there are no associated clinical or imaging findings; the ACR adds that a solitary dilated duct on a baseline exam, in a symptomatic woman or with other suspicious features should prompt additional evaluation and possible tissue diagnosis [acr-birads-2025-whats-new] (previously usually 4A) | [minichetti-birads-2026, Table 2] |
 | US composition | "Complex cystic and solid" replaced by **"mixed solid and cystic"**; the solid component determines assessment | [minichetti-birads-2026, Table 2] |
@@ -61,7 +61,7 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 
 | Category | Meaning | Source |
 |---|---|---|
-| 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; not to be used when a finding is already suspicious (assign 4 or 5) | [minichetti-birads-2026] |
+| 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; at **screening**, category 0 also applies to a suspicious finding that needs diagnostic workup (manual checked by the radiologist on 2026-11-12) | [acr-birads-2025; minichetti-birads-2026; schijf-birads-mg-2026] |
 | 1 | Negative (no findings); likelihood of malignancy ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
 | 2 | Benign; ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
 | 3 | Probably benign (likelihood of malignancy > 0 to ≤ 2%) | [acr-birads-2025; unicamp-birads-us-2025] |
@@ -113,8 +113,9 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 - **Category 0 with a suspicious finding:** Minichetti 2026 says category 0 should not be used
   when a finding is already suspicious (assign 4 or 5 without delay); Schijf 2026 (mammography)
   describes category 0 in screening as used for any abnormality "even if suspicious" that needs
-  diagnostic workup. The two likely refer to diagnostic vs screening settings; the manual's
-  wording was not checked. [minichetti-birads-2026; schijf-birads-mg-2026]
+  diagnostic workup. The manual agrees with Schijf: category 0 applies to suspicious findings
+  (checked by the radiologist on 2026-11-12). Minichetti's statement is best read as applying
+  to the diagnostic setting. [acr-birads-2025; minichetti-birads-2026; schijf-birads-mg-2026]
 
 - v2025 supersedes the 5th edition (2013). Other reviews of the v2025 changes exist
   (e.g. Song 2026, Ultrasonography; Arenas Rivera 2026, Radiología) — not yet added.
@@ -135,3 +136,4 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | 2026-11-12 | US nonmass lesion: reported malignancy range (10–54%) and strongest predictors from the Minichetti text | Claude |
 | 2026-11-12 | Radiology Assistant (Schijf & Smithuis 2026, mammography and US) added: categories 1/2/5 and management corroborated; category 3 follow-up 6/12/24 months; GTC percentage grades; US margin list (microlobulated kept); solitary duct wording; nonmass PPV > 2%; category 0 disagreement recorded | Claude |
 | 2026-11-12 | UNICAMP Dr. Pixel BI-RADS US 2025 added: likelihood ranges 1–5 (incl. 3 ≤ 2%, 4A/4B/4C, 5 ≥ 95%) and category 3 follow-up; Ndirangu 2026 (BAC review) added for vascular calcification context | Claude |
+| 2026-11-12 | Radiologist checked the v2025 manual: vascular calcifications 'should' be reported; category 0 applies to suspicious findings (at screening). Entry updated accordingly | Claude |
