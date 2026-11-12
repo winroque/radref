@@ -1131,6 +1131,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "ndirangu-bac-2026",
+  "doi": "10.1038/s44325-026-00135-4",
+  "first_author": "Ndirangu",
+  "title_crossref": "Review of breast arterial calcifications for cardiovascular disease risk prediction",
+  "journal": "npj Cardiovasc Health",
+  "year": 2026,
+  "volume": "3",
+  "issue": "1",
+  "pages": "33",
+  "vancouver": "Ndirangu B, Gichoya J, Dapamede T, Li F, Chavoshi M, Brown-Mulry B, et al. Review of breast arterial calcifications for cardiovascular disease risk prediction. npj Cardiovasc Health. 2026;3(1):33. doi:10.1038/s44325-026-00135-4",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-12",
+  "license_note": "CC BY-NC-ND 4.0",
+  "notes": "Read in full by Claude on 2026-11-12 (PDF provided by the radiologist). Narrative review; does not mention BI-RADS v2025."
+ },
+ {
   "id": "nguyen-utd-2014",
   "doi": "10.1016/j.jpurol.2014.10.002",
   "first_author": "Nguyen",
@@ -1630,6 +1646,23 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "unicamp-birads-us-2025",
+  "doi": "",
+  "url": "https://drpixel.fcm.unicamp.br/apps/birads-us",
+  "first_author": "Dr. Pixel FCM UNICAMP",
+  "title_crossref": "",
+  "journal": "",
+  "year": 2025,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "vancouver": "Dr. Pixel – Faculdade de Ciências Médicas, UNICAMP. BI-RADS US® (2025) – descrição e classificação de achados mamários [Internet]. Version 1.0.4. Campinas: UNICAMP; [cited 2026 Nov 12]. Available from: https://drpixel.fcm.unicamp.br/apps/birads-us",
+  "vancouver_reviewed": true,
+  "crossref_checked": "",
+  "license_note": "Web educational tool; summarize only.",
+  "notes": "Teaching app based on 'BI-RADS US (ACR, edição 2025)'; no publication date; read by Claude via the page text on 2026-11-12."
  },
  {
   "id": "who-fetal-growth-2017",

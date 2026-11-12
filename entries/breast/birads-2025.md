@@ -10,7 +10,7 @@ status: draft
 verified_against: "full-text PDF of Minichetti 2026 (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; ACR What's New (Nov 2025) read in full on 2026-11-12; the v2025 manual body was not read (its eBook terms forbid AI analysis) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [acr-birads-2025, acr-birads-2025-whats-new, minichetti-birads-2026, schijf-birads-mg-2026, schijf-birads-us-2026]
+sources: [acr-birads-2025, acr-birads-2025-whats-new, minichetti-birads-2026, schijf-birads-mg-2026, schijf-birads-us-2026, unicamp-birads-us-2025, ndirangu-bac-2026]
 supersedes: []
 superseded_by: ""
 related: []
@@ -43,7 +43,7 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | Shape | **"Lobulated"** reintroduced as a shape descriptor across modalities, replacing "lobular" | [minichetti-birads-2026, Table 1] |
 | Margin | **"Microlobulated" removed from mammography, MRI and CEM** (replaced by "indistinct"); it **remains in the US lexicon** (US non-circumscribed margins: indistinct, microlobulated, angular, spiculated) | [minichetti-birads-2026; schijf-birads-us-2026] |
 | DBT | A mass may be defined on a **single DBT projection**; when margins are obscured on DM but circumscribed on DBT, classify by the DBT appearance | [minichetti-birads-2026, Table 2] |
-| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk; the text says "may", Table 2 says "should") | [minichetti-birads-2026, Table 2] |
+| MG calcifications (typically benign) | "Popcorn-like" and "dystrophic" merged into **"coarse"**; "punctate" replaced by **"round"**; "milk of calcium" replaced by **"layering"**; vascular calcifications may be reported (cardiovascular risk; the text says "may", Table 2 says "should"). No formal guideline yet defines BAC grading or follow-up; reporting is inconsistent (41–62% of radiologists report it routinely; 96% of surveyed women want it disclosed) [ndirangu-bac-2026] | [minichetti-birads-2026, Table 2] |
 | MG asymmetry | Descriptor **"developing asymmetry" removed**; interval change still matters | [minichetti-birads-2026, Table 2] |
 | Dilated ducts | New term "multiple dilated ducts" (typically benign); a true **solitary dilated duct** (tubular/branching structure > 5 mm from the nipple) in an asymptomatic patient without associated suspicious findings may now be category 2 (Minichetti); the ACR and Schijf say only that it "can be considered benign" when there are no associated clinical or imaging findings; the ACR adds that a solitary dilated duct on a baseline exam, in a symptomatic woman or with other suspicious features should prompt additional evaluation and possible tissue diagnosis [acr-birads-2025-whats-new] (previously usually 4A) | [minichetti-birads-2026, Table 2] |
 | US composition | "Complex cystic and solid" replaced by **"mixed solid and cystic"**; the solid component determines assessment | [minichetti-birads-2026, Table 2] |
@@ -62,17 +62,16 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | Category | Meaning | Source |
 |---|---|---|
 | 0 | Incomplete — two scenarios distinguished: **need for additional imaging evaluation** and **need for comparison with prior examinations**; not to be used when a finding is already suspicious (assign 4 or 5) | [minichetti-birads-2026] |
-| 1 | Negative (no findings) | [acr-birads-2025; schijf-birads-mg-2026] |
-| 2 | Benign | [acr-birads-2025; schijf-birads-mg-2026] |
-| 3 | Probably benign (likelihood of malignancy ≤ 2%) | [acr-birads-2025] |
-| 4 | Suspicious; subdivided 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
-| 5 | Highly suggestive of malignancy ("no single mammographic feature confers a > 95% likelihood of malignancy") | [acr-birads-2025; schijf-birads-mg-2026] |
+| 1 | Negative (no findings); likelihood of malignancy ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
+| 2 | Benign; ~0% | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
+| 3 | Probably benign (likelihood of malignancy > 0 to ≤ 2%) | [acr-birads-2025; unicamp-birads-us-2025] |
+| 4 | Suspicious: 4A > 2 to ≤ 10%, 4B > 10 to ≤ 50%, 4C > 50 to < 95% [unicamp-birads-us-2025]; subdivision 4A/4B/4C — **newly introduced for MRI** in v2025 (reported MRI PPVs: 4A 2.5–14.2%, 4B 21.4–41.2%, 4C 77.2–83.3%) | [minichetti-birads-2026] |
+| 5 | Highly suggestive of malignancy, ≥ 95% ("no single mammographic feature confers a > 95% likelihood of malignancy") | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
 | 6 | Known biopsy-proven malignancy | [acr-birads-2025; acr-birads-2025-whats-new] |
 
-> Categories 1, 2 and 5 and the management of 1–5 are corroborated by Schijf & Smithuis 2026
-> (secondary summaries of the manual). The **≤ 2%** threshold of category 3 and the 4A/4B/4C/5
-> likelihood ranges were not found in any open source read so far (the US page shows them only
-> as images) and were not checked against the manual itself (its eBook terms forbid AI
+> Category definitions, likelihood ranges and management are corroborated by open secondary
+> summaries of the v2025 manual (Schijf & Smithuis 2026; UNICAMP Dr. Pixel, based on the ACR
+> 2025 edition). They were not checked against the manual itself (its eBook terms forbid AI
 > analysis).
 
 ## 4. Management
@@ -81,7 +80,7 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 |---|---|---|
 | 0 | Additional imaging, or comparison with prior images (state which; wording follows the 2024 FDA MQSA amendments: "Need Additional Imaging Evaluation" / "Need Prior Imaging for Comparison") | [acr-birads-2025-whats-new] |
 | 1–2 | Continue or resume screening at the appropriate interval | [acr-birads-2025; schijf-birads-mg-2026] |
-| 3 | Short-interval follow-up; imaging at 6, 12 and 24 months "may be appropriate" | [acr-birads-2025; schijf-birads-mg-2026] |
+| 3 | Short-interval follow-up; imaging at 6, 12 and 24 months "may be appropriate" [schijf-birads-mg-2026]; UNICAMP phrases it as 6-month follow-up while stability is < 12 months, then annual [unicamp-birads-us-2025] | [acr-birads-2025; schijf-birads-mg-2026; unicamp-birads-us-2025] |
 | 4–5 | Biopsy, stating the recommended method (stereotactic, US- or MR-guided) | [acr-birads-2025; schijf-birads-mg-2026] |
 | 6 | Management wording changed from "surgical excision when clinically appropriate" to "clinical follow-up with surgeon and/or oncologist, and definitive local therapy (usually surgery) when clinically appropriate", recognizing non-surgical definitive therapies [acr-birads-2025-whats-new]. Biopsy-proven malignancy before definitive local therapy (usually surgery), including during neoadjuvant treatment monitoring even with complete imaging response; timing and type of treatment decided by the multidisciplinary team | [minichetti-birads-2026] |
 
@@ -135,3 +134,4 @@ Selected changes in v2025, as summarized by Minichetti 2026.
 | 2026-11-12 | ACR What's New (Nov 2025) added as a source and read in full: Atlas→Manual and year-based versioning confirmed; category 0 FDA wording; category 6 management wording and ACFs; solitary dilated duct caveat; audit changes. Manual citation updated to the ACR-recommended form (editors). Manual body not read: eBook terms forbid AI analysis | Claude |
 | 2026-11-12 | US nonmass lesion: reported malignancy range (10–54%) and strongest predictors from the Minichetti text | Claude |
 | 2026-11-12 | Radiology Assistant (Schijf & Smithuis 2026, mammography and US) added: categories 1/2/5 and management corroborated; category 3 follow-up 6/12/24 months; GTC percentage grades; US margin list (microlobulated kept); solitary duct wording; nonmass PPV > 2%; category 0 disagreement recorded | Claude |
+| 2026-11-12 | UNICAMP Dr. Pixel BI-RADS US 2025 added: likelihood ranges 1–5 (incl. 3 ≤ 2%, 4A/4B/4C, 5 ≥ 95%) and category 3 follow-up; Ndirangu 2026 (BAC review) added for vascular calcification context | Claude |

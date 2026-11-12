@@ -335,7 +335,9 @@
     "acr-birads-2025-whats-new",
     "minichetti-birads-2026",
     "schijf-birads-mg-2026",
-    "schijf-birads-us-2026"
+    "schijf-birads-us-2026",
+    "unicamp-birads-us-2025",
+    "ndirangu-bac-2026"
    ],
    "superseded_by": "",
    "path": "entries/breast/birads-2025.md",
@@ -1192,7 +1194,7 @@
  "counts": {
   "entries": 62,
   "verified": 0,
-  "references": 103,
-  "references_reviewed": 99
+  "references": 105,
+  "references_reviewed": 101
  }
 }
