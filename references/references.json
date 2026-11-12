@@ -1,5 +1,21 @@
 [
  {
+  "id": "aasld-hcc-2023",
+  "doi": "10.1097/hep.0000000000000466",
+  "first_author": "Singal",
+  "title_crossref": "AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma",
+  "journal": "Hepatology",
+  "year": 2023,
+  "volume": "78",
+  "issue": "6",
+  "pages": "1922-1965",
+  "vancouver": "Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, et al. AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma. Hepatology. 2023;78(6):1922-65. doi:10.1097/HEP.0000000000000466",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-12",
+  "license_note": "",
+  "notes": "Read from the PMC author manuscript (nihms-1931411); check page numbers against the published version."
+ },
+ {
   "id": "aast-ois-2018",
   "doi": "10.1097/ta.0000000000002058",
   "first_author": "Kozar",
@@ -1403,6 +1419,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "sogc-endometrium-451-2024",
+  "doi": "10.1016/j.jogc.2024.102591",
+  "first_author": "Wolfman",
+  "title_crossref": "Guideline No. 451: Asymptomatic Endometrial Thickening in Postmenopausal Women",
+  "journal": "Journal of Obstetrics and Gynaecology Canada",
+  "year": 2024,
+  "volume": "46",
+  "issue": "7",
+  "pages": "102591",
+  "vancouver": "Wolfman W, Bougie O, Chen I, Tang Y, Goldstein S, Bouteaud J. Guideline No. 451: asymptomatic endometrial thickening in postmenopausal women. J Obstet Gynaecol Can. 2024;46(7):102591. doi:10.1016/j.jogc.2024.102591",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-12",
+  "license_note": "",
+  "notes": ""
  },
  {
   "id": "sru-gallbladder-polyps-2022",

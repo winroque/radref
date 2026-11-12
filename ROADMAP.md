@@ -71,8 +71,8 @@ Doll 2021/2024), `pelvis-obstetrics/sru-simple-adnexal-cysts-2019`,
 `thyroid-neck/thyroid-volume-adult` (Ittermann 2025 + Shabana 2006),
 `thyroid-neck/cervical-lymph-nodes-thyroid-cancer-us` (ETA 2013 + ATA 2015 node sections),
 `msk-spine/lumbar-disc-nomenclature-2-2014`.
-Still missing: SOGC 451 (10.1016/j.jogc.2024.102591), Singal 2023 AASLD
-(10.1097/HEP.0000000000000466), ESUR microlithiasis 2015 PDF, Graf (DOI to be traced).
+Added the same night: SOGC 451 (in the endometrium entry) and `abdomen/hcc-surveillance-diagnosis-aasld-2023`.
+Still missing: ESUR microlithiasis 2015 PDF, Graf (DOI to be traced).
 Received but not written up: Timmerman 2021 ESGO/ISUOG/IOTA/ESGE (in Mendeley).
 Low priority (not used by Digitado-IA): EASL 2018, Baveno VII, Childs 2014, Marshall 1991,
 Maas 2005, Node-RADS 2021.

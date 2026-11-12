@@ -5,12 +5,12 @@ type: guideline
 area: pelvis-obstetrics
 modalities: [US]
 population: adults
-source_version: "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; Chee 2025 meta-analysis; Doll 2021/2024"
+source_version: "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; SOGC 451 (2024); Chee 2025 meta-analysis; Doll 2021/2024"
 status: draft
-verified_against: "full texts read by Claude: ACOG CO 734 (2026-11-11 — recommendations, Tables 1–2, technique, women without bleeding); on 2026-11-12 SRU 2001 (J Ultrasound Med 2001;20:1025–36, whole text), Smith-Bindman 2004 (Ultrasound Obstet Gynecol 2004;24:558–65, whole text including Table 2), Chee 2025 (abstract and results), Doll 2021 and Doll 2024 (abstracts and key results) — SOGC 451 (2024) not yet obtained — awaiting radiologist sign-off"
+verified_against: "full texts read by Claude: ACOG CO 734 (2026-11-11 — recommendations, Tables 1–2, technique, women without bleeding); on 2026-11-12 SRU 2001 (J Ultrasound Med 2001;20:1025–36, whole text), Smith-Bindman 2004 (Ultrasound Obstet Gynecol 2004;24:558–65, whole text including Table 2), Chee 2025 (abstract and results), Doll 2021 and Doll 2024 (abstracts and key results), SOGC 451 (J Obstet Gynaecol Can 2024;46(7):102591 — key messages, summary statements, recommendations 1–10, evidence section) — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
-sources: [acog-co734-2018, sru-postmenopausal-bleeding-2001, smith-bindman-endometrium-2004, chee-endometrium-2025, doll-tvus-simulated-2021, doll-tvus-black-2024]
+sources: [acog-co734-2018, sru-postmenopausal-bleeding-2001, smith-bindman-endometrium-2004, sogc-endometrium-451-2024, chee-endometrium-2025, doll-tvus-simulated-2021, doll-tvus-black-2024]
 supersedes: []
 superseded_by: ""
 related: [orads-us-2022, sru-simple-adnexal-cysts-2019]
@@ -61,12 +61,17 @@ last_reviewed: 2026-11-12
 | An 8-mm threshold would biopsy ≈ 0.9% of normal women for a 2.1% cancer risk | [smith-bindman-endometrium-2004] |
 | > 4 mm without bleeding need not routinely trigger evaluation; individualize by risk factors; TVUS is not a screening test | [acog-co734-2018] |
 | The bleeding threshold does not apply to asymptomatic women; no normal maximum established (2001) | [sru-postmenopausal-bleeding-2001] |
+| No bleeding, no risk factors, global thickening < 11 mm → no invasive investigation (strong, moderate); > 11 mm and/or increased vascularity, inhomogeneity or particulate fluid → sampling or gynaecology referral (strong, moderate); with risk factors (obesity, hypertension, late menopause, unopposed oestrogen, genetic risk) → individualize | [sogc-endometrium-451-2024] |
+| Asymptomatic thickening > 5 mm occurs in 3–15% of postmenopausal women; cancer incidence below 11 mm ≈ 1% (SOGC summary statement, high); meta-analysis cited: cancer or atypical hyperplasia 6.5% above vs 1.7% below 11 mm | [sogc-endometrium-451-2024] |
 
 ## 4. Management
 
 - Bleeding: TVUS or office biopsy are both acceptable first steps; higher clinical risk → biopsy
   first. Thin echo after a non-diagnostic biopsy, with bleeding stopped → no further sampling.
   [acog-co734-2018; sru-postmenopausal-bleeding-2001]
+- SOGC: no screening US for asymptomatic women on continuous combined hormone therapy or on
+  tamoxifen; new bleeding while amenorrhoeic on hormone therapy → investigate.
+  [sogc-endometrium-451-2024]
 - Hormone therapy: sequential regimens → scan 4–5 days after the withdrawal bleed; continuous
   regimens → any time. Sensitivity unchanged, more false positives. Tamoxifen with bleeding →
   same 5-mm approach; no routine screening of asymptomatic tamoxifen users.
@@ -88,19 +93,21 @@ last_reviewed: 2026-11-12
 - Smith-Bindman's 11-mm threshold comes from a decision model, not from a cohort with outcomes;
   it excludes hormone users and does not account for individual risk factors.
   [smith-bindman-endometrium-2004]
-- SOGC 451 (2024), cited by Digitado-IA for the 11-mm rule, has not been read yet.
+- SOGC uses "< 11 mm" and "> 11 mm", leaving exactly 11 mm unassigned (Smith-Bindman: ≤ 11 normal).
+  [sogc-endometrium-451-2024; smith-bindman-endometrium-2004]
 
 ## 7. Disagreements and newer versions
 
 - 4 mm (ACOG 2018; Chee 2025) vs 5 mm (SRU 2001) for the bleeding cut-off.
 - SRU 2001 is internally inconsistent at exactly 5 mm: the body calls > 5 mm abnormal, the
   conclusions call < 5 mm negative. [sru-postmenopausal-bleeding-2001]
-- Smith-Bindman (11 mm) vs ACOG (no routine trigger) for incidental thickening.
+- Smith-Bindman and SOGC (11 mm) vs ACOG (no routine trigger) for incidental thickening.
+- Risk below 11 mm: ≈ 0.002% in Smith-Bindman's model vs ≈ 1% in SOGC's summary statement.
 
 ## 8. How to cite
 
 - With bleeding: `acog-co734-2018` (± `chee-endometrium-2025`); technique: `sru-postmenopausal-bleeding-2001`
-- Without bleeding: `smith-bindman-endometrium-2004`
+- Without bleeding: `sogc-endometrium-451-2024` (guideline) and `smith-bindman-endometrium-2004` (model)
 - Population caveat: `doll-tvus-black-2024`
 
 ## 9. Change log
@@ -109,3 +116,4 @@ last_reviewed: 2026-11-12
 |---|---|---|
 | 2026-11-12 | Created from ACOG CO 734 | Claude |
 | 2026-11-12 | Added SRU 2001, Smith-Bindman 2004, Chee 2025 and Doll 2021/2024 from the full texts | Claude |
+| 2026-11-12 | Added SOGC 451 (2024) from the full text | Claude |

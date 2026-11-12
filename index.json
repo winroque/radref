@@ -188,6 +188,26 @@
    "last_reviewed": "2026-11-12"
   },
   {
+   "id": "hcc-surveillance-diagnosis-aasld-2023",
+   "title": "Hepatocellular carcinoma — AASLD 2023 imaging statements (who to survey, US + AFP every 6 months, ≥ 1 cm lesion → multiphase CT/MRI, LR-3/LR-4 follow-up)",
+   "type": "guideline",
+   "area": "abdomen",
+   "modalities": [
+    "US",
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "AASLD Practice Guidance 2023",
+   "status": "draft",
+   "sources": [
+    "aasld-hcc-2023"
+   ],
+   "superseded_by": "",
+   "path": "entries/abdomen/hcc-surveillance-diagnosis-aasld-2023.md",
+   "last_reviewed": "2026-11-12"
+  },
+  {
    "id": "lirads-ctmr-2018",
    "title": "CT/MRI LI-RADS version 2018 — diagnostic algorithm for liver observations in patients at risk of HCC",
    "type": "classification",
@@ -716,12 +736,13 @@
     "US"
    ],
    "population": "adults",
-   "source_version": "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; Chee 2025 meta-analysis; Doll 2021/2024",
+   "source_version": "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; SOGC 451 (2024); Chee 2025 meta-analysis; Doll 2021/2024",
    "status": "draft",
    "sources": [
     "acog-co734-2018",
     "sru-postmenopausal-bleeding-2001",
     "smith-bindman-endometrium-2004",
+    "sogc-endometrium-451-2024",
     "chee-endometrium-2025",
     "doll-tvus-simulated-2021",
     "doll-tvus-black-2024"
@@ -1166,9 +1187,9 @@
   }
  ],
  "counts": {
-  "entries": 61,
+  "entries": 62,
   "verified": 0,
-  "references": 98,
-  "references_reviewed": 93
+  "references": 100,
+  "references_reviewed": 95
  }
 }
