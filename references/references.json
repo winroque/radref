@@ -389,6 +389,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "chapman-posterior-fossa-mri-2018",
+  "doi": "10.1002/pd.5367",
+  "first_author": "Chapman",
+  "title_crossref": "Establishment of normative values for the fetal posterior fossa by magnetic resonance imaging",
+  "journal": "Prenat Diagn",
+  "year": 2018,
+  "volume": "38",
+  "issue": "13",
+  "pages": "1035-1041",
+  "vancouver": "Chapman T, Menashe SJ, Zare M, Alessio AM, Ishak GE. Establishment of normative values for the fetal posterior fossa by magnetic resonance imaging. Prenat Diagn. 2018;38(13):1035-41. doi:10.1002/pd.5367",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-13",
+  "license_note": "Wiley — all rights reserved; summarize only.",
+  "notes": "Metadata and abstract read on PubMed (PMID 30280395) on 2026-11-13; full text and first page not seen. Hiremath 2026 cites it for TVA upper limits of 12° (< 24 wGA) and 8° (> 24 wGA); the abstract gives only 2.5° ± 2.3°, independent of GA."
+ },
+ {
   "id": "chee-endometrium-2025",
   "doi": "10.1016/j.jacr.2024.11.008",
   "first_author": "Chee",
@@ -419,6 +435,22 @@
   "crossref_checked": "2026-11-12",
   "license_note": "",
   "notes": ""
+ },
+ {
+  "id": "contro-open-fourth-ventricle-2014",
+  "doi": "10.1002/uog.13227",
+  "first_author": "Contro",
+  "title_crossref": "Open fourth ventricle prior to 20 weeks' gestation: a benign finding?",
+  "journal": "Ultrasound Obstet Gynecol",
+  "year": 2014,
+  "volume": "43",
+  "issue": "2",
+  "pages": "154-158",
+  "vancouver": "Contro E, Volpe P, De Musso F, Muto B, Ghi T, De Robertis V, et al. Open fourth ventricle prior to 20 weeks' gestation: a benign finding? Ultrasound Obstet Gynecol. 2014;43(2):154-8. doi:10.1002/uog.13227",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-13",
+  "license_note": "ISUOG/Wiley — all rights reserved; summarize only.",
+  "notes": "Metadata and abstract read on PubMed (PMID 24151160) on 2026-11-13; full text and first page not seen."
  },
  {
   "id": "doll-tvus-black-2024",
@@ -779,6 +811,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "hiremath-posterior-fossa-2026",
+  "doi": "10.1148/rg.250128",
+  "first_author": "Hiremath",
+  "title_crossref": "Congenital Posterior Fossa Malformations: Imaging Patterns and Diagnostic Approach",
+  "journal": "Radiographics",
+  "year": 2026,
+  "volume": "46",
+  "issue": "5",
+  "pages": "e250128",
+  "vancouver": "Hiremath SB, Gupta N, Shinar S, Krishnan P, Miller E. Congenital posterior fossa malformations: imaging patterns and diagnostic approach. Radiographics. 2026;46(5):e250128. doi:10.1148/rg.250128",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-13",
+  "license_note": "RSNA — all rights reserved; summarize only.",
+  "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-13 (RadioGraphics 2026;46(5):e250128; S.B.H. and N.G. contributed equally). Online supplement (rg250128suppa1, Figs S1–S11) read as well."
+ },
+ {
   "id": "hochhegger-terminology-2021",
   "doi": "10.36416/1806-3756/e20200595",
   "first_author": "Hochhegger",
@@ -1129,6 +1177,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "nagaraj-dandy-walker-mri-2021",
+  "doi": "10.3174/ajnr.A7215",
+  "first_author": "Nagaraj",
+  "title_crossref": "Evaluation of Posterior Fossa Biometric Measurements on Fetal MRI in the Evaluation of Dandy-Walker Continuum",
+  "journal": "AJNR Am J Neuroradiol",
+  "year": 2021,
+  "volume": "42",
+  "issue": "9",
+  "pages": "1716-1721",
+  "vancouver": "Nagaraj UD, Kline-Fath BM, Horn PS, Venkatesan C. Evaluation of posterior fossa biometric measurements on fetal MRI in the evaluation of Dandy-Walker continuum. AJNR Am J Neuroradiol. 2021;42(9):1716-21. doi:10.3174/ajnr.A7215",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-13",
+  "license_note": "AJNR — all rights reserved (free on PMC, not open access); summarize only.",
+  "notes": "Abstract and metadata read via PubMed/PMC (PMID 34266871, PMC8423037) on 2026-11-13; the PMC full-text page was read through a web-fetch summary with quotes, not the PDF. First page not seen."
  },
  {
   "id": "ndirangu-bac-2026",
@@ -1663,6 +1727,22 @@
   "crossref_checked": "",
   "license_note": "Web educational tool; summarize only.",
   "notes": "Teaching app based on 'BI-RADS US (ACR, edição 2025)'; no publication date; read by Claude via the page text on 2026-11-12."
+ },
+ {
+  "id": "volpe-bv-angle-2012",
+  "doi": "10.1002/uog.11101",
+  "first_author": "Volpe",
+  "title_crossref": "Brainstem–vermis and brainstem–tentorium angles allow accurate categorization of fetal upward rotation of cerebellar vermis",
+  "journal": "Ultrasound Obstet Gynecol",
+  "year": 2012,
+  "volume": "39",
+  "issue": "6",
+  "pages": "632-635",
+  "vancouver": "Volpe P, Contro E, De Musso F, Ghi T, Farina A, Tempesta A, et al. Brainstem-vermis and brainstem-tentorium angles allow accurate categorization of fetal upward rotation of cerebellar vermis. Ultrasound Obstet Gynecol. 2012;39(6):632-5. doi:10.1002/uog.11101",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-13",
+  "license_note": "ISUOG/Wiley — all rights reserved; summarize only.",
+  "notes": "Metadata and abstract read on PubMed (PMID 22253138) on 2026-11-13; full text and first page not seen."
  },
  {
   "id": "who-fetal-growth-2017",

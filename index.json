@@ -602,6 +602,29 @@
    "last_reviewed": "2026-11-12"
   },
   {
+   "id": "tegmentovermian-angle-fetal",
+   "title": "Tegmentovermian (brainstem–vermis) angle in the fetal posterior fossa — US and MRI values",
+   "type": "reference-values",
+   "area": "neuro",
+   "modalities": [
+    "US",
+    "MRI"
+   ],
+   "population": "pregnant",
+   "source_version": "Volpe 2012; Contro 2014; Chapman 2018; Nagaraj 2021; Hiremath 2026",
+   "status": "draft",
+   "sources": [
+    "hiremath-posterior-fossa-2026",
+    "volpe-bv-angle-2012",
+    "contro-open-fourth-ventricle-2014",
+    "chapman-posterior-fossa-mri-2018",
+    "nagaraj-dandy-walker-mri-2021"
+   ],
+   "superseded_by": "",
+   "path": "entries/neuro/tegmentovermian-angle-fetal.md",
+   "last_reviewed": "2026-11-13"
+  },
+  {
    "id": "recist-1-1-2009",
    "title": "RECIST 1.1 — measurable disease, target and non-target lesions, lymph nodes and response categories (Eisenhauer 2009)",
    "type": "classification",
@@ -1194,9 +1217,9 @@
   }
  ],
  "counts": {
-  "entries": 62,
+  "entries": 63,
   "verified": 0,
-  "references": 105,
-  "references_reviewed": 101
+  "references": 110,
+  "references_reviewed": 102
  }
 }
