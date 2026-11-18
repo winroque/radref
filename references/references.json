@@ -64,6 +64,22 @@
   "notes": "Committee Opinion 734 (May 2018) replaces No. 440; check ACOG for reaffirmation status before citing."
  },
  {
+  "id": "acr-ac-mesenteric-ischemia-2018",
+  "doi": "10.1016/j.jacr.2018.09.018",
+  "first_author": "Ginsburg",
+  "title_crossref": "ACR Appropriateness Criteria® Imaging of Mesenteric Ischemia",
+  "journal": "J Am Coll Radiol",
+  "year": 2018,
+  "volume": "15",
+  "issue": "11",
+  "pages": "S332-S340",
+  "vancouver": "Ginsburg M, Obara P, Lambert DL, Hanley M, Steigner ML, Camacho MA, et al. ACR Appropriateness Criteria® imaging of mesenteric ischemia. J Am Coll Radiol. 2018;15(11S):S332-40. doi:10.1016/j.jacr.2018.09.018",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-18",
+  "license_note": "",
+  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
+ },
+ {
   "id": "acr-adrenal-2017",
   "doi": "10.1016/j.jacr.2017.05.001",
   "first_author": "Mayo-Smith",
@@ -587,6 +603,22 @@
   ]
  },
  {
+  "id": "esc-paad-2024",
+  "doi": "10.1093/eurheartj/ehae179",
+  "first_author": "Mazzolai",
+  "title_crossref": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
+  "journal": "European Heart Journal",
+  "year": 2024,
+  "volume": "45",
+  "issue": "36",
+  "pages": "3538-3700",
+  "vancouver": "Mazzolai L, Teixido-Tura G, Lanzi S, Boc V, Bossone E, Brodmann M, et al. 2024 ESC guidelines for the management of peripheral arterial and aortic diseases. Eur Heart J. 2024;45(36):3538-700. doi:10.1093/eurheartj/ehae179",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-18",
+  "license_note": "",
+  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
+ },
+ {
   "id": "esgar-gallbladder-polyps-2022",
   "doi": "10.1007/s00330-021-08384-w",
   "first_author": "Foley",
@@ -633,6 +665,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": ""
+ },
+ {
+  "id": "esvs-mesenteric-renal-2025",
+  "doi": "10.1016/j.ejvs.2025.06.010",
+  "first_author": "Koelemay",
+  "title_crossref": "Editor's Choice – European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins",
+  "journal": "European Journal of Vascular and Endovascular Surgery",
+  "year": 2025,
+  "volume": "70",
+  "issue": "2",
+  "pages": "153-218",
+  "vancouver": "Koelemay MJ, Geelkerken RH, Kärkkäinen J, Leone N, Antoniou GA, de Bruin JL, et al. Editor's Choice – European Society for Vascular Surgery (ESVS) 2025 clinical practice guidelines on the management of diseases of the mesenteric and renal arteries and veins. Eur J Vasc Endovasc Surg. 2025;70(2):153-218. doi:10.1016/j.ejvs.2025.06.010",
+  "vancouver_reviewed": false,
+  "crossref_checked": "2026-11-18",
+  "license_note": "",
+  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
  },
  {
   "id": "eta-cervical-us-2013",

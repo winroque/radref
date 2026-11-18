@@ -1136,6 +1136,28 @@
    "last_reviewed": "2026-11-12"
   },
   {
+   "id": "acr-ac-mesenteric-ischemia-2018",
+   "title": "Imaging of suspected mesenteric ischaemia — ACR Appropriateness Criteria 2018",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "CT",
+    "MRI",
+    "US",
+    "XR"
+   ],
+   "population": "adults",
+   "source_version": "ACR Appropriateness Criteria, Imaging of Mesenteric Ischemia, 2018 (J Am Coll Radiol 2018;15(11S))",
+   "status": "draft",
+   "sources": [
+    "acr-ac-mesenteric-ischemia-2018",
+    "esvs-mesenteric-renal-2025"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/acr-ac-mesenteric-ischemia-2018.md",
+   "last_reviewed": "2026-11-18"
+  },
+  {
    "id": "acr-incidental-vascular-2013",
    "title": "Incidental vascular findings on abdominal/pelvic CT and MRI — ACR white paper (2013, part 2)",
    "type": "guideline",
@@ -1214,12 +1236,55 @@
    "superseded_by": "",
    "path": "entries/vascular/doppler-br-2019-territories.md",
    "last_reviewed": "2026-11-12"
+  },
+  {
+   "id": "esc-paad-2024",
+   "title": "Aorta — upper normal diameters, measurement convention, aortic plaque grading, and renal/mesenteric artery imaging (ESC 2024 peripheral arterial and aortic diseases)",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "US",
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
+   "status": "draft",
+   "sources": [
+    "esc-paad-2024",
+    "esvs-mesenteric-renal-2025"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/esc-paad-2024.md",
+   "last_reviewed": "2026-11-18"
+  },
+  {
+   "id": "esvs-mesenteric-renal-2025",
+   "title": "Mesenteric and renal artery stenosis — imaging diagnosis and grading (ESVS 2025 guidelines)",
+   "type": "guideline",
+   "area": "vascular",
+   "modalities": [
+    "US",
+    "CT",
+    "MRI"
+   ],
+   "population": "adults",
+   "source_version": "ESVS clinical practice guidelines 2025 (mesenteric and renal arteries and veins)",
+   "status": "draft",
+   "sources": [
+    "esvs-mesenteric-renal-2025",
+    "esc-paad-2024",
+    "acr-ac-mesenteric-ischemia-2018"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/esvs-mesenteric-renal-2025.md",
+   "last_reviewed": "2026-11-18"
   }
  ],
  "counts": {
-  "entries": 63,
+  "entries": 66,
   "verified": 0,
-  "references": 110,
+  "references": 113,
   "references_reviewed": 102
  }
 }
