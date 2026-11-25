@@ -11,9 +11,10 @@ AI reporting assistants can:
 This repository holds **summaries in our own words and the numbers needed to apply each
 system** — never the full text, figures or verbatim tables of the articles.
 
-> Status: **private, under construction.** Started 2026-11-06 from the reference files of the
-> Digitado-IA reporting tool. Entries marked `status: draft` must not be used to cite in a
-> report.
+> Status: **public, under construction.** Started 2026-11-06 from the reference files of the
+> Digitado-IA reporting tool. Every entry is still `status: draft` (summaries checked by AI
+> against the full texts, awaiting the radiologist's sign-off) and must not be used to cite in a
+> report until marked `verified`. Licence: see [LICENSE.md](LICENSE.md).
 
 ## Layout
 
