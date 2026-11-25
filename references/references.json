@@ -80,6 +80,38 @@
   "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 30392602: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Fourteen individual authors plus the collective name of the expert panels; the first six individual authors are listed then et al. (the PubMed record puts the collective name first; it is not used in the string)."
  },
  {
+  "id": "acr-ac-renovascular-2026",
+  "doi": "10.1016/j.jacr.2026.02.010",
+  "first_author": "Nicola",
+  "title_crossref": "ACR Appropriateness Criteria® Renovascular Hypertension: Update 2026",
+  "journal": "J Am Coll Radiol",
+  "year": 2026,
+  "volume": "23",
+  "issue": "7",
+  "pages": "1384-1404",
+  "vancouver": "Nicola R, Thomas R, Purysko AS, Aghayev A, Hedgire SS, Goede D, et al. ACR Appropriateness Criteria® renovascular hypertension: update 2026. J Am Coll Radiol. 2026;23(7):1384-404. doi:10.1016/j.jacr.2026.02.010",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "ACR/Elsevier — all rights reserved, including text and data mining and AI training; summarize only, do not reproduce the variant tables.",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Am Coll Radiol 2026;23:1384-1404, July 2026; Expert Panel on Urological Imaging, collective name not used in the string)."
+ },
+ {
+  "id": "acr-ac-transplant-2024",
+  "doi": "10.1016/j.jacr.2025.02.022",
+  "first_author": "Taffel",
+  "title_crossref": "ACR Appropriateness Criteria® Renal Transplant Dysfunction: 2024 Update",
+  "journal": "J Am Coll Radiol",
+  "year": 2025,
+  "volume": "22",
+  "issue": "5",
+  "pages": "S372-S395",
+  "vancouver": "Taffel MT, Khatri G, Purysko AS, Avery R, Caserta MP, Chang SD, et al. ACR Appropriateness Criteria® renal transplant dysfunction: 2024 update. J Am Coll Radiol. 2025;22(5S):S372-95. doi:10.1016/j.jacr.2025.02.022",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "ACR/Elsevier — all rights reserved; summarize only, do not reproduce the variant tables.",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Am Coll Radiol 2025;22:S372-S395; Expert Panel on Urological Imaging, collective name not used in the string)."
+ },
+ {
   "id": "acr-adrenal-2017",
   "doi": "10.1016/j.jacr.2017.05.001",
   "first_author": "Mayo-Smith",
@@ -228,6 +260,23 @@
   "notes": "Checked against the PDF first page in Digitado-IA (2026-11-01)."
  },
  {
+  "id": "acr-renal-vessels-pp-2023",
+  "doi": "",
+  "url": "https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=26",
+  "first_author": "American College of Radiology",
+  "title_crossref": "",
+  "journal": "",
+  "year": 2023,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "vancouver": "American College of Radiology. ACR–AIUM–SPR–SRU practice parameter for the performance of duplex sonography of native renal vessels [Internet]. Reston (VA): American College of Radiology; revised 2023 (Resolution 35) [cited 2026 Nov 25]. Available from: https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=26",
+  "vancouver_reviewed": true,
+  "crossref_checked": "",
+  "license_note": "ACR practice parameter; summarize only.",
+  "notes": "Read in full by Claude on 2026-11-25 (8-page PDF supplied by the radiologist; 'Revised 2023 (Resolution 35)'). Same structure as the AIUM 2020 text, with additions (renal size discrepancy > 2 cm, arcuate arteries, CEUS for stenosis localisation)."
+ },
+ {
   "id": "acr-spleen-nodes-2013",
   "doi": "10.1016/j.jacr.2013.05.020",
   "first_author": "Heller",
@@ -309,6 +358,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "aium-renal-vessels-2020",
+  "doi": "10.1002/jum.15260",
+  "first_author": "American Institute of Ultrasound in Medicine",
+  "title_crossref": "AIUM Practice Parameter for the Performance of Duplex Sonography of Native Renal Vessels",
+  "journal": "J Ultrasound Med",
+  "year": 2020,
+  "volume": "39",
+  "issue": "5",
+  "pages": "E24-E29",
+  "vancouver": "American Institute of Ultrasound in Medicine. AIUM practice parameter for the performance of duplex sonography of native renal vessels. J Ultrasound Med. 2020;39(5):E24-9. doi:10.1002/jum.15260",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Ultrasound Med 2020;39:E24-E29; no personal byline, developed with ACR, SPR and SRU). The parallel ACR-AIUM-SPR-SRU text was revised in 2023 (see acr-renal-vessels-pp-2023)."
+ },
+ {
   "id": "aspects-2000",
   "doi": "10.1016/s0140-6736(00)02237-6",
   "first_author": "Barber",
@@ -339,6 +404,22 @@
   "crossref_checked": "2026-11-12",
   "license_note": "",
   "notes": ""
+ },
+ {
+  "id": "bakker-renal-stent-1999",
+  "doi": "10.1007/s002709900435",
+  "first_author": "Bakker",
+  "title_crossref": "Duplex ultrasonography in assessing restenosis of renal artery stents",
+  "journal": "Cardiovasc Intervent Radiol",
+  "year": 1999,
+  "volume": "22",
+  "issue": "6",
+  "pages": "475-480",
+  "vancouver": "Bakker J, Beutler JJ, Elgersma OEH, de Lange EE, de Kort GAP, Beek FJA. Duplex ultrasonography in assessing restenosis of renal artery stents. Cardiovasc Intervent Radiol. 1999;22(6):475-80. doi:10.1007/s002709900435",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Cardiovasc Intervent Radiol 1999;22:475-480)."
  },
  {
   "id": "bosniak-2019",
@@ -565,6 +646,23 @@
   "notes": "PubMed also lists a group author (SRU multispecialty panel); decide whether to include it. Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "efsumb-renal-vessels-2024",
+  "doi": "",
+  "url": "https://efsumb.org/wp-content/uploads/2024/03/ECB2ndUpdate-2024-CH-41-Vascular-Renal.pdf",
+  "first_author": "Brkljačić",
+  "title_crossref": "",
+  "journal": "",
+  "year": 2024,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "vancouver": "Brkljačić B, Deane C, Needleman L, Castellani S, Dietrich CF. Ultrasound of the renal vessels. In: Dietrich CF, editor. EFSUMB Course Book. 2nd ed. [Internet]. [place unknown]: European Federation of Societies for Ultrasound in Medicine and Biology; 2024 [cited 2026 Nov 25]. Available from: https://efsumb.org/wp-content/uploads/2024/03/ECB2ndUpdate-2024-CH-41-Vascular-Renal.pdf",
+  "vancouver_reviewed": true,
+  "crossref_checked": "",
+  "license_note": "EFSUMB educational chapter, free to read; summarize only.",
+  "notes": "Read in full by Claude on 2026-11-25 (33-page PDF dated 11.03.2024). Teaching text, not a guideline; the PDF does not state a place of publication."
+ },
+ {
   "id": "eickemberg-elsa-cimt-2019",
   "doi": "10.5935/abc.20180273",
   "first_author": "Eickemberg",
@@ -699,6 +797,22 @@
   "notes": ""
  },
  {
+  "id": "fananapazir-tras-2022",
+  "doi": "10.1002/jum.15826",
+  "first_author": "Fananapazir",
+  "title_crossref": "Ultrasound Screening for Transplant Renal Artery Stenosis Risk Stratification Using Standardized Criteria in Structured Reporting: A Validation Study",
+  "journal": "J Ultrasound Med",
+  "year": 2022,
+  "volume": "41",
+  "issue": "6",
+  "pages": "1433-1438",
+  "vancouver": "Fananapazir G, LaRoy JR, Navarro SM, Corwin MT, Carney B, Troppmann C. Ultrasound screening for transplant renal artery stenosis risk stratification using standardized criteria in structured reporting: a validation study. J Ultrasound Med. 2022;41(6):1433-8. doi:10.1002/jum.15826",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Ultrasound Med 2022;41:1433-1438)."
+ },
+ {
   "id": "fazekas-1987",
   "doi": "10.2214/ajr.149.2.351",
   "first_author": "Fazekas",
@@ -811,6 +925,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "gornik-fmd-2019",
+  "doi": "10.1177/1358863X18821816",
+  "first_author": "Gornik",
+  "title_crossref": "First International Consensus on the diagnosis and management of fibromuscular dysplasia",
+  "journal": "Vasc Med",
+  "year": 2019,
+  "volume": "24",
+  "issue": "2",
+  "pages": "164-189",
+  "vancouver": "Gornik HL, Persu A, Adlam D, Aparicio LS, Azizi M, Boulanger M, et al. First International Consensus on the diagnosis and management of fibromuscular dysplasia. Vasc Med. 2019;24(2):164-89. doi:10.1177/1358863X18821816",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Vasc Med 2019;24(2):164-189). Co-published in J Hypertens (doi:10.1097/HJH.0000000000002100); a corrigendum appeared in 2021 (doi:10.1177/1358863X211035538)."
+ },
+ {
   "id": "hadlock-efw-1985",
   "doi": "10.1016/0002-9378(85)90298-4",
   "first_author": "Hadlock",
@@ -889,6 +1019,22 @@
   "crossref_checked": "2026-11-05",
   "license_note": "",
   "notes": "Checked against the PDF in Digitado-IA (torax.md, 2026-11-03). Bilingual journal; Crossref lists the English title."
+ },
+ {
+  "id": "hoffmann-renal-duplex-1991",
+  "doi": "10.1038/ki.1991.156",
+  "first_author": "Hoffmann",
+  "title_crossref": "Role of duplex scanning for the detection of atherosclerotic renal artery disease",
+  "journal": "Kidney Int",
+  "year": 1991,
+  "volume": "39",
+  "issue": "6",
+  "pages": "1232-1239",
+  "vancouver": "Hoffmann U, Edwards JM, Carter S, Goldman ML, Harley JD, Zaccardi MJ, et al. Role of duplex scanning for the detection of atherosclerotic renal artery disease. Kidney Int. 1991;39(6):1232-9. doi:10.1038/ki.1991.156",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Kidney Int 1991;39:1232-1239)."
  },
  {
   "id": "ig21-crl-2014",
@@ -1083,6 +1229,22 @@
   "notes": "DOI added from Crossref; checked against the PDF (2026-11-12)."
  },
  {
+  "id": "kliewer-tardus-parvus-1993",
+  "doi": "10.1148/radiology.189.3.8234704",
+  "first_author": "Kliewer",
+  "title_crossref": "Renal artery stenosis: analysis of Doppler waveform parameters and tardus-parvus pattern.",
+  "journal": "Radiology",
+  "year": 1993,
+  "volume": "189",
+  "issue": "3",
+  "pages": "779-787",
+  "vancouver": "Kliewer MA, Tupler RH, Carroll BA, Paine SS, Kriegshauser JS, Hertzberg BS, et al. Renal artery stenosis: analysis of Doppler waveform parameters and tardus-parvus pattern. Radiology. 1993;189(3):779-87. doi:10.1148/radiology.189.3.8234704",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Radiology 1993;189:779-787)."
+ },
+ {
   "id": "koedam-posterior-2011",
   "doi": "10.1007/s00330-011-2205-4",
   "first_author": "Koedam",
@@ -1097,6 +1259,22 @@
   "crossref_checked": "2026-11-05",
   "license_note": "CC BY-NC (open access)",
   "notes": "Article read in full (Mendeley). Initials follow the first page (Esther L. G. E. Koedam; Yolande A. L. Pijnenburg), by the radiologist's choice on 2026-11-12; PubMed abbreviates them as EL and YA."
+ },
+ {
+  "id": "kohler-renal-duplex-1986",
+  "doi": "10.1016/0741-5214(86)90379-4",
+  "first_author": "Kohler",
+  "title_crossref": "Noninvasive diagnosis of renal artery stenosis by ultrasonic duplex scanning",
+  "journal": "J Vasc Surg",
+  "year": 1986,
+  "volume": "4",
+  "issue": "5",
+  "pages": "450-456",
+  "vancouver": "Kohler TR, Zierler RE, Martin RL, Nicholls SC, Bergelin RO, Kazmers A, et al. Noninvasive diagnosis of renal artery stenosis by ultrasonic duplex scanning. J Vasc Surg. 1986;4(5):450-6. doi:10.1016/0741-5214(86)90379-4",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Vasc Surg 1986;4:450-6)."
  },
  {
   "id": "lirads-ctmr-2018",
@@ -1275,6 +1453,22 @@
   "notes": "Journal header reads 982–999 (article ends p. 997; p. 998 has an invited commentary); PubMed (PMID 25435247) uses 982–98."
  },
  {
+  "id": "olin-renal-duplex-1995",
+  "doi": "10.7326/0003-4819-122-11-199506010-00004",
+  "first_author": "Olin",
+  "title_crossref": "The Utility of Duplex Ultrasound Scanning of the Renal Arteries for Diagnosing Significant Renal Artery Stenosis",
+  "journal": "Ann Intern Med",
+  "year": 1995,
+  "volume": "122",
+  "issue": "11",
+  "pages": "833-838",
+  "vancouver": "Olin JW, Piedmonte MR, Young JR, DeAnna S, Grubb M, Childs MB. The utility of duplex ultrasound scanning of the renal arteries for diagnosing significant renal artery stenosis. Ann Intern Med. 1995;122(11):833-8. doi:10.7326/0003-4819-122-11-199506010-00004",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Ann Intern Med 1995;122:833-838)."
+ },
+ {
   "id": "orads-mri-2022",
   "doi": "10.1148/radiol.204371",
   "first_author": "Sadowski",
@@ -1390,6 +1584,54 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "platt-ri-obstruction-1989",
+  "doi": "10.1148/radiology.171.2.2649925",
+  "first_author": "Platt",
+  "title_crossref": "Duplex Doppler US of the kidney: differentiation of obstructive from nonobstructive dilatation.",
+  "journal": "Radiology",
+  "year": 1989,
+  "volume": "171",
+  "issue": "2",
+  "pages": "515-517",
+  "vancouver": "Platt JF, Rubin JM, Ellis JH, DiPietro MA. Duplex Doppler US of the kidney: differentiation of obstructive from nonobstructive dilatation. Radiology. 1989;171(2):515-7. doi:10.1148/radiology.171.2.2649925",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Radiology 1989;171:515-517)."
+ },
+ {
+  "id": "radermacher-ri-ras-2001",
+  "doi": "10.1056/nejm200102083440603",
+  "first_author": "Radermacher",
+  "title_crossref": "Use of Doppler Ultrasonography to Predict the Outcome of Therapy for Renal-Artery Stenosis",
+  "journal": "N Engl J Med",
+  "year": 2001,
+  "volume": "344",
+  "issue": "6",
+  "pages": "410-417",
+  "vancouver": "Radermacher J, Chavan A, Bleck J, Vitzthum A, Stoess B, Gebel MJ, et al. Use of Doppler ultrasonography to predict the outcome of therapy for renal-artery stenosis. N Engl J Med. 2001;344(6):410-7. doi:10.1056/NEJM200102083440603",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (N Engl J Med 2001;344:410-7)."
+ },
+ {
+  "id": "radermacher-ri-transplant-2003",
+  "doi": "10.1056/nejmoa022602",
+  "first_author": "Radermacher",
+  "title_crossref": "The Renal Arterial Resistance Index and Renal Allograft Survival",
+  "journal": "N Engl J Med",
+  "year": 2003,
+  "volume": "349",
+  "issue": "2",
+  "pages": "115-124",
+  "vancouver": "Radermacher J, Mengel M, Ellis S, Stuht S, Hiss M, Schwarz A, et al. The renal arterial resistance index and renal allograft survival. N Engl J Med. 2003;349(2):115-24. doi:10.1056/NEJMoa022602",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (N Engl J Med 2003;349:115-24)."
+ },
+ {
   "id": "raghu-ipf-ppf-2022",
   "doi": "10.1164/rccm.202202-0399st",
   "first_author": "Raghu",
@@ -1436,6 +1678,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "robinson-tras-velocities-2017",
+  "doi": "10.1007/s00261-016-0876-7",
+  "first_author": "Robinson",
+  "title_crossref": "Detection of transplant renal artery stenosis: determining normal velocities at the renal artery anastomosis",
+  "journal": "Abdom Radiol (NY)",
+  "year": 2017,
+  "volume": "42",
+  "issue": "1",
+  "pages": "254-259",
+  "vancouver": "Robinson KA, Kriegshauser JS, Dahiya N, Young SW, Czaplicki CD, Patel MD. Detection of transplant renal artery stenosis: determining normal velocities at the renal artery anastomosis. Abdom Radiol (NY). 2017;42(1):254-9. doi:10.1007/s00261-016-0876-7",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "The PDF read is the online-first version (2016, no final pagination); authors and title checked against it on 2026-11-25. Volume, issue and pages (2017;42(1):254-9) are from Crossref."
  },
  {
   "id": "rodgers-early-pregnancy-2015",
@@ -1680,6 +1938,22 @@
   "notes": ""
  },
  {
+  "id": "stavros-tardus-parvus-1992",
+  "doi": "10.1148/radiology.184.2.1620853",
+  "first_author": "Stavros",
+  "title_crossref": "Segmental stenosis of the renal artery: pattern recognition of tardus and parvus abnormalities with duplex sonography.",
+  "journal": "Radiology",
+  "year": 1992,
+  "volume": "184",
+  "issue": "2",
+  "pages": "487-492",
+  "vancouver": "Stavros AT, Parker SH, Yakes WF, Chantelois AE, Burke BJ, Meyers PR, et al. Segmental stenosis of the renal artery: pattern recognition of tardus and parvus abnormalities with duplex sonography. Radiology. 1992;184(2):487-92. doi:10.1148/radiology.184.2.1620853",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Radiology 1992;184:487-492)."
+ },
+ {
   "id": "strive-2-2023",
   "doi": "10.1016/s1474-4422(23)00131-x",
   "first_author": "Duering",
@@ -1760,6 +2034,22 @@
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
  },
  {
+  "id": "tublin-ri-2003",
+  "doi": "10.2214/ajr.180.4.1800885",
+  "first_author": "Tublin",
+  "title_crossref": "The Resistive Index in Renal Doppler Sonography: Where Do We Stand?",
+  "journal": "AJR Am J Roentgenol",
+  "year": 2003,
+  "volume": "180",
+  "issue": "4",
+  "pages": "885-892",
+  "vancouver": "Tublin ME, Bude RO, Platt JF. The resistive index in renal Doppler sonography: where do we stand? AJR Am J Roentgenol. 2003;180(4):885-92. doi:10.2214/ajr.180.4.1800885",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (AJR 2003;180:885-892). The download's file name says 2012; the article is from April 2003."
+ },
+ {
   "id": "unicamp-birads-us-2025",
   "doi": "",
   "url": "https://drpixel.fcm.unicamp.br/apps/birads-us",
@@ -1775,6 +2065,22 @@
   "crossref_checked": "",
   "license_note": "Web educational tool; summarize only.",
   "notes": "Teaching app based on 'BI-RADS US (ACR, edição 2025)'; no publication date; read by Claude via the page text on 2026-11-12."
+ },
+ {
+  "id": "viazzi-ri-2014",
+  "doi": "10.1097/hjh.0b013e328365b29c",
+  "first_author": "Viazzi",
+  "title_crossref": "Ultrasound Doppler renal resistive index",
+  "journal": "J Hypertens",
+  "year": 2014,
+  "volume": "32",
+  "issue": "1",
+  "pages": "149-153",
+  "vancouver": "Viazzi F, Leoncini G, Derchi LE, Pontremoli R. Ultrasound Doppler renal resistive index: a useful tool for the management of the hypertensive patient. J Hypertens. 2014;32(1):149-53. doi:10.1097/HJH.0b013e328365b29c",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (J Hypertens 2014;32:149-153). Crossref returns a shortened title."
  },
  {
   "id": "volpe-bv-angle-2012",
@@ -1807,6 +2113,38 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": "Vancouver checked against the PDF first page by Claude on 2026-11-11."
+ },
+ {
+  "id": "williams-renal-duplex-2007",
+  "doi": "10.2214/ajr.06.0355",
+  "first_author": "Williams",
+  "title_crossref": "Comparative Accuracy of Renal Duplex Sonographic Parameters in the Diagnosis of Renal Artery Stenosis: Paired and Unpaired Analysis",
+  "journal": "AJR Am J Roentgenol",
+  "year": 2007,
+  "volume": "188",
+  "issue": "3",
+  "pages": "798-811",
+  "vancouver": "Williams GJ, Macaskill P, Chan SF, Karplus TE, Yung W, Hodson EM, et al. Comparative accuracy of renal duplex sonographic parameters in the diagnosis of renal artery stenosis: paired and unpaired analysis. AJR Am J Roentgenol. 2007;188(3):798-811. doi:10.2214/AJR.06.0355",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (AJR 2007;188:798-811). The download's file name says 2012; the article is from March 2007."
+ },
+ {
+  "id": "zachrisson-renal-duplex-2017",
+  "doi": "10.1177/0284185116641345",
+  "first_author": "Zachrisson",
+  "title_crossref": "Duplex ultrasound for identifying renal artery stenosis: direct criteria re-evaluated",
+  "journal": "Acta Radiol",
+  "year": 2017,
+  "volume": "58",
+  "issue": "2",
+  "pages": "176-182",
+  "vancouver": "Zachrisson K, Herlitz H, Lönn L, Falkenberg M, Eklöf H. Duplex ultrasound for identifying renal artery stenosis: direct criteria re-evaluated. Acta Radiol. 2017;58(2):176-82. doi:10.1177/0284185116641345",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "",
+  "notes": "The PDF read is the OnlineFirst version (10 April 2016, no final pagination); authors and title checked against it on 2026-11-25. Volume, issue and pages (2017;58(2):176-82) are from Crossref."
  },
  {
   "id": "zimmermann-thyroid-children-2004",

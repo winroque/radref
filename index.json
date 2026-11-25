@@ -1279,12 +1279,93 @@
    "superseded_by": "",
    "path": "entries/vascular/esvs-mesenteric-renal-2025.md",
    "last_reviewed": "2026-11-25"
+  },
+  {
+   "id": "renal-artery-stenosis-duplex",
+   "title": "Renal artery stenosis on duplex ultrasound — technique, direct and intrarenal criteria, stents and validation studies",
+   "type": "reference-values",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "Kohler 1986; Hoffmann 1991; Stavros 1992; Kliewer 1993; Olin 1995; Bakker 1999; Williams 2007; Zachrisson 2017; Gornik 2019; AIUM 2020; ACR–AIUM–SPR–SRU 2023; EFSUMB 2024; ACR AC 2026",
+   "status": "verified",
+   "sources": [
+    "williams-renal-duplex-2007",
+    "kohler-renal-duplex-1986",
+    "hoffmann-renal-duplex-1991",
+    "olin-renal-duplex-1995",
+    "zachrisson-renal-duplex-2017",
+    "stavros-tardus-parvus-1992",
+    "kliewer-tardus-parvus-1993",
+    "bakker-renal-stent-1999",
+    "aium-renal-vessels-2020",
+    "acr-renal-vessels-pp-2023",
+    "efsumb-renal-vessels-2024",
+    "acr-ac-renovascular-2026",
+    "gornik-fmd-2019",
+    "doppler-br-2019",
+    "esc-paad-2024"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/renal-artery-stenosis-duplex.md",
+   "last_reviewed": "2026-11-25"
+  },
+  {
+   "id": "renal-resistive-index",
+   "title": "Renal resistive index (RI) — measurement, normal values and clinical uses (obstruction, revascularisation, transplant prognosis)",
+   "type": "reference-values",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "all",
+   "source_version": "Platt 1989; Radermacher 2001 and 2003; Tublin 2003; Viazzi 2014; EFSUMB 2024; ACR AC 2025–2026",
+   "status": "verified",
+   "sources": [
+    "tublin-ri-2003",
+    "viazzi-ri-2014",
+    "platt-ri-obstruction-1989",
+    "radermacher-ri-ras-2001",
+    "radermacher-ri-transplant-2003",
+    "efsumb-renal-vessels-2024",
+    "acr-ac-renovascular-2026",
+    "acr-ac-transplant-2024",
+    "olin-renal-duplex-1995"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/renal-resistive-index.md",
+   "last_reviewed": "2026-11-25"
+  },
+  {
+   "id": "renal-transplant-doppler",
+   "title": "Kidney transplant Doppler — imaging choice, transplant renal artery stenosis criteria and risk stratification",
+   "type": "reference-values",
+   "area": "vascular",
+   "modalities": [
+    "US"
+   ],
+   "population": "adults",
+   "source_version": "Robinson 2017; Fananapazir 2022; EFSUMB 2024; ACR AC renal transplant dysfunction 2024 update (2025); Radermacher 2003",
+   "status": "verified",
+   "sources": [
+    "acr-ac-transplant-2024",
+    "fananapazir-tras-2022",
+    "robinson-tras-velocities-2017",
+    "efsumb-renal-vessels-2024",
+    "radermacher-ri-transplant-2003",
+    "tublin-ri-2003"
+   ],
+   "superseded_by": "",
+   "path": "entries/vascular/renal-transplant-doppler.md",
+   "last_reviewed": "2026-11-25"
   }
  ],
  "counts": {
-  "entries": 66,
-  "verified": 66,
-  "references": 113,
-  "references_reviewed": 112
+  "entries": 69,
+  "verified": 69,
+  "references": 134,
+  "references_reviewed": 133
  }
 }
