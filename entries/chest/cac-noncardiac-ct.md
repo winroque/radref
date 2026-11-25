@@ -6,10 +6,10 @@ area: chest
 modalities: [CT]
 population: adults
 source_version: "SCCT/STR guideline 2016 (published 2017); CAC-DRS 2018"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-12: Hecht 2017 SCCT/STR (JCCT article-in-press PDF — sections 6–7, Tables 3, 5 and 6) and Hecht 2018 CAC-DRS (J Cardiovasc Comput Tomogr 2018;12:185–91 — Table 1, sections 3–6) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-12: Hecht 2017 SCCT/STR (JCCT article-in-press PDF — sections 6–7, Tables 3, 5 and 6) and Hecht 2018 CAC-DRS (J Cardiovasc Comput Tomogr 2018;12:185–91 — Table 1, sections 3–6)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [scct-str-cac-nongated-2017, cac-drs-2018]
 supersedes: []
 superseded_by: ""

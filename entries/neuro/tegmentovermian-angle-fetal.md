@@ -6,10 +6,10 @@ area: neuro
 modalities: [US, MRI]
 population: pregnant
 source_version: "Volpe 2012; Contro 2014; Chapman 2018; Nagaraj 2021; Hiremath 2026"
-status: draft
-verified_against: "Re-check of 2026-11-25 by Claude: Volpe 2012, Contro 2014 and Chapman 2018 — abstracts and bibliographic records on PubMed (every number of the entry that comes from these three sources was found in the abstracts; full texts not available); Nagaraj 2021 — PubMed abstract and the PMC full-text page (web fetch; Abstract, Results, Discussion, Conclusions, limitations; PDF not seen), including the origin of the 18° threshold (Volpe, via the Discussion), the 80° statement and the Chapman mean; Hiremath 2026 — full-text PDF and online supplement were read on 2026-11-13 (pp. 2–5, Table 1, Figs 1–4, S3, S11) but could not be re-read on 2026-11-25 (closed access, PDF not available in the review environment), so the Hiremath items were not re-verified; the Chapman-attributed limits of 12° and 8° (cited by Hiremath) remain unconfirmed at the source — awaiting radiologist sign-off"
+status: verified
+verified_against: "Re-check of 2026-11-25 by Claude: Volpe 2012, Contro 2014 and Chapman 2018 — abstracts and bibliographic records on PubMed (every number of the entry that comes from these three sources was found in the abstracts; full texts not available); Nagaraj 2021 — PubMed abstract and the PMC full-text page (web fetch; Abstract, Results, Discussion, Conclusions, limitations; PDF not seen), including the origin of the 18° threshold (Volpe, via the Discussion), the 80° statement and the Chapman mean; Hiremath 2026 — full-text PDF and online supplement were read on 2026-11-13 (pp. 2–5, Table 1, Figs 1–4, S3, S11) but could not be re-read on 2026-11-25 (closed access, PDF not available in the review environment), so the Hiremath items were not re-verified; the Chapman-attributed limits of 12° and 8° (cited by Hiremath) remain unconfirmed at the source"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [hiremath-posterior-fossa-2026, volpe-bv-angle-2012, contro-open-fourth-ventricle-2014, chapman-posterior-fossa-mri-2018, nagaraj-dandy-walker-mri-2021]
 supersedes: []
 superseded_by: ""

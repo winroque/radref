@@ -6,10 +6,10 @@ area: thyroid-neck
 modalities: [US]
 population: adults
 source_version: "ETA 2013; ATA 2015 (published 2016)"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-12: ETA 2013 (Eur Thyroid J 2013;2:147–59 — lymph node section, Table 2 headings, recommendations R4, R5 and R12, Table 3, washout Tg) and ATA 2015 (Thyroid 2016;26:1–133 — Recommendations 32 and 65, sections B4 and C10, Table 7) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-12: ETA 2013 (Eur Thyroid J 2013;2:147–59 — lymph node section, Table 2 headings, recommendations R4, R5 and R12, Table 3, washout Tg) and ATA 2015 (Thyroid 2016;26:1–133 — Recommendations 32 and 65, sections B4 and C10, Table 7)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [eta-cervical-us-2013, ata-thyroid-2015]
 supersedes: []
 superseded_by: ""

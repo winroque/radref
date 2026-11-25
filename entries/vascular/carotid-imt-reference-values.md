@@ -6,10 +6,10 @@ area: vascular
 modalities: [US]
 population: adults
 source_version: "2019 statement (tables from 2006–2014 cohorts)"
-status: draft
-verified_against: "Tables 3–5 and IMT sections checked by Claude on 2026-11-11 against the full-text PDF of the DIC/SBC 2019 statement, plus Folsom 2008 (MESA), the 2023 update and the full texts of Santos 2014 (ELSA-Brasil), Lorenz 2006 (CAPS) and Eickemberg 2019 — the per-side ELSA nomograms are not in the Santos article (cited as supplementary data, not read) and the CAPS percentile table is not in Lorenz 2006, so those cells are checked against the statement only; awaiting radiologist sign-off; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
+status: verified
+verified_against: "Tables 3–5 and IMT sections checked by Claude on 2026-11-11 against the full-text PDF of the DIC/SBC 2019 statement, plus Folsom 2008 (MESA), the 2023 update and the full texts of Santos 2014 (ELSA-Brasil), Lorenz 2006 (CAPS) and Eickemberg 2019 — the per-side ELSA nomograms are not in the Santos article (cited as supplementary data, not read) and the CAPS percentile table is not in Lorenz 2006, so those cells are checked against the statement only; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [doppler-br-2019, doppler-carotid-br-2023, santos-elsa-cimt-2014, lorenz-caps-cimt-2006, folsom-mesa-cimt-2008, eickemberg-elsa-cimt-2019]
 supersedes: []
 superseded_by: ""

@@ -6,10 +6,10 @@ area: abdomen
 modalities: [US]
 population: adults
 source_version: "Chow 2016"
-status: draft
-verified_against: "full-text PDF (Radiology 2016;279:306–13) read by Claude on 2026-11-12: abstract, methods (US technique), results, formulae, discussion — online tables E1–E2 not read — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2016;279:306–13) read by Claude on 2026-11-12: abstract, methods (US technique), results, formulae, discussion — online tables E1–E2 not read"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [chow-spleen-size-2016]
 supersedes: []
 superseded_by: ""

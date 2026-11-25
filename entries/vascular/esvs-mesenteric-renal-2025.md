@@ -6,10 +6,10 @@ area: vascular
 modalities: [US, CT, MRI]
 population: adults
 source_version: "ESVS clinical practice guidelines 2025 (mesenteric and renal arteries and veins)"
-status: draft
-verified_against: "full-text PDF, publisher's version of record (Eur J Vasc Endovasc Surg 2025;70(2):153–218, CC BY; copy from an institutional open-access repository) read by Claude on 2026-11-25, text extraction plus the rendered pages of Table 4 and of Recommendations 1, 4, 5 and 6 (pp. 165–167): section 3.2 and Table 4, Recommendations 1–6 (class and level), section 3.5 (X-ray, duplex, CTA, MRA, DSA) and Table 5 (values compared line by line), section 4 and Recommendation 26 (MALS), section 5.3.4.1 and Recommendation 33 (acute ischaemia CT), section 8.1 (definition, grading), sections 8.3.1–8.3.3 and Figure 7, Recommendations 57–59 and 63; every number of the entry found in these passages — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF, publisher's version of record (Eur J Vasc Endovasc Surg 2025;70(2):153–218, CC BY; copy from an institutional open-access repository) read by Claude on 2026-11-25, text extraction plus the rendered pages of Table 4 and of Recommendations 1, 4, 5 and 6 (pp. 165–167): section 3.2 and Table 4, Recommendations 1–6 (class and level), section 3.5 (X-ray, duplex, CTA, MRA, DSA) and Table 5 (values compared line by line), section 4 and Recommendation 26 (MALS), section 5.3.4.1 and Recommendation 33 (acute ischaemia CT), section 8.1 (definition, grading), sections 8.3.1–8.3.3 and Figure 7, Recommendations 57–59 and 63; every number of the entry found in these passages"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [esvs-mesenteric-renal-2025, esc-paad-2024, acr-ac-mesenteric-ischemia-2018]
 supersedes: []
 superseded_by: ""

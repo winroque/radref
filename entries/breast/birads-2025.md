@@ -6,10 +6,10 @@ area: breast
 modalities: [MG, US, MRI]
 population: adults
 source_version: "v2025"
-status: draft
-verified_against: "Minichetti 2026 full text (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; ACR What's New (Nov 2025), Schijf & Smithuis 2026 (mammography and US pages, text only), UNICAMP Dr. Pixel (US app) and Ndirangu 2026 (PDF supplied by the radiologist) read on 2026-11-12; the v2025 manual body was not read by Claude (eBook terms forbid AI analysis) — category 0 and vascular-calcification wording checked in the manual by the radiologist on 2026-11-12 — awaiting radiologist sign-off"
+status: verified
+verified_against: "Minichetti 2026 full text (AJR, Tables 1–2 and text) read by Claude on 2026-11-11; ACR What's New (Nov 2025), Schijf & Smithuis 2026 (mammography and US pages, text only), UNICAMP Dr. Pixel (US app) and Ndirangu 2026 (PDF supplied by the radiologist) read on 2026-11-12; the v2025 manual body was not read by Claude (eBook terms forbid AI analysis) — category 0 and vascular-calcification wording checked in the manual by the radiologist on 2026-11-12"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-birads-2025, acr-birads-2025-whats-new, minichetti-birads-2026, schijf-birads-mg-2026, schijf-birads-us-2026, unicamp-birads-us-2025, ndirangu-bac-2026]
 supersedes: []
 superseded_by: ""

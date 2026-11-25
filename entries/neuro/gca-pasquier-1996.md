@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "1996"
-status: draft
-verified_against: "full-text PDF (Eur Neurol 1996;36(5):268–72; scanned, read through OCR) by Claude on 2026-11-11: abstract and Methods (13 regions, 0–3, sum 0–39, axial T2, stroke patients); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Eur Neurol 1996;36(5):268–72; scanned, read through OCR) by Claude on 2026-11-11: abstract and Methods (13 regions, 0–3, sum 0–39, axial T2, stroke patients); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [pasquier-gca-1996]
 supersedes: []
 superseded_by: ""

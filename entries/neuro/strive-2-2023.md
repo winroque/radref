@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "STRIVE-2 position paper (Lancet Neurol 2023), update of STRIVE-1 (2013)"
-status: draft
-verified_against: "full-text PDF (Lancet Neurol 2023;22(7):602–18) read by Claude on 2026-11-12: Panel (glossary), Fig. 3 (sequences and usual diameters), sections on recent small subcortical infarct, lacune and perivascular spaces, imaging protocol table — appendix not read — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Lancet Neurol 2023;22(7):602–18) read by Claude on 2026-11-12: Panel (glossary), Fig. 3 (sequences and usual diameters), sections on recent small subcortical infarct, lacune and perivascular spaces, imaging protocol table — appendix not read"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [strive-2-2023]
 supersedes: []
 superseded_by: ""

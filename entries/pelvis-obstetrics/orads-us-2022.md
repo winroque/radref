@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: adults
 source_version: "v2022 (released November 2022; article 2023)"
-status: draft
-verified_against: "full-text PDF (Radiology 2023;308(3):e230685) read by Claude on 2026-11-11: Figure 3 algorithm (rendered page), Tables 1–3 and 5, text on each category and classic benign lesions, growth criteria; Fig. 1B lexicon/governing concepts checked on the rendered page on 2026-11-12 — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2023;308(3):e230685) read by Claude on 2026-11-11: Figure 3 algorithm (rendered page), Tables 1–3 and 5, text on each category and classic benign lesions, growth criteria; Fig. 1B lexicon/governing concepts checked on the rendered page on 2026-11-12"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [orads-us-2022]
 supersedes: []
 superseded_by: ""

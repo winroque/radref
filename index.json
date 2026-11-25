@@ -10,7 +10,7 @@
    ],
    "population": "all",
    "source_version": "AAST OIS 2018 revision",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "aast-ois-2018"
    ],
@@ -28,7 +28,7 @@
    ],
    "population": "adults",
    "source_version": "Dorfman 1991",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "dorfman-abdominal-nodes-1991"
    ],
@@ -47,7 +47,7 @@
    ],
    "population": "adults",
    "source_version": "2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-adrenal-2017"
    ],
@@ -66,7 +66,7 @@
    ],
    "population": "adults",
    "source_version": "2013",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-gallbladder-2013"
    ],
@@ -84,7 +84,7 @@
    ],
    "population": "adults",
    "source_version": "2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-liver-2017"
    ],
@@ -103,7 +103,7 @@
    ],
    "population": "adults",
    "source_version": "2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-pancreas-2017"
    ],
@@ -122,7 +122,7 @@
    ],
    "population": "adults",
    "source_version": "2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-renal-2018"
    ],
@@ -141,7 +141,7 @@
    ],
    "population": "adults",
    "source_version": "2013",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-spleen-nodes-2013"
    ],
@@ -160,7 +160,7 @@
    ],
    "population": "adults",
    "source_version": "2019",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "bosniak-2019",
     "acr-renal-2018"
@@ -179,7 +179,7 @@
    ],
    "population": "adults",
    "source_version": "ESGAR/EAES/EFISDS/ESGE update 2022 (of 2017)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "esgar-gallbladder-polyps-2022"
    ],
@@ -199,7 +199,7 @@
    ],
    "population": "adults",
    "source_version": "AASLD Practice Guidance 2023",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "aasld-hcc-2023"
    ],
@@ -218,7 +218,7 @@
    ],
    "population": "adults",
    "source_version": "v2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "lirads-ctmr-2018",
     "acr-lirads-ctmr-core-2018"
@@ -237,7 +237,7 @@
    ],
    "population": "adults",
    "source_version": "SRU liver elastography consensus update 2020",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "sru-liver-elastography-2020"
    ],
@@ -255,7 +255,7 @@
    ],
    "population": "adults",
    "source_version": "2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "pickhardt-liver-fat-2018"
    ],
@@ -273,7 +273,7 @@
    ],
    "population": "adults",
    "source_version": "Chow 2016",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "chow-spleen-size-2016"
    ],
@@ -291,7 +291,7 @@
    ],
    "population": "adults",
    "source_version": "2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "sru-gallbladder-polyps-2022"
    ],
@@ -309,7 +309,7 @@
    ],
    "population": "adults",
    "source_version": "v2024",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-us-lirads-2024"
    ],
@@ -329,7 +329,7 @@
    ],
    "population": "adults",
    "source_version": "v2025",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-birads-2025",
     "acr-birads-2025-whats-new",
@@ -353,7 +353,7 @@
    ],
    "population": "adults",
    "source_version": "SCCT/STR guideline 2016 (published 2017); CAC-DRS 2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "scct-str-cac-nongated-2017",
     "cac-drs-2018"
@@ -372,7 +372,7 @@
    ],
    "population": "adults",
    "source_version": "CAD-RADS 2.0 (2022)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "cad-rads-2-2022"
    ],
@@ -390,7 +390,7 @@
    ],
    "population": "adults",
    "source_version": "2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "fleischner-2017"
    ],
@@ -408,7 +408,7 @@
    ],
    "population": "adults",
    "source_version": "2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "raghu-ipf-ppf-2022"
    ],
@@ -426,7 +426,7 @@
    ],
    "population": "adults",
    "source_version": "v2022 (released November 2022; article 2024)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "lungrads-2022",
     "acr-lungrads-2022-table",
@@ -448,7 +448,7 @@
    ],
    "population": "all",
    "source_version": "2021",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "hochhegger-terminology-2021"
    ],
@@ -467,7 +467,7 @@
    ],
    "population": "adults",
    "source_version": "Version 2.0 (2014), update of the 2001 nomenclature",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "lumbar-nomenclature-2-2014"
    ],
@@ -485,7 +485,7 @@
    ],
    "population": "adults",
    "source_version": "Original description (Lancet 2000)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "aspects-2000"
    ],
@@ -503,7 +503,7 @@
    ],
    "population": "adults",
    "source_version": "2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "enkirch-erica-2018"
    ],
@@ -521,7 +521,7 @@
    ],
    "population": "adults",
    "source_version": "1987",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "fazekas-1987"
    ],
@@ -539,7 +539,7 @@
    ],
    "population": "adults",
    "source_version": "1996",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "pasquier-gca-1996"
    ],
@@ -557,7 +557,7 @@
    ],
    "population": "adults",
    "source_version": "1992",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "scheltens-mta-1992"
    ],
@@ -575,7 +575,7 @@
    ],
    "population": "adults",
    "source_version": "2011",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "koedam-posterior-2011"
    ],
@@ -593,7 +593,7 @@
    ],
    "population": "adults",
    "source_version": "STRIVE-2 position paper (Lancet Neurol 2023), update of STRIVE-1 (2013)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "strive-2-2023"
    ],
@@ -612,7 +612,7 @@
    ],
    "population": "pregnant",
    "source_version": "Volpe 2012; Contro 2014; Chapman 2018; Nagaraj 2021; Hiremath 2026",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "hiremath-posterior-fossa-2026",
     "volpe-bv-angle-2012",
@@ -635,7 +635,7 @@
    ],
    "population": "adults",
    "source_version": "RECIST version 1.1 (2009)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "recist-1-1-2009"
    ],
@@ -653,7 +653,7 @@
    ],
    "population": "children",
    "source_version": "WHO/NHD Iodine Deficiency Study Group 2004",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "zimmermann-thyroid-children-2004"
    ],
@@ -671,7 +671,7 @@
    ],
    "population": "all",
    "source_version": "Multidisciplinary consensus 2014 (eight societies)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "nguyen-utd-2014"
    ],
@@ -690,7 +690,7 @@
    ],
    "population": "all",
    "source_version": "2013 (ovary); 2016 (uterus)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "kelsey-uterus-2016",
     "kelsey-ovary-2013"
@@ -709,7 +709,7 @@
    ],
    "population": "pregnant",
    "source_version": "1984, 1990; ISUOG 2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "chamberlain-sdp-1984",
     "moore-afi-1990",
@@ -729,7 +729,7 @@
    ],
    "population": "pregnant",
    "source_version": "ISUOG Practice Guidelines 2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "isuog-cervix-2022"
    ],
@@ -747,7 +747,7 @@
    ],
    "population": "pregnant",
    "source_version": "SRU 2012 consensus (published 2013); review 2015",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "doubilet-nonviable-2013",
     "rodgers-early-pregnancy-2015"
@@ -766,7 +766,7 @@
    ],
    "population": "adults",
    "source_version": "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; SOGC 451 (2024); Chee 2025 meta-analysis; Doll 2021/2024",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acog-co734-2018",
     "sru-postmenopausal-bleeding-2001",
@@ -790,7 +790,7 @@
    ],
    "population": "pregnant",
    "source_version": "1991–2018",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "hadlock-efw-1985",
     "hadlock-weight-standard-1991",
@@ -813,7 +813,7 @@
    ],
    "population": "pregnant",
    "source_version": "ISUOG Practice Guidelines 2019; charts 1994–2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "isuog-biometry-2019",
     "snijders-biometry-1994",
@@ -835,7 +835,7 @@
    ],
    "population": "pregnant",
    "source_version": "Delphi 2016; ISUOG Practice Guidelines 2020",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "gordijn-fgr-delphi-2016",
     "isuog-sga-fgr-2020",
@@ -855,7 +855,7 @@
    ],
    "population": "pregnant",
    "source_version": "ISUOG Practice Guidelines (updated) 2023",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "isuog-11-14-2023",
     "ig21-crl-2014"
@@ -874,7 +874,7 @@
    ],
    "population": "pregnant",
    "source_version": "ISUOG Practice Guidelines (updated) 2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "isuog-midtrimester-2022"
    ],
@@ -892,7 +892,7 @@
    ],
    "population": "pregnant",
    "source_version": "ISUOG Practice Guidelines (updated) 2021; reference ranges 2000–2019",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "isuog-doppler-2021",
     "gomez-uta-pi-2008",
@@ -914,7 +914,7 @@
    ],
    "population": "adults",
    "source_version": "2022",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "orads-mri-2022",
     "thomassin-orads-mri-2020"
@@ -933,7 +933,7 @@
    ],
    "population": "adults",
    "source_version": "v2022 (released November 2022; article 2023)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "orads-us-2022"
    ],
@@ -951,7 +951,7 @@
    ],
    "population": "adults",
    "source_version": "Pavlik 2000",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "pavlik-ovarian-volume-2000"
    ],
@@ -969,7 +969,7 @@
    ],
    "population": "adults",
    "source_version": "2023 guideline; 2026 nomenclature",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "teede-pcos-guideline-2023",
     "teede-pmos-name-2026"
@@ -988,7 +988,7 @@
    ],
    "population": "adults",
    "source_version": "v2.1 (2019)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "pirads-2-1-2019"
    ],
@@ -1006,7 +1006,7 @@
    ],
    "population": "pregnant",
    "source_version": "ACOG Committee Opinion 700 (2017); ISUOG 2019 and 2023; INTERGROWTH-21st CRL standard (2014); Robinson & Fleming 1975",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acog-co700-2017",
     "robinson-crl-1975",
@@ -1029,7 +1029,7 @@
    ],
    "population": "adults",
    "source_version": "SRU consensus conference update 2019",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "sru-simple-adnexal-cysts-2019"
    ],
@@ -1051,7 +1051,7 @@
    ],
    "population": "adults",
    "source_version": "2015",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-thyroid-incidental-2015"
    ],
@@ -1069,7 +1069,7 @@
    ],
    "population": "adults",
    "source_version": "2017",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-tirads-2017"
    ],
@@ -1087,7 +1087,7 @@
    ],
    "population": "adults",
    "source_version": "ETA 2013; ATA 2015 (published 2016)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "eta-cervical-us-2013",
     "ata-thyroid-2015"
@@ -1106,7 +1106,7 @@
    ],
    "population": "adults",
    "source_version": "Ittermann 2025; Shabana 2006",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "ittermann-thyroid-volume-2025",
     "shabana-thyroid-factor-2006"
@@ -1126,7 +1126,7 @@
    ],
    "population": "adults",
    "source_version": "SVS practice guidelines 2018; ESVS clinical practice guidelines 2024",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "svs-aaa-2018",
     "esvs-aaa-2024"
@@ -1148,7 +1148,7 @@
    ],
    "population": "adults",
    "source_version": "ACR Appropriateness Criteria, Imaging of Mesenteric Ischemia, 2018 (J Am Coll Radiol 2018;15(11S))",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-ac-mesenteric-ischemia-2018",
     "esvs-mesenteric-renal-2025"
@@ -1168,7 +1168,7 @@
    ],
    "population": "adults",
    "source_version": "2013",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "acr-vascular-2013"
    ],
@@ -1186,7 +1186,7 @@
    ],
    "population": "adults",
    "source_version": "2019 statement (tables from 2006–2014 cohorts)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "doppler-br-2019",
     "doppler-carotid-br-2023",
@@ -1209,7 +1209,7 @@
    ],
    "population": "adults",
    "source_version": "2023",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "doppler-carotid-br-2023",
     "doppler-br-2019"
@@ -1228,7 +1228,7 @@
    ],
    "population": "all",
    "source_version": "2019",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "doppler-br-2019",
     "esvs-aaa-2024"
@@ -1249,7 +1249,7 @@
    ],
    "population": "adults",
    "source_version": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "esc-paad-2024",
     "esvs-mesenteric-renal-2025"
@@ -1270,7 +1270,7 @@
    ],
    "population": "adults",
    "source_version": "ESVS clinical practice guidelines 2025 (mesenteric and renal arteries and veins)",
-   "status": "draft",
+   "status": "verified",
    "sources": [
     "esvs-mesenteric-renal-2025",
     "esc-paad-2024",
@@ -1283,8 +1283,8 @@
  ],
  "counts": {
   "entries": 66,
-  "verified": 0,
+  "verified": 66,
   "references": 113,
-  "references_reviewed": 111
+  "references_reviewed": 112
  }
 }

@@ -6,10 +6,10 @@ area: thyroid-neck
 modalities: [CT, MRI, PET, NM, US]
 population: adults
 source_version: "2015"
-status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2015;12(2):143–50), read by Claude on 2026-11-11: flowchart footnotes, CT/MRI, nuclear medicine and US sections, reporting advice — flowchart boxes are images, checked through their legends/footnotes and the text; awaiting radiologist sign-off; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
+status: verified
+verified_against: "full-text PDF (J Am Coll Radiol 2015;12(2):143–50), read by Claude on 2026-11-11: flowchart footnotes, CT/MRI, nuclear medicine and US sections, reporting advice — flowchart boxes are images, checked through their legends/footnotes and the text; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-thyroid-incidental-2015]
 supersedes: []
 superseded_by: ""

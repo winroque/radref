@@ -6,10 +6,10 @@ area: vascular
 modalities: [US]
 population: adults
 source_version: "2023"
-status: draft
-verified_against: "full-text PDFs read by Claude on 2026-11-11: DIC/CBR/SBACV 2023 (Arq Bras Cardiol 2023;120(10):e20230695; Tables 1–6, Boxes 3–9) and DIC/SBC 2019 (Tables 5, 7); 2026-11-12: Table 2 checked on the rendered page, §5.5.2 (DEGUM/EQUALIS, Gornik), Box 6 (Muraki) — every number of the entry found in the sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDFs read by Claude on 2026-11-11: DIC/CBR/SBACV 2023 (Arq Bras Cardiol 2023;120(10):e20230695; Tables 1–6, Boxes 3–9) and DIC/SBC 2019 (Tables 5, 7); 2026-11-12: Table 2 checked on the rendered page, §5.5.2 (DEGUM/EQUALIS, Gornik), Box 6 (Muraki) — every number of the entry found in the sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [doppler-carotid-br-2023, doppler-br-2019]
 supersedes: []
 superseded_by: ""

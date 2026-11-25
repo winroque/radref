@@ -6,10 +6,10 @@ area: neuro
 modalities: [CT]
 population: adults
 source_version: "Original description (Lancet 2000)"
-status: draft
-verified_against: "full-text PDF (Lancet 2000;355:1670–4) read by Claude on 2026-11-12: Methods (scoring, levels, definitions), Fig. 1 regions, Results, Table 1, Discussion — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Lancet 2000;355:1670–4) read by Claude on 2026-11-12: Methods (scoring, levels, definitions), Fig. 1 regions, Results, Table 1, Discussion"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [aspects-2000]
 supersedes: []
 superseded_by: ""

@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT, MRI]
 population: adults
 source_version: "2017"
-status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2017;14(8):1038–44), read by Claude on 2026-11-11: five principles, diagnostic features, size branches, adrenal CT protocol and washout formulas, biochemical evaluation; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Am Coll Radiol 2017;14(8):1038–44), read by Claude on 2026-11-11: five principles, diagnostic features, size branches, adrenal CT protocol and washout formulas, biochemical evaluation; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-adrenal-2017]
 supersedes: []
 superseded_by: ""

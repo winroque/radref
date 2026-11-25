@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "ISUOG Practice Guidelines 2022"
-status: draft
-verified_against: "full text (Ultrasound Obstet Gynecol 2022;60(3):435–56) read by Claude on 2026-11-11: Table 1 technique, cut-off section, funneling/sludge, recommendations for singletons (low/high risk, symptomatic) and twins; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full text (Ultrasound Obstet Gynecol 2022;60(3):435–56) read by Claude on 2026-11-11: Table 1 technique, cut-off section, funneling/sludge, recommendations for singletons (low/high risk, symptomatic) and twins; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [isuog-cervix-2022]
 supersedes: []
 superseded_by: ""

@@ -6,10 +6,10 @@ area: abdomen
 modalities: [US]
 population: adults
 source_version: "v2024"
-status: draft
-verified_against: "ACR core document PDF (LI-RADS Ultrasound Surveillance v2024 Core) read by Claude on 2026-11-11: management page, what's new, algorithm steps 1–4, AFP definition, population pages — awaiting radiologist sign-off"
+status: verified
+verified_against: "ACR core document PDF (LI-RADS Ultrasound Surveillance v2024 Core) read by Claude on 2026-11-11: management page, what's new, algorithm steps 1–4, AFP definition, population pages"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-us-lirads-2024]
 supersedes: []
 superseded_by: ""

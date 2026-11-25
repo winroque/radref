@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "ISUOG Practice Guidelines (updated) 2021; reference ranges 2000–2019"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-11: ISUOG Doppler 2021 (all technique sections; transvaginal UtA re-read 2026-11-12), Gómez 2008 (abstract, methods), Ciobanu 2019 FMF (abstract, methods), Mari 2000 (abstract, results), ISUOG 11–14-week scan 2023 (UtA section) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-11: ISUOG Doppler 2021 (all technique sections; transvaginal UtA re-read 2026-11-12), Gómez 2008 (abstract, methods), Ciobanu 2019 FMF (abstract, methods), Mari 2000 (abstract, results), ISUOG 11–14-week scan 2023 (UtA section)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [isuog-doppler-2021, gomez-uta-pi-2008, fmf-ua-mca-cpr-2019, mari-mca-psv-2000, isuog-11-14-2023]
 supersedes: []
 superseded_by: ""

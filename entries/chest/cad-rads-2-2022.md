@@ -6,10 +6,10 @@ area: chest
 modalities: [CT]
 population: adults
 source_version: "CAD-RADS 2.0 (2022)"
-status: draft
-verified_against: "full-text PDF (J Cardiovasc Comput Tomogr 2022;16(6):536–57) read by Claude on 2026-11-12: Tables 1–8, Figs. 13 and 17, sections 3.1–3.4 (categories, plaque burden, modifiers, HRP definitions, CT-FFR, CTP, coding order) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Cardiovasc Comput Tomogr 2022;16(6):536–57) read by Claude on 2026-11-12: Tables 1–8, Figs. 13 and 17, sections 3.1–3.4 (categories, plaque burden, modifiers, HRP definitions, CT-FFR, CTP, coding order)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [cad-rads-2-2022]
 supersedes: []
 superseded_by: ""

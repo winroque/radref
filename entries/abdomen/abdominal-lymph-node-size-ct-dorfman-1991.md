@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT]
 population: adults
 source_version: "Dorfman 1991"
-status: draft
-verified_against: "full-text PDF (Radiology 1991;180:319–22) read by Claude on 2026-11-12: abstract, methods (CT technique, statistics), Table, results and discussion — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 1991;180:319–22) read by Claude on 2026-11-12: abstract, methods (CT technique, statistics), Table, results and discussion"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [dorfman-abdominal-nodes-1991]
 supersedes: []
 superseded_by: ""

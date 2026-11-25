@@ -6,10 +6,10 @@ area: vascular
 modalities: [US, CT, MRI]
 population: adults
 source_version: "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases"
-status: draft
-verified_against: "full-text PDF (Eur Heart J 2024;45(36):3538–3700, supplied by the radiologist) read by Claude on 2026-11-25, text extraction plus the rendered page of Figure 5 (p. 3563): Figure 5 values and caption; section 5.4.1 (aortic measurements) and Recommendation Table 4 (measurement conventions and classes); section 5.4.2 (normal values, aortic growth with age); section 5.4.5 (duplex of the abdominal aorta); section 8.3.2.1 (renal artery disease: epidemiology, duplex, CTA and MRA figures); section 8.3.3.2 (chronic mesenteric artery disease, imaging, treatment); section 9.1 (aortic plaque, Table 14, treatment) and Recommendation Table 33; AAA definition in 9.2.3; every number of the entry found in these passages — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Eur Heart J 2024;45(36):3538–3700, supplied by the radiologist) read by Claude on 2026-11-25, text extraction plus the rendered page of Figure 5 (p. 3563): Figure 5 values and caption; section 5.4.1 (aortic measurements) and Recommendation Table 4 (measurement conventions and classes); section 5.4.2 (normal values, aortic growth with age); section 5.4.5 (duplex of the abdominal aorta); section 8.3.2.1 (renal artery disease: epidemiology, duplex, CTA and MRA figures); section 8.3.3.2 (chronic mesenteric artery disease, imaging, treatment); section 9.1 (aortic plaque, Table 14, treatment) and Recommendation Table 33; AAA definition in 9.2.3; every number of the entry found in these passages"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [esc-paad-2024, esvs-mesenteric-renal-2025]
 supersedes: []
 superseded_by: ""

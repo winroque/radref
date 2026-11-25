@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "ISUOG Practice Guidelines (updated) 2022"
-status: draft
-verified_against: "full text (Ultrasound Obstet Gynecol 2022;59(6):840–56) read by Claude on 2026-11-11: general considerations, timing, biometry, amniotic fluid, cord, multiples, Table 1, urinary tract, placenta and vasa previa sections; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full text (Ultrasound Obstet Gynecol 2022;59(6):840–56) read by Claude on 2026-11-11: general considerations, timing, biometry, amniotic fluid, cord, multiples, Table 1, urinary tract, placenta and vasa previa sections; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [isuog-midtrimester-2022]
 supersedes: []
 superseded_by: ""

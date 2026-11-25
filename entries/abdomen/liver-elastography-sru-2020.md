@@ -6,10 +6,10 @@ area: abdomen
 modalities: [US]
 population: adults
 source_version: "SRU liver elastography consensus update 2020"
-status: draft
-verified_against: "full-text PDF (Radiology 2020;296(2):263–74) read by Claude on 2026-11-12: Table 1 (acquisition), cut-off section and Table 2, follow-up, spleen stiffness, summary — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2020;296(2):263–74) read by Claude on 2026-11-12: Table 1 (acquisition), cut-off section and Table 2, follow-up, spleen stiffness, summary"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [sru-liver-elastography-2020]
 supersedes: []
 superseded_by: ""

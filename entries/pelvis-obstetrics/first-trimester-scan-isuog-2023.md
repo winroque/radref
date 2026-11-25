@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "ISUOG Practice Guidelines (updated) 2023"
-status: draft
-verified_against: "full text (Ultrasound Obstet Gynecol 2023;61(1):127–43) read by Claude on 2026-11-11: biometry, CRL, NT technique, Table 1 minimum requirements, Table 3 screening strategies, placenta/scar, pre-eclampsia screening; 2026-11-12: CRL technique (p. 3), amnion (p. 6), tricuspid regurgitation (p. 9) — the detailed anatomy table (Table 2) is summarized only — awaiting radiologist sign-off"
+status: verified
+verified_against: "full text (Ultrasound Obstet Gynecol 2023;61(1):127–43) read by Claude on 2026-11-11: biometry, CRL, NT technique, Table 1 minimum requirements, Table 3 screening strategies, placenta/scar, pre-eclampsia screening; 2026-11-12: CRL technique (p. 3), amnion (p. 6), tricuspid regurgitation (p. 9) — the detailed anatomy table (Table 2) is summarized only"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [isuog-11-14-2023, ig21-crl-2014]
 supersedes: []
 superseded_by: ""

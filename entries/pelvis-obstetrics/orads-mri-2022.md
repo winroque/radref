@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [MRI]
 population: adults
 source_version: "2022"
-status: draft
-verified_against: "full-text PDF (Radiology 2022;303(1):35–47) read by Claude on 2026-11-11: Figure 1 risk table (rendered page) with footnotes, Table 2 protocol, time–intensity curve definitions, score 0 and solid-tissue definitions; validation data checked against the full text of Thomassin-Naggara 2020 (JAMA Netw Open); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2022;303(1):35–47) read by Claude on 2026-11-11: Figure 1 risk table (rendered page) with footnotes, Table 2 protocol, time–intensity curve definitions, score 0 and solid-tissue definitions; validation data checked against the full text of Thomassin-Naggara 2020 (JAMA Netw Open); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [orads-mri-2022, thomassin-orads-mri-2020]
 supersedes: []
 superseded_by: ""

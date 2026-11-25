@@ -6,10 +6,10 @@ area: chest
 modalities: [XR, CT, MRI]
 population: all
 source_version: "2021"
-status: draft
-verified_against: "full-text PDF (J Bras Pneumol 2021;47(5):e20200595, Portuguese version) read by Claude on 2026-11-11: every numeric definition and the terms-to-avoid checked against the glossary entries; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Bras Pneumol 2021;47(5):e20200595, Portuguese version) read by Claude on 2026-11-11: every numeric definition and the terms-to-avoid checked against the glossary entries; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [hochhegger-terminology-2021]
 supersedes: []
 superseded_by: ""

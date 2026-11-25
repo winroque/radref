@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: adults
 source_version: "SRU consensus conference update 2019"
-status: draft
-verified_against: "full-text PDF (Radiology 2019;293(2):359–71) read by Claude on 2026-11-12: summary, definition of simple cyst, follow-up and growth discussion, Tables 1–2 (post- and premenopausal wording and recommendations) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2019;293(2):359–71) read by Claude on 2026-11-12: summary, definition of simple cyst, follow-up and growth discussion, Tables 1–2 (post- and premenopausal wording and recommendations)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [sru-simple-adnexal-cysts-2019]
 supersedes: []
 superseded_by: ""

@@ -6,10 +6,10 @@ area: chest
 modalities: [CT]
 population: adults
 source_version: "v2022 (released November 2022; article 2024)"
-status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11 (Tables 1–4 and text), plus the ACR Lung-RADS v2022 assessment-category table with notes and the ACR 'Summary of Changes and Updates' (both November 2022) and Petranović 2026 (Cancer Imaging review); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Am Coll Radiol 2024;21(3):473–88) read by Claude on 2026-11-11 (Tables 1–4 and text), plus the ACR Lung-RADS v2022 assessment-category table with notes and the ACR 'Summary of Changes and Updates' (both November 2022) and Petranović 2026 (Cancer Imaging review); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [lungrads-2022, acr-lungrads-2022-table, petranovic-lungrads-2026]
 supersedes: []
 superseded_by: ""

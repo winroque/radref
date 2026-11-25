@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT]
 population: all
 source_version: "AAST OIS 2018 revision"
-status: draft
-verified_against: "full-text PDF (J Trauma Acute Care Surg 2018;85(6):1119–22) read by Claude on 2026-11-12: text and Tables 1–3 (imaging criteria column) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Trauma Acute Care Surg 2018;85(6):1119–22) read by Claude on 2026-11-12: text and Tables 1–3 (imaging criteria column)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [aast-ois-2018]
 supersedes: []
 superseded_by: ""

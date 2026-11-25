@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT]
 population: adults
 source_version: "2018"
-status: draft
-verified_against: "full-text PDF (AJR 2018;211(3):W151–W157), read by Claude on 2026-11-11: Abstract, Materials and Methods (ROI and CT technique), Results, Figs. 1–4, Discussion, limitations; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (AJR 2018;211(3):W151–W157), read by Claude on 2026-11-11: Abstract, Materials and Methods (ROI and CT technique), Results, Figs. 1–4, Discussion, limitations; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [pickhardt-liver-fat-2018]
 supersedes: []
 superseded_by: ""

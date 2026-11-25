@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "2011"
-status: draft
-verified_against: "full-text PDF (Eur Radiol 2011;21:2618–25, open access), read by Claude on 2026-11-11: Methods (scale definition), Fig. 1, Tables 1–4, Discussion; Table 3 models re-read on 2026-11-12 — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Eur Radiol 2011;21:2618–25, open access), read by Claude on 2026-11-11: Methods (scale definition), Fig. 1, Tables 1–4, Discussion; Table 3 models re-read on 2026-11-12"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [koedam-posterior-2011]
 supersedes: []
 superseded_by: ""

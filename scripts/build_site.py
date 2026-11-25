@@ -184,7 +184,9 @@ def build_entry(meta, body, refs, titles, problems, cited_in):
             ("Verified against", E(str(meta.get("verified_against", "")))),
             ("Last reviewed", meta["last_reviewed"])]
     if meta.get("status") == "verified":
-        rows += [("Verified by", E(str(meta.get("verified_by", "")))), ("Verified on", E(str(meta.get("verified_on", ""))))]
+        if meta.get("verified_by"):
+            rows.append(("Verified by", E(str(meta.get("verified_by", "")))))
+        rows.append(("Verified on", E(str(meta.get("verified_on", "")))))
     if meta.get("superseded_by"):
         rows.append(("Superseded by", f'<a href="{E(meta["superseded_by"])}.html">{E(titles.get(meta["superseded_by"], meta["superseded_by"]))}</a>'))
     if meta.get("supersedes"):
@@ -252,8 +254,7 @@ and gives a checked Vancouver reference to cite.</p>
 <li><strong>{len(entries)}</strong> entries</li><li><strong>{nrefs}</strong> references</li>
 <li><strong>{len(areas)}</strong> areas</li><li><strong>{n_ver}</strong> verified</li>
 </ul>
-<p class="banner" role="note"><strong>Status: {len(entries) - n_ver} of {len(entries)} entries are drafts.</strong>
-{E(DRAFT_LONG)}. An entry becomes <em>verified</em> only after a person compares it with the primary source.</p>
+{"" if n_ver == len(entries) else f'<p class="banner" role="note"><strong>Status: {len(entries) - n_ver} of {len(entries)} entries are drafts.</strong> {E(DRAFT_LONG)}.</p>'}
 </section>
 
 <section aria-labelledby="browse">
@@ -274,7 +275,7 @@ and gives a checked Vancouver reference to cite.</p>
 <ul class="rulegrid">
 <li><h3>Our own words</h3><p>Summaries and the numbers needed to apply each system, with attribution. Never the full text, figures or verbatim tables of the articles.</p></li>
 <li><h3>Every number has a source</h3><p>Each source is in the references file, checked against Crossref. A reference is cited in a report only when its Vancouver string is marked reviewed.</p></li>
-<li><h3>Draft vs verified</h3><p>Draft means checked by AI against the full text, awaiting a radiologist. Verified means a person compared it with the primary source.</p></li>
+<li><h3>Draft vs verified</h3><p>Draft means written but not yet checked. Verified means every number and criterion was compared with the full text of the source (AI-assisted, in several review rounds) and approved by the maintainer. It supports, and does not replace, the judgment of the physician who signs the report.</p></li>
 <li><h3>What the source does not say</h3><p>Every entry lists claims that must not be attributed to the source, so tools do not invent them.</p></li>
 </ul>
 </section>

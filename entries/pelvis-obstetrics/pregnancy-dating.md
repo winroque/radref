@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "ACOG Committee Opinion 700 (2017); ISUOG 2019 and 2023; INTERGROWTH-21st CRL standard (2014); Robinson & Fleming 1975"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (full text; Tables I–III legible), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-11: ACOG Committee Opinion 700 (Table 1 and text), Robinson & Fleming 1975, Papageorghiou 2014 (INTERGROWTH-21st CRL), Hadlock 1984 (full text; Tables I–III legible), ISUOG biometry 2019 introduction, ISUOG 11–14-week scan 2023 (CRL section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acog-co700-2017, robinson-crl-1975, ig21-crl-2014, hadlock-ga-1984, isuog-biometry-2019, isuog-11-14-2023]
 supersedes: []
 superseded_by: ""

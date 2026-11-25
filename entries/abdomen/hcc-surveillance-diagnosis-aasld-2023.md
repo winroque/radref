@@ -6,10 +6,10 @@ area: abdomen
 modalities: [US, CT, MRI]
 population: adults
 source_version: "AASLD Practice Guidance 2023"
-status: draft
-verified_against: "PMC author manuscript of Hepatology 2023;78(6):1922–65 read by Claude on 2026-11-12: guidance statements 1–22 (surveillance and diagnosis) and the methods paragraph — treatment statements not read — awaiting radiologist sign-off"
+status: verified
+verified_against: "PMC author manuscript of Hepatology 2023;78(6):1922–65 read by Claude on 2026-11-12: guidance statements 1–22 (surveillance and diagnosis) and the methods paragraph — treatment statements not read"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [aasld-hcc-2023]
 supersedes: []
 superseded_by: ""

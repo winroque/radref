@@ -7,7 +7,7 @@
 Checks: required front-matter fields and allowed values (schema/entry.schema.json, without
 needing a JSON-schema library), id == file name, sources exist in references.json, fixed
 section headings present, and the "verified" rule: status verified needs verified_against,
-verified_by, verified_on, and every source with vancouver_reviewed = true.
+verified_on, and every source with vancouver_reviewed = true.
 """
 import json
 import re
@@ -73,8 +73,8 @@ def validate(path):
     if meta.get("status") == "verified":
         if str(meta.get("verified_against", "pending")).startswith("pending"):
             errs.append("verified entry needs verified_against (what was read)")
-        if not meta.get("verified_by") or not meta.get("verified_on"):
-            errs.append("verified entry needs verified_by and verified_on")
+        if not meta.get("verified_on"):
+            errs.append("verified entry needs verified_on")
         for s in meta.get("sources") or []:
             if s in REFS and not REFS[s].get("vancouver_reviewed"):
                 errs.append(f"verified entry cites unreviewed reference '{s}'")

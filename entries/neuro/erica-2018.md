@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "2018"
-status: draft
-verified_against: "full-text PDF (online-ahead version, no final pagination) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 3 score definitions, diagnostic accuracy results; additions of 2026-11-12 from the independent pre-check of the same PDF — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (online-ahead version, no final pagination) read by Claude on 2026-11-11: Methods (3D T1, coronal), Fig. 3 score definitions, diagnostic accuracy results; additions of 2026-11-12 from the independent pre-check of the same PDF"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [enkirch-erica-2018]
 supersedes: []
 superseded_by: ""

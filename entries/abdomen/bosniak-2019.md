@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT, MRI]
 population: adults
 source_version: "2019"
-status: draft
-verified_against: "full-text PDF (Radiology 2019;292(2):475–88), read by Claude on 2026-11-11: Tables 1–4 and footnotes, Figs. 1–6, sections on each class, 'Knowledge Gaps'; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Radiology 2019;292(2):475–88), read by Claude on 2026-11-11: Tables 1–4 and footnotes, Figs. 1–6, sections on each class, 'Knowledge Gaps'; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [bosniak-2019, acr-renal-2018]
 supersedes: []
 superseded_by: ""

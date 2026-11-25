@@ -6,10 +6,10 @@ area: abdomen
 modalities: [US]
 population: adults
 source_version: "ESGAR/EAES/EFISDS/ESGE update 2022 (of 2017)"
-status: draft
-verified_against: "full-text PDF (Eur Radiol 2022;32:3358–68) read by Claude on 2026-11-12: main recommendations 1–8 with GRADE strength and supporting text on scope and definitions (p. 3360) and monitoring (pp. 3364–65) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Eur Radiol 2022;32:3358–68) read by Claude on 2026-11-12: main recommendations 1–8 with GRADE strength and supporting text on scope and definitions (p. 3360) and monitoring (pp. 3364–65)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [esgar-gallbladder-polyps-2022]
 supersedes: []
 superseded_by: ""

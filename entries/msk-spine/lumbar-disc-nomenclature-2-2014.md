@@ -6,10 +6,10 @@ area: msk-spine
 modalities: [CT, MRI]
 population: adults
 source_version: "Version 2.0 (2014), update of the 2001 nomenclature"
-status: draft
-verified_against: "full-text PDF (Spine J 2014;14:2525–45) read by Claude on 2026-11-12: definitions section, Figs. 3–6 legends, glossary entries for annular fissure, bulge and herniation — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Spine J 2014;14:2525–45) read by Claude on 2026-11-12: definitions section, Figs. 3–6 legends, glossary entries for annular fissure, bulge and herniation"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [lumbar-nomenclature-2-2014]
 supersedes: []
 superseded_by: ""

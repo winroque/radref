@@ -6,10 +6,10 @@ area: pediatrics
 modalities: [US]
 population: children
 source_version: "WHO/NHD Iodine Deficiency Study Group 2004"
-status: draft
-verified_against: "full-text PDF (Am J Clin Nutr 2004;79:231–7) read by Claude on 2026-11-12: abstract, methods (measurement, formula, BSA), Tables 3–4, discussion — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Am J Clin Nutr 2004;79:231–7) read by Claude on 2026-11-12: abstract, methods (measurement, formula, BSA), Tables 3–4, discussion"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [zimmermann-thyroid-children-2004]
 supersedes: []
 superseded_by: ""

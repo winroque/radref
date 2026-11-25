@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "1987"
-status: draft
-verified_against: "full-text PDF (AJR 1987;149(2):351–6, ARRS online reprint) read by Claude on 2026-11-11: grading paragraph (PVH and DWMH), results on frequency and risk factors; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (AJR 1987;149(2):351–6, ARRS online reprint) read by Claude on 2026-11-11: grading paragraph (PVH and DWMH), results on frequency and risk factors; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [fazekas-1987]
 supersedes: []
 superseded_by: ""

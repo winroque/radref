@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: adults
 source_version: "ACOG CO 734 (2018); SRU consensus 2001; Smith-Bindman 2004; SOGC 451 (2024); Chee 2025 meta-analysis; Doll 2021/2024"
-status: draft
-verified_against: "full texts read by Claude: ACOG CO 734 (2026-11-11 — recommendations, Tables 1–2, technique, women without bleeding); on 2026-11-12 SRU 2001 (J Ultrasound Med 2001;20:1025–36, whole text), Smith-Bindman 2004 (Ultrasound Obstet Gynecol 2004;24:558–65, whole text including Table 2), Chee 2025 (abstract and results), Doll 2021 and Doll 2024 (abstracts and key results), SOGC 451 (J Obstet Gynaecol Can 2024;46(7):102591 — key messages, summary statements, recommendations 1–10, evidence section) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude: ACOG CO 734 (2026-11-11 — recommendations, Tables 1–2, technique, women without bleeding); on 2026-11-12 SRU 2001 (J Ultrasound Med 2001;20:1025–36, whole text), Smith-Bindman 2004 (Ultrasound Obstet Gynecol 2004;24:558–65, whole text including Table 2), Chee 2025 (abstract and results), Doll 2021 and Doll 2024 (abstracts and key results), SOGC 451 (J Obstet Gynaecol Can 2024;46(7):102591 — key messages, summary statements, recommendations 1–10, evidence section)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acog-co734-2018, sru-postmenopausal-bleeding-2001, smith-bindman-endometrium-2004, sogc-endometrium-451-2024, chee-endometrium-2025, doll-tvus-simulated-2021, doll-tvus-black-2024]
 supersedes: []
 superseded_by: ""

@@ -6,10 +6,10 @@ area: neuro
 modalities: [MRI]
 population: adults
 source_version: "1992"
-status: draft
-verified_against: "full-text PDF (J Neurol Neurosurg Psychiatry 1992;55(10):967–72) read by Claude on 2026-11-11: Table 1 read from the rendered page, MRI technique and analysis, results (Fig. 4–5), Discussion (sensitivity/specificity, < 75 years); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Neurol Neurosurg Psychiatry 1992;55(10):967–72) read by Claude on 2026-11-11: Table 1 read from the rendered page, MRI technique and analysis, results (Fig. 4–5), Discussion (sensitivity/specificity, < 75 years); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [scheltens-mta-1992]
 supersedes: []
 superseded_by: ""

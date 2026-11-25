@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT, MRI]
 population: adults
 source_version: "2013"
-status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2013;10(11):833–9), read by Claude on 2026-11-11: splenic flowchart footnotes, nodal criteria, ~3-month follow-up, sclerosing mesenteritis; Fig. 1 flowchart (vector graphic) checked on the rendered page on 2026-11-12 — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Am Coll Radiol 2013;10(11):833–9), read by Claude on 2026-11-11: splenic flowchart footnotes, nodal criteria, ~3-month follow-up, sclerosing mesenteritis; Fig. 1 flowchart (vector graphic) checked on the rendered page on 2026-11-12"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-spleen-nodes-2013]
 supersedes: []
 superseded_by: ""

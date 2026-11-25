@@ -56,7 +56,7 @@ Use `templates/entry-template.md`. Front matter fields are defined in
 | Add references with `scripts/add_reference.py` | anyone / AI | `vancouver_reviewed: false` |
 | Check each Vancouver string against the article's first page (authors, title capitalization, journal abbreviation, print year, pages) | a person | `vancouver_reviewed: true` |
 | Write the entry from the **full text** | AI or person | `status: draft`, `verified_against: pending` |
-| Compare every number and criterion with the full text; fill `verified_against` with what was read (e.g. "full text PDF, Tables 1–3, Fig. 2") | the radiologist | `status: verified`, `verified_by`, `verified_on` |
+| Compare every number and criterion with the full text; fill `verified_against` with what was read (e.g. "full text PDF, Tables 1–3, Fig. 2") | the maintainer (AI-assisted checks against the full text are accepted) | `status: verified`, `verified_on` (`verified_by` optional) |
 | Re-check when the source publishes a new version | anyone | new entry or `superseded_by` |
 
 `scripts/build_index.py` refuses `status: verified` when `verified_against` is pending or

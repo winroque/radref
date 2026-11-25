@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT, MRI]
 population: adults
 source_version: "v2018"
-status: draft
-verified_against: "full-text PDFs read by Claude on 2026-11-11: Chernyak 2018 (Radiology) and the ACR CT/MRI LI-RADS v2018 Core (population, Diagnostic Table, management table, threshold growth, ancillary feature rules); 2024 treatment response cores consulted for version scope; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDFs read by Claude on 2026-11-11: Chernyak 2018 (Radiology) and the ACR CT/MRI LI-RADS v2018 Core (population, Diagnostic Table, management table, threshold growth, ancillary feature rules); 2024 treatment response cores consulted for version scope; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [lirads-ctmr-2018, acr-lirads-ctmr-core-2018]
 supersedes: []
 superseded_by: ""

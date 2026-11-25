@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "SRU 2012 consensus (published 2013); review 2015"
-status: draft
-verified_against: "full-text PDFs read by Claude: Doubilet 2013 (NEJM; Table 1 terminology, tests and minimum exam quality; Table 2 diagnostic/suspicious criteria; discriminatory-hCG passage) on 2026-11-11/12, and Rodgers 2015 (RadioGraphics, Tables 1–4; Fig. 19 checked on the rendered page 2026-11-12). The rest of the NEJM PUL/ectopic discussion was not read — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDFs read by Claude: Doubilet 2013 (NEJM; Table 1 terminology, tests and minimum exam quality; Table 2 diagnostic/suspicious criteria; discriminatory-hCG passage) on 2026-11-11/12, and Rodgers 2015 (RadioGraphics, Tables 1–4; Fig. 19 checked on the rendered page 2026-11-12). The rest of the NEJM PUL/ectopic discussion was not read"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [doubilet-nonviable-2013, rodgers-early-pregnancy-2015]
 supersedes: []
 superseded_by: ""

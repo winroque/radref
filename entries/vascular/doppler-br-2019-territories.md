@@ -6,10 +6,10 @@ area: vascular
 modalities: [US]
 population: all
 source_version: "2019"
-status: draft
-verified_against: "full-text PDF (Arq Bras Cardiol 2019;112(6):809–49) read by Claude on 2026-11-11: Tables 9, 11, 13, 15, 17–19, 22–23, 25–27 and related text; ESVS 2024 (p. 209) for the OTO–ITI difference — every number of the entry found in the sources; additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Arq Bras Cardiol 2019;112(6):809–49) read by Claude on 2026-11-11: Tables 9, 11, 13, 15, 17–19, 22–23, 25–27 and related text; ESVS 2024 (p. 209) for the OTO–ITI difference — every number of the entry found in the sources; additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [doppler-br-2019, esvs-aaa-2024]
 supersedes: []
 superseded_by: ""

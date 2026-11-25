@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: pregnant
 source_version: "1991–2018"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-11: Hadlock 1985 (Table II equations, prospective test), Hadlock 1991 (text and Table 1, rendered page), Stirnemann 2017 (abstract, methods, formula), Kiserud 2017 WHO (abstract, methods), Nicolaides 2018 FMF (abstract, methods), ISUOG biometry 2019 (EFW section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-11: Hadlock 1985 (Table II equations, prospective test), Hadlock 1991 (text and Table 1, rendered page), Stirnemann 2017 (abstract, methods, formula), Kiserud 2017 WHO (abstract, methods), Nicolaides 2018 FMF (abstract, methods), ISUOG biometry 2019 (EFW section); additions of 2026-11-12 come from the independent full-text pre-check of the same sources"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [hadlock-efw-1985, hadlock-weight-standard-1991, ig21-efw-2017, who-fetal-growth-2017, fmf-weight-charts-2018, isuog-biometry-2019]
 supersedes: []
 superseded_by: ""

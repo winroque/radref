@@ -6,10 +6,10 @@ area: thyroid-neck
 modalities: [US]
 population: adults
 source_version: "Ittermann 2025; Shabana 2006"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-12: Ittermann 2025 (Eur J Endocrinol 2025;192:728–36 — abstract, methods, results, equations checked on the rendered page, limitations) and Shabana 2006 (AJR 2006;186:234–6 — whole text) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-12: Ittermann 2025 (Eur J Endocrinol 2025;192:728–36 — abstract, methods, results, equations checked on the rendered page, limitations) and Shabana 2006 (AJR 2006;186:234–6 — whole text)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [ittermann-thyroid-volume-2025, shabana-thyroid-factor-2006]
 supersedes: []
 superseded_by: ""

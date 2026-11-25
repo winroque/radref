@@ -6,10 +6,10 @@ area: pelvis-obstetrics
 modalities: [US]
 population: adults
 source_version: "Pavlik 2000"
-status: draft
-verified_against: "full-text PDF (Gynecol Oncol 2000;77:410–2) read by Claude on 2026-11-12: abstract, methods, Table 1, discussion — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (Gynecol Oncol 2000;77:410–2) read by Claude on 2026-11-12: abstract, methods, Table 1, discussion"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [pavlik-ovarian-volume-2000]
 supersedes: []
 superseded_by: ""

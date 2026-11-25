@@ -12,9 +12,9 @@ This repository holds **summaries in our own words and the numbers needed to app
 system** — never the full text, figures or verbatim tables of the articles.
 
 > Status: **public, under construction.** Started 2026-11-06 from the reference files of the
-> Digitado-IA reporting tool. Every entry is still `status: draft` (summaries checked by AI
-> against the full texts, awaiting the radiologist's sign-off) and must not be used to cite in a
-> report until marked `verified`. Licence: see [LICENSE.md](LICENSE.md).
+> Digitado-IA reporting tool. Entries marked `verified` were compared with the full text of
+> their sources (AI-assisted, several review rounds) and approved by the maintainer; entries
+> marked `draft` must not be used to cite in a report. Licence: see [LICENSE.md](LICENSE.md).
 
 Browse it online: **https://winroque.github.io/radref/** (static site built from this repository by `scripts/build_site.py`).
 

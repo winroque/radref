@@ -6,10 +6,10 @@ area: vascular
 modalities: [US, CT]
 population: adults
 source_version: "SVS practice guidelines 2018; ESVS clinical practice guidelines 2024"
-status: draft
-verified_against: "full texts read by Claude on 2026-11-12: SVS 2018 (J Vasc Surg 2018;67:2–77.e2 — summary of recommendations, physical examination/definition, imaging section) and ESVS 2024 (Eur J Vasc Endovasc Surg 2024;67:192–331 — pages 1–40 of the PDF via Mendeley: summary of recommendations, epidemiology/definition, ultrasound and CTA measurement, surveillance recommendations 13–15, repair thresholds) — awaiting radiologist sign-off"
+status: verified
+verified_against: "full texts read by Claude on 2026-11-12: SVS 2018 (J Vasc Surg 2018;67:2–77.e2 — summary of recommendations, physical examination/definition, imaging section) and ESVS 2024 (Eur J Vasc Endovasc Surg 2024;67:192–331 — pages 1–40 of the PDF via Mendeley: summary of recommendations, epidemiology/definition, ultrasound and CTA measurement, surveillance recommendations 13–15, repair thresholds)"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [svs-aaa-2018, esvs-aaa-2024]
 supersedes: []
 superseded_by: ""

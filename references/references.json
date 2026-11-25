@@ -157,10 +157,10 @@
   "issue": "",
   "pages": "",
   "vancouver": "American College of Radiology. CT/MRI LI-RADS® v2018 core. Reston (VA): American College of Radiology; 2018.",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "",
   "license_note": "ACR — proprietary core document; summarize, do not reproduce tables.",
-  "notes": "Citation form from Digitado-IA classificacoes.md. URL is the LI-RADS landing page; the core PDF moves between ACR hosts."
+  "notes": "Citation form checked 2026-11-25 against the title page of the ACR CT/MRI LI-RADS v2018 core document (no DOI; corporate author, publisher, year). Citation form from Digitado-IA classificacoes.md. URL is the LI-RADS landing page; the core PDF moves between ACR hosts."
  },
  {
   "id": "acr-liver-2017",

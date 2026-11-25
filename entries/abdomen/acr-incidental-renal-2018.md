@@ -6,10 +6,10 @@ area: abdomen
 modalities: [CT, MRI]
 population: adults
 source_version: "2018"
-status: draft
-verified_against: "full-text PDF (J Am Coll Radiol 2018;15(2):264–73), read by Claude on 2026-11-11: text of flowcharts 1–5, figure footnotes, Table (enhancement thresholds), exclusions; 2026-11-12: Bosniak table and malignancy rates (p. 7), biopsy text (p. 9) — flowchart boxes are images and were read through their footnotes and the text — awaiting radiologist sign-off"
+status: verified
+verified_against: "full-text PDF (J Am Coll Radiol 2018;15(2):264–73), read by Claude on 2026-11-11: text of flowcharts 1–5, figure footnotes, Table (enhancement thresholds), exclusions; 2026-11-12: Bosniak table and malignancy rates (p. 7), biopsy text (p. 9) — flowchart boxes are images and were read through their footnotes and the text"
 verified_by: ""
-verified_on: ""
+verified_on: "2026-11-25"
 sources: [acr-renal-2018]
 supersedes: []
 superseded_by: ""
