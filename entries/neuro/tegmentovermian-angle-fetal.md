@@ -7,14 +7,14 @@ modalities: [US, MRI]
 population: pregnant
 source_version: "Volpe 2012; Contro 2014; Chapman 2018; Nagaraj 2021; Hiremath 2026"
 status: draft
-verified_against: "Hiremath 2026 full-text PDF and online supplement (Figs S1–S11) read by Claude on 2026-11-13: pp. 2–5, Table 1, Figs 1–4, Fig S3, Fig S11; Volpe 2012, Contro 2014 and Chapman 2018: PubMed abstracts only (full text not seen); Nagaraj 2021: PubMed abstract plus the PMC full-text page read through a web-fetch summary with quotes (PDF not seen) — awaiting radiologist sign-off"
+verified_against: "Re-check of 2026-11-25 by Claude: Volpe 2012, Contro 2014 and Chapman 2018 — abstracts and bibliographic records on PubMed (every number of the entry that comes from these three sources was found in the abstracts; full texts not available); Nagaraj 2021 — PubMed abstract and the PMC full-text page (web fetch; Abstract, Results, Discussion, Conclusions, limitations; PDF not seen), including the origin of the 18° threshold (Volpe, via the Discussion), the 80° statement and the Chapman mean; Hiremath 2026 — full-text PDF and online supplement were read on 2026-11-13 (pp. 2–5, Table 1, Figs 1–4, S3, S11) but could not be re-read on 2026-11-25 (closed access, PDF not available in the review environment), so the Hiremath items were not re-verified; the Chapman-attributed limits of 12° and 8° (cited by Hiremath) remain unconfirmed at the source — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [hiremath-posterior-fossa-2026, volpe-bv-angle-2012, contro-open-fourth-ventricle-2014, chapman-posterior-fossa-mri-2018, nagaraj-dandy-walker-mri-2021]
 supersedes: []
 superseded_by: ""
 related: [mid-trimester-scan-isuog-2022, fetal-biometry-isuog-2019]
-last_reviewed: 2026-11-13
+last_reviewed: 2026-11-25
 ---
 
 # Tegmentovermian (brainstem–vermis) angle — fetal posterior fossa
@@ -81,7 +81,7 @@ last_reviewed: 2026-11-13
 | US, from mid-gestation | BV > 45° strongly suggests DWM; < 30° favours BPC | [volpe-bv-angle-2012] |
 | US, 15–18 weeks | BV ≥ 45° carries a very high risk of severe posterior fossa malformation | [contro-open-fourth-ventricle-2014] |
 | MRI | > 18° = elevated (study inclusion threshold, taken from the US work of Volpe) | [nagaraj-dandy-walker-mri-2021] |
-| MRI | ≥ 80° helps separate classic DWM from VH and Blake pouch remnant, regardless of GA; severe forms > 80°, milder forms > 18° | [nagaraj-dandy-walker-mri-2021] |
+| MRI | A TVA of ≥ 80° (Conclusions) helps separate classic DWM from VH and Blake pouch remnant, regardless of GA; the Discussion puts severe enlargement at > 80° and milder forms at > 18° | [nagaraj-dandy-walker-mri-2021] |
 
 ## 4. Management
 
@@ -118,6 +118,10 @@ last_reviewed: 2026-11-13
   preserved cerebellar height and vermian ratio. [hiremath-posterior-fossa-2026, p. 5]
 - Nagaraj does not describe the landmarks; it refers to the method of Chapman et al.
   [nagaraj-dandy-walker-mri-2021]
+- Nagaraj writes the 80° threshold as ≥ 80° in the Conclusions and > 80° in the Discussion, while its
+  own DWM range starts at 79°; it also reports that the 18° cut-off may have excluded fetuses with
+  small Blake pouches and that 11 fetuses with a small vermis but a normal TVA were excluded.
+  [nagaraj-dandy-walker-mri-2021]
 
 ## 6. What the source does not say
 
@@ -144,8 +148,8 @@ last_reviewed: 2026-11-13
   Chapman full text is read. [hiremath-posterior-fossa-2026, p. 3]
   [chapman-posterior-fossa-mri-2018]
 - **What counts as abnormal on MRI:** Nagaraj uses > 18° (from US data), while the MRI normal
-  mean is 2.5 ± 2.3° and the limits cited by Hiremath are 8–12°. Nagaraj itself notes the
-  contrast between its threshold and the Chapman normal data. [nagaraj-dandy-walker-mri-2021]
+  mean is 2.5 ± 2.3° and the limits cited by Hiremath are 8–12°. The Nagaraj Discussion itself
+  says that its 18° cut-off conflicts with the more recent MRI normative data (Chapman mean 2.5°). [nagaraj-dandy-walker-mri-2021]
   [chapman-posterior-fossa-mri-2018] [hiremath-posterior-fossa-2026, p. 3]
 - Other morphometry studies (normal mid-trimester BV and brainstem–tentorium angles; hindbrain
   morphometry with choroid plexus position) exist and were not read for this entry.
@@ -163,3 +167,4 @@ last_reviewed: 2026-11-13
 | Date | Change | By |
 |---|---|---|
 | 2026-11-13 | Created from Hiremath 2026 (full text and supplement) and the Volpe, Contro, Chapman and Nagaraj abstracts, after checking a Radiopaedia summary supplied by the radiologist | Claude |
+| 2026-11-25 | Re-check against abstracts (PubMed) and the Nagaraj PMC page; Nagaraj 80°/18° wording and limitations made precise; verified_against rewritten; Hiremath not re-read | Claude |

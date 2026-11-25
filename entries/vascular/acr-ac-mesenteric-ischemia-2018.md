@@ -7,14 +7,14 @@ modalities: [CT, MRI, US, XR]
 population: adults
 source_version: "ACR Appropriateness Criteria, Imaging of Mesenteric Ischemia, 2018 (J Am Coll Radiol 2018;15(11S))"
 status: draft
-verified_against: "pending — written by Claude on 2026-11-18 from the full-text PDF supplied by the radiologist: abstract, Variants 1 and 2 with ratings, discussion of procedures (radiography, CTA, CT, MRA, arteriography, US); awaiting radiologist sign-off"
+verified_against: "Not fully re-verified on 2026-11-25. Re-checked that day by Claude: the abstract (PubMed PMID 30392602: CTA of the abdomen and pelvis most appropriate for both acute and chronic ischaemia; chronic ischaemia typically from occlusion or severe stenosis of at least two main mesenteric vessels) and the bibliographic data. Not re-checked: the rating table (Variants 1 and 2), the pathophysiology percentages and the figures quoted from the discussion (sensitivities, 25% normal radiographs, 19% change in care), which were taken on 2026-11-18 from the full-text PDF supplied by the radiologist; the ACR narrative page and the publisher PDF were not accessible to the review environment (the ACR page returned no content; the JACR PDF is behind an anti-bot check), so those items still need a person to compare them with the PDF — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [acr-ac-mesenteric-ischemia-2018, esvs-mesenteric-renal-2025]
 supersedes: []
 superseded_by: ""
 related: [esvs-mesenteric-renal-2025, esc-paad-2024]
-last_reviewed: 2026-11-18
+last_reviewed: 2026-11-25
 ---
 
 # Imaging of mesenteric ischaemia — ACR AC 2018
@@ -108,3 +108,4 @@ controversy on angiography before surgery when peritoneal signs are present.
 | Date | Change | By |
 |---|---|---|
 | 2026-11-18 | Created from the full text supplied by the radiologist | Claude |
+| 2026-11-25 | Re-check attempted: only the abstract and bibliographic data could be confirmed; ratings and discussion numbers not re-verified (source not accessible); verified_against rewritten | Claude |

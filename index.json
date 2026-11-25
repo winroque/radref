@@ -622,7 +622,7 @@
    ],
    "superseded_by": "",
    "path": "entries/neuro/tegmentovermian-angle-fetal.md",
-   "last_reviewed": "2026-11-13"
+   "last_reviewed": "2026-11-25"
   },
   {
    "id": "recist-1-1-2009",
@@ -1155,7 +1155,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/acr-ac-mesenteric-ischemia-2018.md",
-   "last_reviewed": "2026-11-18"
+   "last_reviewed": "2026-11-25"
   },
   {
    "id": "acr-incidental-vascular-2013",
@@ -1256,7 +1256,7 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/esc-paad-2024.md",
-   "last_reviewed": "2026-11-18"
+   "last_reviewed": "2026-11-25"
   },
   {
    "id": "esvs-mesenteric-renal-2025",
@@ -1278,13 +1278,13 @@
    ],
    "superseded_by": "",
    "path": "entries/vascular/esvs-mesenteric-renal-2025.md",
-   "last_reviewed": "2026-11-18"
+   "last_reviewed": "2026-11-25"
   }
  ],
  "counts": {
   "entries": 66,
   "verified": 0,
   "references": 113,
-  "references_reviewed": 102
+  "references_reviewed": 111
  }
 }
