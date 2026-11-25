@@ -154,3 +154,10 @@ Git submodule (or vendored copy) pinned to a tag, inside the project; the skill 
 `index.json`, opens the entry, and copies citations from `references.json`. House rules
 (Portuguese report wording, superscript citations, which system to prefer) stay in
 Digitado-IA's CLAUDE.md and skill. See `docs/for-tools.md`.
+
+## Browse site
+
+`scripts/build_site.py` builds a static site (search, area/modality filters, one page per entry,
+references page, tools page) into `_site/`; `.github/workflows/pages.yml` publishes it to
+https://winroque.github.io/radref/ on every push to `main`. Possible later: per-area pages,
+a "verified only" filter once entries are signed off, release-tag selector.

@@ -16,6 +16,8 @@ system** — never the full text, figures or verbatim tables of the articles.
 > against the full texts, awaiting the radiologist's sign-off) and must not be used to cite in a
 > report until marked `verified`. Licence: see [LICENSE.md](LICENSE.md).
 
+Browse it online: **https://winroque.github.io/radref/** (static site built from this repository by `scripts/build_site.py`).
+
 ## Layout
 
 ```
@@ -25,7 +27,7 @@ index.json                    generated list of entries (id, title, scope, statu
 llms.txt                      short guide for AI tools: where things are and the rules
 templates/entry-template.md   copy this to start an entry
 schema/entry.schema.json      required front-matter fields
-scripts/                      build_index.py · check_refs.py · add_reference.py
+scripts/                      build_index.py · check_refs.py · add_reference.py · build_site.py
 docs/for-tools.md             contract for tools that consume this base
 ROADMAP.md                    what is planned, in which order
 ```
@@ -51,4 +53,5 @@ pip install pyyaml
 python3 scripts/build_index.py           # validates entries, regenerates index.json
 python3 scripts/check_refs.py            # re-checks every DOI against Crossref (needs network)
 python3 scripts/add_reference.py <id> <doi>   # adds a reference as an unreviewed draft
+pip install markdown && python3 scripts/build_site.py   # builds the browse site into _site/
 ```
