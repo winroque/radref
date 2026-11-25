@@ -7,14 +7,14 @@ modalities: [US, CT, MRI]
 population: adults
 source_version: "ESVS clinical practice guidelines 2025 (mesenteric and renal arteries and veins)"
 status: draft
-verified_against: "pending — written by Claude on 2026-11-18 from the full-text PDF supplied by the radiologist (text extraction): sections 3.2 and 3.5 (chronic mesenteric ischaemia), Tables 4 and 5, Recommendations 1-6, 26 and 33, section 5.3.4.1, sections 8.1 and 8.3 (renal artery stenosis), Recommendations 57, 58 and 63; awaiting radiologist sign-off"
+verified_against: "full-text PDF, publisher's version of record (Eur J Vasc Endovasc Surg 2025;70(2):153–218, CC BY; copy from an institutional open-access repository) read by Claude on 2026-11-25, text extraction plus the rendered pages of Table 4 and of Recommendations 1, 4, 5 and 6 (pp. 165–167): section 3.2 and Table 4, Recommendations 1–6 (class and level), section 3.5 (X-ray, duplex, CTA, MRA, DSA) and Table 5 (values compared line by line), section 4 and Recommendation 26 (MALS), section 5.3.4.1 and Recommendation 33 (acute ischaemia CT), section 8.1 (definition, grading), sections 8.3.1–8.3.3 and Figure 7, Recommendations 57–59 and 63; every number of the entry found in these passages — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [esvs-mesenteric-renal-2025, esc-paad-2024, acr-ac-mesenteric-ischemia-2018]
 supersedes: []
 superseded_by: ""
 related: [acr-ac-mesenteric-ischemia-2018, esc-paad-2024, aaa-surveillance-svs-esvs, doppler-br-2019-territories]
-last_reviewed: 2026-11-18
+last_reviewed: 2026-11-25
 ---
 
 # Mesenteric and renal artery stenosis — ESVS 2025
@@ -62,7 +62,8 @@ last_reviewed: 2026-11-18
   if the SMA is involved and collaterals are poor. [esvs-mesenteric-renal-2025, 3.2]
 - Prediction model (Table 4): weight loss > 5% = 5 points; cardiovascular disease = 2; CA 50-70% =
   4 points, CA > 70% = 11 (MALS: 4 and 9); SMA 50-70% = 4, SMA > 70% = 10. A score of 19 or more
-  corroborates the diagnosis (the comparison symbol did not survive text extraction, so confirm "19 or more" on the PDF; the model is from Terlouw 2020). [esvs-mesenteric-renal-2025, 3.2, Table 4]
+  corroborates the diagnosis; the probability of CMI quoted with the updated model is 19% for a total
+  of 0-5 points, 45% for 6-18 points and 92% for 19 or more. [esvs-mesenteric-renal-2025, 3.3, Table 4]
 
 ### 3.2 Imaging methods for CMI
 
@@ -72,7 +73,7 @@ last_reviewed: 2026-11-18
 | Duplex ultrasound | First-line exam after at least 4 h fasting (Rec. 4, I B); operator dependent; PSV and EDV higher in expiration than in inspiration; each centre should validate its own thresholds; a stent hinders quantification | [esvs-mesenteric-renal-2025, 3.5.2] |
 | CTA | Preferred imaging for diagnosis, planning and exclusion of other pathology (Rec. 5, I C); arterial-phase 0.75 mm axial slices with 3D reformatting; shows collateral circulation | [esvs-mesenteric-renal-2025, 3.5.3] |
 | Contrast-enhanced MRA | May be considered as an alternative to CTA (Rec. 6, IIb C) | [esvs-mesenteric-renal-2025, 3.5.4] |
-| DSA | Historical reference standard; selective CA, SMA, IMA injections in lateral projection; now mostly confirmatory or therapeutic | [esvs-mesenteric-renal-2025, 3.5.5] |
+| DSA | Historical reference standard; selective CA, SMA, IMA injections in lateral projection; the guideline notes that no recent studies have evaluated the role of angiography in the work-up of CMI | [esvs-mesenteric-renal-2025, 3.5.5] |
 
 Duplex velocity criteria for mesenteric stenosis (Table 5, selected; validation studies done
 fasting; thresholds differ between studies, so the table is a comparison, not a rule):
@@ -85,7 +86,7 @@ fasting; thresholds differ between studies, so the table is a comparison, not a 
 | van Petersen 2013 (n = 324), expiration | 220 cm/s | 268 cm/s | 268 cm/s | 280 cm/s |
 | van Petersen 2013, inspiration | 277 cm/s | 205 cm/s | 243 cm/s | 272 cm/s |
 
-End-diastolic velocity thresholds are also tabulated in the source (for example SMA EDV
+In the van Petersen inspiration row the SMA PSV for >= 70% (205 cm/s) is lower than the value for >= 50% (277 cm/s) as printed in the source; the entry copies the table and does not explain it. End-diastolic velocity thresholds are also tabulated in the source (for example SMA EDV
 45 cm/s for >= 50% in Zwolak and AbuRahma). [esvs-mesenteric-renal-2025, Table 5]
 
 ### 3.3 Median arcuate ligament syndrome (MALS)
@@ -93,7 +94,8 @@ End-diastolic velocity thresholds are also tabulated in the source (for example 
 - CTA pattern that supports MALS: focal narrowing mostly in the expiratory phase, post-stenotic
   dilatation and **absence of atherosclerotic plaque**; always to be confirmed against the clinical
   picture. [esvs-mesenteric-renal-2025, 3.5.3]
-- Consensus criteria quoted in Rec. 26 (IIa C, "highly selected" patients): postprandial pain with
+- Consensus criteria given with Rec. 26 (IIa C, "highly selected" patients; they are the inclusion
+  criteria of the CARoSO randomised trial, which the guideline committee recommends for clinical practice): postprandial pain with
   diet modification, unexplained weight loss or diarrhoea; CA stenosis >= 70% from external
   compression shown by **two** imaging techniques including inspiration and expiration CTA with 1 mm
   sections; and normal abdominal ultrasound and upper endoscopy. [esvs-mesenteric-renal-2025, 4]
@@ -102,8 +104,9 @@ End-diastolic velocity thresholds are also tabulated in the source (for example 
 
 - Urgent CTA with contrast in **arterial and venous phases**, slices <= 1 mm, optional
   non-contrast run, **regardless of renal function** (Rec. 33, **I B**, unchanged from 2017). [esvs-mesenteric-renal-2025, 5.3.4.1]
-- The 2025 text says the non-contrast phase is not necessary for the diagnosis (the 2017 guideline
-  asked for triphasic CTA); the venous phase is needed for mesenteric venous thrombosis and bowel
+- The 2025 text says recent studies question the need for the non-contrast phase and that omitting it
+  is unlikely to cause a missed diagnosis; it stays optional (the 2017 guideline recommended
+  triphasic CTA); the venous phase is needed for mesenteric venous thrombosis and bowel
   wall assessment. [esvs-mesenteric-renal-2025, 5.3.4.1]
 
 ### 3.5 Renal artery stenosis — imaging
@@ -125,7 +128,7 @@ if duplex is inconclusive and CTA/MRA are contraindicated, contrast-enhanced ult
 | Item | Recommendation | Source |
 |---|---|---|
 | CMI | Investigate and treat in specialised centres with multidisciplinary assessment (Rec. 3, I C) | [esvs-mesenteric-renal-2025] |
-| Renal artery revascularisation | Angioplasty with or without stenting is **not indicated** in any degree of RAS when hypertension and renal function are controlled (Rec. 63, class III, level A) | [esvs-mesenteric-renal-2025, 8.4] |
+| Renal artery revascularisation | Angioplasty with or without stenting is **not indicated** in any degree of RAS when hypertension and renal function are controlled (Rec. 63, class III, level A) | [esvs-mesenteric-renal-2025, 8.5] |
 
 ## 5. Pitfalls
 
@@ -165,3 +168,4 @@ if duplex is inconclusive and CTA/MRA are contraindicated, contrast-enhanced ult
 | Date | Change | By |
 |---|---|---|
 | 2026-11-18 | Created from the full text supplied by the radiologist | Claude |
+| 2026-11-25 | Re-read against the full text (version of record): Table 4 probabilities and the 19-point wording confirmed; DSA, MALS-criteria, non-contrast and section wording made precise; verified_against rewritten | Claude |

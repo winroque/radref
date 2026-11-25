@@ -54,7 +54,7 @@ last_reviewed: 2026-11-12
 | > 5.0 cm | 3 months | [doppler-br-2019, Table 9] |
 | Intervention | **≥ 5.5 cm**; symptoms; growth **> 1.0 cm/year** | [doppler-br-2019, Table 9] |
 
-85% infrarenal, 5% involve the suprarenal aorta, 25% have associated iliac aneurysm.
+AAA: about 85% infrarenal, 5% involve the suprarenal aorta, about 25% have an associated iliac aneurysm. [doppler-br-2019, §3.1.1]
 
 ### Aortoiliac and lower-limb arteries (Tables 11, 17)
 

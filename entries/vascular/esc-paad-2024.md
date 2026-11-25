@@ -7,14 +7,14 @@ modalities: [US, CT, MRI]
 population: adults
 source_version: "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases"
 status: draft
-verified_against: "pending — written by Claude on 2026-11-18 from the full-text PDF supplied by the radiologist (text extraction plus the rendered page of Figure 5): Figure 5 and 6, section on aortic measurements and Recommendation Table 4, sections 5.4.1 and 5.4.5, Table 14 and section 9.1, section 8.3.2 (renal) and 8.3.3 (mesenteric), AAA definition in 9.2.3; awaiting radiologist sign-off"
+verified_against: "full-text PDF (Eur Heart J 2024;45(36):3538–3700, supplied by the radiologist) read by Claude on 2026-11-25, text extraction plus the rendered page of Figure 5 (p. 3563): Figure 5 values and caption; section 5.4.1 (aortic measurements) and Recommendation Table 4 (measurement conventions and classes); section 5.4.2 (normal values, aortic growth with age); section 5.4.5 (duplex of the abdominal aorta); section 8.3.2.1 (renal artery disease: epidemiology, duplex, CTA and MRA figures); section 8.3.3.2 (chronic mesenteric artery disease, imaging, treatment); section 9.1 (aortic plaque, Table 14, treatment) and Recommendation Table 33; AAA definition in 9.2.3; every number of the entry found in these passages — awaiting radiologist sign-off"
 verified_by: ""
 verified_on: ""
 sources: [esc-paad-2024, esvs-mesenteric-renal-2025]
 supersedes: []
 superseded_by: ""
 related: [aaa-surveillance-svs-esvs, esvs-mesenteric-renal-2025, acr-incidental-vascular-2013, doppler-br-2019-territories]
-last_reviewed: 2026-11-18
+last_reviewed: 2026-11-25
 ---
 
 # ESC 2024 — aortic normal values, measurement and aortic plaque; renal and mesenteric imaging
@@ -67,7 +67,7 @@ Z-scores can be calculated for the root and ascending aorta (links given in the 
 | Thickened wall or dissection | Also report the outer-to-outer diameter | [esc-paad-2024, 5.4.1 and 5.4.5] |
 
 The text adds that the best convention for the abdominal aorta "is under debate". Aortic growth
-with age is about 0.9 mm per 10 years in men and 0.7 mm in women. [esc-paad-2024, 5.4.1 and 5.4.5]
+with age is about 0.9 mm per 10 years in men and 0.7 mm in women. [esc-paad-2024, 5.4.2]
 
 ### 3.3 Atherosclerotic aortic plaque grading (Table 14, by atheroma thickness)
 
@@ -88,9 +88,7 @@ events (odds ratio 4-9.1 for plaques >= 4 mm). [esc-paad-2024, Table 14, 9.1]
   65 years is 6.8%. [esc-paad-2024, 8.3.2.1.1]
 - Duplex: renal artery PSV > 200 cm/s diagnoses > 50% RAS (sensitivity 95%, specificity 90%);
   renal-aortic velocity ratio > 3.5 detects >= 60% RAS (sensitivity 84-91%, specificity 95-97%).
-  A side-to-side intrarenal resistance-index difference is an extra criterion (the PDF prints the
-  threshold as "0.5"; ESVS 2025 prints "> 0.05", so the ESC figure is probably a typo; check the
-  source). [esc-paad-2024, 8.3.2.1.3]
+  A side-to-side difference of the intrarenal resistance index is given as an additional criterion; the ESC text prints the threshold as "≥ 0.5" while ESVS 2025 prints "> 0.05" (a resistance index runs from 0 to 1, so the ESC figure may be a misprint, but the source does not say so; the two guidelines disagree and this entry does not choose). [esc-paad-2024, 8.3.2.1.3] [esvs-mesenteric-renal-2025, 8.3.1]
 - CTA: sensitivity 64-100%, specificity 92-98%; measures diameter, shows calcification and
   plaque, limited for haemodynamics. Contrast MRA: sensitivity 88%, specificity 100%, overestimates
   the degree by 26-32%. Catheter angiography is the gold standard but should follow DUS and CTA/MRA.
@@ -143,3 +141,4 @@ recommended. [esc-paad-2024, 9.1, 8.3.3]
 | Date | Change | By |
 |---|---|---|
 | 2026-11-18 | Created from the full text and rendered Figure 5 supplied by the radiologist | Claude |
+| 2026-11-25 | Re-read against the full-text PDF: aortic-growth section reference corrected (5.4.2); resistance-index threshold wording made neutral; verified_against rewritten | Claude |

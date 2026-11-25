@@ -74,10 +74,10 @@
   "issue": "11",
   "pages": "S332-S340",
   "vancouver": "Ginsburg M, Obara P, Lambert DL, Hanley M, Steigner ML, Camacho MA, et al. ACR Appropriateness Criteria® imaging of mesenteric ischemia. J Am Coll Radiol. 2018;15(11S):S332-40. doi:10.1016/j.jacr.2018.09.018",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-18",
   "license_note": "",
-  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
+  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 30392602: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Fourteen individual authors plus the collective name of the expert panels; the first six individual authors are listed then et al. (the PubMed record puts the collective name first; it is not used in the string)."
  },
  {
   "id": "acr-adrenal-2017",
@@ -415,10 +415,10 @@
   "issue": "13",
   "pages": "1035-1041",
   "vancouver": "Chapman T, Menashe SJ, Zare M, Alessio AM, Ishak GE. Establishment of normative values for the fetal posterior fossa by magnetic resonance imaging. Prenat Diagn. 2018;38(13):1035-41. doi:10.1002/pd.5367",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-13",
   "license_note": "Wiley — all rights reserved; summarize only.",
-  "notes": "Metadata and abstract read on PubMed (PMID 30280395) on 2026-11-13; full text and first page not seen. Hiremath 2026 cites it for TVA upper limits of 12° (< 24 wGA) and 8° (> 24 wGA); the abstract gives only 2.5° ± 2.3°, independent of GA."
+  "notes": "Metadata and abstract read on PubMed (PMID 30280395) on 2026-11-13; full text and first page not seen. Hiremath 2026 cites it for TVA upper limits of 12° (< 24 wGA) and 8° (> 24 wGA); the abstract gives only 2.5° ± 2.3°, independent of GA. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 30280395: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Five authors, all listed. The abstract was re-read on 2026-11-25: 121 normal fetuses, TVA 2.5 ± 2.3°, independent of gestational age; the 12°/8° limits cited by Hiremath are not in the abstract."
  },
  {
   "id": "chee-endometrium-2025",
@@ -463,10 +463,10 @@
   "issue": "2",
   "pages": "154-158",
   "vancouver": "Contro E, Volpe P, De Musso F, Muto B, Ghi T, De Robertis V, et al. Open fourth ventricle prior to 20 weeks' gestation: a benign finding? Ultrasound Obstet Gynecol. 2014;43(2):154-8. doi:10.1002/uog.13227",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-13",
   "license_note": "ISUOG/Wiley — all rights reserved; summarize only.",
-  "notes": "Metadata and abstract read on PubMed (PMID 24151160) on 2026-11-13; full text and first page not seen."
+  "notes": "Metadata and abstract read on PubMed (PMID 24151160) on 2026-11-13; full text and first page not seen. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 24151160: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Seven authors; first six listed then et al."
  },
  {
   "id": "doll-tvus-black-2024",
@@ -597,7 +597,7 @@
   "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "The PDF read is the online-ahead version (no final pagination). PubMed (PMID 29514015) and Crossref both list pages 226-333, an apparent error; the page range in the Vancouver string (226-33) is to be confirmed on the journal site.",
+  "notes": "The PDF read is the online-ahead version (no final pagination). PubMed (PMID 29514015) and Crossref both list pages 226-333, an apparent error; the page range in the Vancouver string (226-33) is to be confirmed on the journal site. Re-checked on 2026-11-25: PubMed, Crossref, Europe PMC and OpenAlex all still list 226-333 (a 108-page range is implausible for this article, so 226-233 is likely, but the RSNA site was not accessible); the string keeps 226-33 until the journal page is seen.",
   "crossref_exceptions": [
    "pages"
   ]
@@ -613,10 +613,10 @@
   "issue": "36",
   "pages": "3538-3700",
   "vancouver": "Mazzolai L, Teixido-Tura G, Lanzi S, Boc V, Bossone E, Brodmann M, et al. 2024 ESC guidelines for the management of peripheral arterial and aortic diseases. Eur Heart J. 2024;45(36):3538-700. doi:10.1093/eurheartj/ehae179",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-18",
   "license_note": "",
-  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
+  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person. Vancouver string checked on 2026-11-25 by Claude against the PDF first page (Eur Heart J 2024;45:3538-3700, authors/task force list in order, title) and Crossref. 'et al.' after the sixth author; the ESC Scientific Document Group is not listed."
  },
  {
   "id": "esgar-gallbladder-polyps-2022",
@@ -645,10 +645,10 @@
   "issue": "2",
   "pages": "323-330",
   "vancouver": "Richenberg J, Belfield J, Ramchandani P, Rocher L, Freeman S, Tsili AC, et al. Testicular microlithiasis imaging and follow-up: guidelines of the ESUR scrotal imaging subcommittee. Eur Radiol. 2015;25(2):323-30. doi:10.1007/s00330-014-3437-x",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the PDF first page (Eur Radiol 2015;25:323-330; twelve authors, first six listed then et al.; title)."
  },
  {
   "id": "esvs-aaa-2024",
@@ -677,10 +677,10 @@
   "issue": "2",
   "pages": "153-218",
   "vancouver": "Koelemay MJ, Geelkerken RH, Kärkkäinen J, Leone N, Antoniou GA, de Bruin JL, et al. Editor's Choice – European Society for Vascular Surgery (ESVS) 2025 clinical practice guidelines on the management of diseases of the mesenteric and renal arteries and veins. Eur J Vasc Endovasc Surg. 2025;70(2):153-218. doi:10.1016/j.ejvs.2025.06.010",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-18",
   "license_note": "",
-  "notes": "Vancouver string drafted by Claude 2026-11-18 from Crossref plus the first page of the PDF text; not yet reviewed by a person."
+  "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the version of record (Eur J Vasc Endovasc Surg 2025;70:153-218: title with 'Editor's Choice', first six authors in order, year, pages), obtained as a CC BY open-access copy from an institutional repository, and against the PubMed record (PMID 40513642; issue 2, Aug 2025)."
  },
  {
   "id": "eta-cervical-us-2013",
@@ -1192,7 +1192,7 @@
   "vancouver_reviewed": false,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": "Check the 4th author's name form."
+  "notes": "Crossref lists nine authors; the 4th is given as 'Marjan van Berkum' (given) + 'Clark' (family), while the literature usually writes 'van Berkum Clark M' (the form kept in the string). Authors 1-6 and the rest of the string agree with Crossref (J Neurosurg 1991;75 Suppl:S14-S20). Not set as reviewed: the first page was not available on 2026-11-25 to settle the name form, and the journal is not indexed on PubMed."
  },
  {
   "id": "minichetti-birads-2026",
@@ -1237,10 +1237,10 @@
   "issue": "9",
   "pages": "1716-1721",
   "vancouver": "Nagaraj UD, Kline-Fath BM, Horn PS, Venkatesan C. Evaluation of posterior fossa biometric measurements on fetal MRI in the evaluation of Dandy-Walker continuum. AJNR Am J Neuroradiol. 2021;42(9):1716-21. doi:10.3174/ajnr.A7215",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-13",
   "license_note": "AJNR — all rights reserved (free on PMC, not open access); summarize only.",
-  "notes": "Abstract and metadata read via PubMed/PMC (PMID 34266871, PMC8423037) on 2026-11-13; the PMC full-text page was read through a web-fetch summary with quotes, not the PDF. First page not seen."
+  "notes": "Abstract and metadata read via PubMed/PMC (PMID 34266871, PMC8423037) on 2026-11-13; the PMC full-text page was read through a web-fetch summary with quotes, not the PDF. First page not seen. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 34266871: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Four authors, all listed."
  },
  {
   "id": "ndirangu-bac-2026",
@@ -1464,10 +1464,10 @@
   "issue": "6",
   "pages": "1173-1182",
   "vancouver": "Maas AIR, Hukkelhoven CWPM, Marshall LF, Steyerberg EW. Prediction of outcome in traumatic brain injury with computed tomographic characteristics: a comparison between the computed tomographic classification and combinations of computed tomographic predictors. Neurosurgery. 2005;57(6):1173-82. doi:10.1227/01.neu.0000186013.63046.6b",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-05",
   "license_note": "",
-  "notes": ""
+  "notes": "Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 16331165: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Four authors, all listed; pages 1173-82 (PubMed adds 'discussion 1173-82')."
  },
  {
   "id": "santos-elsa-cimt-2014",
@@ -1787,10 +1787,10 @@
   "issue": "6",
   "pages": "632-635",
   "vancouver": "Volpe P, Contro E, De Musso F, Ghi T, Farina A, Tempesta A, et al. Brainstem-vermis and brainstem-tentorium angles allow accurate categorization of fetal upward rotation of cerebellar vermis. Ultrasound Obstet Gynecol. 2012;39(6):632-5. doi:10.1002/uog.11101",
-  "vancouver_reviewed": false,
+  "vancouver_reviewed": true,
   "crossref_checked": "2026-11-13",
   "license_note": "ISUOG/Wiley — all rights reserved; summarize only.",
-  "notes": "Metadata and abstract read on PubMed (PMID 22253138) on 2026-11-13; full text and first page not seen."
+  "notes": "Metadata and abstract read on PubMed (PMID 22253138) on 2026-11-13; full text and first page not seen. Vancouver string compared on 2026-11-25 by Claude with the PubMed record (PMID 22253138: authors in order, title, journal, volume/issue, pages, year) and Crossref; the PDF first page was not available, so this is a check against the bibliographic records, not against the first page. Nine authors; first six listed then et al."
  },
  {
   "id": "who-fetal-growth-2017",
