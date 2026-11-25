@@ -422,6 +422,22 @@
   "notes": "Vancouver string checked on 2026-11-25 by Claude against the first page of the PDF supplied by the radiologist (Cardiovasc Intervent Radiol 1999;22:475-480)."
  },
  {
+  "id": "borelli-renal-imaging-2013",
+  "doi": "10.5935/abc.20130191",
+  "first_author": "Borelli",
+  "title_crossref": "Analysis of the Sensitivity and Specificity of Noninvasive Imaging Tests for the Diagnosis of Renal Artery Stenosis",
+  "journal": "Arq Bras Cardiol",
+  "year": 2013,
+  "volume": "101",
+  "issue": "5",
+  "pages": "423-433",
+  "vancouver": "Borelli FAO, Pinto IMF, Amodeo C, Smanio PEP, Kambara AM, Petisco ACG, et al. Analysis of the sensitivity and specificity of noninvasive imaging tests for the diagnosis of renal artery stenosis. Arq Bras Cardiol. 2013;101(5):423-33. doi:10.5935/abc.20130191",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "Open access (PMC4081166); summarize only.",
+  "notes": "Checked on 2026-11-25 by Claude against the PubMed record (PMID 24061685) and the PMC full-text XML (methods, Table 2 criteria, Tables 5-6). Author list from PMC: Flavio Antonio de Oliveira Borelli (written 'Borelli FAO'; PubMed uses 'Borelli FA', Crossref 'FADO'), Ana Claudia G. Petisco. First page of the PDF not seen."
+ },
+ {
   "id": "bosniak-2019",
   "doi": "10.1148/radiol.2019182646",
   "first_author": "Silverman",
@@ -468,6 +484,22 @@
   "crossref_checked": "2026-11-11",
   "license_note": "",
   "notes": ""
+ },
+ {
+  "id": "cardoso-renal-duplex-2006",
+  "doi": "10.1590/s0066-782x2006001600015",
+  "first_author": "Cardoso",
+  "title_crossref": "Parâmetros diretos do duplex scan no diagnóstico da estenose da artéria renal: estudo de validação e otimização dos pontos de corte",
+  "journal": "Arq Bras Cardiol",
+  "year": 2006,
+  "volume": "87",
+  "issue": "3",
+  "pages": "321-328",
+  "vancouver": "Cardoso CM, Xavier SS, Lopez GE, Brunini TMC. Parâmetros diretos do duplex scan no diagnóstico da estenose da artéria renal: estudo de validação e otimização dos pontos de corte. Arq Bras Cardiol. 2006;87(3):321-8. doi:10.1590/S0066-782X2006001600015",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "SciELO, open access; summarize only.",
+  "notes": "Checked on 2026-11-25 by Claude against the PubMed record (PMID 17057933, abstract; pages from PubMed, Crossref lacks them); full text not read."
  },
  {
   "id": "chamberlain-sdp-1984",
@@ -680,6 +712,38 @@
   "crossref_exceptions": [
    "year"
   ]
+ },
+ {
+  "id": "engelhorn-renal-duplex-2004",
+  "doi": "10.1590/s0066-782x2004000500010",
+  "first_author": "Engelhorn",
+  "title_crossref": "O papel da ultra-sonografia vascular com Doppler colorido na avaliação da hipertensão reno-vascular: acurácia da técnica direta de avaliação das artérias renais",
+  "journal": "Arq Bras Cardiol",
+  "year": 2004,
+  "volume": "82",
+  "issue": "5",
+  "pages": "473-476",
+  "vancouver": "Engelhorn CA, Engelhorn AL, Pullig R. O papel da ultra-sonografia vascular com Doppler colorido na avaliação da hipertensão reno-vascular: acurácia da técnica direta de avaliação das artérias renais. Arq Bras Cardiol. 2004;82(5):473-6. doi:10.1590/S0066-782X2004000500010",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "SciELO, open access; summarize only.",
+  "notes": "Checked on 2026-11-25 by Claude against the PubMed record (PMID 15340678; bilingual article, English pp. 477-80, Portuguese pp. 473-6) and the SciELO page; first page of the PDF not seen. Same cohort (137 arteries, 69 patients) as engelhorn-renal-duplex-2005."
+ },
+ {
+  "id": "engelhorn-renal-duplex-2005",
+  "doi": "10.1590/s1677-54492005000300005",
+  "first_author": "Engelhorn",
+  "title_crossref": "Estenose na artéria renal: a necessidade de validação dos critérios diagnósticos no laboratório vascular",
+  "journal": "J Vasc Bras",
+  "year": 2005,
+  "volume": "4",
+  "issue": "3",
+  "pages": "243-248",
+  "vancouver": "Engelhorn CA, Engelhorn AL, Cassou MF. Estenose na artéria renal: a necessidade de validação dos critérios diagnósticos no laboratório vascular. J Vasc Bras. 2005;4(3):243-8. doi:10.1590/S1677-54492005000300005",
+  "vancouver_reviewed": true,
+  "crossref_checked": "2026-11-25",
+  "license_note": "SciELO/periodikos, open access; summarize only.",
+  "notes": "Not indexed in PubMed. Checked on 2026-11-25 by Claude against the Crossref record and the journal's article page (abstract only; full text not read). Same cohort as engelhorn-renal-duplex-2004, re-analysed with ROC curves."
  },
  {
   "id": "enkirch-erica-2018",

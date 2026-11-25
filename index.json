@@ -1306,7 +1306,11 @@
     "acr-ac-renovascular-2026",
     "gornik-fmd-2019",
     "doppler-br-2019",
-    "esc-paad-2024"
+    "esc-paad-2024",
+    "engelhorn-renal-duplex-2004",
+    "engelhorn-renal-duplex-2005",
+    "cardoso-renal-duplex-2006",
+    "borelli-renal-imaging-2013"
    ],
    "superseded_by": "",
    "path": "entries/vascular/renal-artery-stenosis-duplex.md",
@@ -1365,7 +1369,7 @@
  "counts": {
   "entries": 69,
   "verified": 69,
-  "references": 134,
-  "references_reviewed": 133
+  "references": 138,
+  "references_reviewed": 137
  }
 }

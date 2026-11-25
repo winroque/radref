@@ -7,10 +7,10 @@ modalities: [US]
 population: adults
 source_version: "Kohler 1986; Hoffmann 1991; Stavros 1992; Kliewer 1993; Olin 1995; Bakker 1999; Williams 2007; Zachrisson 2017; Gornik 2019; AIUM 2020; ACR–AIUM–SPR–SRU 2023; EFSUMB 2024; ACR AC 2026"
 status: verified
-verified_against: "full-text PDFs supplied by the radiologist, read by Claude on 2026-11-25: Kohler 1986 (abstract, methods, results, Table I); Hoffmann 1991 (methods, results, Tables 1A and 3, discussion); Olin 1995 (methods with the classification criteria, results, Table 1, end-diastolic velocity analysis); Williams 2007 (abstract, methods, Table 2, paired analyses, metaregression, Table 4, discussion); Zachrisson 2016 OnlineFirst (methods, Table 1, Table 2, discussion); Stavros 1992 (methods, Tables 1–2 read from the rendered page 489, technical checklist, limitations); Kliewer 1993 (abstract, methods, discussion; the two-column text extraction is scrambled, so only abstract-level statements are used); Bakker 1999 (abstract, methods, Tables 1–2, discussion); AIUM 2020 and ACR–AIUM–SPR–SRU 2023 practice parameters (full text); EFSUMB 2024 chapter (renal artery and stent sections); Gornik 2019 (renal FMD imaging section); ACR Appropriateness Criteria 2026 (variants 1–5 and the duplex section); every number of the entry found in these passages"
+verified_against: "full-text PDFs supplied by the radiologist, read by Claude on 2026-11-25: Kohler 1986 (abstract, methods, results, Table I); Hoffmann 1991 (methods, results, Tables 1A and 3, discussion); Olin 1995 (methods with the classification criteria, results, Table 1, end-diastolic velocity analysis); Williams 2007 (abstract, methods, Table 2, paired analyses, metaregression, Table 4, discussion); Zachrisson 2016 OnlineFirst (methods, Table 1, Table 2, discussion); Stavros 1992 (methods, Tables 1–2 read from the rendered page 489, technical checklist, limitations); Kliewer 1993 (abstract, methods, discussion; the two-column text extraction is scrambled, so only abstract-level statements are used); Bakker 1999 (abstract, methods, Tables 1–2, discussion); AIUM 2020 and ACR–AIUM–SPR–SRU 2023 practice parameters (full text); EFSUMB 2024 chapter (renal artery and stent sections); Gornik 2019 (renal FMD imaging section); ACR Appropriateness Criteria 2026 (variants 1–5 and the duplex section); Brazilian studies added on 2026-11-25: Borelli 2013 full text from PMC XML (methods, Table 2, Tables 5–6), Engelhorn 2004, Cardoso 2006 and Engelhorn 2005 from their abstracts (PubMed or journal page) plus, for Engelhorn 2004, a web-fetch summary of the SciELO full text (criteria, false positives); every number of the entry found in these passages"
 verified_by: ""
 verified_on: "2026-11-25"
-sources: [williams-renal-duplex-2007, kohler-renal-duplex-1986, hoffmann-renal-duplex-1991, olin-renal-duplex-1995, zachrisson-renal-duplex-2017, stavros-tardus-parvus-1992, kliewer-tardus-parvus-1993, bakker-renal-stent-1999, aium-renal-vessels-2020, acr-renal-vessels-pp-2023, efsumb-renal-vessels-2024, acr-ac-renovascular-2026, gornik-fmd-2019, doppler-br-2019, esc-paad-2024]
+sources: [williams-renal-duplex-2007, kohler-renal-duplex-1986, hoffmann-renal-duplex-1991, olin-renal-duplex-1995, zachrisson-renal-duplex-2017, stavros-tardus-parvus-1992, kliewer-tardus-parvus-1993, bakker-renal-stent-1999, aium-renal-vessels-2020, acr-renal-vessels-pp-2023, efsumb-renal-vessels-2024, acr-ac-renovascular-2026, gornik-fmd-2019, doppler-br-2019, esc-paad-2024, engelhorn-renal-duplex-2004, engelhorn-renal-duplex-2005, cardoso-renal-duplex-2006, borelli-renal-imaging-2013]
 supersedes: []
 superseded_by: ""
 related: [doppler-br-2019-territories, esvs-mesenteric-renal-2025, esc-paad-2024, renal-resistive-index, renal-transplant-doppler]
@@ -87,6 +87,16 @@ from 80–99%. Occlusion: no flow in the renal artery and a low-amplitude parenc
 In paired studies PSV beat RAR (relative diagnostic OR 1.8) and AI (5.3); adding other
 parameters to PSV did not clearly improve accuracy (relative diagnostic OR 1.6, p = 0.09).
 Specificity is 1 − the "1 − specificity" values of Table 2. [williams-renal-duplex-2007]
+
+### 3.2.1 Brazilian validation studies (reference: angiography, > 60% unless stated)
+
+| Study | Criterion | Result | Source |
+|---|---|---|---|
+| Engelhorn 2004, Curitiba, 137 arteries / 69 patients (130 conclusive) | PSV 180 cm/s and RAR 3.5 (Strandness), angle close to 60° | Sensitivity 95.33%, specificity 88.14%, accuracy 91.94%; all 9 false positives had PSV > 200 cm/s | [engelhorn-renal-duplex-2004] |
+| Engelhorn 2005, same cohort, ROC re-analysis | PSV > 250 cm/s; RAR > 3.2; diastolic velocity > 48 cm/s | Accuracy 87.2%, 85.6% and 70.4%; authors recommend local validation of the criteria | [engelhorn-renal-duplex-2005] |
+| Cardoso 2006, Rio de Janeiro, 62 patients, 127 arteries (72% with 60–99%) | PSV 180 cm/s; RAR 3.5; both | 100%/81%; 79%/93%; 79%/97% (sensitivity/specificity) | [cardoso-renal-duplex-2006] |
+| Cardoso 2006, optimised | PSV 189 cm/s; RAR 2.6 | 100%/87%; 96%/87% | [cardoso-renal-duplex-2006] |
+| Borelli 2013, São Paulo, 61 patients / 122 arteries, eGFR ≥ 30 and LVEF ≥ 40% | PSV ≥ 180 cm/s and RAR ≥ 3.5 (their Table 2) | Sensitivity 82.9%, specificity 70%, PPV 85%, NPV 66.7%; kappa 0.523 (per patient) | [borelli-renal-imaging-2013] |
 
 ### 3.3 Intrarenal (indirect) criteria
 
@@ -177,9 +187,9 @@ Record PSV proximal to, within and distal to the stent. [acr-renal-vessels-pp-20
   [stavros-tardus-parvus-1992] [kliewer-tardus-parvus-1993]
 - Side-to-side RI difference as an extra criterion: ESC prints "≥ 0.5", ESVS "> 0.05" (see
   `esc-paad-2024`).
-- Brazilian validation studies (Engelhorn 2004 and 2005; Cardoso 2006; Borelli 2013) found
-  optimal cut-offs from PSV 189 to 250 cm/s and RAR 2.6 to 3.2; they were not read in full for
-  this entry.
+- Brazilian studies found optimal cut-offs from PSV 189 to 250 cm/s and RAR 2.6 to 3.2 (see
+  3.2.1); Engelhorn 2005 and Bakker both conclude that each laboratory should validate its own
+  thresholds. [engelhorn-renal-duplex-2005] [cardoso-renal-duplex-2006]
 
 ## 8. How to cite
 
@@ -196,3 +206,4 @@ Record PSV proximal to, within and distal to the stent. [acr-renal-vessels-pp-20
 | Date | Change | By |
 |---|---|---|
 | 2026-11-25 | Created from the full texts supplied by the radiologist | Claude |
+| 2026-11-25 | Brazilian validation studies (Engelhorn 2004/2005, Cardoso 2006, Borelli 2013) added | Claude |
